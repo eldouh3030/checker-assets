@@ -1,0 +1,31 @@
+YAC|youth academic chinese association automation|IEEE|2016|2025
+YAISD|ws joint workshops ai environmental social sustainability ai interdisciplinary innovations sustainable development co located young scientists artificial intelligence sustainable development||2025|2025
+YEAR|aircraft noise australian acoustical society||1982|1982
+YEAR|colloquium surveying mapping education selected papers educating surveying mapping professionals||1985|1985
+YEAR|winter meeting american society agricultural engineers world food situation now||1985|1985
+YEC|belgian dutch iabse young engineers colloquium||2019|2019
+YEC|belgian dutch national groups iabse young engineers colloquium||2023|2023
+YETI|youth electronics telecommunications information technologies|Springer|2021|2022
+YIFHG|green horizon forum energy management ecological innovation agro industrial practices|EDP|2024|2024
+YPTS|society petroleum engineers spe saudi arabia section young professionals technical||2012|2012
+YRC|water wastewater transportation treatment management yakovlev readings|EDP|2024|2024
+YRID|data mining knowledge engineering||2021|2021
+YRM|young researcher meeting||2024|2026
+YRRSDS|meeting young researchers roundtable spoken dialogue systems||2023|2024
+YRS|young researcher center mathematical computational modelling||2011|2011
+YSAOM|advanced optical manufacturing technologies applications forum young scientists advanced optical manufacturing aomta|SPIE|2023|2023
+YSAOM|advanced optical manufacturing technologies applications fourth forum young scientists advanced optical manufacturing aomta|SPIE|2024|2024
+YSAOM|eighth asia pacific optics manufacture third forum young scientists advanced optical manufacturing apcom|SPIE|2023|2023
+YSC|young scientists computational science|Elsevier|2019|2023
+YSESM|youth experimental solid mechanics||2010|2023
+YSF|young scientists forum applied physics engineering forum|IEEE|2016|2016
+YSF|young scientists forum applied physics engineering|IEEE|2017|2017
+YSF|young scientists forum applied physics|IEEE|2015|2015
+YSRM|isrm young scholars rock mechanics rock engineering innovative future||2019|2019
+YSSSEE|young scholar science education earth environment|EDP|2024|2024
+YSSSEE|young scholar science education environment||2021|2021
+YSSSEE|young scholar science mathematics education environment|IOP|2024|2024
+YSSSEE|young scholar science mathematics education|IOP|2026|2026
+YSS|isrm young scholars rock mechanics||2017|2017
+YTHZ|china young scientist terahertz|Springer|2024|2024
+YUCOMAT|yugoslav advanced materials||1998|1998

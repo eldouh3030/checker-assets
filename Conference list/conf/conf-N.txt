@@ -1,0 +1,1068 @@
+NAACL|bionlp hlt biomedical natural language processing||2012|2012
+NAACL|findings association computational linguistics findings||2022|2024
+NAACL|hlt building educational applications using natural language processing||2003|2003
+NAACL|hlt computationally hard problems joint inference speech language processing||2006|2006
+NAACL|hlt graph based algorithms natural language processing||2007|2007
+NAACL|hlt human language technology north american chapter association computational linguistics demonstrations||2004|2006
+NAACL|hlt human language technology north american chapter association computational linguistics doctoral consortium||2006|2006
+NAACL|hlt human language technology north american chapter association computational linguistics main||2004|2006
+NAACL|hlt human language technology north american chapter association computational linguistics short papers||2004|2006
+NAACL|hlt human language technology north american chapter association computational linguistics student research||2004|2004
+NAACL|hlt linking natural language processing biology towards deeper biological literature analysis||2006|2006
+NAACL|hlt medical speech translation||2006|2006
+NAACL|hlt meeting acl special interest group computational phonology||2006|2006
+NAACL|hlt north american chapter association computational linguistics human language technologies student research||2016|2016
+NAACL|hlt scalable natural language understanding||2006|2006
+NAACL|hlt statistical machine translation||2006|2006
+NAACL|human language technology north american chapter association computational linguistics demonstrations hlt||2003|2003
+NAACL|human language technology north american chapter association computational linguistics hlt||2003|2003
+NAACL|human language technology north american chapter association computational linguistics short papers hlt||2003|2003
+NAACL|human language technology north american chapter association computational linguistics student research hlt||2003|2003
+NAACL|human language technology north american chapter association computational linguistics tutorial abstracts hlt||2003|2003
+NAACL|meeting north american chapter association computational linguistics co located applied natural language processing student research||2000|2000
+NAACL|meeting north american chapter association computational linguistics co located applied natural language processing||2000|2000
+NAACL|meeting north american chapter association computational linguistics||2001|2001
+NAACL|nations americas chapter association computational linguistics findings||2025|2025
+NAACL|north american chapter association computational linguistics human language technologies demonstrations session||2022|2022
+NAACL|north american chapter association computational linguistics human language technologies industry papers||2022|2022
+NAACL|north american chapter association computational linguistics human language technologies student research||2022|2022
+NAACL|north american chapter association computational linguistics human language technologies tutorial abstracts||2022|2022
+NAACL|north american chapter association computational linguistics human language technologies||2022|2024
+NAACL|online abuse harms||2024|2024
+NAAC|hlt analyzing conversations text speech||2006|2006
+NAART|non associative algebras related topics|Springer|2023|2023
+NAA|numerical analysis its applications revised selected papers||2009|2013
+NAA|numerical analysis its applications third||2005|2005
+NAA|numerical analysis its applications|Springer|2001|2017
+NABIC|world congress nature biologically inspired computing|IEEE|2009|2016
+NABVP|nonlinear analysis boundary value problems|Springer|2019|2019
+NACOME|national mathematics education mathematical proof as tool learning mathematics|IOP|2023|2023
+NACOME|national mathematics education|IOP|2020|2020
+NACOMM|national machines mechanisms|Elsevier|2005|2020
+NAC|nano materials advanced composites|Springer|2024|2024
+NAC|nanomaterials advanced composites|Springer|2020|2020
+NADPA|nanomaterials devices processing applications||2009|2009
+NAECON|national aerospace electronics national aerospace electronics national aerospace electronics national aerospace electronics||1989|1989
+NAECON|national aerospace electronics|IEEE|1982|2025
+NAECON|papers presented technical program||1989|1989
+NAEE|nanotechnology applications energy environment||2013|2013
+NAFIPS|joint ifsa world congress meeting ifsa||2013|2013
+NAFIPS|joint world congress fuzzy systems association north american fuzzy information processing society ifsa|Springer|2019|2019
+NAFIPS|meeting north american fuzzy information processing society fuzzy sets heart canadan rockies volume||2004|2004
+NAFIPS|meeting north american fuzzy information processing society fuzzy sets heart canadian rockies vol||2004|2004
+NAFIPS|meeting north american fuzzy information processing society||1997|2012
+NAFIPS|norbert wiener century driving technology s future 21cw incorporating north american fuzzy information processing society|IEEE|2014|2014
+NAFIPS|north american fuzzy information processing society|Springer|2008|2023
+NAFIPS|uncertainty modeling analysis north american fuzzy information processing society||1995|1995
+NAFSKI|national forum contemporary space research|IOP|2022|2025
+NAFSKI|national forum space research|IOP|2024|2024
+NAGOYA|fourth power conversion pcc||2007|2007
+NAGOYA|numerical methods geomechanics fifth||1985|1985
+NAHA|wseas natural hazards climate changes global warming biological problems urban rehabilitation sustainability||2009|2009
+NAICE|nigeria exhibition africa s energy corridor opportunities oil gas value maximization through integration global approach||2014|2014
+NAICE|society petroleum engineers exhibition||1998|1998
+NAICE|society petroleum engineers nigeria exhibition future oil gas right balance environment sustainable stakeholders participation||2012|2012
+NAICE|society petroleum engineers nigeria exhibition grow africa s oil gas production required policy funding technology techniques capabilities||2013|2013
+NAICE|society petroleum engineers nigeria exhibition||2003|2009
+NAICE|society petroleum engineers nigeria int conf exhibition future oil gas right balance environment sustainable stakeholders participation||2012|2012
+NAICE|society petroleum engineers nigeria int conf exhibition grow africa s oil gas production required policy funding technol techniques capabilities||2013|2013
+NAICE|society petroleum engineers nigerian exhibition||2000|2000
+NAICE|society petroleum engineers spe nigeria exhibition||2015|2015
+NAICE|society petroleum engineers spe nigerian exhibition||1999|1999
+NAIC|networks ai computing part|ACM|2025|2025
+NAIC|sigcomm networks ai computing|ACM|2024|2024
+NAIC|society petroleum engineers spe nigeria exhibition||2018|2025
+NAIS|norwegian ai society|Springer|2019|2025
+NAIS|society petroleum engineers spe nigeria section||1983|1984
+NAI|network application integration codesign|ACM|2020|2020
+NAI|network application integration part|ACM|2021|2021
+NAI|network application integration|ACM|2022|2022
+NALOMA|natural logic meets machine learning workshops||2021|2021
+NAMES|new achievements materials environmental sciences|IOP|2013|2013
+NAMRC|north american manufacturing research transactions north american manufacturing research institution sme||2013|2013
+NAMRC|north american manufacturing research|Elsevier|2015|2015
+NAMRC|sme north american manufacturing research|Elsevier|2019|2021
+NAMRC|transactions north american manufacturing research institute sme papers presented||2005|2005
+NAMRC|transactions north american manufacturing research institution sme north american manufacturing research||2009|2009
+NAMRC|transactions north american manufacturing research institution sme paper presented||2008|2008
+NAMSP|internationalworkshop new approaches multidimensional signal processing|Springer|2022|2022
+NAMSP|new approaches multidimensional signal processing|Springer|2021|2025
+NAMS|meeting north american membrane society||2014|2016
+NAMVS|north american mine ventilation||2023|2023
+NANAOHARD|nanostructured materials thin films hard coatings advanced applications||2010|2010
+NANA|iasted nanotechnology applications||2010|2010
+NANA|networking network applications|IEEE|2016|2025
+NANCAOT|dakar s honor professor amin kaidi non associative non commutative algebra operator theory|Springer|2016|2016
+NANOARCH|nanoscale architectures|IEEE|2008|2023
+NANOBEAM|icfa advanced beam dynamics||2020|2020
+NANOBIO|frontiers biomedical devices nanobio06||2006|2006
+NANOCOCOA|nanoscale computing communication applications part embedded networked sensor systems|ACM|2020|2020
+NANOCOM|nanoscale computing communication|ACM|2014|2025
+NANOCON|anniversary nanomaterials research application||2019|2019
+NANOCON|nanomaterials research application||2015|2025
+NANOFIM|nanotechnology instrumentation measurement|IEEE|2015|2021
+NANOMACH|advances applied physics materials science congress exhibition|IOP|2024|2024
+NANOMAT|asian school physics technology nanostructured materials asco||2016|2016
+NANOMAT|metastable nanostructured materials iii selected peer reviewed papers from metastable nanostructured materials||2008|2008
+NANOMAT|web advanced material science nanotechnology||2020|2020
+NANOMED|nano molecular medicine engineering||2009|2025
+NANOMEETING|physics chemistry application nanostructures reviews short notes||2005|2007
+NANOMEETING|physics chemistry application nanostructures||2009|2009
+NANOMEETING|physics chemistry applications nanostructures reviews short notes||2011|2011
+NANOMTECH|innovations nanomaterials nanotechnology|IOP|2020|2020
+NANONET|nano net third icst revised selected papers||2009|2009
+NANOOSTRAVA|nanomaterials nanotechnology meeting|Elsevier|2022|2022
+NANOSAFE|health safety issues related nanomaterials socially responsible approach|IOP|2021|2024
+NANOSAFE|nanosafe2010 safe production use nanomaterials|IOP|2011|2011
+NANOSPD|nanomaterials severe plastic deformation|IOP|2014|2014
+NANOSTRUC|structural nano composites||2012|2014
+NANOSYM|nanotechnology malaysia biennial||2022|2022
+NANOS|propagation characterization properties applications nanomaterials||1997|1997
+NANOTECH|edge revolution||2002|2002
+NANOTECH|technical fifth modeling simulation microsystems||2002|2002
+NANOTECH|technical nanotechnology trade show volume||2003|2003
+NANOTECH|technical second computational nanoscience nanotechnology||2002|2002
+NANOTEX|exhibition nanotechnologies organic electronics nanomedicine nanotexnology|Elsevier|2023|2023
+NANOTHAILAND|thailand nanotechnology|Elsevier|2018|2020
+NANO|3m manipulation manufacturing measurement nanoscale|IEEE|2016|2016
+NANO|ii gas discharge plasma synthesis nanostructures gdp|IOP|2022|2022
+NANO|manipulation manufacturing measurement nanoscale 3m|IEEE|2012|2025
+NANO|mems nanotechnology mems||2014|2014
+NANO|nanotechnologies nanomaterials|Springer|2023|2023
+NANO|nanotechnology nanomaterials nano2016|Springer|2017|2017
+NANO|nanotechnology nanomaterials|Springer|2016|2026
+NANO|program digest manipulation manufacturing measurement nanoscale 3m|IEEE|2017|2017
+NANO|research practice nanotechnology nanomaterials|Springer|2019|2023
+NANO|science practice nanotechnology nanomaterials|Springer|2018|2021
+NANO|sensors nanotechnology sensors|IEEE|2019|2019
+NANO|summer school nanotechnology from fundamental research innovations|Springer|2014|2014
+NANO|vii all russian nanomaterials||2020|2020
+NAN|nanophysics nanomaterials||2020|2021
+NAOIII|numerical analysis optimization theory methods applications technology transfer|Springer|2014|2014
+NAOMI|next generation aspect oriented middleware aosd brussels seventh aspect oriented software development||2008|2008
+NAOV|numerical analysis optimization theory methods applications technology transfer|Springer|2021|2021
+NAPC|national aerospace propulsion|Springer|2021|2023
+NAPD|northern asia plant diversity current trends research conservation|EDP|2021|2021
+NAPMRC|joint digest technical papers perpendicular magnetic recording|IEEE|2003|2003
+NAPOLI|preservation monuments historic sites is||2022|2022
+NAPS|north american power naps2008||2008|2008
+NAPS|north american power|IEEE|2006|2025
+NAPW|north american productivity|Springer|2016|2021
+NAP|nanomaterials applications properties|IEEE|2016|2025
+NAP|nanomaterials biomedical application biosensors|Springer|2020|2020
+NARMS|gulf rocks north america rock mechanics||2004|2004
+NARMS|north american rock mechanics||1994|2000
+NARM|north american rock mechanics||1996|1996
+NARSUM|user centric narrative summarization long videos co located mm|ACM|2023|2023
+NARSUM|user centric narrative summarization long videos|ACM|2022|2022
+NASAC|national software applications national software applications|Springer|2019|2019
+NASAC|national software application|Springer|2016|2016
+NASCOSTOF|selected papers presented national communication systems technologies future||1986|1986
+NASNIT|north east asia nano information technology reliability||2011|2011
+NASTEC|north american intelligent games simulation game na north american simulation technology||2011|2011
+NASTEC|north american simulation technology soft computing simulation software engineering||2009|2009
+NASTEC|north american simulation technology||2008|2008
+NAS|networking architecture storages||2006|2006
+NAS|networking architecture storage|IEEE|2007|2024
+NATCON|national futuristic structural engineering structe|Springer|2026|2026
+NATC|north africa technical exhibition energy management challenging economy||2010|2010
+NATC|society petroleum engineers north africa technical exhibition managing hydrocarbon resources changing environment||2012|2012
+NATC|society petroleum engineers north africa technical exhibition||2013|2013
+NATC|society petroleum engineers spe north africa technical exhibition||2015|2015
+NATEC|discovering new frontiers through imagination||1983|1983
+NATHAZ|natural hazards|Springer|2023|2023
+NATIVENI|native network intelligence part|ACM|2022|2022
+NATURALISE|natural language analysis software engineering||2013|2013
+NATUREHCI|short paper designing around nature exploring new frontiers outdoor related hci co located biannual italian sigchi chapter||2021|2021
+NATURES|nature inspired reasoning semantic web||2008|2008
+NATW|north atlantic test|IEEE|2014|2020
+NAT|asian paper new applied technology||2008|2012
+NAT|north american tunneling||2008|2024
+NAVCOMP|automation computation naval offshore subsea|IEEE|2014|2014
+NAVCOMP|computing automation offshore shipbuilding||2013|2013
+NAVITEC|esa satellite navigation technologies european gnss signals signal processing|IEEE|2014|2016
+NAVITEC|esa satellite navigation technologies multi gnss navigation technologies galileo s here european gnss signals signal processing||2012|2012
+NAVITEC|programme abstract book esa satellite navigation technologies european gnss signals signal processing||2010|2010
+NAVITEC|satellite navigation technology|IEEE|2022|2024
+NAVS|noninvasive assessment visual system||1993|1993
+NAVTEC|offshore marine technology science innovation||2012|2012
+NAV|ships shipping research||2012|2015
+NAV|technology science ships future ship maritime research||2018|2022
+NAV|technology science ships future ships maritime research||2025|2025
+NAWDMPV|north african dielectric materials photovoltaic systems|IEEE|2014|2014
+NAWTEC|10the north american waste energy||2002|2002
+NAWTEC|north american waste energy nawtec13||2005|2005
+NAWTEC|north american waste energy nawtec14||2006|2006
+NAWTEC|north american waste energy nawtec15||2007|2007
+NAWTEC|north american waste energy nawtec16||2008|2008
+NAWTEC|north american waste energy nawtec17||2009|2009
+NAWTEC|north american waste energy nawtec18||2010|2010
+NAWTEC|north american waste energy nawtec19||2011|2011
+NAWTEC|north american waste energy nawtec99||2003|2003
+NAWTEC|north american waste energy||2002|2013
+NBC|joint nordic baltic biomedical engineering polish biocybernetics biomedical engineering|Springer|2025|2025
+NBC|nordic baltic biomedical engineering medical physics medicinteknikdagarna joint|Springer|2014|2014
+NBC|nordic baltic biomedical engineering medical physics|Springer|2008|2023
+NBEC|national biomedical engineering|IEEE|2021|2023
+NBIS|network based information systems first||2007|2007
+NBIS|network based information systems|Springer|2008|2022
+NCAA|neural computing advanced applications|Springer|2020|2025
+NCAD|noisecon asme||2009|2009
+NCAEA|national advances enterprise architecture|IEEE|2021|2021
+NCAFM|national advanced functional materials|Elsevier|2019|2019
+NCAIEV|national virtual advanced informatics electronics vision||2021|2021
+NCAMA|national advanced materials applications|IOP|2020|2020
+NCAME|national advances mechanical engineering|Springer|2020|2020
+NCASMM|national advances spectroscopy molecules materials|Springer|2019|2019
+NCASM|national advances applied sciences mathematics|IOP|2022|2022
+NCA|fifth network computing applications||2006|2006
+NCA|fourth network computing applications||2005|2005
+NCA|network computing applications|IEEE|2001|2025
+NCA|third network computing applications||2004|2004
+NCCA|ccf national computer applications ccf|Springer|2024|2026
+NCCA|network cloud computing applications|IEEE|2011|2015
+NCCCIS|national computing communication information systems|IEEE|2015|2015
+NCCCS|national computing communication systems||2012|2012
+NCCC|national computing colleges|IEEE|2021|2021
+NCCC|national saudi computers colleges|IEEE|2022|2022
+NCCET|ccf computer engineering technology|Springer|2013|2016
+NCCET|computer engineering technology national revised selected papers|Springer|2013|2013
+NCCET|computer engineering technology|Springer|2015|2019
+NCCE|national convention civil engineers|Springer|2025|2025
+NCCI|national computational intelligence|IOP|2020|2020
+NCCM|national chemistry materials|Elsevier|2019|2019
+NCCM|national condition monitoring|Springer|2026|2026
+NCCSN|national communication signal processing networking|IEEE|2014|2014
+NCCSTE|national computer science technology education|Springer|2020|2020
+NCCS|nano electronics circuits communication systems|Springer|2017|2017
+NCCS|nanoelectronics circuits communication systems|Springer|2019|2021
+NCC|national communications|IEEE|2010|2026
+NCC|national communication|IEEE|2016|2016
+NCC|saudi computer society national computer|IEEE|2018|2018
+NCDHWS|nordic digital health wireless solutions|Springer|2024|2026
+NCECB|national energy chemicals from biomass|IOP|2020|2020
+NCEE|national earthquake engineering integrating science engineering policy||2018|2018
+NCEE|national earthquake engineering||2022|2022
+NCEE|u s national earthquake engineering frontiers earthquake engineering||2014|2014
+NCENR|national environment natural resources|IOP|2023|2025
+NCETACS|national emerging trends applications computer science||2011|2012
+NCETSTEA|national emerging trends sustainable technology engineering applications|IEEE|2020|2020
+NCFAM|national functionality advanced materials|Elsevier|2019|2019
+NCFMA|china national functional materials applications||2014|2014
+NCFMP|national frontiers modern physics|IOP|2022|2022
+NCFM|national functional materials emerging technologies applications materials science|Elsevier|2020|2020
+NCHSM|national hierarchically structured materials|IOP|2019|2019
+NCIA|national information assurance||2013|2013
+NCICEC|national internal combustion engines combustion|Springer|2021|2021
+NCIC|networks communications intelligent computing|Springer|2023|2025
+NCIM|next generation computing iot machine learning|IEEE|2023|2025
+NCIS|network computing information security||2011|2012
+NCIT|networks communications information technology||2022|2022
+NCL|non classical logics theory applications||2022|2024
+NCMA|non classical models automata applications||2022|2025
+NCMDAO|national advances multidisciplinary design analysis optimization|Springer|2025|2025
+NCMDAO|national multidisciplinary design analysis optimization|Springer|2020|2023
+NCMIP|new computational methods inverse problems|IOP|2012|2020
+NCMME|national mechanical engineering manufacturing||2020|2020
+NCMMM|materials mechanics modeling|IOP|2021|2021
+NCMMSC|national man machine speech communication|Springer|2018|2026
+NCM|joint inc ims idc||2009|2009
+NCM|networked computing advanced information management ncm2010||2010|2010
+NCM|networked computing advanced information management||2008|2011
+NCNB|national nanomaterials biology|Elsevier|2019|2019
+NCNP|nordic nuclear physics||2012|2012
+NCN|national nanomaterials|IOP|2024|2024
+NCOCS|national communication systems|IOP|2023|2023
+NCOIET|national innovations emerging technology||2011|2011
+NCON|digital arts media technology ecti northern section electrical electronics computer telecommunications engineering ecti damt|IEEE|2023|2026
+NCON|ecti damt digital arts media technology ecti northern section electrical electronics computer telecommunications engineering|IEEE|2019|2019
+NCON|ecti northern section electrical electronics computer telecommunications engineering ecti|IEEE|2018|2018
+NCON|joint digital arts media technology ecti northern section electrical electronics computer telecommunication engineering ecti damt|IEEE|2021|2021
+NCON|joint digital arts media technology ecti northern section electrical electronics computer telecommunications engineering ecti damt|IEEE|2020|2024
+NCPCM|national physics chemistry materials|IOP|2021|2023
+NCRABE|national recent advancements biomedical engineering|Elsevier|2021|2021
+NCRAG|national recent advancements geotechnical engineering||2021|2021
+NCRAPS|national recent advancement physical sciences|IOP|2020|2024
+NCRASE|national recent advances structural engineering|Springer|2021|2021
+NCRA|virtual honor tariq rizvi noncommutative rings their application vii virtual quadratic forms rings codes||2023|2023
+NCRESE|national renewable energy sustainable environment|Springer|2021|2021
+NCRS|advances reliability safety assessment critical systems national reliability safety|Springer|2023|2023
+NCRTMA|national recent trends mathematics its applications|IOP|2020|2020
+NCSCA|national solid state chemistry allied areas|Elsevier|2019|2019
+NCSD|ans nuclear criticality safety division topical meeting criticality safety pushing boundaries modernizing integrating data methods regulations||2017|2017
+NCSD|nuclear criticality safety division topical meeting||2022|2022
+NCSD|nuclear criticality safety division||2025|2025
+NCSD|topical meeting held ans nuclear criticality safety division criticality safety modern era raising bar||2013|2013
+NCSET|national science engineering technology||2021|2021
+NCSMSP|national sustainable materials smart practices||2022|2022
+NCSSTA|national small satellite technology applications|Springer|2023|2023
+NCS|national cyber summit research track|Springer|2018|2022
+NCS|national cyber summit|Springer|2020|2021
+NCS|northwest cybersecurity|ACM|2019|2019
+NCS|seminar networks circuits systems|IEEE|2023|2023
+NCTAM|japan congress applied mechanics||1992|1992
+NCTAM|japan national congress applied mechanics||1990|1991
+NCTA|neural computation theory applications||2011|2014
+NCTCS|national theoretical computer science|Springer|2017|2026
+NCTM|national technology management excel research build nation|IEEE|2017|2017
+NCTP|vietnam national theoretical physics|IOP|2019|2019
+NCTS|chinese national congress thermal stresses|Springer|2025|2025
+NCTT|national telecommunication technology|IEEE|2003|2003
+NCUS|network centric ubiquitous systems security ubiquitous computing systems rfid ubiquitous sensor networks trustworthiness reliability services ubiquitous sensor networks embedded software optimization multimedia solution assurance ubiquitous information systems held conjunction ifip embedded ubiquitous computing|Springer|2006|2008
+NCVPRIPG|national computer vision pattern recognition image processing graphics|Springer|2011|2026
+NCWE|national wind earthquake engineering||2021|2021
+NCWE|national wind engineering|Springer|2024|2025
+NDA|network data anonymization co located computer communications security||2008|2008
+NDA|sigmod joint graph data management experiences systems network data analytics grades|ACM|2020|2021
+NDA|sigmod joint graph data management experiences systems network data analytics|ACM|2018|2025
+NDA|sigmod network data analytics|ACM|2016|2017
+NDCS|design test nano devices circuits systems||2008|2008
+NDES|nonlinear dynamics electronic systems|Springer|1995|2017
+NDE|exhibition non destructive evaluation|Springer|2021|2024
+NDM|network aware data management co located sc|ACM|2011|2011
+NDM|network aware data management held conjunction sc high performance computing networking storage analysis|IEEE|2014|2015
+NDM|proc int network aware data management held conjunction sc int high performance computing networking storage analysis|ACM|2013|2013
+NDRAMM|natural disaster risk analysis management mitigation|Springer|2026|2026
+NDSS|internet society network distributed systems security|IEEE|1996|1996
+NDSS|network distributed system security|IEEE|1995|2023
+NDS|fourth multidimensional systems||2005|2005
+NDTA|eleventh novel optoelectronic detection technology applications|SPIE|2026|2026
+NDTCS|new approaches hi tech materials nondestructive testing computer simulation materials science engineering||1998|1998
+NDT|british institute non destructive testing conjunction materials testing exhibition mt||2024|2024
+NDT|british institute non destructive testing||2014|2025
+NDT|british non destructive testing||1986|2015
+NDT|networked digital technologies second||2010|2010
+NDT|networked digital technologies third||2011|2011
+NDT|networked digital technologies||2009|2012
+NEAT|networking emerging applications technologies part|ACM|2018|2019
+NEBEC|northeast bioengineering|IEEE|2009|2013
+NEBEC|northeast biomedical engineering|IEEE|2015|2015
+NEB|recent developments gravity|IOP|2013|2013
+NECC|national educational computing||1982|1984
+NECOM|recent trends networks communications||2010|2010
+NECSYS|ifac distributed estimation control networked systems|Elsevier|2010|2015
+NECSYS|ifac estimation control networked systems||2009|2009
+NECSYS|ifac networked systems|Elsevier|2025|2025
+NEC|nuclear electronics computing||2019|2019
+NEESSC|new energy energy storage system control summit forum|IEEE|2023|2025
+NEESS|new energy energy storage systems|IOP|2025|2025
+NEFES|new energy future energy systems||2023|2024
+NEHUAI|new foundations human centered ai co located european artificial intelligence||2020|2020
+NEIC|nordic e infrastructure collaboration|Springer|2025|2025
+NEIS|sustainable energy supply energy storage systems||2017|2024
+NELEX|next generation electronics|IEEE|2023|2023
+NEMARA|next generation modularity approaches requirements architecture||2012|2012
+NEMB|asme global congress nanoengineering medicine biology nemb2010||2010|2010
+NEMD|energy engineering new energy materials devices|IOP|2022|2025
+NEMO|mtt s numerical electromagnetic multiphysics modeling optimization rf microwave terahertz applications|IEEE|2017|2025
+NEMO|mtt s numerical electromagnetic multiphysics modeling optimization|IEEE|2015|2024
+NEMO|numerical electromagnetic modeling optimization rf microwave terahertz applications|IEEE|2014|2014
+NEMS|chemical biological sensors mems||2014|2014
+NEMS|chemical sensors mems||2013|2013
+NEMS|microfabricated nanofabricated systems mems|IOP|2016|2016
+NEMS|nano micro engineered molecular systems|IEEE|2007|2025
+NEMS|nano micro engineered molecular system|IEEE|2020|2020
+NEMS|wearable sensors systems microfabricated nanofabricated systems mems|IOP|2018|2018
+NENM|iysf academic new energy new material iysf||2021|2021
+NEOM|new energy optoelectronic materials|IOP|2023|2023
+NEOM|third new energy optoelectronic materials|SPIE|2025|2025
+NEOTERM|terminological neologism management||2025|2025
+NEO|numerical evolutionary optimization|Springer|2019|2019
+NEPEE|new energy power environmental engineering||2021|2021
+NEPG|new energy power grid|IOP|2025|2025
+NER|embs neural engineering||2009|2023
+NER|roedunet networking education research roedunet|IEEE|2015|2015
+NESC|networked embedded sensing control|Springer|2005|2005
+NESEA|networked embedded systems enterprise applications||2010|2011
+NESEA|networked embedded systems every application||2012|2012
+NESEE|new energy system electrical engineering|IOP|2023|2023
+NESHAP|national emission standards hazardous air pollutants aerospace manufacturing rework facilities rule operational economic impacts u s air force air combat command installations||1997|1997
+NESINMIS|new educational strategies modern information space||2019|2021
+NESMT|new energy engineering energy storage micro grid technology|IOP|2025|2025
+NESP|new energy energy storage power engineering|IOP|2022|2024
+NESP|new energy system power engineering|IEEE|2025|2025
+NESS|norway asean risk management safer sustainable ocean|IOP|2026|2026
+NESTER|networked embedded control system technologies european russian r d cooperation conjunction||2009|2009
+NESY|neural symbolic learning reasoning as part joint learning reasoning||2021|2022
+NESY|neural symbolic learning reasoning held||2007|2007
+NESY|neural symbolic learning reasoning|Springer|2008|2024
+NESY|neurosymbolic learning reasoning||2025|2025
+NETACT|networks advances computational technologies|IEEE|2017|2025
+NETAISYS|networked ai systems part|ACM|2023|2023
+NETAISYS|networked ai systems|ACM|2024|2024
+NETAI|network meets ai ml part|ACM|2018|2019
+NETAI|network meets ai ml|ACM|2020|2020
+NETAPPS|internet applications protocols services enduring internet s use growth pandemic era||2021|2021
+NETAPPS|internet applications protocols services|IEEE|2024|2024
+NETAPPS|network applications protocols services||2008|2010
+NETA|network administration||1999|1999
+NETCAL|network calculus applications netcal2018 co located teletraffic congress networking science practice|IEEE|2018|2018
+NETCIT|networking communications information technology|IEEE|2021|2022
+NETCOD|network coding theory applications||2008|2009
+NETCOD|network coding|IEEE|2010|2015
+NETCOMPUTE|morning network computing part|ACM|2018|2018
+NETCOM|computer networks communications fourth networks communications||2013|2013
+NETCOM|networks communications fifth networks communications|Springer|2014|2014
+NETCOM|networks communications||2009|2009
+NETCON|ifip network control engineering qos security mobility|Springer|2007|2007
+NETCON|ifip tc6 wg6 network control engineering qos security mobility|Springer|2005|2005
+NETCRYPT|networks cryptology|IEEE|2025|2025
+NETDB|networking meets databases||2007|2007
+NETECON|applications technologies architectures protocols computer communication economics networked systems|ACM|2008|2008
+NETECON|economics networks systems computation conjunction ec economics computation|ACM|2017|2017
+NETECON|economics networks systems computation conjunction ec|ACM|2019|2019
+NETECON|economics networks systems computation conjunction measurement modeling computer systems|ACM|2018|2018
+NETECON|economics networks systems computation||2010|2010
+NETFLIX|kdd large scale recommender systems prize competition||2008|2008
+NETGAMES|network system support games|ACM|2002|2003
+NETGAMES|network systems support games||2009|2013
+NETGAMES|sigcomm network system support games|ACM|2004|2008
+NETGCOOP|network games artificial intelligence control optimization|Springer|2025|2026
+NETGCOOP|network games control optimization|IEEE|2011|2021
+NETGLOW|networks global world|Springer|2021|2023
+NETID|new energy technology industrial development|EDP|2021|2021
+NETPL|networking programming languages part|ACM|2019|2019
+NETPS|new energy technologies power systems|IEEE|2025|2025
+NETROB|netrob09 ifac networked robotics final program book abstracts||2009|2009
+NETSCILA|networks learning analytics addressing educational challenges co located learning analytics knowledge||2022|2022
+NETSCILA|using network science learning analytics building bridges towards common agenda||2021|2021
+NETSOFT|network softwarization accelerating network softwarization cognitive age|IEEE|2021|2021
+NETSOFT|network softwarization boosting future networks through advanced softwarization|IEEE|2023|2023
+NETSOFT|network softwarization bridging gap between ai network softwarization|IEEE|2020|2020
+NETSOFT|network softwarization network softwarization coming age new challenges opportunities|IEEE|2022|2022
+NETSOFT|network softwarization software defined infrastructures networks clouds iot services|IEEE|2015|2015
+NETSOFT|network softwarization softwarization sustaining hyper connected world en route 5g|IEEE|2017|2017
+NETSOFT|network softwarization unleashing power network softwarization|IEEE|2019|2019
+NETSOFT|network softwarization workshops|IEEE|2018|2018
+NETSOFT|network softwarization|IEEE|2024|2025
+NETSOFT|workshops software defined infrastructure networks clouds iot services|IEEE|2016|2016
+NETSYS|networked systems|IEEE|2013|2019
+NETS|american nuclear society topical meeting nuclear emerging technologies space||2009|2009
+NETS|application theory petri concurrency petri|Springer|2013|2026
+NETS|application theory petri petri||2012|2012
+NETS|applications theory petri concurrency petri|Springer|2025|2025
+NETS|applications theory petri petri||2008|2011
+NETS|iiot enhanced network techniques technologies industrial iot cloud continuum|ACM|2023|2023
+NETS|nuclear emerging technologies space||2011|2025
+NETS|transactions american nuclear society ans meeting embedded topical meeting nuclear emerging technologies space||2009|2009
+NETTS|sigcomm network troubleshooting research theory operations practice meet malfunctioning reality|ACM|2004|2004
+NETUS|networked sensing systems sustainable society|ACM|2023|2023
+NETWORKING|ifip tc6 european commission|Springer|2000|2000
+NETWORKING|ifip tc6|Springer|2004|2008
+NETWORKING|ifip tc|Springer|2009|2012
+NETWORKING|technologies services protocols performance computer communication networks mobile wireless communiations systems ifip tc6||2005|2005
+NETWORKING|web engineering peer peer computing workshops revised papers||2002|2002
+NETWORKING|workshops held jointly web engineering peer peer computing|Springer|2002|2002
+NETWORKING|workshops ifip tc workshops etics hetsnets compnets held||2012|2012
+NETWORKING|workshops ifip tc workshops pe crn nc pro wcns held revised selected papers||2011|2011
+NETWORKS|complex their application complex|Springer|2021|2021
+NETWORKS|complex their applications complex|Springer|2019|2026
+NETWORKS|european polymer network group meeting||1985|1985
+NETWORKS|ifip tc6 working computer architecture applications|Elsevier|1994|1994
+NETWORKS|network planning||1983|1983
+NETWORKS|photonic devices advanced photonics congress part optica advanced photonics congress||2024|2024
+NETWORKS|telecommunications network strategy planning||2008|2012
+NETWORKS|third network planning record||1986|1986
+NETYS|networked systems first revised selected papers||2013|2013
+NETYS|networked systems second revised selected papers|Springer|2014|2014
+NETYS|networked systems|Springer|2015|2026
+NET|applied mathematics computational science icamcs|IEEE|2018|2018
+NET|ifip mediterranean ad hoc networking med hoc||2010|2010
+NET|leo leo networking communication part|ACM|2023|2025
+NET|mediterranean ad hoc networking med hoc|IEEE|2013|2015
+NET|network analysis|Springer|2016|2020
+NET|satellite internet sat|IEEE|2024|2025
+NET|telecommunication networks tel|IEEE|2017|2017
+NEUREL|neural network applications electrical engineering|IEEE|2008|2014
+NEUREL|neural networks applications|IEEE|2016|2018
+NEUREL|seminar neural network applications electrical engineering|IEEE|2000|2002
+NEUREL|seventh seminar neural network applications electrical engineering||2004|2004
+NEURIPS|advances neural information processing systems neural information processing systems||2021|2024
+NEURIPS|competition demonstration track||2019|2020
+NEURIPS|competitions demonstrations track||2022|2022
+NEURIPS|competitions track||2023|2023
+NEURIPS|hear holistic evaluation audio representations competition||2021|2021
+NEURIPS|i can t believe it s not better failure modes age foundation models workshops||2023|2023
+NEURIPS|i can t believe it s not better understanding deep learning through empirical falsification workshops||2023|2023
+NEURIPS|neural information processing systems||2019|2020
+NEURIPS|pre registration machine learning prereg||2021|2021
+NEURIPS|pre registration machine learning||2022|2022
+NEUROIS|information systems neuroscience|Springer|2021|2021
+NEURONET|neural networks neurocomputing|Elsevier|1991|1991
+NEURONT|neural networks neurotechnologies|IEEE|2021|2025
+NEUROTECHNIX|congress neurotechnology electronics informatics|SciTePress|2013|2018
+NEUSYMBRIDGE|bridging neurons symbols natural language processing knowledge graphs reasoning lrec||2024|2024
+NEUTRINO|physics astrophysics||2006|2013
+NEWCAS|new circuits systems|IEEE|2011|2021
+NEWCAS|north east circuits systems||2006|2007
+NEWCAS|northeast circuits systems||2004|2004
+NEWCAS|northeast circuits system||2005|2005
+NEWCAS|xml compile completed|IEEE|2018|2018
+NEWNEB|dc utility power exhibition|IEEE|2015|2015
+NEWRAD|new developments applications optical radiometry|IOP|2022|2024
+NEWSIR|recent trends news information retrieval co located european information retrieval||2016|2018
+NEWSIR|recent trends news information retrieval co located research development information retrieval||2019|2019
+NEWSUMM|new frontiers summarization emnlp||2023|2023
+NEWSUM|new frontiers summarization||2021|2021
+NEWS|named entities meeting association computational linguistics||2010|2010
+NEWS|named entities shared task transliteration joint meeting acl joint natural language processing afnlp acl||2009|2009
+NEWS|named entity held as part||2015|2015
+NEWS|named entity meeting association computational linguistics||2012|2016
+NEWTECH|world congress new technologies||2015|2025
+NEXTCOMP|next generation computing applications|IEEE|2017|2024
+NEXTGEN|sigcomm zero trust architecture next generation communications zta|ACM|2024|2024
+NEXT|collection technical papers aiaa spie osa technology space astrophysics years||1982|1982
+NEXT|emerging networking experiments technologies co||2010|2010
+NFC|near field communication||2009|2013
+NFEST|new frontiers engineering science technology|IOP|2019|2019
+NFMCP|new frontiers mining complex patterns first held conjunction ecml revised selected papers|Springer|2013|2013
+NFMCP|new frontiers mining complex patterns held conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2015|2020
+NFMCP|new frontiers mining complex patterns second held conjunction ecml revised selected papers|Springer|2014|2014
+NFMCP|new frontiers mining complex patterns was held conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2017|2018
+NFME|nanotechnology future material engineering||2013|2013
+NFMWC|north sea flow measurement||2005|2020
+NFM|nasa formal methods third||2011|2011
+NFM|nasa formal methods|Springer|2012|2026
+NFOEC|national fiber optic engineers||2012|2013
+NFOEC|ofc optical fiber communication national fiber optic engineers||2007|2008
+NFOEC|optical fiber communication collocated national fiber optic engineers ofc||2010|2010
+NFOEC|optical fiber communication exposition national fiber optic engineers ofc||2011|2013
+NFPINDSML|non functional system properties domain specific modeling languages affiliated model driven engineering languages systems||2009|2009
+NFPINDSML|nonfunctional system properties domain specific modeling languages||2012|2012
+NFPINDSML|proc int non functional system properties domain specific modeling languages affiliated int conf model driven engineering languages systems||2008|2010
+NFR|eage naturally fractured rocks||2024|2024
+NFSM|transactions american nuclear society embedded topical meeting nuclear fuels structural materials next generation nuclear reactors||2012|2012
+NFVSEC|sdn security software defined networks network function virtualization co located|ACM|2017|2018
+NFV|sdn security software defined networks network function virtualization co located|ACM|2019|2019
+NGCAS|new generation cas|IEEE|2017|2018
+NGCA|novel gaze controlled applications||2011|2011
+NGCCOM|next generation communication computing|Springer|2025|2025
+NGCIT|next generation computer information technology|IEEE|2015|2015
+NGCS|natural gas conversion||2004|2004
+NGCT|next generation computing technologies|Springer|2015|2019
+NGCUV|ifac navigation guidance control underwater vehicles||2012|2012
+NGCWP|non grid connected wind power systems wind power shanghai non grid connected wind power||2007|2007
+NGC|cost networked group communications internet charging qos technology|Springer|2003|2003
+NGC|cost264 networked group communication|Springer|1999|1999
+NGC|networked group communication third cost264||2001|2001
+NGC|networked group communication||2000|2000
+NGDN|next generation data driven networks|IEEE|2024|2025
+NGEBIS|new generation enterprise business innovation systems conjunction||2012|2012
+NGEBIS|short paper new generation enterprise business innovation systems conjunction||2013|2013
+NGISE|next generation information system engineering|IEEE|2025|2025
+NGITS|next generation information technologies systems revised selected papers||2009|2009
+NGITS|next generation information technologies systems|Springer|1999|2009
+NGI|euro next generation internet networks||2011|2011
+NGI|euro nf next generation internet||2010|2012
+NGI|next generation internet design engineering||2006|2006
+NGI|next generation internet networks eurongi next generation internet networks design engineering heterogeneity||2007|2007
+NGI|next generation internet networks eurongi next generation internet networks traffic engineering||2005|2005
+NGI|next generation internet networks||2009|2009
+NGMAST|next generation mobile applications services technologies|IEEE|2007|2015
+NGMAST|second next generation mobile applications services technologies||2008|2008
+NGNCON|coin joint optical internet next generation network||2006|2006
+NGNDAI|next generation networks deployable artificial intelligence|Springer|2026|2026
+NGNO|next generation network observability part|ACM|2025|2025
+NGNS|next generation networks services||2011|2012
+NGS|isrm nordic grouting||2020|2020
+NHT|narrative hypertext co located ht|ACM|2015|2015
+NHT|narrative hypertext held hypertext social media||2013|2013
+NHT|narrative hypertext|ACM|2012|2019
+NIBS|negative ions beams sources|IOP|2021|2021
+NICA|aisb iacap world congress nature inspired computation applications part alan turing year||2012|2012
+NICA|nature inspired computing applications aisb convention||2013|2013
+NICEDT|nielit s communication electronics digital technologies|Springer|2024|2026
+NICELI|sigcomm network i o convergence experience lessons implications|ACM|2003|2003
+NICE|neuro inspired computational elements|ACM|2019|2025
+NICFD|seminar non ideal compressible fluid dynamics propulsion power|Springer|2020|2020
+NICOM|nanotechnology construction materials|Elsevier|2025|2025
+NICROSP|neural networks identification control robotics signal image processing||1996|1996
+NICST|al noor science technology|IEEE|2019|2020
+NICS|nafosted information computer science|IEEE|2015|2022
+NICS|national foundation science technology development information computer science|IEEE|2015|2016
+NICTE|nommensen technology engineering|IOP|2020|2020
+NIC|nuclear astrophysics nuclei cosmos||2006|2006
+NIC|nuclei cosmos|Springer|2008|2019
+NIDCP|novel incentives data collection from people models implementations challenges results language resources evaluation||2022|2022
+NIDC|network infrastructure digital content ic nidc2009||2009|2009
+NIDC|network infrastructure digital content ic|IEEE|2010|2018
+NIDC|network intelligence digital content ic|IEEE|2021|2025
+NIDS|novel intelligent digital systems|Springer|2023|2026
+NIDS|novelties intelligent digital systems||2021|2021
+NIER|software engineering new ideas emerging results icse|IEEE|2019|2025
+NIER|software engineering new ideas emerging results track icse|IEEE|2017|2017
+NIGERCON|electro computing technologies humanity|IEEE|2024|2024
+NIGERCON|electro technology national development|IEEE|2017|2017
+NIGERCON|emerging sustainable technologies power ict developing society||2013|2013
+NIGERCON|nigeria disruptive technologies sustainable development|IEEE|2022|2022
+NIGERIA|cyberspace cyber|IEEE|2021|2021
+NII|using national information infrastructure monitoring diagnostics prognostics operating machinery||1996|1996
+NILES|novel intelligent leading emerging sciences|IEEE|2019|2025
+NILLI|novel ideas learning learn through interaction||2022|2022
+NILM|non intrusive load monitoring|ACM|2020|2020
+NIL|nonmonotonic inductive logic|Springer|1993|1993
+NIMD|nudge influence through mobile devices||2010|2010
+NIME|new interfaces musical expression||2001|2025
+NINES|oasics new ideas networked systems||2026|2026
+NIPS|advances neural information processing systems neural information processing systems||2010|2012
+NIPS|advances neural information processing systems||1988|2013
+NIPS|energy efficient machine learning cognitive computing emc2|IEEE|2019|2019
+NIPS|neural information processing systems||1994|2006
+NIP|digital printing technologies digital fabrication technical program||2012|2012
+NIP|digital printing technologies digital fabrication||2013|2013
+NIP|digital printing technologies technical program digital fabrication||2007|2007
+NIP|digital printing techologies final programe||2005|2005
+NIP|final program is t s digital printing technologies||2003|2003
+NIP|final program is t s nip14 digital printing technologies||1998|1998
+NIP|final program is t s nip16 digital printing technologies||2000|2000
+NIP|final program is t s nip17 digital printing technologies||2001|2001
+NIP|final program is t s nip18 digital printing technologies||2002|2002
+NIP|final program is t s nip20 digital printing technologies||2004|2004
+NIP|is t s digital printing technologies||1999|1999
+NIP|nip21 digital printing technologies final program||2005|2005
+NIP|nip22 digital printing technologies final program||2006|2006
+NIP|nip24 digital printing technologies digital fabrication technical program l||2008|2008
+NIP|nip25 digital printing technologies digital fabrication technical program||2009|2009
+NIP|nip26 digital printing technologies digital fabrication df technical programs||2010|2010
+NIP|nip27 digital printing technologies digital fabrication technical programs||2011|2011
+NIR|nonlinearity information robotics|IEEE|2020|2021
+NISE|advances laboratory testing liquefiable soils nature inspired solutions built environment issmge tc101|Springer|2024|2024
+NISS|networking information systems security envisage intelligent systems 5g 6g based interconnected digital worlds|IEEE|2022|2022
+NISS|networking information systems security|ACM|2020|2021
+NISS|networking intelligent systems security|ACM|2022|2025
+NISS|new trends information science service science||2011|2011
+NISS|new trends information service science||2009|2009
+NISS|niss2010 new trends information science service science||2010|2010
+NITAC|iv scientific practical new information technologies architecture construction|IOP|2022|2022
+NITCON|novel infrastructure techniques|Springer|2026|2026
+NITC|national information technology|IEEE|2017|2019
+NIU|predicted dynamic strength durability network interface unit enclosure||1996|1996
+NJFET|new jersey future energy transmission|IEEE|2025|2025
+NKCON|edition nkss s flagship digital transformation unleashing power information|IEEE|2024|2024
+NKCON|north karnataka subsection flagship holistic engineering sustainable development|IEEE|2025|2025
+NKCON|north karnataka subsection flagship|IEEE|2022|2023
+NLASI|nordic learning analytics institute||2021|2021
+NLBSE|natural language based software engineering|IEEE|2022|2025
+NLBSE|nl based software engineering|IEEE|2024|2024
+NLDA|novel lasers devices basic aspects||1999|1999
+NLDB|application natural language information systems|Springer|2004|2019
+NLDB|applications natural language information systems|Springer|2001|2023
+NLDB|natural language information systems applications natural language information systems||2008|2008
+NLDB|natural language information systems|Springer|2018|2026
+NLDB|natural language processing information systems applications natural language information systems revised papers|Springer|2010|2010
+NLDB|natural language processing information systems applications natural language information systems|Springer|2003|2014
+NLDL|northern lights deep learning||2024|2026
+NLGW|nonlinear guided wave phenomena||1993|1993
+NLGW|nonlinear guided waves their applications||1999|2005
+NLG|2is intelligent interactive systems language generation||2018|2018
+NLG|cc computational creativity natural language generation||2016|2018
+NLG|multimodal multilingual natural language generation multilingual webnlg challenge mm||2023|2023
+NLG|natural language generation||1998|1998
+NLLP|natural legal language processing co located sigkdd knowledge discovery data mining||2020|2020
+NLLP|natural legal language processing||2021|2024
+NLMI9|nonresonant laser matter interaction||1997|1997
+NLMI|spie nonreasonant laser matter interaction||2004|2004
+NLMI|spie nonresonant laser matter interaction||2000|2000
+NLO|nonlinear optics materials fundamentals applications||2000|2004
+NLO|nonlinear optics||2015|2021
+NLO|optica nonlinear optics topical meeting||2023|2023
+NLPCC|ccf natural language processing chinese computing computer processing oriental languages|Springer|2016|2016
+NLPCC|ccf natural language processing chinese computing|Springer|2013|2025
+NLPCC|national ccf natural language processing chinese computing|Springer|2023|2026
+NLPCC|natural language processing chinese computing first ccf||2012|2012
+NLPCC|natural language processing chinese computing|Springer|2014|2015
+NLPCSS|natural language processing computational social science nlp css held empirical methods natural language processing||2022|2022
+NLPCS|natural language processing cognitive science conjunction||2007|2012
+NLPCS|natural language processing cognitive science natural language processing cognitive science conjunction||2008|2009
+NLPINAI|natural language processing artificial intelligence held within agents artificial intelligence|Springer|2021|2021
+NLPINAI|natural language processing artificial intelligence|Springer|2022|2022
+NLPIR|natural language processing information retrieval associated||2017|2017
+NLPIR|natural language processing information retrieval|ACM|2020|2025
+NLPSOME|computational intelligence natural language processing social media ci|IEEE|2025|2025
+NLPXML|nlp xml multi dimensional markup natural language processing european chapter association computational linguistics||2006|2006
+NLP|adapt domain adaptation||2021|2021
+NLP|artificial intelligence natural language processing artificial intelligence internet things isai|IEEE|2023|2023
+NLP|causal inference natural language processing ci||2021|2021
+NLP|dh digital humanities natural language processing co located computational processing portuguese||2020|2020
+NLP|hci bridging human computer interaction natural language processing||2022|2024
+NLP|joint artificial intelligence natural language processing isai|IEEE|2018|2025
+NLP|joint joint artificial intelligence natural language processing isai artificial intelligence internet things|IEEE|2022|2022
+NLP|natural language processing|Springer|2000|2000
+NLP|nonlinear photonics||2011|2013
+NLP|people s web meets collaboratively constructed semantic resources their applications meeting association computational linguistics||2012|2012
+NLP|spa semiparametric methods decoupling logic from knowledge||2022|2022
+NLP|structured prediction natural language processing empirical methods natural language processing||2016|2016
+NLP|teaching teaching natural language processing||2021|2021
+NLP|transfer learning natural language processing||2023|2023
+NLRSE|natural language reasoning structured explanations||2024|2024
+NLUCS|natural language understanding cognitive science conjunction||2005|2006
+NMAT|interdisciplinary scientific forum participation new materials advanced technologies||2021|2021
+NMA|numerical methods applications revised papers||2011|2011
+NMA|numerical methods applications|Springer|2003|2023
+NMCI|new material chemical industry||2020|2021
+NMCM|numerical methods computational mechanics science engineering|Elsevier|1998|1998
+NMC|navigation motion control||2020|2020
+NMDC|nanotechnology materials devices nmdc2010||2010|2010
+NMDC|nanotechnology materials devices|IEEE|2006|2025
+NMEE|new materials environment energy|IOP|2024|2026
+NMELP|non monotonic extensions logic programming|Springer|1997|1997
+NME|numerical modeling engineering|Springer|2023|2023
+NME|numerical modelling engineering|Springer|2019|2024
+NMF|numerical methods finance|Springer|2012|2012
+NMIC|network meets intelligent computations|IEEE|2019|2019
+NMITCON|network multimedia information technology|IEEE|2023|2023
+NMITCON|networks multimedia information technology|IEEE|2024|2025
+NMMP|nonlinear modern mathematical physics|Springer|2024|2024
+NMMVE|fourth new materials machinery vehicle engineering|SPIE|2025|2025
+NMMVE|new materials machinery vehicle engineering||2022|2023
+NMMVE|third new materials machinery vehicle engineering|SPIE|2024|2024
+NMM|nano macro mechanics||2020|2025
+NMPC|assesment future directions nonlinear model predictive control|Springer|2007|2007
+NMPC|ifac nonlinear model predictive control program||2012|2012
+NMPC|ifac nonlinear model predictive control|Elsevier|2021|2024
+NMP|networks markets people|Springer|2024|2024
+NMP|new media pedagogy|Springer|2023|2025
+NMP|new metropolitan perspectives knowledge dynamics innovation driven policies towards urban regional transition|Springer|2020|2020
+NMP|new metropolitan perspectives|Springer|2021|2023
+NMR|dl description logics co located principles knowledge representation reasoning non monotonic reasoning kr||2023|2023
+NMR|non monotonic reasoning co located principles knowledge representation reasoning kr co located description logics dl||2023|2023
+NMR|non monotonic reasoning co located principles knowledge representation reasoning kr||2025|2025
+NMR|non monotonic reasoning part federated logic||2022|2022
+NMR|nonmonotonic reasoning co located principles knowledge representation reasoning kr||2024|2024
+NMTME|scientific new materials technologies mechanical engineering||2019|2019
+NNAT|neural network applications tools|IEEE|1993|1993
+NNICE|neural networks information communication engineering|IEEE|2022|2026
+NNSP|neural networks signal processing iii|IEEE|1993|1993
+NNSP|neural networks signal processing||1994|1997
+NNS|nanoscience nanotechnology|IOP|2014|2014
+NNW|neural network world part||2000|2000
+NOAS|or transportation|Elsevier|1989|1989
+NOCARC|network chip architectures conjunction microarchitecture micro42||2009|2009
+NOCARC|network chip architectures conjunction microarchitecture|ACM|2010|2024
+NOCE|icfa mini nonlinear dynamics collective effects particle beam physics||2017|2017
+NOCS|first networks chip||2007|2007
+NOCS|networks chip|IEEE|2009|2021
+NOCS|second networks chip||2008|2008
+NOC|european network optical communications optical cabling infrastructure oc i||2012|2013
+NOC|european networks optical communications|IEEE|2011|2016
+NODALIDA|nordic computational linguistics||2007|2023
+NODALIDA|universal dependencies||2017|2017
+NODYCON|new trends nonlinear dynamics nonlinear dynamics|Springer|2020|2020
+NODYCON|nonlinear dynamics control nonlinear dynamics|Springer|2020|2020
+NODYCON|nonlinear dynamics structures systems devices nonlinear dynamics|Springer|2020|2020
+NOEKS|nonlinear optics excitation kinetics semiconductors||2003|2003
+NOF|network future smart cloud networks systems|IEEE|2015|2015
+NOF|network future|IEEE|2011|2025
+NOF|networks future|IEEE|2019|2019
+NOIEAS|numerical optimization engineering sciences|Springer|2020|2026
+NOISE|cavitation multiphase flow||1986|1986
+NOISE|congress control engineering inter||2010|2020
+NOISE|congress exposition control engineering inter control quality life||2013|2013
+NOISE|congress exposition control engineering inter||2009|2012
+NOISE|institute control engineering usa congress exposition control engineering inter||2006|2006
+NOISE|inter congress exposition control engineering impact control engineering||2018|2018
+NOISE|inter congress exposition control engineering taming moving quiet||2017|2017
+NOISE|inter congress exposition control engineering towards quieter future||2016|2016
+NOISE|inter congress exposition control engineering||2015|2021
+NOISE|inter madrid congress exhibition control engineering||2019|2019
+NOISE|turkish acoustical society congress exhibition control engineering inter istanbul||2007|2007
+NOLAMP|nordic laser materials processing|Elsevier|2019|2019
+NOLCOS|final program book abstracts ifac nonlinear control systems||2007|2007
+NOLCOS|ifac nonlinear control systems|Elsevier|2010|2025
+NOLISP|advances nonlinear speech processing nonlinear speech processing revised selected papers||2007|2010
+NOLISP|advances nonlinear speech processing nonlinear speech processing||2011|2011
+NOLISP|advances nonlinear speech processing||2013|2013
+NOLISP|itrw nonlinear speech processing||2003|2003
+NOLISP|nonlinear analyses algorithms speech processing non linear speech processing revised selected papers||2005|2005
+NOMA|advanced photonics||2017|2017
+NOMA|nonlinear maps their applications|Springer|2014|2015
+NOMA|novel optical materials applications advanced photonics congress part optica advanced photonics congress||2023|2024
+NOMA|novel optical materials applications||2015|2022
+NOMS|ifip ifip network operations management management software defined world||2014|2014
+NOMS|ifip network operations management cognitive management cyber world|IEEE|2018|2018
+NOMS|ifip network operations management management age softwarization artificial intelligence|IEEE|2020|2020
+NOMS|ifip network operations management managing next generation convergence networks services||2004|2004
+NOMS|ifip network operations management network service management era cloudification softwarization artificial intelligence|IEEE|2022|2022
+NOMS|ifip network operations management workshops||2010|2010
+NOMS|ifip network operations management|IEEE|2006|2025
+NOMS|ifip network operations manegement pervasive management ubiquitous networks services||2008|2008
+NOMS|managing next generation convergence networks services ifip network operations management application sessions||2004|2004
+NOMS|nano opto mechanical systems||2011|2011
+NOMS|network operations management part||1996|1996
+NOMS|network operations management workshops||2008|2008
+NOMS|network operations management||1990|2012
+NOM|emerging name oriented mobile networking design architecture algorithms applications|ACM|2012|2012
+NOOJ|automatic processing natural language electronic texts|Springer|2016|2025
+NOOJ|formalizing natural languages applications natural language processing digital humanities|Springer|2022|2026
+NOOJ|formalizing natural languages its natural language processing applications|Springer|2018|2024
+NOORIC|taibah university advances information technology holy quran its sciences|IEEE|2013|2013
+NORA|knowledge graphs agentic systems interplay co located thirty ninth neural information processing systems||2025|2025
+NORCAS|nordic circuits systems norchip system chip|IEEE|2015|2019
+NORCAS|nordic circuits systems|IEEE|2020|2025
+NORCHIP|nordic microelectronics event|IEEE|2015|2015
+NORDDESIGN|design era digitalization||2018|2018
+NORDDESIGN|how product manufacturing design enable sustainable companies societies||2022|2022
+NORDICHI|building bridges nordic human computer interaction||2008|2008
+NORDICHI|extending boundaries nordic human computer interaction||2010|2010
+NORDICHI|live uniting hci hyperlocal global experience adjunct nordic human computer interaction|ACM|2024|2024
+NORDICHI|live uniting hci hyperlocal global experience nordic human computer interaction|ACM|2024|2024
+NORDICHI|making sense through design nordic human computer interaction||2012|2012
+NORDICHI|nordic human computer interaction fun fast foundational|ACM|2014|2014
+NORDICHI|nordic human computer interaction shaping experiences shaping society|ACM|2020|2020
+NORDICHI|nordic human computer interaction||2002|2004
+NORDICHI|participative computing sustainable futures adjunct nordic human computer interaction|ACM|2022|2022
+NORDICHI|participative computing sustainable futures nordic human computer interaction|ACM|2022|2022
+NORDICHI|series nordic human computer interaction changing roles||2006|2006
+NORDICLOUD|nordic cloud computing internet technologies||2013|2013
+NORDPACK|imaps nordic||2018|2018
+NORDPAC|imaps nordic microelectronics packaging|IEEE|2017|2025
+NORDPAC|microelectronics packaging exhibition|IEEE|2024|2024
+NORDPAC|microelectronics packaging|IEEE|2023|2023
+NORDSEC|identity privacy internet age nordic secure it systems||2009|2009
+NORDSEC|information security technology applications nordic secure it systems revised selected papers||2012|2012
+NORDSEC|nordic secure it systems|Springer|2014|2026
+NORDSEC|secure it systems nordic|Springer|2012|2013
+NORDTRIB|nordic tribology|Elsevier|1997|1997
+NORMALIZE|normative design evaluation recommender systems co located recommender systems recsys2023||2023|2023
+NORMALIZE|normative design evaluation recommender systems co located recommender systems recsys2024||2024|2024
+NORM|regulation naturally occurring radioactive material perspective||1997|1997
+NORPIE|nordic power industrial electronics|IEEE|2019|2019
+NORSIG|nordic signal processing||2004|2007
+NORTHCON|electrical electronics convention record|IEEE|1993|1993
+NORTHCON|technical applications workshops||1995|1995
+NORTHWEST|northcon mini micro record||1984|1984
+NORWAY|ior european improved oil recovery sustainable ior low oil price world||2017|2017
+NORWELD|meeting needs fabricator special seminar conjunction northern welding exhibition||1982|1982
+NOSSDAV|edition network operating system support digital audio video|ACM|2025|2025
+NOSSDAV|network operating system support digital audio video part|ACM|2020|2022
+NOSSDAV|network operating system support digital audio video|ACM|1994|2026
+NOSSDAV|network operating systems support digital audio video|ACM|2002|2019
+NOSSS|nordic separation science society||2010|2010
+NOSTRADAMUS|prediction modeling analysis complex systems|Springer|2014|2014
+NOTERE|new technologies distributed systems|IEEE|2008|2016
+NOTES|tappi blade coating seminar||1986|1986
+NOTES|tappi wet end operations seminar||1986|1986
+NOVEM|noise vibration emerging methods||2025|2025
+NOW|ad hoc mobile wireless network adhoc||2013|2013
+NOW|ad hoc mobile wireless networks adhoc proceeedings||2007|2007
+NOW|ad hoc mobile wireless networks adhoc|Springer|2003|2019
+NOW|ad hoc networks wireless adhoc accompanied emerging technologies smart devices marine sensors systems multimedia wireless ad hoc networks security ad hoc networks smart sensor protocols algorithms wireless sensor actuator robot networks|Springer|2015|2015
+NOW|ad hoc networks wireless adhoc|Springer|2017|2020
+NOW|neutrino oscillation neutrino physics astrophysics||2013|2013
+NOW|neutrino oscillation||2023|2025
+NPAE|current problems nuclear physics atomic energy||2006|2013
+NPAR|non photorealistic animation rendering part expressive|ACM|2013|2017
+NPAR|non photorealistic animation rendering||2002|2010
+NPAR|siggraph eurographics non photorealistic animation rendering||2011|2011
+NPA|nuclear physics astrophysics ix||2020|2020
+NPCM|scientific practical new polymer composite materials||2020|2021
+NPC|ifip network parallel computing workshops||2007|2007
+NPC|ifip network parallel computing|Springer|2004|2018
+NPC|ifip wg network parallel computing|Springer|2016|2026
+NPC|national postgraduate energy sustainability exploring innovative minds||2011|2011
+NPC|network parallel computing ifip wg|Springer|2014|2014
+NPC|network parallel computing ifip||2005|2013
+NPC|network parallel computing||2009|2009
+NPEC|national power electronics|IEEE|2017|2025
+NPEC|national power engineering|IEEE|2018|2018
+NPICS|interdisciplinary novel phenomena integrated complex sciences from non living living systems iiw||2012|2012
+NPIVM|new paradigms information visualization manipulation conjunction internation information knowledge management|ACM|1999|1999
+NPIV|new paradigms information visualization manipulation|ACM|1997|1998
+NPSC|national power systems achieving decarbonized digitalized energy electric transportation systems|IEEE|2024|2024
+NPSC|national power systems|IEEE|2015|2022
+NPSEC|secure network protocols npsec08||2008|2008
+NPSEC|secure network protocols||2009|2010
+NPSIF|boao new power system forum power system new energy technology innovation forum|IEEE|2024|2024
+NPSIF|new power system forum power system new energy technology innovation forum|IEEE|2025|2025
+NPSPE|new power system power electronics|IEEE|2024|2024
+NPSPE|second new power system power electronics|SPIE|2026|2026
+NPSR|society petroleum engineers spe northern plains section regional meeting||1975|1975
+NPS|national photonics recent trends photonics|IOP|2022|2022
+NQCOMP|next gen quantum advanced computing algorithms security beyond|IEEE|2026|2026
+NRBC|next generation residential broadband challenges||2004|2004
+NRC|asme om code||2022|2022
+NRC|asme pump valve||2017|2017
+NRC|asme valves pumps inservice testing||2014|2014
+NRDA|edoardo amaldi gravitational waves amaldi numerical relativity data analysis meeting|IOP|2012|2012
+NREHA|global challenges nanomaterials research environmental healthcare applications|Elsevier|2021|2021
+NRLS|natural resources life sciences|EDP|2019|2023
+NRMS|nordic rock mechanics||2017|2017
+NRM|nuclear reaction mechanisms||2006|2018
+NRM|varenna nuclear reaction mechanisms nrm2023|EDP|2023|2023
+NRSC|national radio science|IEEE|1996|2026
+NRSC|twenty first national radio science||2004|2004
+NRSC|twenty second national radio science||2005|2005
+NRSC|twenty third national radio science||2006|2006
+NRSM|united states national committee ursi national radio science meeting usnc ursi|IEEE|2014|2026
+NRS|news recommender systems challenge conjunction||2013|2013
+NSAD|sigplan numerical symbolic abstract domains co located|ACM|2020|2024
+NSA|ems summer school multigraded algebra applications|Springer|2018|2018
+NSA|national acoustics|Springer|2021|2021
+NSA|national school algebra|Springer|2020|2020
+NSB|nordic building physics|EDP|2020|2023
+NSCA|human performance development through strength conditioning||2014|2014
+NSCC|next generation teletraffic wired wireless advanced networks systems new2an internet things smart spaces rusmart nano scale computing communications|Springer|2017|2017
+NSCE|network security communication engineering||2015|2015
+NSCTCE|novel sustainable concepts technologies civil engineering|IOP|2023|2023
+NSC|national systems innovative emerging trends engineering systems|Springer|2021|2021
+NSC|national systems|Springer|2015|2015
+NSC|nonlinear science complexity||2012|2012
+NSDI|networked systems design implementation||2004|2007
+NSDI|usenix networked systems design implementation||2008|2025
+NSDR|networked systems developing regions|ACM|2007|2010
+NSDR|usenix networked systems developing regions||2012|2012
+NSDS|euromech colloquium non smooth dynamical systems|IOP|2025|2025
+NSD|nuclear structure dynamics|EDP|2025|2025
+NSEC|national software engineering|IEEE|2014|2015
+NSENS|micro nano sensors ai healthcare robotics|IEEE|2018|2025
+NSENS|micro nano sensors al healthcare robotics|IEEE|2020|2020
+NSES|national smart materials energy environment smart cities|Elsevier|2018|2018
+NSE|network simulation evaluation|Springer|2024|2024
+NSE|neuro symbolic software engineering|IEEE|2025|2026
+NSFMW|north sea flow measurement||2012|2019
+NSFM|meeting transactions american nuclear society embedded topical meeting nuclear fuels structural materials next generation nuclear reactors||2014|2014
+NSFSTU|steel fiber concrete us sweden joint seminar||1985|1985
+NSF|national science foundation forum optical science engineering|SPIE|1995|1995
+NSGE|asia pacific meeting near surface geoscience engineering||2021|2025
+NSG|advanced ground penetrating radar held near surface geoscience exhibition||2019|2019
+NSG|airborne drone robotic geophysics held near surface geoscience exhibition||2022|2024
+NSG|european meeting environmental engineering geophysics held near surface geoscience exhibition||2019|2024
+NSG|geohazards assessment risk mitigation held near surface geoscience exhibition||2025|2025
+NSG|geophysics geothermal energy utilization renewable energy storage held near surface geoscience exhibition||2019|2019
+NSG|geophysics infrastructure planning monitoring bim held near surface geoscience exhibition||2019|2023
+NSG|geophysics mineral exploration mining held near surface geoscience exhibition||2022|2025
+NSG|hydrogeophysics contribution exploration management groundwater land use natural hazards under changing climate held near surface geoscience exhibition||2021|2021
+NSG|hydrogeophysics held near surface geoscience exhibition||2023|2023
+NSG|meeting environmental engineering geophysics held near surface geoscience exhibition||2025|2025
+NSG|near surface geoscience exhibition programme||2022|2022
+NSG|nlp social good||2024|2024
+NSG|sub surface characterisation offshore wind held near surface geoscience exhibition||2023|2023
+NSG|uxo object detection held near surface geoscience exhibition||2025|2025
+NSHP|scientific technical hydraulic pneumatic drives control centrifugal pumps valves seals|Springer|2026|2026
+NSHP|scientific technical hydraulic pneumatic drives controls|Springer|2021|2024
+NSH|numerical ship hydrodynamics||2007|2007
+NSITNSW|national information technology towards new smart world|IEEE|2015|2015
+NSLE|nanotechnology sustainable living environment icon|Springer|2023|2023
+NSLP|natural scientific language processing research knowledge graphs|Springer|2024|2024
+NSM|nordic semiconductor meeting||2004|2012
+NSPW|new security paradigms post|ACM|2020|2020
+NSPW|new security paradigms|ACM|2001|2026
+NSPW|new security pardigms|ACM|2014|2014
+NSRD|national rotor dynamics|Springer|2021|2021
+NSREC|nuclear space radiation effects part||1995|1995
+NSREC|nuclear space radiation effects|IEEE|1993|2021
+NSREC|selected papers from nuclear space radiation effects reno nevada july||2000|2000
+NSS|analysis finite difference finite element techniques geothermal reservoir simulation||1976|1976
+NSS|network system security|Springer|2009|2026
+NSS|nuclear science||1991|1991
+NSS|selected papers from nuclear science ontario canada october||2000|2000
+NSS|selected papers from nuclear science seattle washington october||2000|2000
+NSS|selected papers from nuclear science||2001|2001
+NSS|society petroleum engineers numerical simulation||1968|1968
+NSS|society petroleum engineers spe numerical simulation reservoir performance||1973|1973
+NSS|society petroleum engineers spe numerical simulation||1970|1970
+NSTAR|physics excited nucleons|EDP|2006|2020
+NSTOOLS|icst network simulation tools|ACM|2007|2007
+NSTSI|nanoscience technology societal implications nstsi11||2011|2011
+NSURL|natural language speech processing nlp solutions under resourced languages co located||2021|2021
+NSV|numerical software verification|Springer|2017|2019
+NSWCTC|networks security wireless communications trusted computing||2009|2010
+NSW|network science||2011|2013
+NSYSS|networking systems security|ACM|2015|2025
+NSYSS|next generation computing communication systems security|ACM|2025|2025
+NTADES|new trends applications differential equations sciences|IOP|2019|2025
+NTAD|new trends aviation development scientific|IEEE|2023|2025
+NTAD|scientific new trends aviation development|IEEE|2018|2022
+NTA|new technologies aquileia||2011|2012
+NTCA|new trends civil aviation|IEEE|2018|2026
+NTCCIT|al mansour new trends computing communication information technology|IEEE|2018|2018
+NTCC|non traditional cement concrete||2024|2024
+NTCIR|nii testbeds community information access research|Springer|2019|2019
+NTCI|new trends computational intelligence|IEEE|2023|2025
+NTC|microwave systems|IEEE|1995|1995
+NTC|national telesystems space systems national well being security||1983|1983
+NTC|national telesystems|IEEE|1991|1992
+NTC|record national telesystems systems eighties||1982|1982
+NTC|sustainable green construction nano technology||2024|2024
+NTICT|national new trends information communications technology applications|Springer|2024|2025
+NTICT|new trends information communications technology applications|Springer|2017|2023
+NTIC|new technologies information communication|IEEE|2015|2022
+NTINAD|new trends aviation development scientific|IEEE|2019|2020
+NTMIM|non traditional machining intelligent manufacturing|IOP|2023|2023
+NTMS|ifip new technologies mobility security|IEEE|2011|2025
+NTMS|new technologies mobility security workshops|IEEE|2008|2015
+NTMS|new technologies mobility security||2009|2009
+NTM|institute navigation national meeting||2004|2004
+NTM|institute navigation national technical meeting||2005|2007
+NTM|novel techniques microscopy optica biophotonics congress part optica biophotonics congress optics life sciences||2025|2025
+NTM|novel techniques microscopy||2015|2023
+NTPMS|national new trends physics materials science||2014|2014
+NTSC|papers presented ntsc87 national thermal spray exposition||1988|1988
+NTSPORT|new trends hci sports co located mobile human computer interaction||2022|2022
+NTSP|new trends signal processing|IEEE|2016|2024
+NTSS|new trends similarity search||2011|2011
+NTZR|net zero built environment innovations materials structures management practices|Springer|2025|2025
+NUCPERF|corrosion long term performance concrete npp waste facilities||2006|2006
+NUCPERF|rilem long term performance cementitious barriers reinforced concrete nuclear power plants||2009|2009
+NUFACT|neutrino factories future neutrino facilities search||2019|2019
+NUFACT|neutrino factories future neutrino facilities||2015|2015
+NUFACT|neutrino factories super beams beta beams nufact08||2008|2008
+NUFACT|neutrino factories super beams beta beams|IOP|2012|2013
+NUFACT|neutrinos from accelerators||2019|2024
+NUGEN|sae summit||2019|2019
+NUICONE|nirma university engineering current trends technology||2011|2011
+NUICONE|nirma university engineering|IEEE|2012|2017
+NUICONE|technologies sustainable development nirma university engineering||2019|2019
+NUINT|sixth neutrino nucleus interactions few gev region||2009|2009
+NUMETA|numerical methods engineering theory applications||1985|1985
+NUMGE|numerical methods geotechnical engineering european numerical methods geotechnical engineering||2014|2014
+NUMGRID|numerical geometry grid generation scientific computing celebrating anniversary b n delaunay|Springer|2021|2021
+NUMGRID|numerical geometry grid generation scientific computing celebrating anniversary georgy f voronoi|Springer|2019|2019
+NUMGRID|numerical geometry grid generation scientific computing|Springer|2024|2024
+NUMIFORM|materials processing design modeling simulation applications numerical methods industrial forming processes||2007|2007
+NUMIFORM|numerical methods industrial forming processes|Springer|1986|2024
+NUMIFORM|third numerical methods forming processes||1990|1990
+NUMISHEET|numerical simulation 3d sheet metal forming processes|IOP|2022|2025
+NUMOG|numerical models geomechanics rhodes greece april numerical models geomechanics x||2007|2007
+NUMOG|numerical models geomechanics||2002|2004
+NUMOP|european problems numerical modelling plasmas|Elsevier|1990|1990
+NUMOP|problems numerical modeling plasmas european||1986|1986
+NUMTA|numerical computations theory algorithms|Springer|2025|2025
+NUMTA|triennial summer school numerical computations theory algorithms|Springer|2020|2020
+NUPAD|numerical modeling processes devices integrated circuits|IEEE|1994|1994
+NURER|nuclear renewable energy resources||2024|2024
+NURETH|topical meeting nuclear reactor thermal hydraulics|ACM|2007|2023
+NUSOD|leos numerical simulation semiconductor optoelectronic devices|IEEE|2003|2003
+NUSOD|numerical simulation optoelectronic devices|IEEE|2004|2025
+NUSOD|numerical simulation semiconductor optoelectronic devices||2006|2007
+NUSS|iaea safety codes guides light current safety issues||1985|1985
+NUSYS|national technical seminar underwater system technology|Springer|2019|2019
+NUSYS|national technical seminar unmanned system technology|Springer|2022|2022
+NUSYS|national technical unmanned system technology|Springer|2021|2024
+NUTHOS|topical meeting nuclear reactor thermal hydraulics operation safety||2024|2024
+NUTMIC|number theoretic methods cryptology|Springer|2018|2025
+NUT|noisy user generated text w computational linguistics||2022|2022
+NUT|noisy user generated text w||2017|2018
+NUT|w noisy user generated text||2021|2024
+NVC|noise vibration comfort|IOP|2014|2025
+NVC|noise vibration exhibition||2019|2025
+NVHH|acoustic vibration engineers|IOP|2023|2026
+NVMSA|non volatile memory systems applications|IEEE|2014|2025
+NVMTR|biennial nonvolatile memory technology review|IEEE|1993|1993
+NVMTS|non volatile mem technol symp|IEEE|2025|2025
+NVMTS|non volatile memory technology|IEEE|2004|2024
+NVSMW|non volatile semiconductor memory||2006|2006
+NWAP|new worlds astroparticle physics||2019|2019
+NWBC|nordic wood biorefinery||2008|2020
+NWESP|next generation web services practices||2005|2011
+NWESP|third next generation web services practices||2007|2007
+NWISED|co creating new ways information systems education||2025|2025
+NWRCS|national wireless research collaboration rapidly transitioning wireless spectrum using research deployable innovations|IEEE|2014|2014
+NWSEARCH|novel web search interfaces systems|ACM|2015|2015
+NWSIA|biennial desalting recycling meeting today s challenges|Elsevier|1992|1992
+NWW|nagoya winter reality measurement algebraic quantum theory|Springer|2018|2018
+NXDG|next generation data governance co located semantic systems||2024|2024
+NYCEMF|computer music icmc computer music new york city electroacoustic music festival||2019|2019
+NYSDS|new york scientific data summit powering future science artificial intelligence||2025|2025
+NYSDS|new york scientific data summit|IEEE|2016|2019
+NZCSRSC|new zealand computer science research student||2007|2008

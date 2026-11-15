@@ -1,0 +1,1675 @@
+P2P2004|fourth peer peer computing||2004|2004
+PAAISS|pan african artificial intelligence smart systems|Springer|2025|2025
+PAAISS|pan african intelligence smart systems|Springer|2022|2023
+PAAMS|advances practical applications agents multi agent systems||2013|2013
+PAAMS|advances practical applications heterogeneous multi agent systems collection|Springer|2014|2014
+PAAMS|advances practical applications scalable multi agent systems|Springer|2016|2016
+PAAMS|practical applications agents multi agent systems|Springer|2009|2026
+PAAMS|practical applications agents multiagent systems|Springer|2010|2010
+PAAMS|workshops practical applications agents multi agent systems sustainability|Springer|2015|2015
+PAAMS|workshops practical applications agents multi agent systems|Springer|2025|2025
+PAAP|parallel architectures algorithms programming|Springer|2010|2023
+PAAR|practical aspects automated reasoning co located joint automated reasoning floc||2022|2022
+PAAR|practical aspects automated reasoning||2008|2008
+PABS|spec performance analysis big data systems|ACM|2015|2015
+PACBB|practical applications computational biology bioinformatics|Springer|2014|2026
+PACCON|pure applied chemistry||2019|2019
+PACCS|pacific asia circuits communications system||2009|2011
+PACC|process automation control computing||2011|2011
+PACET|panhellenic electronics telecommunications|IEEE|2017|2025
+PACIFICHEM|chemical congress pacific basin societies twenty years organic superconductors new materials new sights||2002|2002
+PACIFICVIS|pacific visualization||2009|2026
+PACIFIC|pantograph catenary interaction framework intelligent control||2011|2011
+PACIFIC|rina royal institution naval architects maritime||2017|2017
+PACIFIC|technology object oriented languages systems||2000|2000
+PACIIA|asia pacific computational intelligence industrial applications||2009|2009
+PACIIA|pacific asia computational intelligence industrial application||2008|2008
+PACIS|ot pacific asia information systems societal transformation through is it||2017|2017
+PACIS|pacific asia information systems i t value creation||2005|2005
+PACIS|pacific asia information systems ict innovation economy||2006|2006
+PACIS|pacific asia information systems information systems future||2020|2020
+PACIS|pacific asia information systems it services global environment||2009|2009
+PACIS|pacific asia information systems leveraging ict resilient organizations sustainable growth asia pacific region||2008|2008
+PACIS|pacific asia information systems managing diversity digital enterprises||2007|2007
+PACIS|pacific asia information systems opportunities challenges digitized society are we ready||2018|2018
+PACIS|pacific asia information systems quality research pacific||2011|2011
+PACIS|pacific asia information systems secure ict platform industrial revolution||2019|2019
+PACIS|pacific asia information systems||2010|2025
+PACLIC|pacific asia language information computation volume||2009|2009
+PACLIC|pacific asia language information computation||1995|2022
+PACLING|pacific association computational linguistics|Springer|2016|2020
+PACMEDTEK|pacific medical technology transcending time distance structural barriers|IEEE|1998|1998
+PACMI|practical adoption challenges ml systems|ACM|2024|2025
+PACM|pure applied computational mathematics|SPIE|2023|2023
+PACOMS|isope pacific asia offshore mechanics||2010|2020
+PACOMS|pacific asia offshore mechanics||2014|2014
+PACOMS|seventh isope pacific asia offshore mechanics isope||2006|2006
+PACRIM|advances bioceramics biotechnologies ii collection papers presented pacific rim ceramic glass technology||2014|2014
+PACRIM|advances multifunctional materials systems ii collection papers presented pacific rim ceramic glass technology||2014|2014
+PACRIM|ceramics environmental energy applications ii collection papers presented pacific rim ceramic glass technology||2014|2014
+PACRIM|design development applications structural ceramics composites nanomaterials collection papers presented pacific rim conf ceramic glass technol||2014|2014
+PACRIM|innovative processing manufacturing advanced ceramics composites ii collection papers presented pacific rim ceramic glass technology||2014|2014
+PACRIM|pacific rim communications computers signal processing|IEEE|2009|2024
+PACS|picture archiving communication systems medical applications|SPIE|1982|1982
+PACS|power aware computer systems revised selected papers||2005|2005
+PACS|power aware computer systems|Springer|2001|2005
+PACTEC|pacific technical displays plastics technology innovations future||1981|1981
+PACTEC|spe pacific technical advances technology yield profitability||1983|1983
+PACT|fifteenth parallel architectures compilation techniques||2006|2006
+PACT|innovations power advanced computing technologies i|IEEE|2017|2025
+PACT|pan african information science computing telecommunications|IEEE|2013|2013
+PACT|pan african science computing telecommunications|IEEE|2014|2014
+PACT|parallel architecture compilation techniques|IEEE|2023|2023
+PACT|parallel architectures compilation techniques|IEEE|1996|2025
+PACT|parallel computing technologies|Springer|1997|2026
+PACT|parallelism architecture engineering computing techniques disruptive technologies innovations interdisciplinary considerations|Springer|2024|2024
+PACT|virtual innovations power advanced computing technologies i|IEEE|2021|2021
+PAC|particle accelerator volume||2003|2003
+PAC|particle accelerator||2003|2005
+PAC|pes ias powerafrica pioneering sustainable energy solutions africa s future|IEEE|2025|2025
+PAC|privacy aware computing|IEEE|2017|2018
+PADD|onr parallel distributed debugging|ACM|1991|1993
+PADD|sigplan sigops parallel distributed debugging|ACM|1988|1988
+PADG|policy based autonomic data governance conjunction european research computer security|Springer|2019|2019
+PADL|practical aspects declarative languages first||1999|1999
+PADL|practical aspects declarative languages|Springer|2000|2026
+PADO|programs as data objects second||2001|2001
+PADO|programs as data objects|Springer|2001|2001
+PADS|parallel distributed simulation|IEEE|1994|2004
+PADS|principles advanced distributed simulation||2005|2010
+PADS|scs parallel distributed simulation||2000|2000
+PADS|scs principles advanced distributed simulation||2009|2012
+PADS|sigsim principles advanced discrete simulation sigsim|ACM|2022|2023
+PADS|sigsim principles advanced discrete simulation|ACM|2016|2016
+PADS|sigsim sigsim principles advanced discrete simulation|ACM|2013|2025
+PADTAD|parallel distributed systems testing analysis debugging||2009|2012
+PADTAD|parallel distributed systems testing debugging||2006|2007
+PADTAD|software testing analysis parallel distributed systems testing analysis debugging||2008|2008
+PADW|computer architecture high performance computing workshops sbac applications multi many core architectures||2010|2010
+PADW|computer architecture high performance computing workshops sbac|IEEE|2016|2024
+PADW|sbc computer architecture high performance computing workshops sbac|IEEE|2025|2025
+PAD|computer architecture high performance computing sbac|IEEE|2005|2024
+PAD|sbac computer architecture high performance computing||2006|2006
+PAD|sbc computer architecture high performance computing sbac||2025|2025
+PAEE|progress applied electrical engineering|IEEE|2016|2025
+PAEE|project approaches engineering education active learning engineering education||2016|2025
+PAEE|project approaches engineering education||2017|2017
+PAEP|problems automated electric drive theory practice|IEEE|2020|2020
+PAHCE|global medical engineering physics exchanges pacific health care engineering gmepe||2023|2023
+PAHCE|global medical engineering physics exchanges pan american health care exchanges gmepe|IEEE|2016|2026
+PAHCE|pan american health care exchanges workshops exhibits cooperation linkages independent forum patient aare technology support||2012|2012
+PAHCE|pan american health care exchanges workshops exhibits cooperation linkages independent forum patient care technology support pan american health care exchanges workshops exhibits cooperation linkages independent forum patient care technology support||2011|2011
+PAHCE|pan american health care exchanges workshops exhibits cooperation linkages independent forum patient care technology support||2013|2014
+PAHCE|pan american health care exchanges||2009|2010
+PAINE|physical assurance inspection electronics|IEEE|2020|2025
+PAINT|sigplan programming abstractions interactive notations tools environments co located icfp|ACM|2025|2025
+PAINT|sigplan programming abstractions interactive notations tools environments co located|ACM|2022|2024
+PAIRT|society petroleum engineers spe practical aspects improved recovery techniques||1970|1970
+PAIR|patent information retrieval co located information knowledge management||2008|2010
+PAISI|intelligence security informatics pacific asia|Springer|2007|2014
+PAISI|pacific asia intelligence security informatics weakly supervised learning progress future learning data representation clustering biologically inspired techniques knowledge discovery data mining pacific asia deep learning knowledge transfer held conjunction pacific asia knowledge discovery data mining|Springer|2019|2019
+PAISI|pacific asia intelligence security informatics|Springer|2015|2017
+PAIS|pattern analysis intelligent systems|IEEE|2022|2025
+PAIS|post privacy anonymity information society co located||2008|2008
+PAIS|prestigious applications artificial intelligence co located ijcai||2022|2022
+PAIS|privacy anonymity information society||2011|2011
+PAI|ci4pm joint computational intelligence process mining pervasive artificial intelligence co located world congress computational intelligence||2023|2023
+PAI|popularize artificial intelligence ai ia prize celebrating anniversary alan turing s birth||2012|2012
+PAKDD|advances knowledge discovery data mining pacific asia|Springer|2005|2014
+PAKDD|ai ops competition large scale disk failure prediction ai ops held pacific asia knowledge discovery data mining|Springer|2020|2020
+PAKDD|data mining biomedical applications|Springer|2006|2006
+PAKDD|emerging technologies knowledge discovery data mining workshops revised selected papers|Springer|2007|2007
+PAKDD|emerging trends knowledge discovery data mining workshops dmhm geodoc 3clust dsdm revised selected papers|Springer|2013|2013
+PAKDD|knowledge discovery life science literature|Springer|2006|2006
+PAKDD|new frontiers applied data mining workshops revised selected papers|Springer|2009|2012
+PAKDD|pacific asia advances knowledge discovery data mining|Springer|2002|2018
+PAKDD|pacific asia knowledge discovery data mining held conjuction machine learning sensory data analysis biologically inspired data mining techniques pacific asia intelligence security informatics data mining business process management dm|Springer|2017|2017
+PAKDD|pacific asia knowledge discovery data mining|Springer|1998|2026
+PAKDD|pacific asia methodologies knowledge discovery data mining|Springer|1999|1999
+PAKDD|trends applications knowledge discovery data mining workshops dmapps danth qimie bdm cda cloudsd revised selected papers|Springer|2013|2013
+PAKDD|workshops bigpma vlsp qimie daebh held conjunction pacific asia knowledge discovery data mining|Springer|2015|2015
+PAKDD|workshops data mining decision analytics public health biologically inspired data mining techniques mobile data management mining computing social networks big data science engineering e commerce cloud service discovery msmv mbi scalable data analytics data mining decision analytics public health wellness algorithms large scale information processing knowledge discovery data mining social networks data mining biomedical informatics healthcare pattern mining application big data conjunction pacific asia knowledge discovery data mining|Springer|2014|2014
+PAKM|practical aspects knowledge management|Springer|2002|2008
+PALE|personalization approaches learning environments||2011|2011
+PAMCO|mobihoc privacy aware mobile computing|ACM|2016|2016
+PAMCO|privacy aware mobile computing co located|ACM|2015|2015
+PAME|design maximum energy efficiency desalination plant||1997|1997
+PAM|passive active measurement|Springer|2011|2026
+PAM|passive active network measurement|Springer|2004|2025
+PAM|physical science advance materials|IOP|2020|2020
+PAM|physical science advanced materials|IOP|2021|2025
+PANACM|pan american congress computational mechanics conjunction argentine congress computational mechanics||2015|2015
+PANACM|world congress computational mechanics pan american congress computational mechanics wccm||2024|2024
+PANAMUNSAT|advances unsaturated soils pan american unsaturated soils||2013|2013
+PANDAFPE|panda forum power energy|IEEE|2023|2023
+PANE|xi biennial national physics academy north east|IOP|2019|2019
+PANIC|particles nuclei||2022|2022
+PAN|biomonitoring peroxyacetyl nitrate ozone indicator plant set||1997|1997
+PAN|plagiarism analysis authorship identification near duplicate detection||2007|2007
+PAN|uncovering plagiarism authorship social software misuse competition plagiarism detection||2009|2009
+PAN|uncovering plagiarism authorship social software misuse||2008|2008
+PAPEC|principles practice eventual consistency|ACM|2014|2014
+PAPERCON|paper trade show growing future co located control systems||2012|2012
+PAPERCON|paper trade show renew rethink redefine future||2017|2017
+PAPERCON|paper trade show||2010|2019
+PAPERCON|tappi innovative nonwovens co located||2016|2016
+PAPERCON|tappi press paper trade show||2008|2008
+PAPERCON|tappi solutions changing world||2009|2009
+PAPERS|book exhibition||1985|1987
+PAPERS|book national technical aatcc||1982|1982
+PAPERS|digest radio frequency integrated circuits||2006|2006
+PAPERS|digest technical consumer electronics||1984|1984
+PAPERS|digest technical sid||1982|1984
+PAPERS|digest technical solid state circuits||1983|1985
+PAPERS|digest technical vlsi technology||1982|1984
+PAPERS|digest test||1981|1982
+PAPERS|federal exhibition australian institute refrigeration air conditioning heating inc||1980|1980
+PAPERS|power industry computer application||1983|1987
+PAPERS|session american mining congress coal convention||1982|1982
+PAPERS|technical acsm asp fall convention||1982|1984
+PAPERS|technical apea||1982|1984
+PAPERS|technical federal australian institute refrigeration air conditioning heating inc||1981|1981
+PAPERS|technical federal exhibition||1986|1986
+PAPER|american society mechanical engineers||1988|1988
+PAPOC|principles practice consistency distributed data co located european computer systems|ACM|2017|2018
+PAPOC|principles practice consistency distributed data part eurosys asplos workshops|ACM|2025|2025
+PAPOC|principles practice consistency distributed data part eurosys|ACM|2024|2024
+PAPOC|principles practice consistency distributed data part|ACM|2023|2023
+PAPOC|principles practice consistency distributed data|ACM|2015|2026
+PAPTAC|meeting preprints pulp paper technical association canada||2005|2005
+PAPTAC|meeting preprints||2006|2007
+PAPTAC|meeting pulp paper technical association canada preprint part b||2004|2004
+PAPTAC|meeting pulp paper technical association canada preprint part c||2004|2004
+PAPTAC|meeting pulp paper technical association canada preprint part||2004|2004
+PAPTAC|meeting technical section canadian pulp paper association preprints||2002|2002
+PAPTAC|pulp paper technical association canada meeting preprints book b||2005|2005
+PAPTAC|pulp paper technical association canada meeting preprints book c||2005|2005
+PAPTAC|pulp paper technical association canada meeting preprints book||2005|2005
+PAP|personal analytics privacy held conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2017|2017
+PARAPLOP|parallel programming patterns||2010|2010
+PARA|applied parallel computing computations physics chemistry engineering science|Springer|1996|1996
+PARA|applied parallel computing industrial computation optimization|Springer|1996|1996
+PARA|applied parallel computing large scale scientific industrial problems|Springer|1998|1998
+PARA|applied parallel computing state art scientific computing revised selected papers||2006|2007
+PARA|applied parallel computing|Springer|2002|2002
+PARA|applied parallel scientific computing revised selected papers||2012|2013
+PARA|parallel scientific computing|Springer|1994|1994
+PARBASE|proc int conf databases parallel architectures their applciations||1990|1990
+PARCFD|parallel computational fluid dynamics|Springer|2014|2014
+PARCOMPTECH|national parallel computing technologies|IEEE|2013|2017
+PARC|power electronics iot applications renewable energy its control|IEEE|2020|2026
+PARELEC|parallel computing electrical engineering system design automation sda||2004|2004
+PARELEC|parallel computing electrical engineering|IEEE|2000|2011
+PARENG|parallel distributed grid cloud computing engineering||2011|2011
+PARENG|parallel distributed grid computing engineering||2009|2009
+PARLE|parallel architectures languages europe|Springer|1987|1994
+PARTICLES|particle based methods fundamentals applications||2015|2021
+PART|taic testing academic industrial practice research techniques||2009|2009
+PART|testing academic industrial practice research techniques taic||2006|2008
+PART|testing practice research techniques academic industrial taic||2010|2010
+PAR|parallel processing euro|Springer|1995|1995
+PASA|parallel systems algorithms held architecture computing systems||2008|2008
+PASCAL|textual entailment paraphrasing meeting association computational linguistics||2007|2007
+PASCOS|particles strings cosmology|IOP|2010|2014
+PASCO|parallel symbolic computation||2007|2010
+PASC|platform advanced scientific computing|ACM|2016|2025
+PASE|parallel applications statistics economics managing unexpected unmodeled dynamics engineering finance||2000|2000
+PASI|pan american advanced studies institute|Springer|2014|2014
+PASM|practical applications stochastic modelling|Springer|2023|2023
+PASSAT|ase privacy security risk trust ase social computing socialcom||2012|2012
+PASSIVE|new trends environmental monitoring using systems||2008|2008
+PASSWORDS|technology practice|Springer|2016|2016
+PASTE|sigplan sigsoft program analysis software tools engineering|ACM|1999|2013
+PASTE|sigplan sigsoft program analysis software tools||2011|2011
+PASTE|sigsoft sigplan program analysis software tools engineering||2008|2008
+PAST|phased array systems technology|IEEE|2019|2022
+PAS|iee seminar developing applying best practice asset management one year||2005|2005
+PAS|process aware systems|Springer|2015|2016
+PATAT|practice theory automated timetabling iii third selected papers|Springer|2001|2001
+PATAT|practice theory automated timetabling v revised selected papers||2005|2005
+PATAT|practice theory automated timetabling vi revised selected papers||2006|2006
+PATAT|practice theory automated timetabling|Springer|2001|2024
+PATCH|personalized access cultural heritage co located multimedia||2012|2012
+PATCH|personalized access cultural heritage personalized access cultural heritage co located intelligent user interfaces||2015|2015
+PATC|society petroleum engineers papg spe pakistan section technical exhibition||2018|2018
+PATC|society petroleum engineers spe pakistan technical||2008|2008
+PATC|society petroleum engineers spe papg technical||2005|2013
+PATH|social coordination principles artefacts theories social aisb convention||2013|2013
+PATMOS|integrated circuit system design power timing modeling optimization simulation revised selected papers||2009|2013
+PATMOS|integrated circuit system design power timing modeling optimization simulation|Springer|2005|2011
+PATMOS|power timing modeling optimization simulation|IEEE|2000|2019
+PATRAM|packaging transportation radioactive materials||1983|1987
+PATRAS|axions wimps wisps||2008|2018
+PATS|society petroleum engineers papg spe pakistan section technical exhibition||2023|2023
+PATS|society petroleum engineers spe papg pakistan section technical exhibition||2019|2025
+PAULO|geotechnical aspects underground construction soft ground is sao||2018|2018
+PAVLAD|privacy anonymity very large datasets co located information knowledge management||2009|2009
+PAWR|topical power amplifiers wireless radio applications radio wireless week||2013|2013
+PAWR|topical power amplifiers wireless radio applications|IEEE|2014|2018
+PAWR|topical rf microwave power amplifiers radio wireless applications|IEEE|2019|2026
+PAW|pgas applications held conjunction sc high performance computing networking storage analysis|IEEE|2016|2017
+PBCA|european lead battery|Elsevier|1991|1991
+PBEC|society petroleum engineers spe permian basin energy||2024|2025
+PBG|point based graphics||2004|2004
+PBNC|pacific basin nuclear|Springer|2019|2024
+PBOC|society petroleum engineers spe permian basin oil recovery||1961|1961
+PBOR|society petroleum engineers permian basin oil recovery||1957|1957
+PBOR|society petroleum engineers spe permian basin oil recovery||1963|1967
+PBSFTT|prefabricated building seminar frontier technology talent training|Springer|2024|2024
+PBZN|lead zinc processing held conjunction meeting exhibition|Springer|2020|2020
+PCAPAC|emerging technologies scientific facilities controls||2018|2018
+PCAPAC|personal computers particle accelerator controls||2005|2019
+PCAR|practical cognitive agents robots||2006|2010
+PCA|ias cement industry ias|IEEE|2018|2025
+PCA|ias cement industry technical ias|IEEE|2021|2022
+PCA|ias cement industry technical record||2001|2002
+PCA|ias cement industry technical||2003|2003
+PCA|record ias cement industry ias|IEEE|2023|2024
+PCA|record ias cement industry technical||2004|2004
+PCBBE|polish biocybernetics biomedical engineering|Springer|2020|2022
+PCBEE|polish biocybernetics biomedical engineering|Springer|2024|2024
+PCCCTSG|power control communication computational technologies sustainable growth|IEEE|2015|2015
+PCCC|phoenix computers communications|IEEE|1993|1993
+PCCE|power conversion control engineering|IEEE|2025|2025
+PCCNT|power communication computing networking technologies|ACM|2023|2024
+PCC|pittsburgh coal clean coal based energy fuels environment||2019|2021
+PCC|pittsburgh coal coal energy environment sustainable development||2014|2017
+PCC|pittsburgh coal||2005|2023
+PCC|polish control|Springer|2020|2023
+PCC|record practical aspects engineering communication||1984|1984
+PCC|society petroleum engineers petroleum computer||1998|1998
+PCC|society petroleum engineers spe petroleum computer||1997|1997
+PCDG|scientific problems complex development georesources|EDP|2020|2020
+PCDS|parallel computing distributed systems|IEEE|2024|2025
+PCDS|privacy computing data security|IEEE|2025|2025
+PCEMS|paradigm shifts communication embedded systems machine learning signal processing|Springer|2022|2025
+PCEMS|paradigm shifts communications embedded systems machine learning signal processing|IEEE|2023|2023
+PCGAMES|procedural content generation games co located foundations digital games||2011|2011
+PCG|physical chemical geotechnologies|EDP|2024|2024
+PCG|procedural content generation games organized conjunction foundations digital games||2012|2012
+PCIC|ias petroleum chemical industry technical|IEEE|2021|2025
+PCIC|pacific causal inference|Springer|2025|2025
+PCIC|petroleum chemical industry committee|IEEE|2019|2019
+PCIC|petroleum chemical industry europe electrical instrumentation applications|IEEE|2014|2014
+PCIC|petroleum chemical industry technical|IEEE|2008|2017
+PCIC|record papers industry applications society petroleum chemical industry technical||2012|2013
+PCIC|record papers industry applications society petroleum chemical industry||2009|2011
+PCITC|power communication information technology|IEEE|2015|2015
+PCI|advances informatics panhellenic informatics||2005|2005
+PCI|official ninth||1984|1984
+PCI|official tenth||1985|1985
+PCI|official thirteenth||1987|1987
+PCI|official twelfth||1986|1986
+PCI|pan hellenic informatics computer society||2008|2008
+PCI|pan hellenic informatics|ACM|2020|2022
+PCI|pan hellenic progress computing informatics participation|ACM|2024|2024
+PCI|pan hellenic progress computing informatics|ACM|2023|2023
+PCI|panhellenic informatics|Springer|2003|2013
+PCI|problems cybernetics informatics|IEEE|2012|2025
+PCK|principles computing knowledge paris c kanellakis memorial||2003|2003
+PCMDLS|physics computer modeling devices based low dimensional structures|IEEE|1995|1995
+PCMNEA|physics chemistry materials novel engineering applications|IOP|2020|2020
+PCM|advances mulitmedia information processing pacific rim multimedia||2005|2005
+PCM|advances multimedia information processing pacific rim multimedia|Springer|2006|2013
+PCM|global polymer composite materials|IOP|2014|2025
+PCM|icics joint information communications signal processing pacific rim multimedia|IEEE|2003|2003
+PCM|icics joint information communications signal processing pacific rim|IEEE|2003|2003
+PCM|pacific rim multimedia|Springer|2001|2018
+PCM|polish congress mechanics computer methods mechanics||2016|2016
+PCODA|program comprehension through dynamic analysis|IEEE|2015|2015
+PCO|power control optimization global power control optimization||2010|2010
+PCPAS|xvii school young scholars physical chemical processes atomic systems||2020|2020
+PCRCW|parallel computer routing communication|Springer|1994|1998
+PCSF|professional culture specialist future|Springer|2022|2026
+PCSI|physics chemistry semiconductor interfaces||1995|1995
+PCSPA|pervasive computing signal processing applications||2010|2010
+PCS|isa process control safety||2014|2014
+PCS|northeast personal computer security|ACM|1986|1986
+PCS|photon correlation scattering||2000|2000
+PCS|picture coding packet video pv|IEEE|2015|2015
+PCS|picture coding pcs2006||2006|2006
+PCS|picture coding|IEEE|2001|2025
+PCS|sensor network security technology privacy communication system sns||2013|2013
+PCTDDE|cmi prospects challenges towards developing digital economy within eu|IEEE|2018|2018
+PCTHEALTH|pervasive computing technologies healthcare pervasive health||2009|2009
+PCT|parallel computational technologies|Springer|2017|2026
+PCT|scientific parallel computational technologies|Springer|2018|2024
+PD3|product design development division regional technical||1996|1996
+PDAC|petascal data analytics challenges opportunities co located sc|ACM|2011|2011
+PDCAT|parallel distributed computing applications technologies|Springer|2003|2025
+PDCAT|proceedlngs seventh parallel distributed computing applications technologies||2006|2006
+PDCAT|sixth parallel distributed computing applications technologies||2005|2005
+PDCCS|isca parallel distributed computing communication systems||2008|2009
+PDCN|iasted multiconferences iasted parallel distributed computing networks||2013|2013
+PDCN|iasted parallel distributed computing networks||2009|2016
+PDCN|parallel distributed computing networks revised selected papers||2011|2011
+PDCS|iasted parallel distributed computing systems||2006|2012
+PDCS|isca parallel distributed computing systems||2003|2005
+PDCS|parallel distributed computing systems||2001|2007
+PDCTA|advances parallel distributed computing first parallel distributed computing technologies applications||2011|2011
+PDCUBE|product design development deployment|IOP|2022|2022
+PDC|eighth participatory design artful integration interweaving media materials practices||2004|2004
+PDC|embracing cosmologies expanding worlds participatory design participatory design|ACM|2022|2022
+PDC|embracing new territories participation participatory design||2012|2012
+PDC|participation challenge participatory design||2010|2010
+PDC|participation otherwise participatory design|ACM|2020|2020
+PDC|participatory design democracy politics participatory design|ACM|2018|2018
+PDC|participatory design expanding boundaries design|ACM|2006|2006
+PDC|participatory design vol workshops situated actions places|ACM|2026|2026
+PDC|reaching out connecting beyond participation biennial participatory design|ACM|2024|2024
+PDC|reflecting connectedness participatory design|ACM|2014|2014
+PDES|ifac programmable devices embedded systems|Elsevier|2009|2024
+PDES|particle systems partial differential equations i|Springer|2014|2014
+PDES|particle systems partial differential equations ps|Springer|2016|2016
+PDEUD|participatory design end user development building bridges co located nordic human computer interaction||2024|2024
+PDE|colloquium partial differential equations applications|Springer|2023|2023
+PDE|ds e engineering product design education creating better world||2009|2009
+PDE|ds e engineering product design education when design education design research meet||2010|2010
+PDE|ds e engineering product design education||2007|2011
+PDE|engineering product design education building community design education sustainable future e||2017|2017
+PDE|engineering product design education design education collaboration cross disciplinarity e||2016|2016
+PDE|engineering product design education design education human technology relations e||2014|2014
+PDE|engineering product design education disrupt innovate regenerate transform e||2022|2022
+PDE|engineering product design education e||2018|2021
+PDE|engineering product design education great expectations design teaching research enterprise e||2015|2015
+PDE|engineering product design education responsible innovation global co habitation e||2023|2023
+PDE|engineering product design education rise machines design education generative ai era e||2024|2024
+PDE|engineering product design education towards new innovation landscape e||2019|2019
+PDGC|parallel distributed grid computing|IEEE|2010|2024
+PDIS|parallel distributed information systems|IEEE|1993|1993
+PDK|processing declarative knowledge|Springer|1991|1991
+PDMC|parallel distributed methods verification joint high performance computational systems biology||2010|2010
+PDMC|parallel distributed methods verification|Elsevier|2008|2008
+PDMC|parallel distributed model checking satellite|Elsevier|2003|2003
+PDM|personal data meets distributed multimedia co located multimedia||2013|2013
+PDM|workshops sogood nfmcp xkdd umod item midas mlcs mlbem pharml dals iot held conjunction joint european machine learning principles practice knowledge discovery databases ecml|Springer|2023|2023
+PDPAR|third pragmatics decision procedures automated reasoning|Elsevier|2006|2006
+PDPTA|parallel distributed processing techniques applications volume iii||2004|2004
+PDPTA|parallel distributed processing techniques applications volume i||2004|2004
+PDPTA|parallel distributed processing techniques applications||2004|2008
+PDPTA|parallel distributed processing techniques held as part world congress computer science computer engineering applied computing|Springer|2025|2025
+PDP|euromicro parallel distributed network based processing euro|IEEE|2003|2003
+PDP|euromicro parallel distributed network based processing|IEEE|2004|2025
+PDP|euromicro parallel distributed processing euro|IEEE|2000|2000
+PDP|euromicro parallel distributed processing|IEEE|1994|2001
+PDR|advances product development reliability||2012|2012
+PDSED|scientific practical priority directions complex socio economic development region|EDP|2023|2023
+PDSE|software engineering parallel distributed systems|IEEE|1999|2000
+PDSG|pedagogically driven serious games conjunction european technology enhanced learning ec||2012|2012
+PDSW|parallel data storage co located sc|ACM|2011|2011
+PDSW|parallel data storage held conjunction sc high performance computing networking storage analysis|ACM|2013|2015
+PDSW|parallel data systems held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+PDSW|petascale data storage held conjunction sc high performance computing networking storage analysis||2010|2010
+PDSW|petascale data storage held conjunction supercomputing|ACM|2008|2009
+PDSW|petascale data storage||2008|2008
+PDT|posters demos track middleware middleware||2011|2011
+PDWT|joint posters demos workshops tutorials knowledge engineering knowledge management co located knowledge engineering knowledge management||2024|2024
+PDWT|joint posters demos workshops tutorials semantic systems co located semantic systems||2024|2025
+PEAC|power electronics advanced control|IOP|2023|2023
+PEAC|power electronics application exposition|IEEE|2014|2022
+PEAE|power automation engineering|Springer|2026|2026
+PEAI|power electronics artificial intelligence|ACM|2024|2024
+PEAI|second power electronics artificial intelligence|SPIE|2025|2025
+PEAI|third power electronics artificial intelligence|SPIE|2026|2026
+PEAMI|russian power engineering automation metallurgy industry research practice|IEEE|2019|2023
+PEAM|power engineering automation||2011|2012
+PEARC|computing common good practice experience advanced research computing|ACM|2023|2023
+PEARC|practice experience advanced research computing catch wave|ACM|2020|2020
+PEARC|practice experience advanced research computing human powered computing|ACM|2024|2024
+PEARC|practice experience advanced research computing power collaboration|ACM|2025|2025
+PEARC|practice experience advanced research computing rise machines|ACM|2019|2019
+PEARC|series practice experience advanced research computing revolutionary computing connections you|ACM|2022|2022
+PEARL|physics electron beam ion traps advanced research light sources||2007|2007
+PEASA|power electronics aerospace applications|IEEE|2023|2025
+PEAS|power electronics application|IEEE|2021|2025
+PEA|iasted power energy applications science technology development century||2006|2006
+PECCON|power engineering computing control|Springer|2020|2021
+PECCON|virtual power engineering computing control developments electric vehicles energy sector sustainable future|IEEE|2022|2022
+PECCS|joint pervasive embedded computing communication systems|SciTePress|2016|2018
+PECCS|pervasive embedded computing communication systems|SciTePress|2011|2019
+PECCS|pervasive parallel computing communication sensors|SciTePress|2020|2020
+PECI|power energy illinois|IEEE|2010|2026
+PECMC|pittsburg energy carbon management||2024|2024
+PECON|first power energy||2006|2006
+PECON|national power energy||2004|2004
+PECON|national power engineering|IEEE|2003|2003
+PECON|pecon2010 power energy||2010|2010
+PECON|power energy advancement power energy systems towards sustainable resilient energy supply|IEEE|2022|2022
+PECON|power energy|IEEE|2008|2024
+PECS|performance energy efficiency concurrent distributed systems part high performance parallel distributed computing|ACM|2024|2024
+PECS|photo echo coherent spectroscopy||2001|2001
+PECTEA|power electronics converters transportation energy applications|IEEE|2025|2025
+PEC|society petroleum engineers spe petroleum exposition||1976|1976
+PEDES|joint power electronics drives energy systems power india||2010|2010
+PEDES|power electronic drives energy systems industrial growth|IEEE|1998|1998
+PEDES|power electronics drives energy systems industrial growth part||1996|1996
+PEDES|power electronics drives energy systems|IEEE|2006|2024
+PEDG|power electronics distributed generation systems|IEEE|2010|2025
+PEDSTC|power electronics drive systems technologies|IEEE|2010|2025
+PEDSTC|power electronics drive systems technology||2012|2012
+PEDS|power electronics drive systems|IEEE|1996|2025
+PEDS|power electronics drives systems||2005|2005
+PEDS|sixth power electronics drive systems||2005|2005
+PEEA|power electronics engineering application||2011|2011
+PEECT|asia power energy engineering computer technology|IEEE|2023|2023
+PEED|power electronics electric drives|IEEE|2025|2026
+PEEEC|power electrical engineering electronics control|IEEE|2023|2025
+PEEE|power energy electrical engineering|IOP|2020|2025
+PEEIACON|power electrical electronic industrial applications|IEEE|2021|2021
+PEEIACON|power electrical electronics industrial applications|IEEE|2019|2024
+PEEIC|power energy environment intelligent control|IEEE|2018|2023
+PEERS|pulping engineering environmental recycling sustainability technical solutions today beyond||2018|2018
+PEERS|pulping engineering environmental recycling sustainability||2016|2019
+PEET|power engineering electrical technology|IEEE|2025|2025
+PEFC&E|polymer electrolyte fuel cells electrolyzers|IOP|2018|2018
+PEFC|polymer electrolyte fuel cells|IOP|2010|2017
+PEHC|programming environments heterogeneous computing held conjunction sc high performance computing networking storage analysis|IEEE|2021|2021
+PEIA|elcon young researchers power energy industry applications elcon|IEEE|2026|2026
+PEICS|pattern driven engineering interactive computing systems organized sigchi engineering interactive computing systems||2011|2011
+PEICS|proc pattern driven engineering interactive computing systems sigchi engineering interactive computing systems||2010|2010
+PEIE|advances power electronics instrumentation engineering second||2011|2011
+PEIE|power electronics instrumentation engineering||2010|2010
+PEIM|3d 3d power electronics integration manufacturing|IEEE|2016|2018
+PEIM|3d power electronics integration manufacturing 3d|IEEE|2021|2025
+PEIS|power engineering intelligent systems|Springer|2024|2026
+PEITS|power electronics intelligent transportation system||2008|2009
+PEIT|accs advanced control circuits systems new paradigms electronics information technology|IEEE|2019|2019
+PEIT|accs intl conf advanced control circuits systems intl conf new paradigms electronics information technology|IEEE|2017|2017
+PELSS|power electronics student summit||2024|2024
+PEMC|epe power electronics motion control||2007|2010
+PEMC|power electronics motion control epe||2008|2008
+PEMC|power electronics motion control exposition epe ecce europe||2012|2012
+PEMC|power electronics motion control exposition|IEEE|2014|2014
+PEMC|power electronics motion control|IEEE|2016|2024
+PEMD|iet power electronics machines drives||2008|2014
+PEMD|power electronics machines drives||2020|2024
+PEMD|second power electronics machines drives volume||2004|2004
+PEME|process equipment mechatronics engineering material science peme2013||2013|2013
+PEME|process equipment mechatronics engineering material science||2014|2014
+PEMM|precision engineering mechanical manufacturing|SPIE|2024|2025
+PEMWA|power electronics machines wind applications||2009|2012
+PEMWA|power electronics machines wind water applications|IEEE|2014|2014
+PEMWN|ifip performance evaluation modeling wired wireless networks|IEEE|2016|2025
+PEMWN|ifip performance evaluation modeling wireless networks|IEEE|2020|2020
+PEMWN|ifip performance evaluation modeling wireless wired networks|IEEE|2021|2022
+PEMWN|performance evaluation modeling wired wireless networks|IEEE|2019|2019
+PENGE|petri net games examples quizzes education contest fun co located application theory petri nets concurrency petri nets||2024|2024
+PENTM|precision engineering non traditional machining||2012|2012
+PEOCO|power engineering optimization program abstracts||2010|2011
+PEOCO|power engineering optimization||2012|2014
+PEOPLES|computational modeling pfople s opinions personality emotions social media north american chapter association computational linguistics human language technologies naacl||2018|2018
+PEPM|partial evaluation program manipulation||2006|2007
+PEPM|popl partial evaluation program manipulation||2012|2012
+PEPM|scientific power engineering power machines|EDP|2020|2021
+PEPM|sigplan partial evaluation program manipulation co located|ACM|2013|2026
+PEPM|sigplan partial evaluation program manipulation||2009|2010
+PEPM|sigplan partial evaluation semantics based program manipulation|ACM|1997|2008
+PEPM|sigplan partial evaluation semantrics based program manipulation||2003|2003
+PEPQA|power electronics power quality applications|IEEE|2013|2025
+PEPSC|power electronics power system|IEEE|2023|2025
+PEP|ict technology policy energy electric power advanced technology transitioning sustainable energy modern power systems|IEEE|2022|2022
+PEP|ict technology policy energy electric power decarbonizing power sector opportunities challenges renewable energy integration|IEEE|2023|2023
+PEP|ict technology policy energy electric power emerging energy sustainability smart grid microgrid technologies future power system|IEEE|2021|2021
+PEP|ict technology policy energy electric power resilient power systems navigating clean energy transition|IEEE|2024|2024
+PEP|ict technology policy energy electric power|IEEE|2025|2025
+PEP|polymeric electronics packaging||1997|1997
+PEP|technology policy electric power energy ict|ACM|2020|2020
+PERAC|from perception action|IEEE|1994|1994
+PERCAA|pervasive computing advances applications||2024|2024
+PERCAR|vr perceptual cognitive issues ar|IEEE|2016|2016
+PERCOM|fifth pervasive computing communications||2007|2007
+PERCOM|fourth pervasive computing communications||2006|2006
+PERCOM|pervasive computing communications|IEEE|2003|2026
+PERCOM|second pervasive computing communications workshops||2004|2004
+PERCOM|sixth pervasive computing communications||2008|2008
+PERCOM|third pervasive computing communications workshops workshops||2005|2005
+PERCOM|third pervasive computing communications||2005|2005
+PERC|physics education research||2018|2025
+PERDIS|pervasive displays pervasive displays|ACM|2019|2020
+PERDIS|pervasive displays|ACM|2012|2026
+PEREA|power electronics renewable energy applications|IEEE|2020|2020
+PERESC|power electronic renewable energy systems control|Springer|2021|2021
+PERFIK|malaysia physics||2011|2011
+PERFORMANCE|computer modelling measurement evaluation|ACM|1980|1981
+PERFORMANCE|joint computer modelling measurement evaluation||1986|1986
+PERFORMANCE|modelling evaluation parallel systems||1986|1986
+PERFORMANCE|models computer system tenth||1985|1985
+PERFORMANCE|sigmetrics abstract sigmetrics ifip joint measurement modeling computer systems|ACM|2022|2022
+PERFORMANCE|sigmetrics abstracts sigmetrics ifip joint measurement modeling computer systems|ACM|2024|2024
+PERFORMANCE|sigmetrics joint measurement modeling computer systems sigmetrics|ACM|1992|1992
+PERFORMANCE|special issue ifip computer modeling measurement evaluation|ACM|2011|2011
+PERFORM|ifip wg performance evaluation computer communication systems|Springer|2011|2011
+PERFORM|performance evaluation computer communication systems milestones future challenges ifip wg honor gunter haring occasion his emeritus celebration revised selected papers||2011|2011
+PERF|inter icst interdisciplinary systems approach performance evaluation design computer comunication system|ACM|2007|2007
+PERMAVOST|performance engineering modelling analysis visualization strategy co located|ACM|2022|2022
+PERMAVOST|performance engineering modelling analysis visualization strategy part high performance parallel distributed computing|ACM|2024|2024
+PERMAVOST|performance engineering modelling analysis visualization strategy|ACM|2021|2023
+PERMIN|perception machine intelligence first indo japan||2012|2012
+PERMIS|performance metrics intelligent systems||2008|2012
+PERM|sigplan partial evaluation program manipulation||2011|2011
+PERSDB|personalized access profile management context awareness databases conjunction||2009|2012
+PERSDB|personalized access profile management context awareness databases electronic conjunction||2008|2010
+PERSDB|personalized access profile management context awareness databases very large data bases||2011|2011
+PERSDB|personalized access profile management context awareness databases||2013|2013
+PERSDL|delos thematic personalized access profile management context awareness digital libraries||2007|2007
+PERSOM|eai pervasive knowledge collective intelligence web social media|Springer|2024|2024
+PERSOM|pervasive knowledge collective intelligence web social media|Springer|2023|2023
+PERSONALIZE|personalization generative ai systems||2024|2024
+PERSPECTIVES|evaluation recommender systems co located recommender systems||2022|2023
+PERSPEGKTIVE|digital innovative secure information technology health care tomorrow digital innovative und sichere informationstechnologie fur das gesundheitswesen von morgen||2011|2011
+PERSPEGKTIVE|innovative secure information technology health care tomorrow innovative und sichere informationstechnologie fur das gesundheitswesen von morgen||2010|2010
+PERSUASIVE|satellite events held together technology|Springer|2026|2026
+PERSUASIVE|technology design health safety||2012|2012
+PERSUASIVE|technology first technology human well being|Springer|2006|2006
+PERSUASIVE|technology second technology revised selected papers||2007|2007
+PERSUASIVE|technology technology design enhancing sustainability health||2011|2011
+PERSUASIVE|technology third||2008|2008
+PERTEA|woda joint dynamic analysis software system performance testing debugging analytics|ACM|2014|2014
+PERVASIVE|computing third|Springer|2005|2005
+PESA|iasted power energy systems applications||2011|2012
+PESA|power electronics systems applications electric transportation automotive vessel aircraft|IEEE|2015|2015
+PESA|power electronics systems applications future mobility future power transfer|IEEE|2020|2020
+PESA|power electronics systems applications smart mobility power transfer security|IEEE|2017|2017
+PESA|power electronics systems applications|IEEE|2009|2024
+PESC|iee power electronics specialists pesc04 volume||2004|2004
+PESC|power electronics specialists part||1994|1994
+PESC|power electronics specialists pesc04 volume||2004|2004
+PESC|power electronics specialists power electronics specialists||1989|1989
+PESC|power electronics specialists volume||2004|2004
+PESC|power electronics specialists||1990|2008
+PESC|record power electronics specialists||1982|1988
+PESC|th power electronics specialists pesc04 volume||2004|2004
+PESGM|power energy society general meeting||2019|2025
+PESGRE|power electronics smart grid renewable energy power electronics smart grid renewable energy sustainable development|IEEE|2023|2023
+PESGRE|power electronics smart grid renewable energy|IEEE|2020|2025
+PESOS|icse principles engineering service oriented systems||2009|2009
+PESOS|principles engineering service oriented cloud systems|ACM|2014|2014
+PESOS|principles engineering service oriented systems co located||2011|2011
+PESOS|principles engineering service oriented systems conjunction software engineering||2010|2010
+PESOS|principles engineering service oriented systems||2012|2013
+PESPC|scientific technical||2020|2020
+PESP|sources polarized leptons high brightness electron beams|IOP|2011|2011
+PESS|power energy student summit||2020|2024
+PESTSE|biennial power energy systems towards sustainable energy|IEEE|2016|2016
+PESTSE|power energy systems towards sustainable energy||2014|2014
+PES|cigre joint integration wide scale renewable resources into power delivery system cigre||2009|2009
+PES|cigre quality security electric power delivery systems cigre|IEEE|2003|2003
+PES|exposition africa inaugural||2005|2005
+PES|general meeting||2010|2010
+PES|iasted power energy systems||2005|2008
+PES|joint power generation exposition||1992|1992
+PES|joint power generation||1984|1986
+PES|power energy society general meeting||2009|2013
+PES|power engineering society summer meeting|IEEE|1999|1999
+PES|power engineering society winter meeting|IEEE|2001|2001
+PES|scientific applied problems emergency situations||2020|2025
+PES|scientific practical actual issues physical education innovation sports|EDP|2020|2020
+PES|summer meeting||1986|1986
+PES|technical papers summer meeting||1984|1985
+PES|technical papers winter meeting||1985|1985
+PES|transmission distribution||1984|1990
+PES|winter meeting||1987|1987
+PETER|new models hydrocodes shock wave physics||2022|2022
+PETGS|power electronics technology grid systems|SPIE|2025|2026
+PETMEI|pervasive eye tracking mobile eye based interaction|ACM|2011|2018
+PETPES|power electronics applications technology present energy scenario|IEEE|2019|2019
+PETRA|pervasive technologies related assistive environments program||2012|2012
+PETRA|pervasive technologies related assistive environments|ACM|2008|2025
+PETROLCHEMIE|carbochemical utilization lignites lignite products papers presented fair carbo petrochemistry leipzig carbochemische nutzung von braunkohlen und braunkohlenprodukten vortraege zum internationalen messesymposium carbo und||1987|1987
+PETROMAR|petroleum marine environment||1981|1981
+PETROVIETNAM|society petroleum engineers||1995|1995
+PETSHOP|language support privacy enhancing technologies co located|ACM|2013|2013
+PETS|performance evaluation tracking surveillance||2013|2013
+PETS|privacy enhancing technologies|Springer|2008|2014
+PET|privacy enhancing technologies revised selected papers|Springer|2006|2007
+PET|privacy enhancing technologies|Springer|2003|2005
+PFC|perfluorocarbon generation primary aluminum smelters||1998|1998
+PFC|reduction perfluorocarbon emissions alcan s primary aluminum smelters||1997|1997
+PFE|high capacity optical networks emerging enabling technologies honet|IEEE|2014|2014
+PFE|photonics energy||2015|2018
+PFE|product family engineering|Springer|2002|2002
+PFE|software product family engineering|Springer|2004|2004
+PFIA|ic journees francophones d ingenierie des connaissances||2023|2023
+PFLJAPAN|jsae sae powertrains energy lubricants meeting||2023|2023
+PFL|sae powertrains fuels lubricants exhibition||2022|2022
+PFL|sae powertrains fuels lubricants meeting||2020|2020
+PFMC|plasma facing materials components fusion applications|IOP|2009|2020
+PFM|applications ferroelectrics held jointly european applications polar dielectrics isaf ecapd||2012|2012
+PFM|applications ferroelectrics piezoresponse force microscopy nanoscale phenomena polar materials isaf||2011|2011
+PFM|joint applications ferroelectric acoustic transduction materials devices piezoresponse force microscopy isaf iwatmd|IEEE|2014|2014
+PFM|joint applications ferroelectric integrated functionalities piezoelectric force microscopy isaf isif|IEEE|2015|2015
+PFM|joint applications ferroelectric piezoresponse force microscopy isaf||2013|2013
+PFM|joint applications ferroelectrics acoustic transduction materials devices piezoresponse force microscopy isaf iwatmd|IEEE|2017|2017
+PFM|joint applications ferroelectrics european application polar dielectrics piezoelectric force microscopy isaf ecapd|IEEE|2016|2016
+PFSD|prospects fundamental sciences development||2014|2014
+PFSD|students young scientists prospects fundamental sciences development|Springer|2019|2019
+PFSD|xviii prospects fundamental sciences development||2021|2021
+PFSW|programmable file systems co located|ACM|2014|2014
+PGAS|partitioned global address space programing models||2009|2009
+PGAS|partitioned global address space programming models|IEEE|2010|2015
+PGCE|petroleum geoscience exhibition innovative geoscience securing energy needs||2013|2013
+PGC|photonics global|IEEE|2010|2025
+PGES|power grid energy storage|IEEE|2024|2025
+PGMTT|national digest|IEEE|1961|1961
+PGM|european probabilistic graphical models|Springer|2006|2014
+PGM|probabilistic graphical models jmlr||2016|2016
+PGM|probabilistic graphical models||2018|2024
+PGON|xviii scientific honour academician m usov problems geology subsurface development|IOP|2014|2014
+PGR|national postgraduate research ncon|Elsevier|2022|2022
+PGSEST|power grid systems energy storage technology|IOP|2022|2022
+PGSGE|power grid systems green energy|IOP|2022|2023
+PGSRET|power generation systems renewable energy technologies|IEEE|2015|2019
+PHAST|photonic applications systems technologies||2004|2004
+PHDFORUM|mobisys phd forum|ACM|2015|2015
+PHDJAMBOREE|k space phd jamboree||2008|2008
+PHD|co located very large data bases||2023|2023
+PHD|co located very large databases||2020|2021
+PHD|conjunction advances geographic information systems|ACM|2016|2016
+PHD|er forum er forum co located conceptual modeling er||2022|2022
+PHD|ict education research industrial applications co located ict education research industrial applications||2020|2020
+PHD|joint edebt icdt|ACM|2011|2011
+PHD|sigpatial conjunction advances geographic information systems|ACM|2014|2014
+PHD|sigspatial sigspatial|ACM|2015|2015
+PHEDCS|applied photogrammetry remote sensing environmental industry aprsei||2025|2025
+PHEDCS|geoeducation mining architecture civil engineering||2023|2023
+PHENMA|physics mechanics new materials their applications|Springer|2016|2019
+PHENMA|physics mechanics new materials underwater applications|Springer|2014|2014
+PHENOHCI|phenomenological concepts methods hci research co located ifip tc13 human computer interaction||2025|2025
+PHHQP|non hermitian hamiltonians quantum physics|Springer|2016|2016
+PHILGEOS|isprs icwg iv iii philippine geomatics||2024|2024
+PHILGEOS|philippine geomatics enhancing human quality life through geospatial technologies||2026|2026
+PHILOWEB|web philosophy why what||2012|2012
+PHM|prognostics health management enhancing safety efficiency availability effectiveness systems through phaf technology application|IEEE|2015|2015
+PHM|prognostics health management enhancing safety efficiency availability effectiveness systems through technology application program||2012|2012
+PHM|prognostics health management phm2008||2008|2008
+PHM|prognostics health management society||2009|2025
+PHM|prognostics health management|IEEE|2011|2015
+PHM|prognostics system health management|IEEE|2010|2025
+PHONESENSE|sensing applications mobile phones conjunction|ACM|2012|2012
+PHOSPHIDE|materials aspects indium third nato||1987|1987
+PHOSST|photonics society summer topical meeting series||2010|2010
+PHOTINICS|meeting photonics society||2010|2010
+PHOTODET|new photon detectors||2012|2012
+PHOTONICS|fiber optics||2012|2012
+PHOTONICS|optics technology oriented networking information computing systems held conjunction sc high performance computing networking storage analysis|IEEE|2019|2019
+PHOTON|its first hundred years future centenary photon2005 structure interactions including collisions||2006|2006
+PHOTON|optical fibers adverse environments|SPIE|1984|1984
+PHOTON|optical fibers biomedical field|SPIE|1984|1984
+PHOTON|structure interactions including collisions high energy linear colliders||2010|2010
+PHOTOPTICS|photonics optics laser technology|SciTePress|2013|2026
+PHO|photonic society meeting||2011|2011
+PHT|embs special topic point care healthcare technologies synergy towards better global healthcare||2013|2013
+PHYCONBA|physics bosnia herzegovina|IOP|2021|2022
+PHYCS|physiological computing systems physiological computing systems physiological computing systems|Springer|2019|2019
+PHYCS|physiological computing systems|SciTePress|2014|2018
+PHYSBIOSYMP|school young scientists physics engineering technologies bio medicine||2021|2021
+PHYSCOMP|physics computation|IEEE|1992|1994
+PHYSCON|physics control|IEEE|2003|2005
+PHYSICS|advanced summer school frontiers contemporary eavo6||2007|2007
+PHYSOR|american nuclear society s topical meeting reactor physics||2006|2006
+PHYSOR|ans topical meeting advances reactor physics mathematics computation into next millennium||2000|2000
+PHYSOR|new frontiers nuclear technology reactor physics safety high performance computing rpd topical meeting||2002|2002
+PHYSOR|physics fuel cycles advanced nuclear systems global developments||2004|2004
+PHYSOR|physics reactors advances reactor physics||2012|2012
+PHYSOR|physics reactors reactor physics paving way towards more efficient systems||2018|2018
+PHYSOR|physics reactors transition scalable nuclear future|EDP|2020|2020
+PHYSOR|physics reactors unifying theory experiments century||2016|2016
+PHYSOR|physics reactors||2008|2024
+PHYSTAT|lhc statistical issues lhc physics||2008|2008
+PHYSTAT|statistical issues related discovery claims search experiments unfolding||2011|2011
+PHYSTAT|statistical problems particle physics astrophysics cosmology||2006|2006
+PIAE|plastics automotive engineering||2019|2020
+PIAGENG|image processing photonics agricultural engineering||2009|2013
+PIAGENG|intelligent information control communication technology agricultural engineering||2009|2013
+PIAGENG|photonics imaging agricultural engineering||2011|2011
+PIAGENG|remote sensing geoscience agricultural engineering||2009|2009
+PIAM|society petroleum engineers petroleum industry application microcomputers||1986|1987
+PIAS|physics different scales|IOP|2025|2025
+PIA|new technologies personalized information access held conjunction user modeling um||2005|2005
+PIA|photogrammetric image analysis isprs||2011|2011
+PIA|photogrammetric image analysis munich remote sensing joint isprs||2019|2019
+PIA|photogrammetric image analysis munich remote sensing||2019|2019
+PIA|photogrammetric image analysis||2007|2007
+PIBIDR|scientific problems industrial botany industrially developed regions|EDP|2021|2024
+PIBM|photonics imaging biology medicine|IOP|2009|2017
+PIBM|seventeenth photonics imaging biology medicine|SPIE|2025|2025
+PIBM|sixteenth photonics imaging biology medicine|SPIE|2023|2023
+PIBM|tenth photonics imaging biology medicine||2012|2012
+PICALO|pacific applications laser optics||2006|2006
+PICALO|pacific applications lasers optics||2008|2010
+PICALO|peacifice applications laser optics||2004|2004
+PICC|power instrumentation control computing instrumentation control communication computing techniques smarter energy efficient tomorrow|IEEE|2025|2025
+PICC|power instrumentation control computing|IEEE|2015|2023
+PICECE|palestinian electrical computer engineering|IEEE|2019|2019
+PICET|parul engineering technology|IEEE|2024|2024
+PICET|parul university engineering technology picet2024|IOP|2025|2025
+PICET|parul university engineering technology||2025|2025
+PICET|smart sustainable developments engineering technology|IOP|2024|2024
+PICICT|palestinian information communication technology|IEEE|2013|2021
+PICKME|expert finder personal identification collaborations knowledge mediation extraction||2008|2008
+PICMET|innovation technology management key global leadership portland management technology|IEEE|1997|1997
+PICMET|portland center management engineering technology infrastructure service integration|IEEE|2014|2014
+PICMET|portland center management engineering technology management converging technologies||2007|2007
+PICMET|portland center management engineering technology technology management emerging technologies||2012|2012
+PICMET|portland center management engineering technology technology management energy smart world||2011|2011
+PICMET|portland center management engineering technology technology management global economic growth||2010|2010
+PICMET|portland center management engineering technology technology management global future||2006|2006
+PICMET|portland center management engineering technology technology management sustainable economy||2008|2008
+PICMET|portland management engineering technology managing technological entrepreneurship engine economic growth|IEEE|2018|2018
+PICMET|portland management engineering technology managing technology engineering manufacturing sustainable world|IEEE|2023|2023
+PICMET|portland management engineering technology technology management artificial intelligence era|IEEE|2024|2024
+PICMET|portland management engineering technology technology management interconnected world|IEEE|2017|2017
+PICMET|portland management engineering technology technology management leadership digital transformation looking ahead post covid era|IEEE|2022|2022
+PICMET|portland management engineering technology technology management social innovation|IEEE|2016|2016
+PICMET|portland management engineering technology technology management world intelligent systems|IEEE|2019|2019
+PICMET|portland management engineering technology||1992|2009
+PICMET|technology management it driven services||2013|2013
+PICOBNST|papua biodiversity natural sciences technology|EDP|2026|2026
+PICOM|pervasive intelligent computing|IEEE|2024|2025
+PICONF|power india||2012|2012
+PICST|cpits ii cybersecurity providing information telecommunication systems ii co located problems infocommunications science technology||2023|2023
+PICST|cpits ii cybersecurity providing information telecommunication systems ii volume i co located problems infocommunications science technology||2021|2021
+PICST|cpits ii cybersecurity providing information telecommunication systems ii volume ii co located problems infocommunications science technology||2021|2021
+PIC|person context|ACM|2022|2022
+PIC|physics collisions||2009|2009
+PIC|physics collision||2006|2026
+PIC|progress informatics computing|IEEE|2010|2024
+PIDS|portable information devices|IEEE|2007|2007
+PID|ifac advances control||2012|2012
+PID|ifac advances proportional integral derivate control|Elsevier|2024|2024
+PIECON|power instrumentation energy control|IEEE|2023|2023
+PIERE|problems informatics electronics radio engineering|IEEE|2020|2024
+PIERS|cambridge progress electromagnetics research||2006|2010
+PIERS|kuala lumpur progress electromagnetics research||2012|2012
+PIERS|marrakesh progress electromagnetics research||2011|2011
+PIERS|moscow progress electromagnetics research||2012|2012
+PIERS|photonics electromagnetics research|IEEE|2021|2024
+PIERS|progress electromagnetic research||2004|2004
+PIERS|progress electromagnetics research beijing||2009|2009
+PIERS|progress electromagnetics research cambridge||2008|2008
+PIERS|progress electromagnetics research hangzhou||2008|2008
+PIERS|progress electromagnetics research tokyo||2006|2006
+PIERS|progress electromagnetics research xi||2010|2010
+PIERS|progress electromagnetics research|IEEE|2005|2018
+PIERS|stockholm progress electromagnetics research||2013|2013
+PIERS|suzhou progress electromagnetics research||2011|2011
+PIERS|taipei progress electromagnetics research||2013|2013
+PIE|processing information ethically co located advanced information systems engineering||2019|2019
+PIICON|power india power energy enabling technologies future grid|IEEE|2024|2024
+PIICON|power india|IEEE|2015|2022
+PIKM|ph d information knowledge co located||2012|2012
+PIKM|ph d information knowledge management co located|ACM|2015|2015
+PIKM|ph d students co located||2013|2013
+PIKM|ph d students information knowledge management co located information knowledge management||2010|2010
+PIKM|phd information knowledge management co located information knowledge management||2008|2008
+PILBA|privacy location based applications||2008|2008
+PIMRC|personal indoor mobile radio communications 6g next horizon from connected people things connected intelligence|IEEE|2023|2023
+PIMRC|personal indoor mobile radio communications part||1995|1997
+PIMRC|personal indoor mobile radio communications volume||2004|2004
+PIMRC|personal indoor mobile radio communications workshops||2010|2010
+PIMRC|personal indoor mobile radio communications|IEEE|1991|2025
+PIMRC|pimrc2003 personal indoor mobile radio communications||2003|2003
+PIMS|transmission distribution exposition pes powering toward future||2008|2008
+PIM|processes isotopes molecules|IOP|2009|2020
+PINC|persuasion influence nudge coercion through mobile devices co located human factors computing systems||2011|2011
+PINGEN|practical issues applications next generation wireless networks||2012|2012
+PING|modern trends material engineering|IOP|2020|2020
+PINKDD|privacy security trust kdd second sigkdd revised selected papers||2009|2009
+PINS|sigcomm practice theory incentives networked systems|ACM|2004|2004
+PINT|parallel time|Springer|2021|2021
+PIOE|precision instruments optical engineering|SPIE|2022|2025
+PIPELINES|offshore arctic||1987|1987
+PIPELINES|optimizing pipeline design operations maintenance today s economy pipeline division specialty||2005|2005
+PIPETECH|papers from||1984|1984
+PIPPI|perinatal preterm paediatric image analysis held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+PIPPI|perinatal preterm paediatric image analysis held conjunction medical imaging computer assisted intervention|Springer|2022|2026
+PIPPI|perinatal preterm paediatric image analysis|Springer|2023|2023
+PIPS|padjadjaran physics powder technology exhibition indonesia|IOP|2026|2026
+PIPS|padjadjaran physics|IOP|2020|2022
+PIRT|physical interpretations relativity theory||2021|2021
+PITR|predicting improving text readability target reader populations european chapter association computational linguistics||2014|2014
+PITTSBURGH|heat transfer||1987|1987
+PIT|perception interactive technologies tutorial research|Springer|2006|2006
+PIT|perception multimodal dialogue systems tutorial researchworkshop perception interactive technologies speech based systems||2008|2008
+PIVE|vr perceptual illusions virtual environments||2012|2012
+PIVP|perception inspired video processing mm|ACM|2014|2014
+PKAW|knowledge acquisition approaches algorithms applications pacific rim knowledge acquisition revised selected papers||2009|2009
+PKAW|knowledge management acquisition intelligent systems held conjunction pacific rim artificial intelligence|Springer|2012|2012
+PKAW|knowledge management acquisition intelligent systems|Springer|2016|2016
+PKAW|knowledge management acquisition smart systems services||2010|2010
+PKAW|pacific rim knowledge acquisition held conjunction joint artificial intelligence pacific rim artificial intelligence ijcai|Springer|2021|2021
+PKAW|pacific rim knowledge acquisition held conjunction pacific rim artificial intelligence|Springer|2018|2019
+PKAW|pacific rim knowledge acquisition|Springer|2006|2014
+PKAW|principle practice data knowledge acquisition held conjunction pacific rim artificial intelligence|Springer|2023|2025
+PKAW|principle practice data knowledge acquisition|Springer|2025|2025
+PKC|iacr practice theory public key cryptography|Springer|2015|2026
+PKC|practice theory public key cryptography|Springer|1998|2002
+PKC|practice theory public key cryptosystems|Springer|2000|2002
+PKC|public key cryptography practice theory public key cryptography|Springer|2007|2014
+PKC|public key cryptography theory practice public key cryptography|Springer|2005|2006
+PKC|theory practice public key cryptography|Springer|2004|2004
+PKDD|dc ecml discovery challenge||2009|2009
+PKDD|european machine learning knowledge discovery databases ecml|Springer|2016|2021
+PKDD|european machine learning principles practice knowledge discovery databases ecml|Springer|2011|2026
+PKDD|european principles data mining knowledge discovery|Springer|1997|2001
+PKDD|european principles practice knowledge discovery databases|Springer|2000|2004
+PKDD|ial ecml interactive adaptive learning co located european machine learning principles practice knowledge discovery databases ecml||2023|2024
+PKDD|joint european machine learning principles practice knowledge discovery databases ecml|Springer|2020|2025
+PKDD|knowledge discovery databases european principles practice knowledge discovery databases|Springer|2003|2007
+PKDD|ld4kd linked data knowledge discovery co located european machine learning principles practice knowledge discovery databases ecml||2014|2014
+PKDD|machine learning knowledge discovery databases european ecml|Springer|2008|2014
+PKDD|machine learning knowledge discovery databases uropean ecml|Springer|2008|2008
+PKDD|mining complex data ecml third revised selected papers|Springer|2008|2008
+PKDD|principles data mining knowledge discovery european|Springer|2002|2002
+PKDD|workshops nemesis urbreas sogood iwaise green data mining held european machine learning knowledge discovery databases ecml|Springer|2019|2019
+PKIA|public key infrastructure its applications|IEEE|2017|2025
+PKL|effectiveness emergency procedures under bdba conditions experimental investigations integral test facility||1996|1996
+PKW|labyrinth piano key weirs ii labyrinth piano key weirs||2014|2014
+PKW|labyrinth piano key weirs labyrinth piano key weirs||2011|2011
+PLACES|programming language approaches concurrency communication centric software||2020|2026
+PLAIS|eurosymposium information systems development research applications education sigsand|Springer|2016|2017
+PLAIS|eurosymposium special interest group systems analysis design ais polish chapter ais sigsand|Springer|2015|2015
+PLAMIC|scientific plants microbes future biotechnology|EDP|2020|2020
+PLANCK|from scale electroweak scale||2015|2015
+PLANS|ion position location navigation|IEEE|2010|2025
+PLANS|papers presented position location navigation||1989|1989
+PLANS|position location navigation record navigation into century||1988|1988
+PLANS|position location navigation record||1986|1986
+PLANS|position location navigation|IEEE|1990|2000
+PLANS|record position location navigation||1982|1984
+PLASMA|research applications plasmas|IOP|2014|2014
+PLASTICS|regional technical society engineers coloring pigment behavior polymer systems||1982|1982
+PLASTIC|sigplan programming language systems technologies internet clients||2011|2011
+PLASTOX|mechanisms mechanics plasticity environment interactions mecanismes et mecanique des interactions plasticite environnement|EDP|2009|2009
+PLAS|physical layer augmented security sensor systems|ACM|2020|2020
+PLAS|programming language design implementation programming languages analysis security|ACM|2006|2006
+PLAS|programming languages analysis security co located|ACM|2016|2017
+PLAS|programming languages analysis security|ACM|2006|2020
+PLAS|sigplan programming languages analysis security co located|ACM|2013|2013
+PLAS|sigplan programming languages analysis security||2007|2011
+PLAS|sigplan third programming languages analysis security||2008|2008
+PLAS|sigsac programming languages analysis security|ACM|2019|2019
+PLATCON|platform technology service|IEEE|2015|2025
+PLATEAU|evaluation usability programming languages tools co located|ACM|2016|2016
+PLATEAU|evaluation usability programming languages tools|ACM|2010|2020
+PLATEAU|sigplan evaluation usability programming languages tools part|ACM|2014|2014
+PLATEAU|sigplan evaluation usability programming languages tools||2011|2011
+PLATE|practices linking aspect technology evolution co located aspect oriented software development aosd||2009|2009
+PLATO|planning ontology co located automated planning scheduling||2023|2023
+PLAY|chi companion computer human interaction|ACM|2023|2023
+PLAY|chi computer human interaction companion extended abstracts|ACM|2018|2018
+PLAY|chi computer human interaction companion|ACM|2016|2016
+PLAY|chi computer human interaction|ACM|2014|2020
+PLAY|chi extended abstracts computer human interaction|ACM|2019|2022
+PLAY|chi extended abstracts extended abstracts publication computer human interaction|ACM|2017|2017
+PLC|photon its first hundred years future part ii high energy photon linear colliders||2006|2006
+PLC|processes laws compliance co located process mining||2024|2024
+PLC|programming languages compilers||2005|2005
+PLDI|dynamic languages applications dyla|ACM|2014|2014
+PLDI|exadapt adaptive self tuning computing systems exaflop era cooperation sigplan programming language design implementation|ACM|2011|2011
+PLDI|programming language design implementation|ACM|2008|2011
+PLDI|sigplam programming language design implementation||1997|1997
+PLDI|sigplan programming language design implementation|ACM|1988|2022
+PLDI|sigplan programming language design implentation|ACM|2004|2004
+PLDI|x10 sigplan x10 co located|ACM|2015|2016
+PLD|iasted portable lifestyle devices||2010|2010
+PLEAD|politics elections data co located||2012|2013
+PLEASE|co located product line approaches software engineering co located||2011|2011
+PLEASE|product line approaches software engineering conjunction software engineering||2010|2010
+PLEASE|product line approaches software engineering|IEEE|2012|2015
+PLEA|architecture energy occupant s perspective passive low energy architecture||2009|2009
+PLEA|architecture sustainable development passive low energy architecture||2011|2011
+PLEA|design thrive||2017|2017
+PLEA|passive low energy architecture environmental sustainability challenge awareness developing societies||2005|2005
+PLEA|passive low energy architecture planning post carbon cities||2020|2020
+PLEA|passive low energy architecture||2006|2006
+PLEA|smart healthy within two degree limit passive low energy architecture||2018|2018
+PLEA|sun wind architecture passive low energy architecture||2007|2007
+PLEA|sustainable architecture urban design opportunities limits needs towards environmentally responsible architecture||2012|2012
+PLEA|thinking resilience sustainable architecture urban design book||2024|2024
+PLEA|towards zero energy building passive low energy architecture||2008|2008
+PLE|programming language evolution co located|ACM|2014|2014
+PLILP|principles declarative programming|Springer|1998|1998
+PLILP|programming language implementation logic programming|Springer|1990|1994
+PLILP|programming languages implementation logic programming|Springer|1989|1989
+PLILP|programming languages implementations logics programs|Springer|1995|1997
+PLMMP|physics liquid matter modern problems|Springer|2014|2022
+PLMO|problems logistics management operation east west transport corridor|IEEE|2024|2026
+PLM|ifip wg product lifecycle management digital transformation industries|Springer|2016|2016
+PLM|ifip wg product lifecycle management era internet things|Springer|2016|2016
+PLM|ifip wg product lifecycle management industry future|Springer|2017|2017
+PLM|ifip wg product lifecycle management society|Springer|2013|2013
+PLM|ifip wg product lifecycle management|Springer|2018|2026
+PLM|product lifecycle management towards knowledge rich enterprises ifip wg revised selected papers||2012|2012
+PLOP|pattern languages programs|ACM|2006|2011
+PLOP|plop07 pattern languages programs||2007|2007
+PLOP|plop08 pattern languages programs||2008|2008
+PLOP|plop09 pattern languages programs||2010|2010
+PLOS|programming languages operating systems conjunction operating systems principles|ACM|2009|2013
+PLOS|programming languages operating systems linguistic support modern operating systems asplos xii|ACM|2006|2006
+PLOS|programming languages operating systems part|ACM|2019|2023
+PLOS|programming languages operating systems|ACM|2007|2025
+PLOS|third programming languages operating systems linguistic support modern operating systems asplos xii||2007|2007
+PLPV|popl programming languages meets program verification||2012|2012
+PLPV|programming languages meets program verification||2007|2011
+PLPV|sigplan programming languages meets program verification co located|ACM|2013|2014
+PLPV|sigplan programming languages meets program verification||2009|2010
+PLS|partial least squares structural equation modeling|Springer|2023|2023
+PLT|pen based learning technologies||2007|2007
+PLT|psychology learning technology|Springer|2022|2025
+PMAI|process management ai era co located european artificial intelligence||2024|2024
+PMAI|process management ai era co located joint artificial intelligence european artificial intelligence ijcai||2022|2022
+PMAI|process management ai era co located joint artificial intelligence||2023|2023
+PMAI|process management ai era process management ai era co located european artificial intelligence||2025|2025
+PMAM|programming models applications multicores manycores part|ACM|2022|2023
+PMAM|programming models applications multicores manycores|ACM|2012|2024
+PMAPS|probabilistic methods applied power systems|IEEE|2008|2024
+PMA|plant growth modeling simulation visualization applications pma09||2010|2010
+PMA|plant growth modeling simulation visualization applications|IEEE|2012|2018
+PMA|second plant growth modeling simulation visualization applications||2007|2007
+PMBD|workshops bdms bdqm gdma iwbt maqtds held conjunction database systems advanced applications|Springer|2022|2022
+PMBS|performance modeling benchmarking simulation high performance computer systems held as part supercomputing sc|ACM|2015|2015
+PMBS|performance modeling benchmarking simulation high performance computer systems held conjunction sc high performance computing networking storage analysis|IEEE|2018|2022
+PMBS|performance modeling benchmarking simulation high performance computing systems co located sc|ACM|2011|2011
+PMBS|performance modeling benchmarking simulation high performance computing systems held conjunction sc high performance computing networking storage analysis|IEEE|2016|2016
+PMBS|performance modeling benchmarking simulation high performance computing systems|Springer|2014|2018
+PMBS|performance modeling benchmarking simulation|Springer|2015|2015
+PMCVG|photometric modeling computer vision graphics|IEEE|1999|1999
+PMDE|process based approaches model driven engineering||2013|2013
+PMES|post moores era supercomputing held conjunction sc high performance computing networking storage analysis|ACM|2017|2017
+PME|group psychology mathematics education||2019|2025
+PMFIC|polymer mediterranean fiber|Elsevier|2022|2022
+PMF|purple mountain form smart grid protection control|Springer|2025|2025
+PMF|purple mountain forum smart grid protection control pmf2021|Springer|2022|2022
+PMF|purple mountain forum smart grid protection control pmf2022|Springer|2023|2023
+PMF|purple mountain forum smart grid protection control|Springer|2024|2024
+PMF|top level forum engineering science technology development strategy purple mountain forum smart grid protection control pmf2020|Springer|2021|2021
+PMHR|personalised multilingual hypertext retrieval||2011|2011
+PMIS|public management intelligent society|IEEE|2021|2021
+PMI|cirp process machine interactions||2012|2012
+PMMP|programming models massively parallel computers|IEEE|1993|1993
+PMNP|physics mathematics nonlinear phenomena|IOP|2014|2014
+PMPC|personalization mobile pervasive computing||2009|2009
+PMP|photonics metamaterials plasmonics|IOP|2019|2019
+PMV|projektmanagement und vorgehensmodelle arbeiten hybriden projekten das sowohl als auch von stabilitat und dynamik gemeinsame tagung der fachgruppen projektmanagement und vorgehensmodelle im fachgebiet wirtschaftsinformatik der gesellschaft fur informatik e v||2016|2016
+PMV|projektmanagement und vorgehensmodelle die spannung zwischen dem prozess und den menschen im projekt gemeinsame tagung der fachgruppen projektmanagement und vorgehensmodelle im fachgebiet wirtschaftsinformatik der gesellschaft fur informatik e v kooperation mit der fachgruppe it projektmanagement der gpm e v||2017|2017
+PNCMI|joint polarized neutrons condensed matter investigations|IOP|2023|2023
+PNCMI|polarised neutrons condensed matter investigations|IOP|2019|2019
+PNC|pacific neighborhood consortium joint meetings data informed society|IEEE|2017|2017
+PNC|pacific neighborhood consortium joint meetings digital world age uncertainty humanizing technology wellness resilience creativity|IEEE|2022|2022
+PNC|pacific neighborhood consortium joint meetings green flow signal reconnecting fragmented communities age digital transformation|IEEE|2024|2024
+PNC|pacific neighborhood consortium joint meetings human rights cyberspace|IEEE|2018|2018
+PNC|pacific neighborhood consortium joint meetings mind meets machine rethinking intelligence knowledge age ai|IEEE|2025|2025
+PNC|pacific neighborhood consortium joint meetings regionality digital humanities south south connections|IEEE|2019|2019
+PNC|pacific neighborhood consortium joint meetings sea change renewal reform resolve global arts sciences business|IEEE|2023|2023
+PNC|pacific neighborhood consortium joint meetings|IEEE|2021|2021
+PNGF|progress nonequilibrium green s functions v|IOP|2013|2013
+PNPM|petri nets performance models|IEEE|1991|2003
+PNSE|petri nets software engineering co located application theory petri nets concurrency petri nets application concurrency system design process mining process mining||2019|2019
+PNSE|petri nets software engineering||2011|2012
+PNSE|petri software engineering co located application theory petri concurrency petri||2020|2024
+PNSE|pn ws joint workshops application theory petri concurrency petri software engineering algorithms theories analysis event data petri net games examples quizzes education contest fun co located petri||2025|2025
+PNT|institute navigation pacific positioning navigation timing meeting pacific||2013|2015
+PNT|institute navigation pacific positioning navigation timing pacific||2017|2017
+PNT|institute navigation pacific||2013|2015
+PNT|ion pacific meeting||2024|2024
+PNT|ion pacific||2017|2017
+PNZ|iet powering net zero||2024|2026
+POAC|port ocean engineering under arctic conditions||1981|2025
+POCE|spe production operations exhibition||2010|2010
+POCT|healthcare innovation point care technologies hi|IEEE|2016|2016
+POCT|healthcare innovations point care technologies hi|IEEE|2017|2024
+POCUS|point care ultrasound bio imaging visualization patient customized simulations correction brainshift intra operative ultrasound computational precision medicine held conjunction medical imaging computer assisted intervention|Springer|2018|2018
+POC|polymer supported reactions organic chemistry|Elsevier|1995|1997
+PODC|adaptive resource management scheduling cloud computing arms cc held conjunction principles distributed computing|Springer|2015|2015
+PODC|adaptive resource management scheduling cloud computing internatioal arms cc held conjunction principles distributed computing|ACM|2016|2016
+PODC|arms cc adaptive resource management scheduling cloud computing co located|ACM|2017|2017
+PODC|principles distributed computing|ACM|2005|2025
+PODC|twenty second principles distributed computing|ACM|2003|2003
+PODDP|principles digital document processing|Springer|1998|1998
+PODP|principles document processing|Springer|1996|1996
+PODS|companion principles database systems|ACM|2024|2024
+PODS|principles database systems|ACM|2011|2013
+PODS|sigact sigmod principles database systems|ACM|1985|1985
+PODS|sigmod management data principles database systems||2009|2009
+PODS|sigmod phd sigmod phd||2012|2012
+PODS|sigmod sigact sigai principles database systems|ACM|2019|2023
+PODS|sigmod sigact sigart principles database systems|ACM|2000|2014
+PODS|sigmod sigmod management data principles database systems|ACM|1999|1999
+PODS|twenty eighth sigmod sigact sigart principles database systems|ACM|2009|2009
+PODS|twenty fifth sigmod sigact sigart principles database systems|ACM|2006|2006
+PODS|twenty first sigmod sigact sigart principles database systems|ACM|2002|2002
+PODS|twenty fourth sigmod sigact sigart principles database systems|ACM|2005|2005
+PODS|twenty sixth sigmod sigact sigart principles database systems|ACM|2007|2007
+POEM|asia communications photonics photonics optoelectronics meetings acp|IEEE|2023|2023
+POEM|c companion ifip working practice enterprise modeling forum doctoral consortium business case tool forum workshops c co located||2025|2025
+POEM|edewc companion companion ifip wg working practice enterprise modeling enterprise design engineering working bes dte facete tools demos forum eden doctoral consortium co located||2023|2023
+POEM|emerging topics practice enterprise modeling short paper ifip wg working practice enterprise modeling||2012|2012
+POEM|forum forum practice enterprise modeling co located ifip wg working practice enterprise modeling||2020|2020
+POEM|forum forum practice enterprise modeling co located||2022|2022
+POEM|forum practice enterprise modelling forum||2020|2020
+POEM|ifip wg practice enterprise modeling|Springer|2013|2019
+POEM|ifip wg working practice enterprise modeling|Springer|2008|2021
+POEM|ifip wg working practice enterprise modelling|Springer|2017|2022
+POEM|ifip working practice enterprise modeling|Springer|2020|2026
+POEM|ifipwg working practice enterprise modeling|Springer|2024|2024
+POEM|photonics optoelectronics meetings fiber optic communication sensors||2009|2009
+POEM|photonics optoelectronics meetings industry lasers applications||2009|2009
+POEM|photonics optoelectronics meetings laser technology applications||2009|2009
+POEM|photonics optoelectronics meetings laser terahertz science technology||2012|2012
+POEM|photonics optoelectronics meetings optical storage new storage technologies||2009|2009
+POEM|photonics optoelectronics meetings optoelectronic devices integration||2009|2009
+POEM|photonics optoelectronics meetings optoelectronic sensing imaging||2012|2012
+POEM|photonics optoelectronics meetings solar cells solid state lighting information display technologies||2009|2009
+POEM|photonics optoelectronics meetings terahertz science technology||2009|2009
+POEM|photonics optoelectronics meetings|SPIE|2011|2025
+POEM|photonics optolectronics meetings optical communication systems networking||2012|2012
+POEM|photonics optolectronics meetings optoelectronic devices integration||2012|2012
+POEM|practice enterprise modeling ifip wg working|Springer|2011|2012
+POEM|practice enterprise modeling second ifip wg working|Springer|2009|2009
+POEM|practice enterprise modeling third ifip wg working|Springer|2010|2010
+POEM|spb photonic optoelectronic electronic materials spb||2021|2021
+POEM|workshops models work workshops models work co located practice enterprise modelling||2022|2022
+POEM|ws workshops practice enterprise modelling workshops co organized ifip wg working practice enterprise modelling||2021|2021
+POF|plastic optical fibers||2011|2015
+POF|plastic optical fibres||2017|2017
+POF|plastical optical fibers||2013|2013
+POIS|er proc int empirical research process oriented information systems conjunction int conf advanced information systems eng||2010|2010
+POLDS|sigspatial polar data science|ACM|2025|2025
+POLICY|coal mining technology economics session papers from american mining congress coal convention||1986|1986
+POLICY|coal mining technology economics session papers from american mining congress coal show||1984|1984
+POLICY|eighth policies distributed systems networks||2007|2007
+POLICY|ethics social impact component shaping information age|ACM|1998|1998
+POLICY|fifth policies distributed systems networks||2004|2004
+POLICY|policies distributed systems networks|Springer|2001|2012
+POLICY|sixth policies distributed systems networks||2005|2005
+POLINSAR|science applications sar polarimetry polarimetric interferometry||2007|2009
+POLITICALNLP|natural language processing political sciences as part edition language resources evaluation||2022|2022
+POLITICALNLP|natural language processing political sciences lrec||2024|2024
+POLSITA|scientific progress mechanical engineering supported information technology|EDP|2019|2019
+POLTAL|advances natural language processing|Springer|2014|2014
+POLYCHAR5|polymer characterization||1999|1999
+POLYMER|characterization analysis polymers preprints||1985|1985
+POLYMER|characterization analysis polymers||1986|1986
+POLYMER|invited lectures presented characterization analysis polymers||1985|1985
+POLYTRONIC|polymers adhesives microelectronics photonics|IEEE|2002|2002
+POLYTRONIC|portable interdisciplinary portable information devices polymers adhesives microelectronics photonics||2008|2008
+POMC|dialm foundations mobile computing|ACM|2008|2008
+POMC|dialm joint foundations mobile computing co located sigmobile mobicom||2005|2005
+POMC|dialm joint foundations mobile computing co located sigmobile|ACM|2005|2005
+POMC|foundations mobile computing dialm||2010|2010
+POMC|joint foundations mobile computing dialm||2004|2004
+POMS|production operations management society|IEEE|2018|2020
+POMS|production operations management|Springer|2022|2022
+POOSC|parallel high performance object oriented scientific computing systems programming languages applications software humanity splash||2010|2010
+POOSC|parallel high performance object oriented scientific computing||2009|2009
+POPL|record sigplan sigact principles programming languages papers presented||2007|2007
+POPL|record sigplan sigact principles programming languages||2005|2006
+POPL|sigplan sigact principles og programming languages|ACM|2000|2000
+POPL|sigplan sigact principles programming languages|ACM|1997|2014
+PORTAL|portugal natural language processing|Springer|2002|2002
+PORTS|australasian coastal ocean engineering australasian port harbour coasts||2005|2011
+PORTS|port development changing world||2004|2004
+PORTS|specialty innovations port engineering development s||1986|1986
+PORTS|specialty port modernization upgrading repairs||1983|1983
+POSEI|power system energy internet|IEEE|2021|2025
+POSTA|multidisciplinary positive systems theory applications||2009|2009
+POSTA|positive systems|Springer|2017|2019
+POST|principles security trust first held as part european joint theory practice software||2012|2012
+POST|principles security trust held as part european joint theory practice software|Springer|2012|2019
+POST|principles security trust second held as part european joint theory practice software||2013|2013
+POST|principles security trust third held as part european joint theory practice software|Springer|2014|2014
+POS|peatlands siberia functioning resources restoration||2021|2021
+POS|persistent object systems|Springer|2000|2000
+POS|pragmatics co located theory applications satisfiability testing||2023|2023
+POS|smt joint satisfiability modulo theories pragmatics co located principles practice constraint programming theory applications satisfiability testing combinatorial search cp||2025|2025
+POS|society petroleum engineers spe production operations||1979|2018
+POTASH|technology mining processing maintenance transportation occupational health safety environment||1983|1983
+POV|person oriented vision||2011|2011
+POWDERMET|advances powder metallurgy particulate materials powder metallurgy particulate materials||2005|2025
+POWDERMET|advances powder metallurgy particulate materials powder metallurgy particulate material||2018|2018
+POWDERMET|advances powder metallurgy particulate materials world congress powder metallurgy particulate materials||2008|2008
+POWDERMET|powder metallurgy particulate materials powder metallurgy particulate materials||2020|2020
+POWDER|papers presented||1983|1983
+POWERAFRICA|pes exposition||2007|2007
+POWERAFRICA|pes ias harnessing energy information communications technology affordable electrification africa|IEEE|2017|2017
+POWERAFRICA|pes ias power economics energy innovation africa|IEEE|2019|2019
+POWERAFRICA|pes ias|IEEE|2018|2024
+POWERAFRICA|power energy society exposition africa intelligent grid integration renewable energy resources||2012|2012
+POWERCON|eleventh power electronics||1984|1984
+POWERCON|iasted special theme blackout||2003|2003
+POWERCON|joint internatioan conferenceon power system technology power india||2008|2008
+POWERCON|new power system technology|IEEE|2025|2025
+POWERCON|power system technology carbon neutrality new type power system|IEEE|2021|2021
+POWERCON|power system technology powercon2006||2007|2007
+POWERCON|power system technology technological advancements construction new power system|IEEE|2023|2023
+POWERCON|power system technology technological innovations making power grid smarter powercon2010||2010|2010
+POWERCON|power system technology towards green efficient smart power system|IEEE|2014|2014
+POWERCON|power system technology volume ii||2004|2004
+POWERCON|power system technology|IEEE|1998|2024
+POWERCON|power systems technology embracing advanced technology power energy systems sustainable development|IEEE|2022|2022
+POWERCON|power systems technology|IEEE|2020|2020
+POWERCON|solid state power electronics||1983|1983
+POWERENG|compatibility power electronics power engineering cpe|IEEE|2016|2025
+POWERENG|cpe compatibility power electronics power engineering|IEEE|2023|2024
+POWERENG|power engineering energy electrical drives powereng2011||2011|2011
+POWERENG|power engineering energy electrical drives||2007|2013
+POWERMEMS|micro miniature power systems self powered sensors energy autonomous devices|IEEE|2024|2025
+POWERMEMS|micro nanotechnology power generation energy conversion applications|IEEE|2013|2023
+POWERTECH|pes trondheim power technology sustainable society||2011|2011
+POWER|asme applied r d||2023|2023
+POWER|epri solar wind status outlook||1983|1983
+POWER|selected topics systems sensing wseas iasme electric systems high voltages electric machines wseas sensing||2010|2010
+POWER|wseas iasme electric systems high voltages electric machines||2009|2009
+POWID|isa power industry division power generation instrumentation control solutions today s industry challenges||2014|2014
+POWID|isa power industry division setting standard automation||2015|2015
+POWID|isa power industry division||2016|2016
+POWTECH|particle technology||1983|1983
+PPAA|parallel programming analytics applications|ACM|2014|2015
+PPAM|parallel processing applied mathematics revised selected papers|Springer|2006|2014
+PPAM|parallel processing applied mathematics|Springer|2002|2025
+PPAP|patterns promotion anti patterns prevention|IEEE|2015|2015
+PPC6|positron positronium chemistry|Elsevier|2000|2000
+PPCOE|ergonomics all celebrating s years excellence selected papers pan pacific ergonomics||2011|2011
+PPCP|principles practice constraint programming|Springer|1994|1994
+PPC|engineering deans council public policy colloquium||2010|2020
+PPC|positron positronium chemistry|IOP|2013|2025
+PPC|ppc2009 pulsed power||2009|2009
+PPC|public policy colloquium||2015|2016
+PPC|pulsed power plasma science|IEEE|2025|2025
+PPC|pulsed power|IEEE|2013|2023
+PPC|record pulsed power pulsed power||2011|2011
+PPDP|eight sigplan principles practice declarative programming||2006|2006
+PPDP|fourth sigplan principles practice declarative programming||2002|2002
+PPDP|principles practice declarative programming as part sigplan systems programming languages applications software humanity including|ACM|2023|2023
+PPDP|principles practice declarative programming co located logic based program synthesis transformation|ACM|2021|2021
+PPDP|principles practice declarative programming co located logic programming|ACM|2025|2025
+PPDP|principles practice declarative programming co located|ACM|2022|2022
+PPDP|principles practice declarative programming part bologna federated programming languages|ACM|2020|2020
+PPDP|principles practice declarative programming|ACM|2010|2019
+PPDP|principles practices declarative programming||2011|2011
+PPDP|seventh sigplan principles practice declarative programming||2005|2005
+PPDP|sigplan principles practice declarative programming||2000|2012
+PPDP|sixth sigplan principles practice declarative programming||2004|2004
+PPES|bringing theory practice predictability performance embedded systems||2011|2011
+PPFIC|ias pulp paper forest industries|IEEE|2019|2019
+PPIC|record ias pulp paper industry|IEEE|2021|2025
+PPIC|record pulp paper industry technical|IEEE|2009|2014
+PPIM|pipeline pigging integrity management papers||2016|2018
+PPIM|pipeline pigging integrity management||2015|2026
+PPLA|plasma physics laser applications|IOP|2014|2014
+PPLH|biophysical society guangdong province academic forum precise photons life health|SPIE|2023|2023
+PPMLP|privacy preserving machine learning practice|ACM|2020|2020
+PPM|physics process modeling other propulsion r t part||1997|1997
+PPOPP|sigplan principles practice parallel programming|ACM|2003|2026
+PPPJ|p3jw work progress session principles practice programming java||2010|2010
+PPPJ|principles practice programming java||2007|2011
+PPPJ|principles practices programming java platform virtual machines languages tools|ACM|2013|2013
+PPPJ|series principles practice programming java||2006|2006
+PPPSC|power plant power system control||2012|2012
+PPPS|pulsed power plasma science pulsed power plasma science||2007|2007
+PPPS|pulsed power plasma science|IEEE|2001|2019
+PPP|eage pore pressure prediction||2020|2020
+PPREW|sigplan program protection reverse engineering|ACM|2013|2014
+PPSIS|scientific practical problems prospects scientific innovative support agro industrial complex regions|EDP|2021|2021
+PPSN|parallel problem solving from nature|Springer|1991|2024
+PPSS|process plant safety held aiche spring national meeting||2007|2007
+PPSS|process plant safety topical aiche spring meeting global congress process safety||2014|2016
+PPSWR|principles practice semantic web reasoning revised selected papers|Springer|2006|2006
+PPSWR|principles practice semantic web reasoning third||2005|2005
+PPSWR|principles practice semantic web reasoning|Springer|2004|2004
+PPSWR|principles practice semanticweb reasoning|Springer|2003|2003
+PPS|ifac power plants power systems control||2006|2006
+PPS|polymer processing society|IOP|2020|2024
+PPS|pps2019 europe africa regional polymer processing society|IOP|2020|2020
+PQCRYPTO|post quantum cryptography second||2008|2008
+PQCRYPTO|post quantum cryptography third||2010|2010
+PQCRYPTO|post quantum cryptography|Springer|2011|2026
+PQC|power quality conferance||2010|2010
+PRAAG|polynomial rings affine algebraic geometry|Springer|2020|2020
+PRADS|practical design ships other floating structures volume||2007|2007
+PRADS|practical design ships other floating structures|Springer|2010|2021
+PRAGUE|fib concrete engineering excellence efficiency||2011|2011
+PRAGUE|photonics devices systems||2000|2000
+PRAGWEB|pragmatic web||2006|2006
+PRAHA|symmetries spin advanced studies institute spin||2005|2005
+PRAI|pattern recognition artificial intelligence|IEEE|2019|2025
+PRASA|rapid product development association south africa robotics mechatronics pattern recognition association south africa digital manufacturing industrialising africa rapdasa robmech|IEEE|2021|2021
+PRASA|saupec robmech saupec robmech|IEEE|2020|2020
+PRASA|southern african universities power engineering robotics mechatronics pattern recognition association south africa saupec robmech|IEEE|2019|2021
+PRASIC|product design robotics advanced mechanical mechatronic systems innovation|IOP|2019|2019
+PRCR|advances rheology its applications pacific rim rheology||2005|2005
+PRCV|chinese pattern recognition computer vision|Springer|2018|2026
+PRDC|computer society publications operations ations committee||2008|2008
+PRDC|pacific rim dependable computing|IEEE|1999|2025
+PRECEDE|predictive control electrical drives power electronics|IEEE|2011|2025
+PRECEDE|sled sensorless control electrical drives predictive control electrical drives power electronics||2013|2013
+PREDEAL|summer school advanced studies dynamics open nuclear systems|IOP|2013|2013
+PREDICTGIS|sigspatial prediction human mobility|ACM|2017|2019
+PREE|power renewable energy engineering|IEEE|2023|2025
+PREMI|pattern recognition machine intelligence first||2005|2005
+PREMI|pattern recognition machine intelligence second||2007|2007
+PREMI|pattern recognition machine intelligence third||2009|2009
+PREMI|pattern recognition machine intelligence|Springer|2011|2026
+PREPRINTS|american institute chemical engineers summer national meeting||1982|1984
+PREPRINTS|asce convention exhibit||1982|1982
+PREPRINTS|asce convention||1983|1984
+PREPRINTS|asce national convention||1982|1982
+PREPRINTS|meeting national lubricating grease institute||1983|1983
+PREPRINTS|seminar plastics seminar||1983|1983
+PREP|coal coal preparation exhibition||1984|1984
+PREP|coal papers||1985|1985
+PRESTO|applications technologies architectures protocols computer communication programmable routers extensible services tommorrow|ACM|2008|2008
+PRESTO|programmable routers extensible services tomorrow co located|ACM|2009|2009
+PRESTO|programmable routers extensible services tomorrow held conjunction||2010|2010
+PRETP|physical research engineering technology problems|IOP|2025|2025
+PRET|advances enterprise engineering ii first naf academy working practice driven research enterprise transformation|Springer|2009|2009
+PRET|practice driven research enterprise transformation second working|Springer|2010|2010
+PRET|practice driven research enterprise transformation third working|Springer|2011|2011
+PRET|practice driven research enterprise transformation working|Springer|2012|2012
+PRET|working practice driven research enterprise transformation|Springer|2013|2013
+PRE|society petroleum engineers petroleum production reservoir engineering||1958|1958
+PRE|society petroleum engineers production research engineering||1965|1965
+PRF|isrm progressive rock failure||2017|2017
+PRIA|iranian pattern recognition image analysis||2013|2013
+PRIA|pattern recognition image analysis|SPIE|2025|2026
+PRIB|iapr pattern recognition bioinformatics|Springer|2008|2010
+PRIB|pattern recognition bioinformatics iapr|Springer|2009|2014
+PRIB|pattern recognition bioinformatics second iapr||2007|2007
+PRIB|pattern recognition bioinformatics|Springer|2006|2006
+PRICAI|ai4function artificial intelligence function disability health co located joint artificial intelligence pacific rim artificial intelligence ijcai ijcai||2020|2020
+PRICAI|pacific rim artificial intelligence trends artificial intelligence|Springer|2002|2002
+PRICAI|pacific rim artificial intelligence|Springer|1996|2026
+PRICAI|theoretical practical foundations intelligent agents held pacific rim artificial intelligence|Springer|1997|1997
+PRICAI|topics artificial intelligence pacific rim artificial intelligence||2000|2000
+PRICAI|trends artificial intelligence pacific rim artificial intelligence|Springer|2004|2012
+PRICAI|workshops reasoning incomplete changing information inducing complex representations|Springer|1998|1998
+PRIMA|agent computing multi agent systems pacific rim multi agents revised papers||2009|2009
+PRIMA|agent computing multi agent systems pacific rim multi agents|Springer|2006|2006
+PRIMA|agents principle agents practice||2011|2011
+PRIMA|intelligent agents multi agent systems pacific rim multi agents revised selected papers||2005|2005
+PRIMA|intelligent agents multi agent systems pacific rim multi agents|Springer|2003|2008
+PRIMA|multi agent systems society pacific rim multi agents revised selected papers||2009|2009
+PRIMA|pacific rim multi agents|Springer|1999|2001
+PRIMA|princiles practice multi agent systems|Springer|2016|2016
+PRIMA|principles practice multi agent systems revised selected papers||2012|2012
+PRIMA|principles practice multi agent systems|Springer|2009|2026
+PRIMEASIA|apccas asia pacific circuits systems asia pacific postgraduate research microelectronics electronics|IEEE|2024|2024
+PRIMEASIA|asia pacific postgraduate research microelectronics electronics innovative cas towards sustainable energy technology disruption||2019|2019
+PRIMEASIA|asia pacific postgraduate research microelectronics electronics program||2011|2011
+PRIMEASIA|asia pacific postgraduate research microelectronics electronics|IEEE|2009|2023
+PRIME|4dms soro 4d materials systems soft robotics||2020|2020
+PRIME|batteries energy technology ecs meeting honor james mcbreen||2013|2013
+PRIME|chemical sensors recent advances chemical biological sensors analytical systems||2020|2020
+PRIME|corrosion posters ecs meeting||2013|2013
+PRIME|ecs electrochemical energy summit ecs meeting grand challenges energy conversion large scale energy storage||2013|2013
+PRIME|ecs transactions battery energy technology ecs meeting||2009|2009
+PRIME|ecs transactions corrosion posters ecs meeting||2009|2009
+PRIME|ecs transactions nanotechnology general ecs meeting||2009|2009
+PRIME|ecs transactions physical analytical spectro electrochemistry general ecs meeting||2009|2009
+PRIME|ecs transactions student posters general ecs meeting||2009|2009
+PRIME|electrochemical synthesis engineering ecs meeting||2013|2013
+PRIME|electrodeposition fundamentals new materials ecs meeting dieter m kolb memorial||2013|2013
+PRIME|high temperature corrosion materials chemistry||2020|2020
+PRIME|joint state art program compound semiconductors gan sic power technologies||2020|2020
+PRIME|lithium ion batteries non aqueous electrolytes lithium batteries||2013|2013
+PRIME|metal organic frameworks covalent organic frameworks porous hybrid materials characterization technology bio applications emerging devices nonvolatile memories artificial neural networks||2020|2020
+PRIME|microfabricated nanofabricated systems mems||2020|2020
+PRIME|molten salts ionic liquids||2020|2020
+PRIME|nanotechnology ecs meeting||2013|2013
+PRIME|organic biological electrochemistry posters ecs meeting||2013|2013
+PRIME|pattern recognition informatics medical engineering||2012|2012
+PRIME|pattern recognition informatics mobile engineering||2013|2013
+PRIME|ph d research microelectronics electronics|IEEE|2006|2024
+PRIME|phd research microelectronics electronics|IEEE|2008|2025
+PRIME|physical analytical electrochemistry ecs meeting||2013|2013
+PRIME|pits pores nanomaterials fabrication properties applications||2020|2020
+PRIME|polymer electrolyte fuel cells electrolyzers||2020|2020
+PRIME|predictive intelligence medicine held conjunction medical image computing computer assisted intervention|Springer|2019|2026
+PRIME|predictive intelligence medicine held conjunction|Springer|2018|2018
+PRIME|predictive intelligence medicine|Springer|2023|2023
+PRIME|progressive research industrial mechanical engineering|Springer|2023|2023
+PRIME|semiconductor wafer bonding science technology applications||2020|2020
+PRIME|semiconductors dielectrics metals nanoelectronics plasma nanosciences||2020|2020
+PRIME|sige ge related compounds materials processing devices||2020|2020
+PRIME|smacd synthesis modeling analysis simulation methods applications circuit design phd research microelectronics electronics||2021|2021
+PRIME|solid state topics ecs meeting||2013|2013
+PRIME|student posters ecs meeting||2013|2013
+PRIME|thin film transistors|IOP|2020|2020
+PRIMIUM|process innovation business software subconference multikonferenz wirtschaftsinformatik||2008|2008
+PRIMIUM|process innovation enterprise software||2009|2009
+PRIP|pattern recognition information processing|Springer|2017|2022
+PRISMS|privacy security mobile systems co located global wireless summit|IEEE|2013|2014
+PRIS|pattern recognition information systems conjunction||2005|2010
+PRIS|pattern recognition information systems pattern recognition information systems conjunction||2008|2009
+PRIS|pattern recognition intelligent systems|ACM|2020|2024
+PRIVATENLP|privacy natural language processing colocated||2020|2020
+PRIVATENLP|privacy natural language processing north american chapter association computational linguistics human language technologies||2022|2022
+PRIVATENLP|privacy natural language processing||2024|2024
+PRLEAL|r piotrowski s readings language engineering applied linguistics||2020|2020
+PRML|pattern recognition machine learning|IEEE|2021|2025
+PRMVAI|pattern recognition machine vision artificial intelligence|IEEE|2025|2025
+PRMVIA|pattern recognition machine vision intelligent algorithms|IEEE|2023|2024
+PRM|eage practical reservoir monitoring||2017|2017
+PRM|society petroleum engineers spe panhandle regional meeting||1965|1965
+PRNI|pattern recognition neuroimaging|IEEE|2011|2018
+PROBLEMS|computational methods coupled science engineering coupled||2020|2021
+PROBLEMS|computational methods coupled science engineering iv computational methods coupled science engineering coupled||2011|2011
+PROBLEMS|computational methods coupled science engineering v celebrating birthday eugenio onate coupled||2013|2013
+PROBLEMS|coupled coupled science engineering||2015|2015
+PROBLEMS|coupled science engineering coupled||2017|2017
+PROBLEMS|solve before we die co located business process management||2021|2021
+PROBMIV|joint process algebra probabilistic methods performance modeling verification papm|Springer|2002|2002
+PROBMIV|joint process algebras performance modeling probabilistic methods verification papm|Springer|2001|2001
+PROBNUM|probabilistic numerics||2025|2025
+PROCAMS|projector camera systems||2008|2008
+PROCEEDINGS|afips national computer||1981|1981
+PROCEEDINGS|american society engineering education engineering images future||1983|1983
+PROCEEDINGS|apec applied power electronics exposition||1986|1986
+PROCEEDINGS|asme rail transportation spring||1984|1986
+PROCEEDINGS|california regional meeting engineering challenge today s economics||1988|1988
+PROCEEDINGS|california regional meeting||1984|1984
+PROCEEDINGS|carnahan crime countermeasures||1981|1981
+PROCEEDINGS|carnahan security technology electronic crime countermeasures||1986|1987
+PROCEEDINGS|carnahan security technology||1982|1986
+PROCEEDINGS|cern school computing||1983|1983
+PROCEEDINGS|chmt electronic manufacturing technology||1986|1986
+PROCEEDINGS|circuits systems||1984|1984
+PROCEEDINGS|coal science||1983|1985
+PROCEEDINGS|combined combustion coal gas||1982|1982
+PROCEEDINGS|computer architecture pattern analysis machine intelligence||1987|1987
+PROCEEDINGS|computer design vlsi computers processors||1987|1987
+PROCEEDINGS|control engineering inter control scene||1983|1983
+PROCEEDINGS|control engineering progress control inter||1986|1986
+PROCEEDINGS|convention structural engineers association california||1985|1985
+PROCEEDINGS|crime countermeasures security||1983|1983
+PROCEEDINGS|deep drilling production||1984|1986
+PROCEEDINGS|design automation||1984|1987
+PROCEEDINGS|eastern oil shale||1981|1983
+PROCEEDINGS|eastern regional meeting society petroleum engineers aime oil gas era change||1982|1982
+PROCEEDINGS|eastern regional meeting society petroleum engineers aime||1984|1984
+PROCEEDINGS|electrical electronics||1983|1983
+PROCEEDINGS|electrical overstress electristatic discharge||1987|1987
+PROCEEDINGS|electrical overstress electrostatic discharge||1983|1987
+PROCEEDINGS|eleventh computer software applications||1987|1987
+PROCEEDINGS|european artificial intelligence||1982|1982
+PROCEEDINGS|fall industrial engineering||1983|1983
+PROCEEDINGS|fall joint computer exploring technology today tomorrow||1987|1987
+PROCEEDINGS|fourth semiconductor thermal temperature measurement||1988|1988
+PROCEEDINGS|frontiers education||1982|1987
+PROCEEDINGS|frontiers power||1982|1984
+PROCEEDINGS|icas congress council aeronautical sciences aiaa aircraft systems technology||1982|1982
+PROCEEDINGS|icas congress council aeronautical sciences||1984|1986
+PROCEEDINGS|logic programming||1986|1987
+PROCEEDINGS|microwave technology industrial development brazil||1985|1985
+PROCEEDINGS|military communications||1983|1983
+PROCEEDINGS|mining hydrology sedimentology reclamation||1986|1986
+PROCEEDINGS|national material handling forum advanced technologies exposition||1984|1984
+PROCEEDINGS|national online meeting||1983|1986
+PROCEEDINGS|object oriented database systems||1986|1986
+PROCEEDINGS|oil spill||1983|1985
+PROCEEDINGS|operations research papers meeting deutsche gesellschaft fuer operations research|Springer|1982|1982
+PROCEEDINGS|rapid excavation tunneling||1983|1987
+PROCEEDINGS|residential solid fuels environmental impacts solutions||1982|1982
+PROCEEDINGS|robotics automation||1986|1988
+PROCEEDINGS|rocky mountain regional meeting society petroleum engineers aime||1984|1984
+PROCEEDINGS|rocky mountain regional meeting||1983|1986
+PROCEEDINGS|security privacy||1987|1987
+PROCEEDINGS|simulation computer networks||1987|1987
+PROCEEDINGS|spe doe joint low permeability gas reservoirs||1983|1983
+PROCEEDINGS|spe doe joint low permeability reservoirs||1985|1987
+PROCEEDINGS|spe hydrocarbon economics evaluation syposium||1987|1987
+PROCEEDINGS|spe hydrocarbon economics evaluation||1983|1985
+PROCEEDINGS|spe oilfield chemistry||1987|1987
+PROCEEDINGS|spe oilfield geothermal chemistry||1983|1985
+PROCEEDINGS|spe technical exhibition||1987|1987
+PROCEEDINGS|surface mining hydrology sedimentology reclamation||1982|1985
+PROCEEDINGS|tappi coating||1985|1987
+PROCEEDINGS|tappi corrugated containers||1985|1985
+PROCEEDINGS|tappi environmental||1986|1988
+PROCEEDINGS|tappi finishing converting||1985|1985
+PROCEEDINGS|tappi meeting||1986|1986
+PROCEEDINGS|tappi nonwovens||1986|1988
+PROCEEDINGS|tappi oxygen delignification||1987|1987
+PROCEEDINGS|tappi papermakers||1986|1987
+PROCEEDINGS|tappi polymers laminations coatings||1986|1986
+PROCEEDINGS|tappi pulping||1986|1986
+PROCEEDINGS|technical session stability plate structures||1986|1986
+PROCEEDINGS|urban hydrology hydraulic infrastructures water quality control||1985|1985
+PROCEEDINGS|urban hydrology hydraulics sediment control||1982|1984
+PROCEEDINGS|working oceanographic data systems||1986|1986
+PROCEEDINGS|world continuing engineering education||1986|1986
+PROCEEDINGS|xxviiith colloquium refractories refractories glass industry||1986|1986
+PROCEEDINGS|zurich seminar digital communications applications source coding channel coding secrecy coding||1984|1984
+PROCESSING|adaptive systems control signal ifac||1984|1984
+PROCESSING|automation mining mineral metal ifac||1984|1984
+PROCESSING|computer society pattern recognition image||1982|1982
+PROCESSING|digital signal||1984|1984
+PROCESSING|information ifip world computer congress|Elsevier|1983|1983
+PROCESSING|mechanical working steel||1982|1984
+PROCESSING|profitability food onwards chemical engineers contribution||1984|1984
+PROCOMM|professional communication|IEEE|2019|2025
+PROCON|proton emitting nuclei related topics procon2011||2011|2011
+PROCOS|formal techniques real time fault tolerance organized jointly working group provably correct systems|Springer|1994|1994
+PROC|bipolar circuits technol meet||1989|1989
+PROC|int conf microelectronic test structures||1990|1990
+PRODPM|progress digital physical manufacturing|Springer|2020|2020
+PROFES|product focused software development process improvement||2010|2010
+PROFES|product focused software process improvement|Springer|2000|2026
+PROFES|short papers doctoral workshops product focused software development process improvement||2011|2011
+PROGRAMMING|real time ifac ifip||1982|1986
+PROGRESS|exploration as business oil gas exploration||2019|2019
+PROHEALTH|aime joint knowledge representation health care kr4hc|Springer|2015|2015
+PROHEALTH|hec joint knowledge representation health care kr4hc|Springer|2017|2017
+PROHEALTH|joint knowledge representation health care process oriented information systems health care kr4hc transparent explainable affective ai medical systems held conjunction artificial intelligence medicine|Springer|2019|2019
+PROHITECH|protection historical constructions|Springer|2022|2025
+PROLAMAT|advances cad cam ifip ifac programming research operations logistics advanced manufacturing technology||1983|1983
+PROLAMAT|ifip tc digital product process development systems new|Springer|2013|2013
+PROLAMAT|ifip tc5 knowledge enterprise intelligent strategies product design manufacturing management|Springer|2006|2006
+PROMAS|programming multi agent systems first||2004|2004
+PROMAS|programming multi agent systems revised invited selected papers||2009|2009
+PROMAS|programming multi agent systems revised selected papers||2010|2013
+PROMAS|programming multi agent systems second selected revised invited papers||2005|2005
+PROMAS|programming multi agent systems third revised invited papers||2006|2006
+PROMAS|programming multi agent systems||2007|2008
+PROMAS|programming multiagent systems languages frameworks techniques tools|Springer|2004|2004
+PROMISE|predictive models data analytics software engineering co located esec|ACM|2020|2024
+PROMISE|predictive models data analytics software engineering|ACM|2019|2025
+PROMISE|predictive models software engineering co located||2011|2012
+PROMISE|predictive models software engineering|ACM|2010|2014
+PROMISE|predictor models software engineering|ACM|2005|2009
+PROMOTO|programming mobile touch part|ACM|2014|2014
+PROMOTO|programming mobile touch|ACM|2015|2015
+PROMS|protocols multimedia systems|Springer|2001|2001
+PROOFS|security embedded systems||2022|2022
+PROPOR|2nddhandnlp digital humanities natural language processing co located computational processing portuguese||2022|2022
+PROPOR|computational processing portuguese language|Springer|2006|2024
+PROPOR|computational processing portuguese|Springer|2022|2026
+PROPOR|se r automatic speech recognition spontaneous prepared speech speech emotion recognition portuguese co located edition computational processing portuguese||2022|2022
+PROSES|process systems engineering safety|IOP|2025|2025
+PROSE|practicing open enterprise modeling within omilab co located ifip wg working practice enterprise modelling||2019|2019
+PROSIM|software process change software process software process simulation modeling spw|Springer|2006|2006
+PROTECT|colloquium performance protection strengthening structures under extreme loading events|Springer|2025|2025
+PROTOOLS|programming performance visualization tools held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+PROVSEC|provable practical security|Springer|2019|2026
+PROVSEC|provable security first||2007|2007
+PROVSEC|provable security second||2008|2008
+PROVSEC|provable security third||2009|2009
+PROVSEC|provable security|Springer|2010|2021
+PRRS|iapr pattern recognition remote sensing iapr pattern recognition remote sensing|IEEE|2014|2014
+PRRS|iapr pattern recognition remote sensing|IEEE|2008|2018
+PRSAT|practical use recommender systems algorithms technologies was held recommender systems||2010|2010
+PRS|society petroleum engineers spe production research||1962|1962
+PRS|society petroleum engineers university oklahoma spe production research||1963|1963
+PRTM|scientific technical problems railway transportmechanics||2020|2020
+PSAM|probabilistic safety assessment management european safety reliability psam11||2012|2012
+PSAM|probabilistic safety assessment management||2006|2022
+PSAS|seminar arabian studies papers from meeting seminar arabian studies||2013|2013
+PSAS|seminar arabian studies||2024|2025
+PSAS|society antiquaries scotland||2021|2025
+PSATS|personal satellite services icst revised selected papers||2013|2013
+PSATS|personal satellite services revised selected papers||2009|2009
+PSATS|personal satellite services second icst confernce revised selected papers||2010|2010
+PSATS|personal satellite services third icst||2011|2011
+PSATS|personal satellite services|Springer|2013|2016
+PSA|american nuclear society topical meeting probabilistic safety analysis||2005|2005
+PSA|probabilistic safety assessment analysis||2023|2025
+PSA|topical meeting probabilistic safety assessment analysis||2008|2021
+PSBB|photogrammetric computer vision techniques environmental infrastructure monitoring biometrics biomedicine||2023|2023
+PSBB|photogrammetric computer vision techniques video surveillance biometrics biomedicine||2017|2021
+PSBB|photogrammetric techniques environmental infrastructure monitoring biometrics biomedicine||2025|2025
+PSBD|privacy secuirty big data co located|ACM|2014|2014
+PSB|pacific bicomputing||2021|2021
+PSB|pacific biocomputing||2005|2025
+PSCC|power systems computation|IEEE|2005|2018
+PSCEE|postgraduate civil environmental engineering|IOP|2019|2019
+PSCE|pes power systems exposition||2006|2011
+PSC|clemson university power systems|IEEE|2014|2020
+PSC|oecc optoelectronics communications photonics switching computing|IEEE|2019|2022
+PSC|pervasive systems computing||2005|2005
+PSC|photonics switching computing|IEEE|2018|2023
+PSC|power systems advance metering protection control communication distributed resources||2009|2009
+PSC|power systems advance metering protection control communication distributed resourses||2007|2007
+PSC|power system|IEEE|2015|2019
+PSC|pp ifac power plants power systems control||2009|2009
+PSC|prague stringology||2005|2021
+PSDML|privacy security issues data mining machine learning ecml pkdd revised selected papers|Springer|2011|2011
+PSD|cenex sdc project privacy statistical databases|Springer|2006|2006
+PSD|computational aspects statistical confidentiality casc project final privacy statistical databases|Springer|2004|2004
+PSD|personal semantic data||2010|2010
+PSD|positron studies defects|IOP|2011|2025
+PSD|privacy statistical databases unesco chair data privacy||2008|2012
+PSD|privacy statistical databases|Springer|2014|2024
+PSESG|power system engineering smart grid|IOP|2024|2026
+PSES|product compliance engineering||2009|2013
+PSETC|power sustainable energy technologies|IEEE|2025|2025
+PSET|fourth advances modern physics sciences engineering technology|SPIE|2025|2025
+PSET|power systems electrical technology|IEEE|2022|2025
+PSE|plasma surface engineering part|Elsevier|1997|1997
+PSE|process systems engineering use computers chemical engineering||1985|1985
+PSE|process systems engineering||1996|1996
+PSE|second plasma surface engineering|Elsevier|1991|1991
+PSE|third process systems engineering||1989|1989
+PSGAI|power systems smart grid artificial intelligence|IEEE|2024|2024
+PSGEC|power system green energy|IEEE|2021|2025
+PSIH|programming support innovations emerging distributed applications psi eta||2010|2010
+PSIVT|advances image video technology first pacific rim||2006|2006
+PSIVT|advances image video technology pacific rim||2011|2011
+PSIVT|advances image video technology second pacific rim||2007|2007
+PSIVT|advances image video technology third pacific rim||2009|2009
+PSIVT|image video technology pacific rim revised selected papers||2014|2014
+PSIVT|pacific rim image video technology|Springer|2010|2024
+PSI|andrei ershov informatics perspectives system informatics|Springer|2016|2016
+PSI|andrei ershov memorial perspectives system informatics|Springer|2000|2018
+PSI|andrei ershov memorial|Springer|2003|2003
+PSI|andrei p ershov informatics|Springer|2019|2019
+PSI|ershov informatics|Springer|2015|2015
+PSI|perspectives system informatics andrei ershov memorial revised papers||2001|2001
+PSI|perspectives system informatics ershov informatics revised selected papers||2012|2012
+PSI|perspectives systems informatics andrei ershov memorial revised papers||2007|2010
+PSI|physics fundamental symmetries interactions||2011|2011
+PSI|plasma surface interactions controlled fusion devices|Elsevier|1992|1992
+PSL|partially supervised learning first iapr tc3 revised selected papers||2012|2012
+PSL|partially supervised learning iapr revised selected papers|Springer|2013|2013
+PSM2|process safety management mentoring forum topical aiche spring meeting global congress process safety||2015|2015
+PSMI|society petroleum engineers aime pacific southwest mineral industry||1967|1967
+PSMM|process safety management mentoring forum topical aiche spring meeting global congress process safety||2019|2019
+PSND|position sensitive neutron detector|IOP|2025|2025
+PSOSM|privacy security online social media||2012|2012
+PSPC|power systems protection control|IEEE|2015|2015
+PSPDE|particle systems partial differential equations|Springer|2017|2024
+PSPE|power system power engineering|IEEE|2025|2025
+PSP|sigplan privacy security programming part|ACM|2014|2014
+PSRE|power system renewable energy|IEEE|2025|2025
+PSSC|pacific structural steel steel structures natural hazards||2007|2007
+PSSE|refinement techniques software engineering first pernambuco summer school software engineering revised lectures||2006|2006
+PSSE|testing techniques software engineering second pernambuco summer school software engineering revised lectures||2010|2010
+PSSGT|power system smart grid technologies|IEEE|2025|2025
+PSSTMS|photonics society summer topical meeting series||2013|2013
+PSST|photonics society summer topical meeting series||2012|2012
+PSST|porous semiconductor science technology||2009|2009
+PSST|porous semiconductors science technology||2000|2000
+PSS|sname propeller shafting||1991|2023
+PSS|sname propellers||1975|1984
+PSTP|polarized source targets polarimetry||2025|2025
+PSTP|polarized sources targets polarimetry||2019|2023
+PSTRS|progress science technology research|IOP|2020|2020
+PST|exhibition pharmaceutical sciences technology engineering tribology applied technology||2021|2021
+PST|exhibition pharmaceutical sciences technology||2019|2020
+PST|privacy security trust bridge gap between technologies business services|ACM|2006|2006
+PST|privacy security trust|IEEE|2005|2025
+PST|world forum public safety technology wf|IEEE|2025|2025
+PSU|women data science prince sultan university wids|IEEE|2022|2025
+PSYCHOBIT|psychology based technologies||2020|2021
+PSYCO|ifac periodic control systems final program abstracts||2007|2007
+PSYCO|ifac periodic control systems||2010|2013
+PTAM|thephysics technology advanced materials|IOP|2022|2022
+PTCS|seminar proof theory computer science|Springer|2001|2001
+PTC|papers sixth||1984|1984
+PTC|telecommunications pacific development toward digital world||1985|1985
+PTECH|advanced powder technology v fifth latin american powder technology ptech2005||2006|2006
+PTECH|advanced powder technology vi selected peer reviewed papers from latin american powder technology||2008|2008
+PTECH|latin american powder technology||2014|2017
+PTES|russian scientific practical planning teaching engineering staff industrial economic complex region|IEEE|2018|2018
+PTE|industrial process data estimating potential emit effects process chemistry emissions inventory||1997|1997
+PTIS|ai powered technology integration sustainability ai|IOP|2025|2025
+PTI|physics technologies innovation vi young researchers|IOP|2019|2019
+PTI|vii young researchers physics technology innovations|IOP|2020|2020
+PTI|viii young researchers physics technology innovations|IOP|2022|2022
+PTK|manufacturing systems colloquium||1990|1990
+PTLICISIWS|problems textile light industry context integration science industry ways solve them|IOP|2023|2024
+PTMC|bath power transmission motion control||2004|2004
+PTMC|power transmission motion control||2005|2005
+PTM|profunedu alptk||2021|2021
+PTM|solid solid phase transformations inorganic materials||2015|2015
+PTSEMINAR|virtual seminar series pseudo hermitian hamiltonians quantum physics||2021|2021
+PTS|society petroleum engineers spe production techniques||1970|1970
+PTS|society petroleum engineers spe production technology||1978|1978
+PTTI|joint frequency control precise time time interval systems applications meeting|IEEE|2005|2005
+PTTI|precise time time interval systems applications meeting ion|IEEE|2025|2025
+PTTI|precise time time interval systems applications meeting|IEEE|2006|2024
+PTZE|applications electromagnetics modern engineering medicine|IEEE|2019|2022
+PTZE|applications electromagnetics modern techniques medicine|IEEE|2018|2018
+PUK|artificial intelligence ki planning scheduling design configuration||2009|2009
+PUK|german artificial intelligence ki planung scheduling und konfigurieren entwerfen||2014|2014
+PUK|ki german artificial intelligence planen scheduling und konfigurieren entwerfen||2008|2008
+PUK|planen scheduling und konfigurieren entwerfen||2018|2018
+PUK|planen und konfigurieren ki german artificial intelligence||2006|2006
+PUK|planning scheduling configuration design artificial intelligence planen scheduling und konfigurieren entwerfen kunstliche intelligenz||2007|2007
+PUK|planning scheduling configuration design planen scheduling und konfigurieren entwerfen||2005|2005
+PULPAPER|energy carbon management||2004|2004
+PULPAPER|implementing new rise bioenergy boosting forest industry||2010|2010
+PULPAPER|implementing new rise resource efficiency||2010|2010
+PULPAPER|implementing new rise sustainable solutions||2010|2010
+PULPAPER|implementing new rise technological breakthroughs nanotechnology||2010|2010
+PULPAPER|implementing new rise winning change||2010|2010
+PULPAPER|innovative sustainable use forest resources||2007|2007
+PUMPS|scientific engineering hermetic sealing vibration reliability ecological safety pump compressor machinery hervicon||2014|2014
+PUMPS|xvi scientific engineering hermetic sealing vibration reliability ecological safety pump compressor machinery hervicon||2021|2021
+PUNECON|data science analytics|IEEE|2018|2018
+PUNECON|pune section|IEEE|2019|2025
+PVCON|photovoltaic science technologies|IEEE|2018|2020
+PVC|pacific voice voice technology software hardware applications bioengineering health performance||2014|2014
+PVC|plastics rubber institute third|Elsevier|1988|1988
+PVGS|parallel visualization graphics|ACM|1999|1999
+PVG|parallel large data visualization graphics|IEEE|2003|2003
+PVHD|peripheral vision horizon display||1984|1984
+PVLED|optical devices materials solar energy solid state lighting||2021|2021
+PVLED|optical nanostructures advanced materials photovoltaics||2013|2015
+PVM|projektmanagement und vorgehensmodelle||2023|2024
+PVPC|asme pressure vessels piping|Elsevier|2000|2000
+PVP|asme pressure vessels piping division asme pvp2006 pressure vessel technologies global community||2006|2006
+PVSC|photovoltaic specialists|IEEE|2008|2025
+PVSC|photovoltaic specialist|IEEE|2014|2024
+PVSC|photovoltaics specialists|IEEE|2022|2022
+PVSC|program photovoltaic specialists||2010|2012
+PVSEC7|photovoltaic science engineering part|Elsevier|1994|1994
+PWC|ifip personal wireless communications|Springer|2007|2007
+PWC|ifip tc6 personal wireless communications|Springer|2006|2008
+PWC|ifip tc6 wg6 working personal wireless communications|Springer|2003|2003
+PWC|personal wireless communications ifip tc6|Springer|2006|2006
+PWR|asme power pwr2006||2006|2006
+PXRAYMS|physics x ray multilayer structures||1994|1994
+PXTP|proof exchange theorem proving||2012|2021
+PYHPC|python high performance scientific computing held conjunction sc high performance computing networking storage analysis|ACM|2015|2020
+PYHPC|python high performance scientific computing held conjunction sc16 high performance computing networking storage analysis|IEEE|2016|2016

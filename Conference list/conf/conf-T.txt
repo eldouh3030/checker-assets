@@ -1,0 +1,1121 @@
+T&D|transmission distribution exposition pes||2012|2012
+TAAI|technologies applications artificial intelligence|IEEE|2010|2025
+TAAPAAI|trust autonomy accountability pkg based agentic ai co located semantic web||2026|2026
+TABLEAUX|analytic related methods|Springer|2000|2003
+TABLEAUX|automated reasoning analytic related methods co located frontiers combining systems|Springer|2021|2021
+TABLEAUX|automated reasoning analytic related methods|Springer|1997|2026
+TABLEAUX|theorem proving analytic related methods|Springer|1995|1996
+TABLETOP|first horizontal interactive human computer systems||2006|2006
+TABLETOP|horizontal interactive human computer systems||2008|2008
+TACAS|tools algorithms construction analysis systems held as part european joint theory practice software|Springer|2012|2023
+TACAS|tools algorithms construction analysis systems held as part joint european theory practice software|Springer|2000|2011
+TACAS|tools algorithms construction analysis systems held as part joint theory practice software|Springer|2026|2026
+TACAS|tools algorithms construction analysis systems int conf held as part european joint conf theory practice software proc|Springer|2014|2014
+TACAS|tools algorithms construction analysis systems int conf held as part joint european conf theory practice software proc|Springer|2001|2002
+TACAS|tools algorithms construction analysis systems int conf held as part joint european conf theory practice software|Springer|2008|2008
+TACAS|tools algorithms construction analysis systems part joint european conf theory practice software proc|Springer|2009|2009
+TACAS|tools algorithms construction analysis systems series held as part european joint theory practice software|Springer|2019|2019
+TACAS|tools algorithms construction analysis systems which was held as part european joint theory practice software|Springer|2024|2024
+TACAS|tools algorithms construction analysis systems which was held as part joint theory practice software|Springer|2025|2025
+TACAS|tools algorithms construction analysis systems|Springer|1995|2010
+TACC|tunisian algerian joint applied computing||2021|2024
+TACS|theoretical aspects computer software|Springer|1991|1997
+TACT|trends automation communication computing technologies i|IEEE|2015|2015
+TAC|transportation association canada exhibition||2015|2020
+TAC|transportation association canada innovation technology evolving transportation||2018|2018
+TAC|transportation association canada s exhibition||2016|2016
+TADA|agent mediated electronic commerce designing trading strategies mechanisms electronic markets ijcai selected revised papers|Springer|2010|2010
+TADA|agent mediated electronic commerce designing trading strategies mechanisms electronic markets revised selected papers|Springer|2012|2013
+TADA|agent mediated electronic commerce trading agent design analysis amec|Springer|2013|2017
+TADDS|theoretical aspects dynamic distributed systems co located||2011|2012
+TAEECE|technological advances electrical electronics computer engineering|IEEE|2013|2015
+TAEE|congreso de tecnologia aprendizaje y ensenanza de la electronica|IEEE|2024|2024
+TAEE|scientific practical technology agriculture energy ecology|IOP|2022|2022
+TAEE|technologies applied electronics teaching|IEEE|2012|2020
+TAEE|xi tecnologias aplicadas la ensenanza de la electronica|IEEE|2014|2014
+TAE|trends agricultural engineering||2007|2022
+TAFA|theory applications formal argumentation first revised selected papers||2012|2012
+TAFA|theory applications formal argumentation second revised selected papers|Springer|2014|2014
+TAFA|theory applications formal argumentation|Springer|2015|2018
+TAFGEN|telematics future generation networks|IEEE|2015|2018
+TAFP|advanced technologies agriculture food processing||2021|2021
+TAGA|technical association graphic arts technical disseminating graphic arts research internationally since||2021|2022
+TAGA|technical association graphic arts technical||2020|2020
+TAGES|technological problems involved steelmaking part i ii mining metallurgical freiberg technologische fragen der erzeugung von stahl vortraege des berg und huettenmaennischen||1982|1982
+TAGT|theory application graph tranformations|Springer|2000|2000
+TAGUNG|construction underground present future papers stuva meeting unterirdisches bauen gegenwart und zukunft vortraege der stuva||1982|1982
+TAG|tree adjoining grammars related formalisms||2008|2008
+TAHRI|technological advances human robot interaction|ACM|2024|2024
+TAILOR|trustworthy ai integrating learning optimization reasoning held as part european artificial intelligence|Springer|2021|2021
+TAINN|artificial intelligence neural networks turkish revised selected papers|Springer|2006|2006
+TAISA|joint north east circuits systems newcas||2009|2009
+TAI|tools artificial intelligence||1989|1993
+TAKE|multidisciplinary intangibles|Springer|2025|2025
+TALE|engineering technology education|IEEE|2019|2021
+TALE|teaching assessment learning engineering learning future now|IEEE|2015|2015
+TALE|teaching assessment learning engineering|IEEE|2012|2025
+TALKS|zababakhin scientific high energy density physics||2006|2006
+TALN|traitement automatique des langues naturelles actes de la 29e sur le traitement automatique des langues naturelles atelier defi fouille de textes||2022|2022
+TALN|traitement automatique des langues naturelles actes de la 29e sur le traitement automatique des langues naturelles atelier tal et humanites numeriques tal hn||2022|2022
+TALN|traitement automatique des langues naturelles actes de la 29e sur le traitement automatique des langues naturelles principale||2022|2022
+TAMC|theory applications models computation third|Springer|2006|2006
+TAMC|theory applications models computation|Springer|2008|2026
+TAMODIA|task models diagrams user interface design revised selected papers||2010|2010
+TAMODIA|task models diagrams user interface design||2007|2007
+TAMODIA|task models diagrams users interface design revised papers||2007|2007
+TAMODIA|task models diagrams||2004|2005
+TANCON|tandec nonwovens||2006|2006
+TANN|theoretical applied nanoscience nanotechnology||2022|2026
+TAPAS|icst theory practice algorithms systems|Springer|2011|2011
+TAPAS|sigplan tools automatic program analysis co located|ACM|2020|2020
+TAPAS|technology physical activity sport|Springer|2022|2022
+TAPAS|technology policy accessing spectrum||2006|2006
+TAPAS|theory practice algorithms systems first icst||2011|2011
+TAPIA|diversity computing||2003|2003
+TAPIA|richard celebration diversity computing||2005|2005
+TAPPICON|rock roll unleashing harmonies paper industry||2023|2023
+TAPPI|place innovations flexible consumer packaging||2008|2008
+TAPPI|place polymers laminations adhesives coatings extrusions||2006|2006
+TAPP|theory practice provenance held conjunction|ACM|2022|2022
+TAPP|theory practice provenance||2009|2021
+TAPP|usenix theory practice provenance||2015|2018
+TAPSA|trends automotive parts systems applications||2024|2024
+TAPSOFT|joint theory practice software development|Springer|1985|1995
+TAPTA|towards theory practice teaching analytics conjunction european technology enhanced learning ec||2012|2012
+TAP|bob brandom s recent philosophy language towards analytic pragmatism||2009|2009
+TAP|tests proofs first revised papers|Springer|2007|2007
+TAP|tests proofs held as part federated software technologies applications foundations|Springer|2022|2022
+TAP|tests proofs held as part software technologies applications foundations|Springer|2016|2021
+TAP|tests proofs held as part world congress formal methods fm|Springer|2019|2019
+TAP|tests proofs held as part|Springer|2014|2018
+TAP|tests proofs second||2008|2008
+TAP|tests proofs third||2009|2009
+TAP|tests proofs|Springer|2010|2025
+TARK|theoretical aspects rationality knowledge tenth||2005|2005
+TARK|theoretical aspects rationality knowledge|ACM|2003|2025
+TARK|xiii theoretical aspects rationality knowledge||2011|2011
+TAROS|advances autonomous robotics systems|Springer|2014|2014
+TAROS|towards autonomous robotic systems revised selected papers|Springer|2014|2014
+TAROS|towards autonomous robotic systems|Springer|2011|2026
+TASCON|papers presented airah||1982|1982
+TASE|first joint ifip theoretical aspects software engineering||2007|2007
+TASE|ifip theoretical aspects software engineering||2008|2008
+TASE|theoretical aspects software engineering|IEEE|2009|2026
+TASI|theoretical advanced study institute elementary particle physics dark secrets terascale||2013|2013
+TASI|theoretical advanced study institute elementary particle physics dawn lhc era||2010|2010
+TASI|theoretical advanced study institute elementary particle physics many dimensions string theory||2005|2005
+TASI|theoretical advanced study institute elementary particle physics physics large small||2011|2011
+TASI|theoretical advanced study institute elementary particle physics string theory its applications from mev planck scale||2012|2012
+TASI|theoretical advanced study institute obscure universe neutrinos other dark matters||2021|2021
+TASI|theoretical advanced study institute particle theory||2024|2024
+TASI|theoretical advanced study institute summer school physics fundamental frontier||2017|2017
+TAS|trustworthy autonomous systems|ACM|2023|2024
+TATF|trends new applications thin films||1996|1996
+TAT|iasted telehealth assistive technology||2009|2016
+TAT|iee colloquium transoceanic cable communications herald new era||1996|1996
+TAUP|topics astroparticle underground physics anniversary sn1987a|IOP|2008|2008
+TAUP|topics astroparticle underground physics axions|IOP|2012|2012
+TAUP|topics astroparticle underground physics cosmic rays neutrinos gamma rays|IOP|2008|2008
+TAUP|topics astroparticle underground physics cosmology|IOP|2008|2012
+TAUP|topics astroparticle underground physics dark matter universe antimatter space|IOP|2008|2008
+TAUP|topics astroparticle underground physics dark matter|IOP|2012|2012
+TAUP|topics astroparticle underground physics gravitational waves|IOP|2008|2012
+TAUP|topics astroparticle underground physics high energy astrophysical messengers|IOP|2012|2012
+TAUP|topics astroparticle underground physics introduction|IOP|2008|2008
+TAUP|topics astroparticle underground physics neutrinos|IOP|2008|2012
+TAUP|topics astroparticle underground physics underground laboratories|IOP|2008|2008
+TAUP|topics astroparticle underground physics|IOP|2020|2024
+TAURIN|sigcomm technologies applications uses responsible internet|ACM|2021|2021
+TAV|testing analysis verification|ACM|1991|1991
+TAWMCO|national technological advancements waste management challenges opportunities|Springer|2025|2025
+TBET|thermophysical basis energy technologies|IOP|2021|2021
+TBILLC|logic language computation tbilisi logic language computation revised selected papers||2007|2013
+TBILLC|tbilisi language logic computation|Springer|2019|2026
+TBILLC|tbilisi logic language computation|Springer|2011|2017
+TBIS|textile bioengineering informatics textile bioengineering informatics conjunction asian protective clothing||2014|2016
+TBIS|textile bioengineering informatics textile bioengineering informatics||2015|2024
+TBIS|textile bioengineering informatics||2025|2025
+TCAC|delicate balance technics culture consequences|IEEE|1989|1989
+TCCC|theory cryptography|Springer|2020|2020
+TCCE|trends cognitive computation engineering|Springer|2023|2023
+TCCE|trends computational cognitive engineering|Springer|2021|2026
+TCCI|transactions computational collective intelligence|Springer|2015|2015
+TCC|tactical communications technology transition|IEEE|1992|1992
+TCC|theory cryptography b|Springer|2016|2016
+TCC|theory cryptography second theory cryptography|Springer|2005|2005
+TCC|theory cryptography theory cryptography|Springer|2007|2014
+TCC|theory cryptography third theory cryptography|Springer|2006|2006
+TCC|theory cryptography|Springer|2004|2026
+TCDE|towards clean diesel engines||2009|2009
+TCD|public health tropical coastal developmen icoph|EDP|2024|2024
+TCD|public health tropical coastal development icoph|EDP|2022|2025
+TCF|pursuit project xl agreement totally chlorine free pulp mill||1997|1997
+TCGOV|e government towards electronic democracy||2005|2005
+TCIT|towards comprehensive intelligence test reconsidering turing test century convention||2010|2010
+TCLEE|lifeline earthquake engineering multihazard environment||2009|2009
+TCOB|joint technologies context aware business process management at4ws conjunction||2009|2009
+TCOB|technologies collaborative business process management conjunction||2006|2006
+TCSET|advanced trends radioelectronics telecommunications computer engineering|IEEE|2018|2026
+TCSET|lnternational advanced trends radioelectronics telecommunications computer engineering|Springer|2023|2025
+TCSET|modern problems radio engineering telecommunications computer science|IEEE|2002|2016
+TCS|fifth information technology contemporary sports|SPIE|2026|2026
+TCS|foundations software technology theoretical computer science fst|Springer|1984|2003
+TCS|fst foundations software technology theoretical computer science||2002|2002
+TCS|ifip tc wg theoretical computer science|Springer|2012|2012
+TCS|ifip theoretical computer science|Springer|2000|2006
+TCS|ifip world computer congress tc1 theoretical computer science|Springer|2004|2004
+TCS|information technology contemporary sports|IEEE|2021|2024
+TCS|theoretical computer science exploring new frontiers theoretical informatics ifip||2000|2000
+TCS|theoretical computer science ifip tc wg|Springer|2012|2014
+TDC|nome nordic mediterranean time digital converters||2013|2013
+TDC|pes transmission distribution exposition latin america||2006|2006
+TDF|tsinghua iet electrical engineering academic forum||2022|2023
+TDGM|scrap tire derived geomaterials opportunities challenges iw||2008|2008
+TDIBP|transportation development innovative best practices transportation development innovative best practices||2008|2008
+TDIS|testing distributed internet things systems part|ACM|2025|2026
+TDIT|ifip tc8 wg working transfer diffusion information technology organizational resilience|Springer|2006|2006
+TDIT|ifip wg transfer diffusion it|Springer|2014|2020
+TDIT|ifip wg working smart working living organising transfer diffusion it|Springer|2019|2019
+TDIT|ifip wg working transfer diffusion it|Springer|2013|2026
+TDI|trends digital identity co located joint national cybersecurity itasec||2025|2025
+TDI|trends digital identity||2024|2024
+TDI|trustworthy digital infrastructure||2025|2026
+TDLE|towards digital language equality as part language resources evaluation||2022|2022
+TDLE|towards digital language equality focusing sustainability lrec||2024|2024
+TDLS|tunable diode laser spectroscopy|Elsevier|1996|1996
+TDMA|trajectory data mining analysis||2011|2011
+TDM|twente data management uncertainty databases||2006|2006
+TDPF|technologies digital photo fulfillment from clics pics personalization photo imaging output||2012|2012
+TDS|book abstracts ifac time delay systems||2012|2012
+TDS|ifac joint sssc fda time delay systems||2013|2013
+TDS|ifac time delay systems|Elsevier|2006|2025
+TEAA|trends enterprise application architecture revised selected papers||2007|2007
+TEAA|trends enterprise application architecture vldb revised selected papers||2006|2006
+TEACHNLP|teaching natural language processing||2026|2026
+TEACHNLP|teaching nlp||2024|2024
+TEAM|teamworking environment advanced manufacturing conceptual system design||1996|1996
+TEAR|trends enterprise architecture research practice driven research enterprise transformation working held open group|Springer|2012|2012
+TEAR|trends enterprise architecture research|Springer|2010|2010
+TEAS|emerging trends expert applications security ice|Springer|2023|2024
+TEAS|ficr rising threats expert applications solutions ficr|Springer|2021|2022
+TEAS|modern practices trends expert applications security mp|Springer|2025|2025
+TEAS|networking emerging trends expert applications security nice|Springer|2026|2026
+TEAS|universal threats expert applications solutions uni|Springer|2024|2026
+TEA|eai safe secure ethical responsible technologies emerging applications safer|Springer|2024|2026
+TEA|natural language processing techniques educational applications nlp conjunction meeting association computational linguistics joint natural language processing acl||2015|2015
+TEA|technology enhanced assessment|Springer|2017|2019
+TECHAAL|iet technologies active assisted living||2019|2019
+TECHDEBT|technical debt|IEEE|2019|2025
+TECHDEFENSE|technologies defense security|IEEE|2023|2024
+TECHDEV|computer technologies development|IEEE|2022|2024
+TECHNIK|agricultural engineering land||2016|2020
+TECHNIQUES|cavitation research facilities||1987|1987
+TECHNOLOGIES|wireless abstract pages european wireless technology||2005|2005
+TECHNOLOGY|asphalt paving association asphalt paving technologists technical sessions||1982|1983
+TECHNOLOGY|coal coal lignite utilization||1984|1984
+TECHNOLOGY|coal coal solid fuels utilization||1985|1985
+TECHNOLOGY|coal coal utilization exhibition||1980|1983
+TECHNOLOGY|deep offshore exhibition||1985|1985
+TECHNOLOGY|electromagnetic launch||1984|1986
+TECHNOLOGY|energy energy decade progress||1983|1983
+TECHNOLOGY|fiber optics|SPIE|1982|1982
+TECHNOLOGY|fusion thirteenth||1984|1984
+TECHNOLOGY|information control problems manufacturing ifac ifip imacs ifors||1987|1987
+TECHNOLOGY|information control problems manufacturing ifac ifip||1983|1983
+TECHNOLOGY|large space antenna systems||1983|1983
+TECHNOLOGY|management energy||1987|1987
+TECHNOLOGY|nasa dod control structures interaction||1987|1987
+TECHNOLOGY|national australian welding institute welding||1982|1982
+TECHNOLOGY|scientific participation food science engineering|EDP|2023|2023
+TECHNOLOGY|semiconductor microprocessor selected papers presented seminex technical seminar exhibition||1981|1981
+TECHNOLOGY|space photovoltaic research high efficiency radiation damage blanket||1982|1982
+TECHNOLOGY|space photovoltaic research high efficiency space environment array||1985|1986
+TECHNOLOGY|spacecraft environmental interactions||1985|1985
+TECHNOLOGY|turbine engine hot section||1984|1984
+TECHNOLOGY|vlsi science third very large scale integration science||1985|1985
+TECHNOLOGY|yachting preprints papers||1987|1987
+TECHPOS|technical postgraduates||2009|2009
+TECHSPO|national interdisciplinary scientific power algorithms|IEEE|2018|2018
+TECHSUD|national technologies sustainable urban development|IOP|2025|2025
+TECHSUD|technologies sustainable urban development|IOP|2023|2023
+TECHSYM|students technology|IEEE|2010|2016
+TECHSYS|scientific engineering technologies systems|IOP|2022|2025
+TECH|apwg eu apwg eu co located apwg eu summit researchers sync up||2023|2023
+TECH|iasted unconventional oil technology||2011|2011
+TECH|meeting technical aim back basics||1987|1987
+TECH|smart systems emerging technologies smart|IEEE|2020|2020
+TECH|technical papers airah exhibition||1985|1985
+TECH|twenty first abrasive engineering society prime time abrasives||1983|1983
+TECIS|ifac technology culture stability|Elsevier|2018|2024
+TECPS|sigsoft testing embedded cyber physical systems co located|ACM|2017|2017
+TEC|technical volume i||2003|2003
+TEDC|fourth technology education developing countries||2006|2006
+TEDR|technology enhanced diagrams research||2012|2012
+TEECCON|trends electrical electronics computer engineering|IEEE|2022|2024
+TEEM|technological ecosystem enhancing multiculturality||2013|2013
+TEEM|technological ecosystems enhancing multiculturality|ACM|2019|2021
+TEES|tourism economy environmental sustainability|EDP|2021|2021
+TEFSE|co located traceability emerging forms software engineering co located||2011|2011
+TEFSE|icse traceability emerging forms software engineering||2009|2009
+TEFSE|int traceability emerging forms software engineering held int conf automated software engineering||2005|2005
+TEFSE|traceability emerging forms software engineering||2013|2013
+TEHI|trends electronics health informatics|Springer|2022|2026
+TEICAI|towards ethical inclusive conversational ai language attitudes linguistic diversity language rights||2024|2024
+TEIM|meeting testing evaluation inorganic materials||2015|2015
+TEIN|etp iita telecommunication information||2010|2011
+TEIN|telecommunication information||2012|2012
+TEIT|transportation energy integration technologies c|Springer|2026|2026
+TEI|anniversary tangible embedded embodied interaction|ACM|2016|2016
+TEI|first tangible embedded interaction||2007|2007
+TEI|second tangible embedded interaction||2008|2008
+TEI|tangible embedded embodied interaction|ACM|2010|2026
+TEI|tangible embedded interaction||2009|2009
+TELECCON|scientific telecommunications computing control|Springer|2021|2021
+TELECOM|asia speakers papers world telecommunication forum special session isdn mobile communications||1985|1985
+TELECOM|national participation ways connect future|IEEE|2019|2019
+TELECOM|national participation|IEEE|2020|2025
+TELEPE|telecommunications power electronics|IEEE|2024|2025
+TELERISE|technical legal aspects data privacy security|IEEE|2015|2015
+TELESCON|telecommunication energy special power supply quality efficiency||2009|2009
+TELESCON|telecommunication energy special|IEEE|2009|2009
+TELESCON|telecommunications energy special satellite intelec|IEEE|1994|1994
+TELESCON|telecommunications energy special|IEEE|1997|2000
+TELE|technology enhanced learning higher education|IEEE|2021|2025
+TELFOR|telecommunications forum papers|IEEE|2011|2025
+TELFOR|telecommunications forum|IEEE|2012|2023
+TELLER|xxvth jahn effect related phenomena jahn|IOP|2024|2024
+TELL|technology enhanced learning laboratories||2023|2023
+TELSIKS|advanced technologies systems services telecommunications papers|IEEE|2025|2025
+TELSIKS|advanced technologies systems services telecommunications|IEEE|2017|2023
+TELSIKS|telecommunications modern satellite cable broadcasting service papers||2001|2001
+TELSIKS|telecommunications modern satellite cable broadcasting services papers||2005|2011
+TELSIKS|telecommunications modern satellite cable broadcasting services|IEEE|2013|2015
+TELSIKS|telecommunications modern satellite cable broadcasting service||2003|2003
+TEL|century learning century skills european technology enhanced learning ec||2012|2012
+TEL|creating new learning experiences global scale second european technology enhanced learning ec||2007|2007
+TEL|ec impact impact papers ec co located european technology enhanced learning addressing global challenges quality education ec||2020|2020
+TEL|ec prolearn doctoral consortium technology enhanced learning held european technology enhanced learning||2008|2008
+TEL|european technology enhanced learning ec poster session||2007|2007
+TEL|european technology enhanced learning ec prolearn doctoral consortium||2007|2007
+TEL|european technology enhanced learning ec|Springer|2015|2026
+TEL|hls d3 hybrid learning spaces data design didactics co located european technology enhanced learning ec||2020|2020
+TEL|iasted technology education learning||2011|2011
+TEL|ifip tc3 technology enhanced learning|Springer|2005|2005
+TEL|innovative approaches learning knowledge sharing european technology enhanced learning ec workshops||2006|2006
+TEL|innovative approaches learning knowledge sharing first european technology enhanced learning ec|Springer|2006|2006
+TEL|learning synergy multiple disciplines european technology enhanced learning ec||2009|2009
+TEL|methods tools computer supported collaborative creativity process linking creativity informal learning held within ec||2009|2009
+TEL|open learning teaching educational communities european technology enhanced learning ec|Springer|2014|2014
+TEL|scaling up learning sustained impact european technology enhanced learning ec||2013|2013
+TEL|sustaining from innovation learning practice european technology enhanced learning ec||2010|2010
+TEL|times convergence technologies across learning contexts third european technology enhanced learning ec||2008|2008
+TEL|towards ubiquitous learning european technology enhanced learning ec||2011|2011
+TEMPMEKO|temperature thermal measurements industry science||2004|2004
+TEMPWEB|temporal web analytics||2012|2012
+TEMPXAI|explainable ai time series data streams co located european machine learning principles practice knowledge discovery databases ecml||2024|2024
+TEMSCON|technology engineering management society|IEEE|2017|2017
+TEMSCON|technology engineering management|IEEE|2018|2020
+TEMSMET|technology engineering management societal impact using marketing enterpreneurship talent|IEEE|2025|2025
+TEMSMET|technology engineering management societal impact using marketing entrepreneurship talent|IEEE|2020|2023
+TEMS|application information technologies engineering management science icai|IEEE|2025|2025
+TEMS|european technology engineering management summit e|IEEE|2016|2025
+TEMT|emerging trends electromechanical technologies management|Springer|2021|2021
+TEMU|telecommunications multimedia|IEEE|2012|2016
+TENCONSPRING|tencon spring||2013|2013
+TENCON|computers communications technology||1987|1987
+TENCON|consumer industrial electronics applications||1984|1984
+TENCON|convergent technologies asia pacific region vol iii||2003|2003
+TENCON|convergent technologies asia pacific region vol ii||2003|2003
+TENCON|convergent technologies asia pacific region vol iv||2003|2003
+TENCON|ec3 energy computer communication control systems pre|IEEE|1985|1991
+TENCON|fourth region||1989|1989
+TENCON|region analog digital techniques electrical engineering volume b||2004|2004
+TENCON|region analog digital techniques electrical engineering volume c||2004|2004
+TENCON|region analog digital techniques electrical engineering volume d||2004|2004
+TENCON|region analog digital techniques electrical engineering volume||2004|2004
+TENCON|region artificial intelligence deep learning technologies sustainable future|IEEE|2024|2024
+TENCON|region computer communication control power engineering part||1993|1993
+TENCON|region computer communication systems||1990|1991
+TENCON|region global connectivity energy computer communication control|IEEE|1998|1998
+TENCON|region microelectronics vlsi||1995|1995
+TENCON|region s part||1995|1995
+TENCON|region trends development converging technology towards||2011|2011
+TENCON|region unleashing innovation elevating technologies new horizon|IEEE|2025|2025
+TENCON|sustainable development through humanitarian technology||2012|2012
+TENCON|technology knowledge society|IEEE|2019|2019
+TENCON|trends electronics vlsi microcomputers today tomorrow||1982|1982
+TENDER|i conext ict tools emergency networks disaster relief|ACM|2017|2017
+TENGARSS|recent advances geoscience remote sensing technologies standards applications|IEEE|2019|2019
+TENSYMP|region innovations technology shaping future|IEEE|2025|2025
+TENSYMP|technologies smart cities|IEEE|2017|2017
+TEPEN|efficiency performance engineering network|Springer|2023|2023
+TEPEN|maintenance engineering income vi efficiency performance engineering network|Springer|2023|2023
+TEPRA|technologies practical robot applications||2009|2014
+TEPS|tron project||1996|1996
+TEP|smart grid technology economics policies sg||2012|2012
+TEQC|teqc83 testing evaluation quality control composites||1983|1983
+TERAGRID|extreme digital discovery tg||2011|2011
+TERAHERTZ|papers presented submillimeter receiver technology||1987|1987
+TERATECH|russia japan usa fundamental applied problems terahertz devices technologies rjus|IOP|2014|2014
+TERA|thz radiation basic research applications||2008|2008
+TERMGRAPH|computing terms graphs||2021|2023
+TERRAIN|prospecting areas glaciated papers presented sixth||1984|1984
+TERRAIN|prospecting areas glaciated||1982|1986
+TESCA|technology enablers innovative applications smart cities communities co located systems energy efficient buildings cities transportation|ACM|2020|2020
+TESCONF|through life engineering services|Elsevier|2013|2020
+TESC|pes transactive energy systems|IEEE|2019|2022
+TESTCOM|ifip tc6 wg testing communicating systems|Springer|2005|2005
+TESTCOM|ifip tc6 wg6 testing communicating systems formal approaches testing software|Springer|2007|2007
+TESTCOM|ifip tc6 wg6 testing communicating systems|Springer|2006|2006
+TESTCOM|ifip testing communicating systems|Springer|2003|2004
+TESTCOM|joint ifip wg testing software communication systems formal approaches testing software|Springer|2009|2009
+TESTCOM|testing communicating systems ifip tc wg|Springer|2006|2006
+TESTCOM|testing communicating systems ifip tc6 wg||2005|2005
+TESTCOM|testing software communicating systems ifip tc wg||2008|2008
+TESTCOM|testing software communicating systems ifip tc6 wg6||2007|2007
+TESTCOM|testing software communication systems ifip wg||2009|2009
+TESTING|automatic test instrumentation||1981|1982
+TESTVIS|visualization testing hardware software manufacturing|IEEE|2022|2022
+TEST|automating case design selection evaluation co located esec|ACM|2021|2022
+TEST|automating case design selection evaluation co located|ACM|2016|2024
+TEST|automating case design selection evaluation|ACM|2015|2015
+TEST|sigsoft automated software testing co located|ACM|2017|2017
+TEST|sigsoft automating case design selection evaluation co located esec|ACM|2019|2020
+TEST|sigsoft automating case design selection evaluation co located|ACM|2018|2018
+TES|technologies e services revised selected papers||2005|2005
+TES|technologies e services|Springer|2001|2005
+TES|thailand econometric society|Springer|2014|2018
+TEXAS|relativistic astrophysics||2011|2011
+TEXCOMP|textile composites recent advances textile omposites||2010|2010
+TEXCRA|technical exhibition based robotics automation||2004|2004
+TEXTGRAPHS|graph based algorithms natural language processing 2008c||2008|2008
+TEXTGRAPHS|graph based methods natural language processing conjunction north american chapter association computational linguistics||2021|2021
+TEXTGRAPHS|graph based methods natural language processing meeting association computational linguistics||2010|2010
+TEXTINFER|applied textual inference joint meeting acl joint natural language processing afnlp acl||2009|2009
+TEXTINFER|textual entailment empirical methods natural language processing||2011|2011
+TFA|meeting topology functional analysis|Springer|2019|2019
+TFC|ifip wg triz future|Springer|2025|2025
+TFC|triz future automated invention smart industries|Springer|2018|2022
+TFC|triz future|Springer|2023|2023
+TFEC|thermal fluids engineering||2019|2026
+TFESC|thermal fluid engineering summer heat transfer||2017|2017
+TFESC|thermal fluid engineering summer||2015|2018
+TFMST|ifac thermodynamic foundations mathematical systems theory||2013|2013
+TFMST|ifac thermodynamics foundations mathematical systems theory|Elsevier|2022|2025
+TFM|colognet fme teaching formal methods|Springer|2004|2004
+TFM|target fabrication specialists meeting||1999|1999
+TFM|teaching formal methods second||2009|2009
+TFPA|tenth thin film physics applications|SPIE|2019|2019
+TFPIE|trends functional programming education||2020|2025
+TFP|trends functional programming revised selected papers||2011|2014
+TFP|trends functional programming|Springer|2011|2026
+TFRE|recent trends developments thermo fluids renewable energy|Springer|2022|2022
+TFSOCTAI|thinking fast slow other cognitive theories ai fall||2022|2022
+TFTT|thin film transistor technologies|IOP|2018|2018
+TFT|computer aided design thin film transistor technologies cad|IEEE|2016|2018
+TFT|semiconductor technology ultra large scale integrated circuits thin film transistors ulsic vs||2019|2019
+TFT|thin film transistors|IOP|2010|2016
+TGC|trustworthly global computing revised selected papers||2010|2010
+TGC|trustworthly global computing|Springer|2010|2010
+TGC|trustworthy global computing revised selected papers|Springer|2005|2014
+TGC|trustworthy global computing second revised selected papers||2007|2007
+TGC|trustworthy global computing third revised selected papers||2008|2008
+TGC|trustworthy global computing|Springer|2016|2016
+TGF|traffic granular flow|Springer|2015|2025
+THEDU|theorem proving components educational software||2020|2025
+THERAMIN|thermal treatment radioactive waste|IOP|2020|2020
+THERMACOMP|computational methods thermal problems||2009|2018
+THERMEC|processing manufacturing advanced materials processing fabrication properties applications||2014|2021
+THERMEC|processing manufacturing advanced materials||2007|2017
+THERMEC|supplement processing manufacturing advanced materials||2007|2007
+THERMINIC|collection papers presented thermai investigation ics systems||2007|2007
+THERMINIC|thermal investigation ics systems||2008|2012
+THERMINIC|thermal investigations ics systems|IEEE|2009|2025
+THERMINIC|thermal investigations ics syst|IEEE|2017|2017
+THERM|intersociety thermal phenomena electronic systems i||1992|1992
+THERM|intersociety thermal thermomechanical phenomena electronic systems i||2008|2008
+THERM|second intersociety thermal phenomena electronic systems i||1990|1990
+THERM|semiconductor thermal measurement management semi|IEEE|2009|2018
+THERM|semiconductor thermal measurement modeling management semi|IEEE|2019|2025
+THERM|twenty second semiconductor thermal measurement management semi||2006|2006
+THETA|thermal issues emerging technologies||2008|2008
+THE|advanced topics vibrations||1987|1987
+THE|advances powder technology papers presented asm materials science seminar||1982|1982
+THE|aerodynamics transportation ii presented winter meeting american society mechanical engineers||1983|1983
+THE|aipe focus future||1982|1982
+THE|american control||1983|1987
+THE|ashrae transactions technical papers presented winter meeting||1985|1987
+THE|asme education decade ahead||1987|1987
+THE|asme jsme thermal engineering joint||1987|1987
+THE|association computing machinery fifth generation challenge||1984|1984
+THE|association hydraulic research section hydraulic machinery equipment cavitation hydraulic machinery equipment associated energy systems new decade s||1980|1980
+THE|atmospheric effects potential climatic impact eruptions mount st helens||1982|1982
+THE|au ag heap dump leaching practice panel discussion water chemistry heap leaching operations from sme fall meeting||1984|1984
+THE|bauxite bauxite||1984|1984
+THE|bipolar circuits technology meeting||1987|1987
+THE|bladed disk assemblies||1987|1987
+THE|building economics solving owner s problems s papers preseneted engineering foundation||1981|1981
+THE|circuit theory design european circuit theory design||1981|1981
+THE|civilian radioactive waste management information meeting||1984|1984
+THE|coal phoenix s cic coal||1981|1981
+THE|coal sampling fundamentals new applications belt conveyor systems||1987|1987
+THE|cold regions heat transfer||1987|1987
+THE|collection papers presented fall meeting materials equipment whitewares structural clay products divisions meeting fall meeting materials equipment whitewares divisions||1983|1983
+THE|collection papers presented fall meeting meeting whitewares materials equipment divisions american ceramic society||1982|1982
+THE|collection papers presented meeting fall meeting materials equipment whitewares divisions||1984|1984
+THE|collection papers presented meetings fall meetings american ceramic society||1985|1985
+THE|compressor engineering purdue||1984|1984
+THE|computer simulation microstructural evolution||1985|1985
+THE|congress welding research welding research world challenges s||1984|1984
+THE|contributions from arbeitsgemeinschaft magnetismus spring meeting||1986|1986
+THE|custom integrated circuits||1982|1983
+THE|cwowe canadian wind engineering design against wind national building code canada programme notes||1981|1981
+THE|deformation processing structure papers presented asm materials science seminar||1984|1984
+THE|design analysis piping pressure vessels components||1987|1987
+THE|design science method design research||1981|1981
+THE|dpf collider detectors present capabilities future possibilities||1983|1983
+THE|economics noise control australian acoustical society||1983|1983
+THE|electron ion photon beams||1983|1985
+THE|emerging technologies meet new market opportunities||1986|1986
+THE|engineering applications optical measurements presented fall meeting society experimental stress analysis||1982|1982
+THE|engineering design congress planning design theory||1987|1987
+THE|engineering foundation computerized interpretation electrocardiogram||1980|1982
+THE|environmental engineering specialty||1984|1986
+THE|european petroleum facing s new challenges new solutions||1986|1986
+THE|forum unsteady flow separation presented asme applied mechanics bioengineering fluids engineering||1987|1987
+THE|fouling slagging resulting from impurities combustion gases engineering foundation||1983|1983
+THE|free electron lasers free electron laser||1985|1985
+THE|fundamentals friction wear materials papers presented asm materials science seminar||1981|1981
+THE|gas research||1987|1987
+THE|heavy duty diesel emission control review technology||1986|1986
+THE|hydraulic engineering national||1987|1987
+THE|hypervelocity impact||1987|1987
+THE|information sciences systems||1982|1984
+THE|instrumentation control fossil energy processes||1982|1982
+THE|instrumentation control s joint||1984|1984
+THE|irrigation challenges s national irrigation||1981|1981
+THE|irrigation scheduling water energy conservation s irrigation scheduling||1981|1981
+THE|issues control urban traffic systems engineering foundation||1981|1981
+THE|joint alpine medical computer graphics image communications clinical advances neuro ct nmr||1984|1984
+THE|joint asme ans nuclear power||1986|1988
+THE|joint asme railroad||1988|1988
+THE|joint automatic control||1981|1981
+THE|joint stationary combustion no x control||1983|1983
+THE|joint waste management joint waste management||1989|1989
+THE|linear accelerator||1982|1984
+THE|managing engineering data competitive edge||1987|1987
+THE|mechanical signature analysis machinery vibration flow induced vibration acoustic noise analysis||1987|1987
+THE|mechanisms machinery||1985|1985
+THE|meeting society organic petrology||1987|1987
+THE|microbiological effects metallurgical processes||1985|1985
+THE|modal testing analysis||1987|1987
+THE|nasa goddard space flight center battery||1986|1986
+THE|nasa gsfc battery||1987|1987
+THE|national radar||1986|1988
+THE|opportunities constraints eurochem||1980|1980
+THE|packaging challenges s regional technical||1984|1984
+THE|papers from display research||1986|1986
+THE|papers from marine sciences division dawn new technology spring exhibit||1987|1987
+THE|papers from national convention ieice||1987|1987
+THE|papers from national semiconductor devices materials ieice||1987|1987
+THE|papers honour b elschner occasion his birthday including selected papers from arbeitsgemeinschaft magnetismus||1984|1984
+THE|papers presented antennas propagation||1985|1985
+THE|papers presented applied mechanics biomechanics fluids engineering||1987|1987
+THE|papers presented custom integrated circuits||1985|1985
+THE|papers presented fall seminar adhesive sealant council||1985|1985
+THE|papers presented fall technical meeting american gear manufacturer association||1981|1981
+THE|papers presented fifth corrosion pulp paper industry pulp paper industry corrosion problems volume||1986|1986
+THE|papers presented fifth corrosion pulp paper industry||1986|1986
+THE|papers presented national petroleum refiners association meeting||1986|1986
+THE|papers presented nuclear science||1983|1983
+THE|papers presented powder metallurgy superalloys aerospace materials s||1980|1980
+THE|papers presented summer meeting american society agricultural engineers||1986|1986
+THE|papers presented technical society plastics engineers||1987|1987
+THE|parallel processing||1983|1987
+THE|particle accelerator accelerator engineering technology||1987|1987
+THE|pecora remote sensing input geographic information systems s||1982|1982
+THE|perspectives biomaterials biomaterials|Elsevier|1986|1986
+THE|physical numerical flow visualization presented joint asce asme mechanics||1985|1985
+THE|planning design architecture||1987|1987
+THE|planning design management business organization||1987|1987
+THE|planning design urban regional planning||1987|1987
+THE|polymer synthesis s||1984|1984
+THE|polymers unusual properties northeast regional meeting american chemical society||1983|1983
+THE|powder metallurgy||1985|1985
+THE|power behind competitive industries||1987|1987
+THE|preprints cacts air cushion technology||1984|1986
+THE|preprints joint air cushion technology||1983|1983
+THE|preprints papers be presented energy conservation||1983|1983
+THE|preprints papers be presented spring canadian pulp paper association technical section pacific coast western branches||1982|1986
+THE|presented national fuels lubricants meeting||1981|1981
+THE|pressure vessels piping||1985|1985
+THE|productivity through control technology joint||1983|1983
+THE|purdue compressor technology||1982|1982
+THE|rapidly solidified metastable materials|Elsevier|1984|1984
+THE|record display research||1985|1985
+THE|record electrical insulation||1980|1986
+THE|record industry applications society meeting papers presented twenty first meeting||1986|1986
+THE|record industry applications society meeting||1987|1987
+THE|record lisp functional programming||1984|1984
+THE|record properties applications dielectric materials||1985|1985
+THE|region electrical engineering challenges s||1987|1987
+THE|research education progress s||1984|1984
+THE|retec moulding trends s||1982|1982
+THE|role damping vibration noise control||1987|1987
+THE|rotating machinery dynamics||1987|1987
+THE|safety fences bridge parapets trrl papers trb meeting||1986|1986
+THE|salinity watercourses reservoirs state art control salinity||1984|1984
+THE|security privacy||1982|1986
+THE|selected papers from arbeitsgemeinschaft magnetismus meeting||1987|1987
+THE|selected papers from arbeitsgemeinschaft magnetismus||1982|1983
+THE|selected papers from sid||1982|1986
+THE|selected papers from sigmod||1985|1985
+THE|sem fall computer aided testing modal analysis||1984|1984
+THE|sem fall experimental mechanics transducer technology physical measurements||1985|1985
+THE|sem spring experimental mechanics||1985|1986
+THE|session papers from american mining congress coal convention coal||1983|1983
+THE|sigmetrics measurement modeling computer systems||1984|1988
+THE|solar energy conversion selected lectures from solar energy utilization||1981|1981
+THE|southern tier technical||1987|1987
+THE|space s beyond european space||1981|1981
+THE|special issue selected papers from instrumentation measurement technology||1987|1987
+THE|special section sigmetrics measurement modeling computer systems||1988|1988
+THE|spring meeting society experimental stress analysis||1981|1981
+THE|status solar thermal research papers from||1987|1987
+THE|steel castings s||1982|1982
+THE|sugar processing research||1983|1983
+THE|summer computer simulation||1985|1985
+THE|surface condenser design installation operating experience||1987|1987
+THE|systems man cybernetics||1984|1987
+THE|technical papers presented asme joint railroad||1987|1987
+THE|technical papers presented joint asme railroad||1982|1986
+THE|technical papers presented meeting american society heating refrigerating air conditioning engineers inc||1982|1983
+THE|technical papers presented semiannual meeting american society heating refrigerating air conditioning engineers inc||1982|1982
+THE|technical papers presented winter meeting american society heating refrigerating air conditioning engineers inc||1984|1984
+THE|technology s developments hydraulic cements royal society discussion meeting||1983|1983
+THE|tokyo gas turbine congress||1984|1984
+THE|transactions citrus engineering||1982|1986
+THE|tri service corrosion||1980|1980
+THE|tribology s||1984|1984
+THE|tungsten other refractory metals vlsi applications ii||1987|1987
+THE|tungsten other refractory metals vlsi applications||1986|1986
+THE|uksc computer simulation||1984|1984
+THE|us physics chemistry mercury cadmium telluride||1983|1983
+THE|vacuum metallurgy specialty metals melting processing||1985|1985
+THE|vibration control active vibration suppression||1987|1987
+THE|waste management||1987|1987
+THE|welding engineer challenge s joint||1983|1983
+THINKAI|recent trends ai enabled technologies|Springer|2024|2026
+THMT|turbulence heat mass transfer||2015|2025
+THZ|infrared millimeter terahertz waves irmmw||2009|2025
+THZ|infrared millimeter waves terahertz electronics irm||2008|2008
+THZ|irmmw infrared millimeter terahertz waves guide||2010|2010
+THZ|irmmw infrared millimeter terahertz waves|IEEE|2011|2023
+THZ|irmmw joint infrared millimeter waves terahertz electronics||2005|2005
+THZ|irmmw thz2006 infrared millimeter waves terahertz electronics||2006|2006
+THZ|irmmw thz2007 digest joint infrared millimetre waves terahertz electronics||2007|2007
+THZ|optical sensing imaging photon counting from x rays|SPIE|2019|2019
+THZ|terahertz electronics|IEEE|1998|2002
+TIACOMP|technological innovations advance computing|IEEE|2024|2024
+TIANQIN|science mission|Springer|2025|2025
+TIAR|technological innovations ict agriculture rural development|IEEE|2015|2017
+TIA|eepe energy evolution power engineering transition intelligence autonomy|IEEE|2025|2025
+TIA|from theme term knowledge emergence lexicalization workshop1 du theme au terme emergence et lexicalisation des connaissances||2009|2009
+TIA|terminology artificial intelligence||2009|2009
+TIA|thoracic image analysis held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+TIA|tia09 acquisition modeling semantic relations tia09 workshop2 acquisition et modelisation de relations semantiques||2009|2009
+TICATE|tarumanagara applications technology engineering|IOP|2020|2023
+TICCA|technological innovations communication control automation|IEEE|2017|2017
+TICEC|ecuadorian congress information communication technologies|Springer|2022|2023
+TICEC|ecuadorian information communication technologies|Springer|2025|2026
+TICEC|information communication technologies ecuador|Springer|2020|2021
+TICEMED|mediterranean information communication technologies education|Springer|2026|2026
+TICET|joint information communication technologies education training computing arabic icca|IEEE|2017|2017
+TICSA|trends configurable systems analysis||2023|2023
+TICST|science technology|IEEE|2015|2015
+TICTTL|congress tools teaching logic|Springer|2011|2011
+TICTTL|tools teaching logic third congress||2011|2011
+TIC|technology innovation|IOP|2026|2026
+TIC|types compilation|Springer|2001|2001
+TIDMS|tsinghua design management design driven business innovation|IEEE|2014|2014
+TIDSE|technologies interactive digital storytelling entertainment|Springer|2006|2006
+TIDS|papers presented transport interacting disordered systems||2008|2008
+TIDS|transport interacting disordered systems|IOP|2012|2014
+TIE|eai technology innovation entrepreneurship education|Springer|2020|2026
+TIE|technology innovation entrepreneurship education|Springer|2019|2019
+TIIEC|texas instruments india educators|IEEE|2013|2014
+TIMA|innovative technologies joining advanced materials||2014|2023
+TIMA|innovative technology joining advanced materials||2021|2021
+TIMA|trends industrial measurement automation|IEEE|2017|2017
+TIMES|technological innovations multidisciplinary engineering sciences|Springer|2025|2025
+TIME|eighth temporal representation reasoning||2001|2001
+TIME|technology innovation mechanical engineering|Springer|2021|2022
+TIME|temporal representation reasoning|IEEE|2004|2025
+TIME|thirteenth temporal representation reasoning||2006|2006
+TIMP|trends modern physics|Springer|2021|2021
+TIM|tim20 physics|IOP|2023|2023
+TIM|tim22 physics|IOP|2024|2024
+TINA|telecommunications information networking architecture|IEEE|1999|1999
+TINE|technology informatics engineering icon|IOP|2024|2024
+TINLAP|theoretical issues natural language processing|ACM|1975|1987
+TIOTC|emerging technology trends internet things computing|IOP|2022|2023
+TIPCE|transportation infrastructure projects conception execution|Springer|2023|2023
+TIPP|technology instrumentation particle physics|Springer|2018|2025
+TIPS|knowledge based design architecture selected papers||1989|1989
+TIPTEKNO|medical technologies congress tip teknolojileri kongresi|IEEE|2020|2020
+TIPTEKNO|medical technologies congress|IEEE|2022|2025
+TIPTEKNO|medical technologies national congress|IEEE|2018|2018
+TIPTEKNO|medical technologies national|IEEE|2015|2017
+TIPTEKNO|tip teknolojileri kongresi medical technologies congress|IEEE|2021|2021
+TIPTEKNO|tip teknolojileri kongresi|IEEE|2019|2019
+TIRVED|intelligent technologies electronic devices vehicle road transport complex|IEEE|2021|2025
+TIR|text based information retrieval conjunction german artificial intelligence||2005|2005
+TIR|text based information retrieval conjunction||2007|2011
+TIR|text based information retrieval||2006|2006
+TISC|trendz information sciences computing||2010|2011
+TISEC|technological innovation sustainability environmental conservation|IOP|2025|2025
+TISHW|technology innovation sports health wellbeing|IEEE|2016|2018
+TISOLS|land subsidence||2020|2020
+TIS|congress transport infrastructure systems||2017|2017
+TIS|theory implementation security co located|ACM|2016|2016
+TIS|theory implementation security|ACM|2019|2019
+TITANIUM|science technology||1980|1980
+TITDS|transport infrastructure territory development sustainability|Elsevier|2022|2024
+TIWDC|tyrrhenian digital communications green ict||2013|2013
+TIWDC|tyrrhenian digital communications|Springer|2011|2017
+TIW|cs conceptual structures tools web conceptual structures tool interoperability conceptual structures||2008|2008
+TJC|tunisian japanese geometric harmonic analysis homogeneous spaces applications honor professor takaaki nomura|Springer|2021|2021
+TJC|tunisian japanese geometric harmonic analysis homogeneous spaces applications|Springer|2017|2026
+TJJCCGG|computational geometry graphs thailand japan joint revised selected papers||2013|2013
+TKE|term bases linguistic linked open data terminology knowledge engineering||2016|2016
+TKE|terminology knowledge engineering new frontiers constructive symbiosis terminology knowledge engineering||2012|2012
+TKE|terminology knowledge engineering ontology terminology text mining||2014|2014
+TKE|terminology knowledge engineering||2005|2010
+TKTP|computer science co located evaluation assessmentin software engineering||2023|2023
+TKTP|doctoral computer science||2024|2025
+TLA|therapeutic laser applications||1998|1998
+TLCA|rewriting typed lambda calculi joint rta held as part vienna summer logic|Springer|2014|2014
+TLCA|typed lambda calculi applications|Springer|1995|2013
+TLCA|typed lamda calculi applications|Springer|1993|1993
+TLDI|popl sigplan types language design implementation||2012|2012
+TLDI|sigplan types language design implementation||2009|2011
+TLDI|sigplan types languages design implementation papers presented||2007|2007
+TLDI|sigplan types languages design implementation||2003|2005
+TLDKS|transactions large scale data knowledge centered systems|Springer|2016|2016
+TLIC|learning ideas|Springer|2022|2026
+TLLA|joint linearity trends linear logic applications linearity||2021|2021
+TLLM|taming large language models controllability era interactive assistants||2023|2023
+TLLM|tsinghua interdisciplinary logic language meaning|Springer|2020|2025
+TLT|treebanks linguistic theories be held as part||2021|2021
+TLT|treebanks linguistic theories||2023|2024
+TMAE|trends mechanical aerospace||2021|2021
+TMA|network traffic measurement analysis|IEEE|2017|2025
+TMA|traffic monitoring analysis first||2009|2009
+TMA|traffic monitoring analysis second||2010|2010
+TMA|traffic monitoring analysis third||2011|2011
+TMA|traffic monitoring analysis|Springer|2012|2016
+TMB|advanced school turbulent mixing beyond||2010|2010
+TMCE|tools methods competitive engineering||2010|2010
+TMCS|theory modelling computational methods semiconductors|IOP|2014|2014
+TMDL|asabe watershed management improve water quality||2010|2010
+TMEE|transportation mechanical electrical engineering||2011|2011
+TMFCS|theoretical mathematical foundations computer science||2008|2010
+TMIC|trunojoyo madura|EDP|2024|2024
+TMM|theory machines mechanisms|Springer|2012|2024
+TMPA|software testing machine learning complex process analysis|Springer|2021|2024
+TMPA|tools methods program analysis|Springer|2015|2018
+TMP|thermomechanical processing advance programme||2016|2016
+TMP|thermomechanical processing steels||2008|2012
+TMP|thermomechanical processing||2022|2022
+TMRA|charting topic maps research applications landscape first topic map research applications revised selected papers||2006|2006
+TMRA|information wants be topic map topic maps research applications||2010|2010
+TMRA|leveraging semantics topic maps second topic maps research applications revised selected papers||2007|2007
+TMRA|linked topic maps topic maps research applications||2009|2009
+TMRA|scaling topic maps third topic maps research applications revised selected papers||2008|2008
+TMRA|subject centric computing topic maps research applications||2008|2008
+TMRC|digests magnetic recording|IEEE|2024|2025
+TMRC|magnetic recording magnetic recording heads||1996|1996
+TMRC|magnetic recording magnetic recording systems||1998|1998
+TMRC|magnetic recording media||1997|1997
+TMRC|magnetic recording signal processing||1995|1995
+TMRC|magnetic recording tmrc91||1991|1991
+TMRC|magnetic recording|IEEE|1990|2023
+TMREES|technologies materials renewable energy environment sustainability|IOP|2019|2023
+TMSF|trending moments steer forces|Springer|2021|2021
+TMSI|technology medical sciences technology medical sciences||2011|2011
+TMS|advanced composites aerospace marine land applications held during meeting exhibition||2014|2014
+TMS|advances ceramic materials processing was part meeting exhibition|Springer|2025|2025
+TMS|advances powder ceramic material science held meeting exhibition|Springer|2020|2020
+TMS|advances powder ceramic materials science held meeting exhibition|Springer|2023|2023
+TMS|advances pyrometallurgy held meeting exhibition|Springer|2023|2023
+TMS|advances recycling environmental technologies|Springer|2026|2026
+TMS|advances sustainable composites eco friendly solutions applications was part meeting exhibition|Springer|2025|2025
+TMS|aluminum meeting automotive alloys symposia||2004|2004
+TMS|aluminum wrought products automotive packaging other applications james morris honorary sponsored reactive metals committee light metals division minerals metals materials society held during meeting||2006|2006
+TMS|arsenic metallurgy held during minerals metals materials society meeting||2005|2005
+TMS|bulk metallic glasses sponsored mechanical behavior materials committee structural materials division minerals metals materials society held during meeting||2006|2006
+TMS|carbon dioxide management other technologies|Springer|2026|2026
+TMS|celebrating megascale extraction processing division pyrometallurgy honor david g c robertson held during meeting exhibition||2014|2014
+TMS|cfd modeling simulation materials processing held during meeting exhibition||2012|2012
+TMS|characterization minerals metals materials held during meeting exhibition||2012|2014
+TMS|characterization minerals metals materials held meeting exhibition|Springer|2023|2023
+TMS|characterization minerals metals materials situ characterization techniques was part meeting exhibition|Springer|2025|2025
+TMS|characterization minerals metals materials situ characterization techniques|Springer|2026|2026
+TMS|composite materials advanced functionality|Springer|2026|2026
+TMS|converter fire refining practices held minerals metals materials society meeting||2005|2005
+TMS|electrometallurgy held during meeting exhibition||2012|2012
+TMS|energy technologies co2 management held as part meeting exhibition|Springer|2025|2025
+TMS|energy technologies organized conjunction meeting exhibition|Springer|2018|2018
+TMS|energy technology carbon dioxide management other technologies held during meeting exhibition||2012|2014
+TMS|energy technology carbon dioxide other greenhouse gas reduction metallurgy waste heat recovery held during meeting exhibition||2011|2011
+TMS|energy technology conservation greenhouse gas reduction management alternative energy sources held during meeting exhibition||2010|2010
+TMS|energy technology perspectives conservation carbon dioxide reduction production from alternative sources symposia held during meeting exhibition||2009|2009
+TMS|energy technology recycling carbon dioxide management other technologies held meeting exhibition|Springer|2020|2020
+TMS|epd congress held during meeting exhibition||2010|2014
+TMS|epd congress sessions symposia sponsored extraction processing division minerals metals materials society held during meeting||2005|2005
+TMS|external field intensified materials processing|Springer|2026|2026
+TMS|extraction processing division epd congress held during meeting exhibition||2009|2013
+TMS|friction stir welding processing held meeting exhibition|Springer|2023|2023
+TMS|friction stir welding processing v symposia held during meeting exhibition||2009|2009
+TMS|friction stir welding processing vi held during meeting exhibition||2011|2011
+TMS|friction stir welding processing vii held during meeting exhibition||2013|2013
+TMS|furnace systems technology emerging technologies energy efficiency sponsored light metals division division minerals metals materials society held during meeting||2006|2006
+TMS|global innovations trends materials r d sensor manufacturing technologies sponsored global innovations committee materials processing manufacturing division minerals metals materials society held during meeting||2006|2006
+TMS|high temperature metallurgical processing held conjunction meeting exhibition|Springer|2020|2020
+TMS|high temperature metallurgical processing held during meeting exhibition||2011|2014
+TMS|high temperature metallurgical processing organized conjunction meeting exhibition|Springer|2018|2018
+TMS|jim evans honorary held during meeting exhibition||2010|2010
+TMS|light metals held meeting exhibition|Springer|2020|2026
+TMS|light metals meeting exhibition||2013|2014
+TMS|light metals technical sessions presented aluminum committee meeting exhibition||2007|2012
+TMS|linking science technology global solution symposia held during meeting exhibition||2009|2009
+TMS|magnesium technology held as part meeting exhibition|Springer|2025|2025
+TMS|magnesium technology held during meeting exhibition|Springer|2010|2023
+TMS|magnesium technology held meeting exhibition|Springer|2020|2020
+TMS|materials clean power systems applications corrosion protection sponsored corrosion environmental effects committee structural materials division minerals metals materials society held during meeting||2006|2006
+TMS|materials processing fundamentals held as part meeting exhibition|Springer|2025|2025
+TMS|materials processing fundamentals held during meeting exhibition||2013|2013
+TMS|mechanical creep behavior advanced materials smd structural materials division honoring prof k linga murty|Springer|2017|2017
+TMS|meeting aluminum automotive joining symposia||2001|2001
+TMS|meeting automotive alloys aluminum sheet plate rolling finishing technology symposia||2002|2002
+TMS|meeting automotive alloys increasing energy efficiency aluminum universities servicing education research technology internationally aluminum light metals industries symposia||2003|2003
+TMS|meeting exhibition minerals metals materials society|Springer|2018|2026
+TMS|meeting exhibition supplemental linking science technology global solutions||2013|2013
+TMS|meeting exhibition supplemental|Springer|2009|2017
+TMS|meeting exhibition|Springer|2016|2018
+TMS|nanoscience nanotechnology inadvanced composites held meeting exhibition|Springer|2019|2019
+TMS|natural fibers biocomposites sustainable solution held as part meeting exhibition|Springer|2025|2025
+TMS|natural fibers biocomposites|Springer|2026|2026
+TMS|new directions mineral processing extractive metallurgy recycling waste minimization held meeting exhibition|Springer|2023|2023
+TMS|ni co held during meeting exhibition||2013|2013
+TMS|nickel cobalt ni co held as part|Springer|2021|2021
+TMS|peirce smith converting centennial held during meeting exhibition||2009|2009
+TMS|rare metal extraction processing was part meeting exhibition|Springer|2025|2025
+TMS|rare metal extraction processing|Springer|2026|2026
+TMS|rare metal technology held during meeting exhibition||2014|2014
+TMS|rare metal technology held meeting exhibition|Springer|2020|2023
+TMS|recycling electronic waste ii held during meeting exhibition||2011|2011
+TMS|science complex alloy phases sponsored alloy phase committee joint electronic magnetic photonic materials division structural materials division held during meeting exhibition||2005|2005
+TMS|sensors sampling simulation process control held during meeting exhibition||2011|2011
+TMS|shape casting held during meeting exhibition||2014|2014
+TMS|shape casting honor prof john t berry held during meeting exhibition||2011|2011
+TMS|shape casting john campbell sponsored aluminum committee light metals division solidification committee materials processing manufacturing division held during meeting exhibition||2005|2005
+TMS|smelting technology incorporating advances sulfide smelting held during meeting exhibition||2012|2012
+TMS|surfaces interfaces nanostructured materials ii sponsored surface engineering committee materials processing manufacturing division minerals metals materials society held during meeting||2006|2006
+TMS|t t chen honorary hydrometallurgy electrometallurgy materials characterization held during meeting exhibition||2012|2012
+TMS|theory modeling simulation part spring simulation multi||2019|2019
+TMS|titanium alloys high temperature applications dedicated memory dr martin blackburn sponsored titanium committee structural materials division minerals metals materials society held during meeting||2006|2006
+TMS|tms2008 meeting exhibition supplemental general paper selections||2008|2008
+TMS|tms2008 meeting exhibition supplemental materials characterization computation modeling||2008|2008
+TMS|tms2008 meeting exhibition supplemental materials processing properties||2008|2008
+TMTA|testing measurement techniques applications||2015|2015
+TNC|connected communities||2015|2015
+TNC|innovating together||2013|2013
+TNC|intelligent networks cool edges||2018|2018
+TNC|networking world||2014|2014
+TNC|terena networking enabling communities||2011|2011
+TNC|terena networking living network life||2010|2010
+TNC|terena networking networking services||2012|2012
+TNC|terena networking virtuality into reality||2009|2009
+TNC|terena networking world pervasive networking||2005|2005
+TNM|papers presented ciam trends novel materials||2007|2007
+TNT|papers presented trends nanotechnology tnt2008||2009|2009
+TNT|qcd green s functions confinement phenomenology qcd||2009|2011
+TOCS|fifth telecommunications optics computer science|SPIE|2025|2025
+TOCS|fourth telecommunications optics computer science|SPIE|2024|2024
+TOCS|sixth telecommunications optics computer science|SPIE|2026|2026
+TOCS|telecommunications optics computer science|IEEE|2020|2022
+TOKYO|computer graphics||1986|1986
+TOKYO|iabse safety quality assurance civil engineering structures preliminary report||1986|1986
+TOOLS|computer performance evaluation modelling techniques||2002|2002
+TOOLS|high energy physics cosmology||2021|2021
+TOOLS|modelling techniques computer communication system performance evaluation|Springer|2000|2000
+TOOLS|modelling techniques computer performance evaluation|Springer|2003|2003
+TOOLS|objects models components patterns|Springer|2010|2012
+TOOLS|software technology methods|Springer|2019|2019
+TOOLS|technology object oriented languages systems|IEEE|1997|2000
+TOOLS|technology object oriented languages||2000|2000
+TOOLYMPICS|challenge was part european joint theory practice software|Springer|2025|2025
+TOOTHFAIRY|toothfairy2 multi structure segmentation cbct volumes 3d teeth landmarks detection challenge 3dteethland semi supervised teeth segmentation held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+TOPCON|rotational molding cost effective technology today||2010|2010
+TOPCON|society plastics engineers coextrusion||2008|2008
+TOPCON|society plastics engineers spe decorating assembly topical innovation american ingenuity||2012|2012
+TOPCON|society plastics engineers thermoplastic elastomers tpe||2010|2010
+TOPCON|spe decorating assembly division topical tune into innovation advancements decorating assembly||2010|2010
+TOPFUEL|light water reactor fuel performance||2022|2022
+TOPFUEL|nuclear reactor fuel performance||2025|2025
+TOPHPC|congress high performance computing big data analysis|Springer|2019|2019
+TOPIC|path enhancing equity diversity accessibility inclusion||2024|2024
+TOPI|developing tools as plug ins co located||2011|2011
+TOPI|developing tools as plug ins||2012|2013
+TOPME|young scientists students topical problems mechanical engineering mechanical engineering research institute russian academy sciences|IOP|2025|2025
+TOPME|young scientists students topical problems mechanical engineering|IOP|2020|2023
+TOPNOC|issue lncs transactions petri nets other models concurrency workshops held application theory petri nets concurrency petri nets application concurrency system design|Springer|2016|2016
+TOPOINVIS|topological data analysis visualization|IEEE|2022|2025
+TOPOINVIS|topological methods data analysis visualization|Springer|2011|2021
+TOPOINVIS|topology based methods data analysis visualization|Springer|2012|2012
+TOP|quark physics|IOP|2013|2013
+TOP|times polymers composites times polymers composites|IOP|2014|2014
+TORACLE|test oracles co located esec|ACM|2021|2021
+TORQUE|science making from wind aerodynamics aeroleasticity aeroacustics|IOP|2024|2024
+TORQUE|science making from wind control monitoring||2020|2020
+TORQUE|science making from wind dynamics control monitoring|IOP|2024|2024
+TORQUE|science making from wind floating wind systems design multi fidelity multi disciplinary modelling future wind smaller wind turbines|IOP|2022|2022
+TORQUE|science making from wind future wind||2020|2020
+TORQUE|science making from wind measurement testing|IOP|2024|2024
+TORQUE|science making from wind modeling simulation technology|IOP|2024|2024
+TORQUE|science making from wind offshore wind|IOP|2024|2024
+TORQUE|science making from wind preface|IOP|2020|2024
+TORQUE|science making from wind small wind developing countries||2020|2020
+TORQUE|science making from wind small wind turbines vawts novel concepts|IOP|2024|2024
+TORQUE|science making from wind system design multi fidelity multi disciplinary modeling|IOP|2024|2024
+TORQUE|science making from wind turbine technology artificial intelligence control monitoring|IOP|2022|2022
+TORQUE|science making from wind turbine technology||2020|2020
+TORQUE|science making from wind wind resource wakes wind farms|IOP|2024|2024
+TORQUE|science making from wind wind wind farms measurement testing|IOP|2022|2022
+TORQUE|science making from wind wind wind farms||2020|2020
+TORQUE|science making from wind|IOP|2014|2014
+TORVEASTRO|robots space applications orbital stations|Springer|2023|2023
+TOSCA|joint theory security applications held conjunction|Springer|2012|2012
+TOSE|theory oriented software engineering|ACM|2016|2016
+TOS|sname offshore||2021|2025
+TOX|national environmental toxicology impact human health environ|Elsevier|2023|2023
+TPACEE|topical problems agriculture civil environmental engineering|EDP|2020|2020
+TPACEE|topical problems green architecture civil environmental engineering|EDP|2020|2021
+TPCD|theorem provers circuit design|Springer|1995|1995
+TPCG|eg uk theory practice computer graphics||2005|2005
+TPCG|theory practice computer graphics eurographics uk chapter celebrating years eurographics uk chapter||2007|2007
+TPCG|theory practice computer graphics eurographics uk chapter||2005|2012
+TPCG|theory practice computer graphics|IEEE|2003|2014
+TPCM|vii topical problems continuum mechanics|IOP|2022|2022
+TPCM|viii topical problems continuum mechanics|IOP|2024|2024
+TPCTC|performance characterization benchmarking tpc technology revised selected papers|Springer|2014|2014
+TPCTC|performance evaluation benchmarking first tpc technology revised selected papers||2009|2009
+TPCTC|performance evaluation measurement characterization complex systems second tpc technology revised selected papers||2011|2011
+TPCTC|selected topics performance evaluation benchmarking tpc technology revised selected papers||2013|2013
+TPCTC|topics performance evaluation measurement characterization third tpc technology revised selected papers||2012|2012
+TPCTC|tpc technology performance evaluation benchmarking held concurrently very large data bases|Springer|2024|2024
+TPCTC|tpc technology performance evaluation benchmarking held conjunction very large data bases|Springer|2016|2026
+TPCTC|tpc technology performance evaluation benchmarking held conjunction very large databases|Springer|2020|2020
+TPCTC|tpc technology performance evaluation benchmarking|Springer|2011|2017
+TPCTC|tpc technology|Springer|2015|2015
+TPC|large tpcs low energy rare event detection|IOP|2023|2023
+TPDL|futurity workshops joint temporal dynamics digital libraries data quality modeling societal future||2017|2017
+TPDL|histoinformatics computational history co located theory practice digital libraries||2019|2019
+TPDL|linked archives linked archives co located theory practice digital libraries||2021|2021
+TPDL|research advanced technology digital libraries theory practice digital libraries|Springer|2011|2013
+TPDL|theory practice digital libraries second||2012|2012
+TPDL|theory practice digital libraries|Springer|2014|2026
+TPDL|workshops doctoral consortium theory practice digital libraries||2022|2022
+TPEAC|all russian scientific participation thermophysics power engineering academic centers|IOP|2020|2020
+TPEAC|xii all russian thermophysics power engineering academic centers||2022|2022
+TPEC|texas power energy|IEEE|2017|2026
+TPEPE|technologies policies electric power energy|IEEE|2019|2019
+TPHOLS|theorem proving higher order logics20th||2007|2007
+TPHOLS|theorem proving higher order logics|Springer|1996|2009
+TPH|all russian scientific thermophysics physical hydrodynamics school young scientists||2020|2020
+TPH|vi all russian thermophysics physical hydrodynamics school young scientists thermal physics physical hydrodynamics modern challenges||2021|2021
+TPMDC|transportation planning implementation methodologies developing countries|Springer|2024|2025
+TPMUM|technologies properties modern utilised materials||2012|2012
+TPMUM|technologies properties modern utility materials||2014|2016
+TPNC|theory practice natural computing first||2012|2012
+TPNC|theory practice natural computing second||2013|2013
+TPNC|theory practice natural computing|Springer|2014|2021
+TPO|society plastics engineers automotive thermoplastic polyolefins global||2006|2006
+TPPP|theory practice parallel programming|Springer|1995|1995
+TPS|turkish physical society physics congress|IOP|2019|2019
+TQCEBT|trends quantum computing emerging business technologies|IEEE|2022|2024
+TQC|theory quantum computation communication cryptography revised selected papers|Springer|2009|2014
+TQC|theory quantum computation communication cryptography third revised selected papers||2008|2008
+TQC|theory quantum computation communication cryptography|Springer|2011|2025
+TRACE|trends recent advancement civil engineering|Springer|2021|2021
+TRACE|trends recent advances civil engineering|Springer|2021|2026
+TRAC|threat aggression cyberbullying computational linguistics||2022|2022
+TRAC|threat aggression cyberbullying lrec||2024|2024
+TRAI|ifip wg ai powered innovation triz methodology|Springer|2026|2026
+TRAM|tracers modelling hydrology||2000|2000
+TRAM|trends aerospace manufacturing tram09||2011|2011
+TRANSAI|transdisciplinary ai|IEEE|2019|2023
+TRANSCODE|science development transport|Elsevier|2025|2025
+TRANSCOM|scientific sustainable modern safe transport|Elsevier|2019|2026
+TRANSDUCERS|solid state sensors actuators digest technical papers||1985|1991
+TRANSDUCERS|solid state sensors actuators microsystems digest technical papers vol||2005|2005
+TRANSDUCERS|solid state sensors actuators microsystems digest technical papers|IEEE|2003|2003
+TRANSDUCERS|solid state sensors actuators microsystems eurosensors xxxiii eurosensors xxxiii|IEEE|2019|2019
+TRANSDUCERS|solid state sensors actuators microsystems|IEEE|2009|2021
+TRANSDUCERS|solid state||1983|1983
+TRANSDUCERS|third solid state sensors actuators||1985|1986
+TRANSFER|advances enhanced heat||1985|1987
+TRANSFER|heat eighth heat||1986|1986
+TRANSFER|heat heat||1982|1982
+TRANSFER|mixed convection heat||1987|1987
+TRANSFER|new experimental techniques heat||1984|1984
+TRANSNAV|marine navigation safety sea transportation marine navigation||2017|2017
+TRANSNAV|marine navigation safety sea transportation safety sea transportationsafety sea transportation||2017|2017
+TRANSNAV|marine navigation safety sea transportation||2019|2019
+TRANSPORT|computer control preprints papers||1981|1981
+TRANSPORT|supplementary papers||1985|1985
+TRANSSIBERIA|scientific siberian transport forum|Springer|2020|2024
+TRANS|transient transcendence transylvania|Springer|2021|2021
+TRAP|italian traffic mining applied police activities|Springer|2018|2018
+TREATING|asm heat society heat||2015|2015
+TREAT|asm heat treating society heat||2017|2017
+TRECVID|trec video retrieval evaluation||2005|2019
+TREC|ifip gi working trends distributed systems electronic commerce|Springer|1998|1998
+TREC|text retrieval||2005|2021
+TREC|tropical renewable energy i|IOP|2020|2021
+TREDS|trends distributed systems|Springer|1996|1996
+TREET|transnational engineering education using technology|IEEE|2020|2020
+TREPHAC|role embodiment perception human artificial creativity co located computational creativity||2022|2022
+TRESP|traditional renewable energy sources perspectives paradigms century|EDP|2021|2021
+TREX|trust expertise visual analytics|IEEE|2020|2022
+TRF|joint canadian transportation research forum us transportation research forum north american transport challenges era change ctrf||2020|2020
+TRF|transportation research forum volume||2012|2012
+TRF|transportation research forum||2013|2013
+TRIAD|matrix analysis its applications mat|Springer|2017|2017
+TRIBES|technology research innovation betterment society|IEEE|2021|2021
+TRIBOBR|brazilian tribology its tribology||2010|2010
+TRIBOMASH|xiii scientific tribology mechanical engineering||2020|2020
+TRICOMM|communications software communications distributed applications systems||1991|1991
+TRIDENTCOM|eai testbeds research infrastructures development networks communications|Springer|2020|2020
+TRIDENTCOM|eai testbeds research infrastructures development networks communities|Springer|2015|2019
+TRIDENTCOM|eai tools design implementation verification emerging information technologies|Springer|2021|2024
+TRIDENTCOM|icst testbeds research infrastructures development networks communities||2008|2011
+TRIDENTCOM|testbeds research infrastructures development networks communications eai|Springer|2020|2020
+TRIDENTCOM|testbeds research infrastructures development networks communities icst revised selected papers||2012|2012
+TRIDENTCOM|testbeds research infrastructures development networks communities workshops||2009|2009
+TRIDENTCOM|testbeds research infrastructures development networks communities|Springer|2006|2017
+TRIOS|sigops timely results operating systems|ACM|2013|2013
+TRIOS|timely results operating systems||2014|2014
+TRISAI|triangle advanced||2009|2011
+TRISA|first american vacuum society tri state surface analysis thin film technology||1986|1986
+TRISMAC|trilateral safety mission assurance||2008|2008
+TROIA|hadron physics||2012|2012
+TRONSHOW|tron iot action|IEEE|2016|2016
+TRS|transportation research|Elsevier|2025|2025
+TRUSTBUS|trust privacy digital business third|Springer|2006|2006
+TRUSTBUS|trust privacy digital business|Springer|2004|2004
+TRUSTBUS|trust privacy security digital business second||2005|2005
+TRUSTBUS|trust privacy security digital business|Springer|2007|2022
+TRUSTCOM|proc int conf trust security privacy computing communications int conf embedded software systems int conf frontier computer science technology confs symps workshops||2011|2011
+TRUSTCOM|trust security privacy computing communications big data science engineering computational science engineering embedded ubiquitous computing smart city informatization isci|IEEE|2024|2024
+TRUSTCOM|trust security privacy computing communications ubiquitous computing communications||2012|2012
+TRUSTCOM|trust security privacy computing communications|IEEE|2013|2025
+TRUSTED|trustworthy embedded devices co located|ACM|2013|2016
+TRUSTNLP|trustworthy natural language processing||2021|2024
+TRUSTVIS|eurovis trustworthy visualization||2019|2019
+TRUST|agent societies co located autonomous agents multiagent systems||2021|2021
+TRUST|agent societies revised selected invited papers||2008|2008
+TRUST|introducing sigplan reproducible research methodologies new publication models computer engineering co located|ACM|2014|2014
+TRUST|trusted computing challenges applications first trusted computing information technologies||2008|2008
+TRUST|trustworthy computing third||2010|2010
+TRUST|trustworthy computing|Springer|2011|2016
+TSAE|thai society agricultural engineering climate resilient agriculture asia|EDP|2025|2025
+TSAE|thai society agricultural engineering|EDP|2020|2020
+TSAR|text simplification accessibility readability associated recent advances natural language processing||2023|2023
+TSAR|text simplification accessibility readability||2024|2024
+TSA|technical program vlsi technology systems application vlsi||2014|2014
+TSA|topic sentiment analysis mass opinion measurement co located information knowledge management||2009|2009
+TSA|trustworthy systems their applications|IEEE|2014|2016
+TSA|vlsi technology system application vlsi||2010|2010
+TSA|vlsi technology systems application vlsi|IEEE|2013|2019
+TSA|vlsi technology systems applications vlsi technical papers|IEEE|2012|2026
+TSA|vlsi technology systems applications vlsi|IEEE|2009|2024
+TSA|vlsi vlsi technology systems applications|IEEE|2021|2021
+TSCA|oak ridge toxic substances control act incinerator test bed continuous emissions monitoring systems||1997|1997
+TSCZH|technical scientific aviation dedicated memory n e zhukovsky|IEEE|2021|2023
+TSDM|temporal spatial spatio temporal data mining|Springer|2001|2001
+TSD|text speech dialogue|Springer|1999|2026
+TSER|iii scientific technogenic systems environmental risk||2020|2020
+TSET|transdisciplinary engineering technology development digital green technology post pandemic era|IOP|2024|2024
+TSFP|turbulence shear flow phenomena||2009|2024
+TSIA|russian technological solutions instrumentation agribusiness|IOP|2020|2022
+TSIE|knowledge society technology sustainability educational innovation|Springer|2020|2020
+TSN|trends spintronics nanomagnetism|IOP|2011|2011
+TSOS|short papers swforum trustworthy software open source||2021|2021
+TSP|telecommunications signal processing|IEEE|2008|2024
+TSSA|society petroleum engineers spe technical saudi arabia section||2005|2006
+TSSA|telecommunication systems services applications special issue radar technology|IEEE|2016|2016
+TSSA|telecommunication systems services applications|IEEE|2011|2025
+TSSL|europe middle east north africa technology security support learning emena|Springer|2017|2017
+TSSOL|technology support self organized learners||2008|2008
+TSTP|18h scientific technical transport systems theory practice|Springer|2023|2023
+TSTP|scientific technical transport systems theory practice|Springer|2018|2026
+TST|modern transport telematics transport systems telematics selected papers||2011|2011
+TST|scientific transport systems telematics|Springer|2018|2018
+TST|telematics transport environment transport systems telematics selected papers||2012|2012
+TST|transport systems telematics selected papers||2010|2010
+TST|transport systems telematics|Springer|2013|2020
+TST|transportation smart technologies|IEEE|2021|2021
+TTAE|fifth testing technology automation engineering|SPIE|2026|2026
+TTAE|fourth testing technology automation engineering|SPIE|2024|2024
+TTAE|second testing technology automation engineering|SPIE|2022|2022
+TTAE|third testing technology automation engineering|SPIE|2024|2024
+TTCE|society petroleum engineers spe trinidad tobago section energy resources||2021|2021
+TTCS|ifip wg topics theoretical computer science|Springer|2016|2020
+TTC|esa tracking telemetry command systems space applications|IEEE|2016|2019
+TTC|joint tool transformation contests co located software technologies applications foundations||2022|2022
+TTC|testing cloud||2013|2013
+TTC|tracking telemetry command systems space applications|IEEE|2022|2025
+TTC|transformation tool contest||2019|2019
+TTEM|traffic transportation engineering management|IOP|2020|2020
+TTM|technology time machine technologies beyond||2011|2012
+TTSIIT|selected papers emerging technology trends smart industry internet things||2022|2022
+TTTMS|saenis thermal management systems||2022|2025
+TTTMS|thermal management systems||2020|2021
+TUG|tex xml digital typography held jointly meeting tex users group|Springer|2004|2004
+TUM|transforming urban mobility mobil scientific mobility transport|Elsevier|2016|2016
+TUNIROCK|advances rock mechanics||2018|2018
+TUNNELLING|papers presented||1982|1982
+TUNNEL|tunnelling underground space sustainable development|IOP|2025|2025
+TURBINES|high temperature alloys gas||1982|1982
+TURBINES|solid particle erosion utility steam epri asme||1983|1983
+TURBOCODING|turbo codes related topics itg source channel coding|IEEE|2006|2006
+TURC|turing award celebration china|ACM|2021|2021
+TURC|turing celebration china|ACM|2020|2020
+TURITEC|tourism information communication technology|Springer|2024|2024
+TVS|trecvid video summarization co located multimedia mm|ACM|2007|2008
+TVX|adjunct publication interactive experiences tv online video|ACM|2017|2017
+TVX|interactive experiences tv online video|ACM|2014|2019
+TWAW|temporal web analytics conjunction world wide web||2011|2011
+TWEPP|topical electronics particle physics||2007|2019
+TWID|society petroleum engineers spe thermal well integrity design||2018|2019
+TWID|society petroleum engineers spe thermal well integrity production||2022|2022
+TWID|spe thermal integrity design||2021|2021
+TWINPEAKS|twin peaks requirements architecture|ACM|2012|2015
+TWINTALKS|twin talks workshops dh understanding facilitating collaboration digital humanities||2020|2020
+TWIOS|topical internet space|IEEE|2017|2019
+TWIP|society petroleum engineers spe thermal well integrity production||2023|2025
+TWOMDE|transforming weaving ontologies model driven engineering||2008|2010
+TWR|advances welding science technology trends welding research||1986|1986
+TWSDETECTION|machine learning trend weak signal detection social networks social media||2020|2020
+TXRF|second total reflection x rays fluorescence||1989|1989
+TXRF|total reflection x ray fluorescence analysis related methods|Elsevier|1997|1997
+TYDE|sigplan type driven development co located icfp|ACM|2025|2025
+TYDE|sigplan type driven development co located|ACM|2017|2024
+TYDE|type driven development co located|ACM|2016|2016
+TYPES|proofs programs revised selected papers||2006|2009
+TYPES|proofs programs selected papers||1996|2002
+TYPES|proofs programs|Springer|1994|2025
+TYPES|special issue proofs programs||2012|2012
+TYWRRS|tyrrhenian advances radar remote sensing from earth observation homeland security||2012|2012

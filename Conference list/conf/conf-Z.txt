@@ -1,0 +1,27 @@
+ZAGREB|high efficiency processes material joining visokoucinski postupci spajanja materijala||1984|1984
+ZCICT|zimbabwe information communication technologies|IEEE|2022|2025
+ZCICT|zimbabwe information communication technology|IEEE|2023|2024
+ZEMCH|mass customisation sustainability housing||2014|2014
+ZEMCH|visibility zero energy housing||2013|2013
+ZEMCH|zero energy mass custom home||2021|2024
+ZEUS|central european services their composition post||2012|2012
+ZEUS|central european services their composition||2009|2025
+ZEUS|european services their composition||2021|2021
+ZEUS|sercices their composition||2024|2024
+ZEUS|services their composition||2020|2020
+ZICMSE|ziggurat materials science engineering||2020|2020
+ZINC|extractive metallurgy||1985|1985
+ZINC|zooming innovation consumer electronics galvanize your creativity|IEEE|2017|2017
+ZINC|zooming innovation consumer electronics|IEEE|2016|2016
+ZINC|zooming innovation consumer technologies|IEEE|2018|2025
+ZIRP|scientific science development transport znanost i razvitak prometa|Elsevier|2023|2023
+ZISE|zephyr science education||2025|2025
+ZONE|coastal coastal ocean management||1983|1983
+ZONE|coastal fifth coastal ocean management||1987|1987
+ZONE|coastal fourth coastal ocean management||1985|1985
+ZPEC|zhejiang power electronics|IEEE|2025|2025
+ZUE|reliability design gmm itg gi fachtagung||2015|2015
+ZUM|z formal specification notation|Springer|1997|1997
+ZUM|z users meeting|Springer|1995|1995
+ZUM|z users|Springer|1998|1998
+ZURICH|iabse organization design process||1986|1986

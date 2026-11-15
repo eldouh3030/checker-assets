@@ -1,0 +1,448 @@
+VAAM|video analytics audience measurement face facial expression recognition|Springer|2017|2017
+VAAM|video analytics audience measurement|Springer|2014|2014
+VAAT|virtual augmented assistive technology co located virtual reality||2013|2014
+VAAT|vr virtual augmented assistive technology|IEEE|2015|2015
+VACE|variability complexity software design|ACM|2016|2017
+VACUUM|science technology applications||1986|1987
+VACUUM|technological aspects surface treatment analysis||1984|1984
+VAE|vehicle automotive engineering|Springer|2021|2023
+VAHC|visual analytics healthcare|IEEE|2017|2025
+VAICT|vision advanced imaging computer technology|IEEE|2026|2026
+VAKD|sigkdd visual analytics knowledge discovery||2009|2009
+VALE|value engineering artificial intelligence|Springer|2024|2025
+VALID|advances system testing validation lifecycle held||2013|2013
+VALID|advances system testing validation lifecycle||2009|2014
+VALUETOOLS|eai performance evaluation methodologies tools|ACM|2015|2024
+VALUETOOLS|icst performance evaluation methodologies tools||2012|2012
+VALUETOOLS|performance evaluation methodologies tools|Springer|2008|2023
+VALUE|visionary action towards liveable urban environments|Springer|2021|2021
+VAMOS|variability modeling software intensive systems||2011|2012
+VAMOS|variability modelling software intensive systems||2013|2014
+VAMOS|working variability modelling software intensive systems|ACM|2020|2025
+VAMR|virtual augmented mixed reality applications virtual augmented reality held as part hci|Springer|2014|2014
+VAMR|virtual augmented mixed reality designing developing augmented virtual environments held as part hci||2013|2013
+VAMR|virtual augmented mixed reality designing developing virtual augmented environments held as part hci|Springer|2014|2014
+VAMR|virtual augmented mixed reality held as part hci|Springer|2018|2025
+VAMR|virtual augmented mixed reality held as part human computer interaction hci|Springer|2015|2019
+VAMR|virtual augmented mixed reality held as part human computer interaction|Springer|2020|2023
+VAMR|virtual augmented mixed reality systems applications held as part hci||2013|2013
+VAM|society petroleum engineers venezuelan meeting||1957|1959
+VANET|fourth vehicular ad hoc networks||2007|2007
+VANET|vehicular inter networking systems applications|ACM|2012|2013
+VANET|vehicular inter networking||2008|2009
+VANET|vehicular internetworking co located mobile ad hoc networking computing|ACM|2010|2010
+VAO|view based aspect oriented orthographic software modelling|ACM|2013|2014
+VARDIAL|applying nlp tools similar languages varieties dialects computational linguistics system demonstrations||2014|2014
+VARDIAL|nlp similar languages varieties dialects||2017|2026
+VARE|virtual augmented reality education||2018|2019
+VARICOMP|variability composition||2011|2013
+VARI|cmos variability|IEEE|2015|2015
+VARI|european cmos variability|IEEE|2014|2014
+VARNA|xix school nuclear physics neutron physics applications|IOP|2012|2012
+VARS|verification autonomous robotic systems|ACM|2021|2021
+VARY|variability you variability modeling made useful everyone||2012|2012
+VASSCAA|vacuum surface sciences asia australia|IOP|2013|2013
+VAST|virtual reality archaeology intelligent cultural heritage||2010|2010
+VAST|virtual reality archeology cultural heritage||2001|2001
+VAST|visual analytics science technology|IEEE|2006|2020
+VBB|veterinary biosignals biodevices conjunction||2012|2012
+VBC|visualization biomedical computing|Springer|1996|1996
+VCACS|virtual application commercial sensors|IEEE|2016|2016
+VCAN|virtual advanced nanomaterials applications|Elsevier|2021|2021
+VCASAN|vlsi communication advanced devices signals systems networking||2013|2013
+VCAS|vlsi communication signal processing|Springer|2020|2025
+VCBM|eg eurographics visual computing biology medicine full short paper||2020|2022
+VCBM|eg eurographics visual computing biology medicine short paper||2024|2025
+VCBM|eg eurographics visual computing biology medicine||2010|2012
+VCBM|eg eurographics visual computing biomedicine||2008|2008
+VCBM|eurographics visual computing biology medicine||2014|2021
+VCC|virtual communications|IEEE|2023|2025
+VCDRR|virtual disaster risk reduction vcdrr2021|Springer|2022|2022
+VCDRR|virtual disaster risk reduction|Springer|2022|2022
+VCHCI|vienna human computer interaction|Springer|1993|1993
+VCIP|anniversary visual communication image processing|IEEE|2016|2016
+VCIP|visual communications image processing|IEEE|2011|2025
+VCON|vaagdevi information technology real world problems||2010|2010
+VCRIS|cryptography information security|IEEE|2024|2025
+VCSC|vehicular communications sensing computing||2012|2012
+VCSI|virtual structural integrity|Elsevier|2020|2020
+VCTP|vietnam theoretical physics|IOP|2021|2024
+VDAT|progress vlsi design test||2012|2012
+VDAT|vlsi design test|Springer|2013|2025
+VDBS|verifiable database systems|ACM|2023|2023
+VDMB|data mining bioinformatics first revised selected papers||2006|2006
+VDMDP|virtual service damage materials diagnostics prediction|Elsevier|2022|2022
+VDM|intenational formal software development methods|Springer|1991|1991
+VDS|visualization data science|IEEE|2018|2024
+VECF|virtual european fracture|Elsevier|2020|2020
+VECIMS|virtual environments human computer interfaces measurement systems|IEEE|2003|2012
+VECIMS|virtual environments human computer interfaces measurements systems||2009|2009
+VECIMS|virtual environments human computre interfaces measurement systems||2004|2004
+VECON|fuel efficient power trains vehicles||1984|1984
+VECOS|verification evaluation computer communication systems|Springer|2017|2026
+VECPAR|high performance computing computational science revised selected invited papers||2007|2007
+VECPAR|high performance computing computational science revised selected papers||2008|2013
+VECPAR|high performance computing computational science|Springer|2003|2019
+VECPAR|vector parallel processing systems applications|Springer|1997|1997
+VECPAR|vector parallel processing|Springer|1999|2000
+VEDA|national emerging trends vacuum electron devices applications|Springer|2025|2025
+VEE|first usenix virtual execution environments||2005|2005
+VEE|second virtual execution environments||2006|2006
+VEE|sigplan sigops virtual execution environments|ACM|2009|2022
+VEE|virtual execution environments|ACM|2007|2018
+VEHITS|vehicle technology intelligent transport systems|SciTePress|2015|2026
+VEH|vibration energy harvesting applications|Springer|2025|2025
+VEIT|summer school vacuum electron ion technologies|IOP|2010|2026
+VENMO|workshops ai4bpm bp meet iot bpi bpmindit bpms2 dec2h miel pm dipro pods4h pq spbp held business process management|Springer|2019|2019
+VENTILATION|contaminant control|Elsevier|1986|1986
+VENTO|italian association wind engineering|Springer|2024|2024
+VEPD|vehicle electrification powertrain diversification technology forum part ii||2022|2022
+VEPD|vehicle electrification powertrain diversification technology forum part i||2021|2021
+VERIFY|verification connection||2007|2008
+VESEP|vehicle emission supervision environment protection vesep2020|EDP|2021|2021
+VESEP|vehicle emission supervision environment protection|EDP|2022|2024
+VETOMAC|vibration engineering technology machinery|Springer|2015|2024
+VFC|visions future cities|IOP|2022|2022
+VHCIE|virtual humans crowds immersive environments|IEEE|2016|2019
+VHDL|european design automation euro exhibition||1996|1996
+VHEPU|rencontres de moriond very high energy phenomena universe||2005|2017
+VHPC|euro par workshops parallel processing revised selected papers||2009|2009
+VHPC|virtualization high performance cloud computing held conjunction sc high performance computing networking storage analysis|ACM|2013|2013
+VHSIC|very high speed integrated circuit technology electro optic applications|SPIE|1982|1982
+VIATC|vibration institute training society machinery failure prevention technology||2021|2022
+VIATC|vibration institute training||2023|2024
+VIBRATIONS|flow induced||1987|1987
+VIBRATION|flow induced||1986|1986
+VICEST|virtual engineering science technology||2021|2021
+VICFCNT|virtual futuristic communication network technologies|Springer|2023|2023
+VICS|virtual sciences|IOP|2022|2022
+VIC|vagueness communication held as part european summer school logic language information|Springer|2011|2011
+VIC|vagueness communication held as part revised selected papers||2011|2011
+VIDEONEXT|design quality deployment adaptive video streaming|ACM|2014|2014
+VIDEO|packet packet||2007|2007
+VIETCRYPT|progress cryptology cryptology vietnam revised selected papers||2006|2006
+VIETRI|italian neural nets wirn|Springer|2002|2003
+VIETRI|neural nets italian neural nets wirn revised papers||2002|2002
+VIEW|pixelization paradigm first visual information expert||2007|2007
+VIE|iee visual information engineering||2005|2005
+VIE|visual information engineering||2008|2008
+VIGISAN|congress health vigilance|EDP|2021|2021
+VIGTA|video image ground truth computer vision applications||2013|2013
+VIGTA|visual interfaces ground truth collection computer vision applications||2012|2012
+VIII|advanced agritechnologies environmental engineering sustainable development agritech|EDP|2023|2023
+VIII|mechanical behavior salt saltmech||2015|2015
+VIIP|iasted visualization imaging image processing||2005|2012
+VII|applied physics information technologies engineering apitech|EDP|2025|2025
+VII|diffuse optical spectroscopy imaging|SPIE|2019|2019
+VII|nanophotonics micro nano optics|SPIE|2021|2021
+VII|photonic instrumentation engineering|SPIE|2020|2020
+VII|software cyberinfrastructure astronomy|SPIE|2022|2022
+VIMS|virtual intelligent measurement systems distributed intelligent sensing advanced integrated virtual environments|IEEE|2002|2002
+VIMS|virtual intelligent measurement systems integrating heterogeneous components into composite systems quantitative intelligent virtual reality|IEEE|2001|2001
+VINCI|visual information communication interaction vinci2022|ACM|2022|2022
+VINCI|visual information communication interaction|ACM|2012|2025
+VINCI|visual information communication||2010|2011
+VINORG|virtual networked organizations emergent technologies tools first revised selected papers||2012|2012
+VINYLTEC|society plastics engineers issues affecting vinyl worldwide||2011|2011
+VINYLTEC|society plastics engineers pvc meeting challenges future||2010|2010
+VIPERC|satellite visual pattern extraction recognition cultural heritage understanding co located theory practice digital libraries||2023|2023
+VIPERC|virtual visual pattern extraction recognition cultural heritage understanding||2022|2022
+VIPERC|visual pattern extraction recognition cultural heritage understanding co located automation science engineering||2024|2024
+VIPERC|visual pattern extraction recognition cultural heritage understanding co located italian research digital libraries||2020|2020
+VIPIMAGE|computational vision medical image processing eccomas thematic computational vision medical image processing||2012|2012
+VIPIMAGE|eccomas thematic computational vision medical image processing||2008|2016
+VIPROMCOM|eurasip region video image processing multimedia communications|IEEE|2002|2002
+VIROLOGY|water seminar held as part iawprc biennial||1985|1985
+VISAPP|computer vision theory applications computer graphics theory applications|Springer|2007|2007
+VISAPP|computer vision theory applications visigrapp|SciTePress|2015|2015
+VISAPP|computer vision theory applications|SciTePress|2006|2014
+VISAPP|computer vision theory application||2011|2011
+VISAPP|robot vision conjunction||2007|2007
+VISAP|vis arts program|IEEE|2017|2025
+VISA|virtualized infrastructure systems architectures co located||2010|2010
+VISCOMM|visualization communication|IEEE|2025|2025
+VISGAP|gap between visualization research visualization software||2020|2025
+VISGUIDES|visualization guidelines research design education|IEEE|2022|2022
+VISIGRAPP|computer vision computer graphics theory applications revised selected papers|Springer|2008|2009
+VISIGRAPP|computer vision imaging computer graphics theory application joint revised selected papers|Springer|2013|2013
+VISIGRAPP|computer vision imaging computer graphics theory applications joint revised selected papers|Springer|2010|2011
+VISIGRAPP|imta image mining theory applications conjunction internatioanal joint computer vision imaging computer graphics theory applications|SciTePress|2015|2015
+VISIGRAPP|joint computer vision imaging computer graphics theory applications doctoral consortium|SciTePress|2016|2016
+VISIGRAPP|joint computer vision imaging computer graphics theory applications|SciTePress|2015|2026
+VISIOGAME|computer graphics visualization computer vision game technology|Atlantis|2013|2013
+VISNEXT|design deployment evaluation network assisted video streaming part|ACM|2022|2022
+VISNEXT|design deployment evaluation network assisted video streaming|ACM|2021|2021
+VISSOFT|visualizing software understanding analysis|IEEE|2002|2011
+VISSOFT|working software visualization|IEEE|1996|2025
+VISSW|visual interfaces social semantic web||2009|2011
+VISUAL|5thinternational information systems|Springer|2002|2002
+VISUAL|advances information systems revised selected papers||2007|2007
+VISUAL|information information systems revised selected papers||2005|2005
+VISUAL|information information systems|Springer|1999|1999
+VISUAL|information systems web based information search management||2008|2008
+VISUAL|information systems|Springer|2000|2000
+VIS|advances visualization imaging simulation wseas visualization imaging simulation||2010|2010
+VIS|visualisation visualisation built rural environments||2008|2008
+VIS|visualization short papers|IEEE|2021|2025
+VITAE|wireless communication vehicular technology information theory aerospace electronic systems technology wireless||2009|2011
+VITAE|wireless communications vehicular technology information theory aerospace electronic systems co located global wireless summit|IEEE|2013|2014
+VITECON|vision towards emerging trends communication networking technologies|IEEE|2023|2023
+VITECON|vision towards emerging trends communication networking|IEEE|2019|2019
+VITE|various innovative technological experiences||2025|2025
+VIUF|spring vhdl users forum|IEEE|1994|1994
+VIZR|all russian plant protection congress participation phytosanitary technologies ensuring independence competitiveness agricultural sector russia|EDP|2020|2020
+VIZSEC|visualization computer security co located t he computer communications security||2006|2006
+VIZSEC|visualization computer security|Springer|2005|2008
+VIZSEC|visualization cyber security|IEEE|2009|2023
+VLAM|people vision language mind p as part edition language resources evaluation||2022|2022
+VLBV|visual content processing representation revised selected papers||2006|2006
+VLBV|visual content processing representation|Springer|2003|2003
+VLCS|mobicom visible light communication systems|ACM|2014|2014
+VLCS|visible light communication systems co located|ACM|2017|2017
+VLCS|visible light communications systems co located|ACM|2015|2015
+VLDBW|joint workshops very large data bases||2023|2023
+VLDB|aidb applied ai database systems applications held||2020|2020
+VLDB|cleandb clean databases co located||2006|2006
+VLDB|databases telecommunications co located very large data bases|Springer|2000|2000
+VLDB|di2kg challenges experiences from data integration knowledge graphs co located very large data bases||2020|2020
+VLDB|ph d||2006|2006
+VLDB|phd phd co located very large data bases||2003|2003
+VLDB|phd phd co located very large databases||2022|2022
+VLDB|sea data search exploration analysis heterogeneous datastores co located very large data bases||2021|2021
+VLDB|semdata semantic data management||2010|2010
+VLDB|twelfth very large data bases||1986|1986
+VLDB|very large data bases february||2018|2018
+VLDB|very large data bases november|ACM|2018|2018
+VLDB|very large data bases october|ACM|2018|2018
+VLDB|very large data bases september|ACM|2018|2018
+VLDB|very large data bases|ACM|1975|2026
+VLDB|very large databases||1997|1997
+VLDS|searching integrating new web data sources very large data search||2011|2011
+VLDS|very large data search searching integrating new web data sources||2012|2012
+VLL|visual languages logic as part visual languages human centric computing vl||2007|2009
+VLSIC|vlsi circuits digest technical papers|IEEE|2011|2014
+VLSIC|vlsi circuits|IEEE|2010|2010
+VLSID|vlsi design concurrently embedded systems design es||2013|2013
+VLSID|vlsi design embedded systems|IEEE|2017|2026
+VLSID|vlsi design held concurrently embedded systems design||2014|2014
+VLSID|vlsi design held concurrently embedded systems es|IEEE|2019|2025
+VLSID|vlsi design held concurrently embedded systems|IEEE|2020|2020
+VLSIPARC|very large scale integration pacific asian region||1984|1984
+VLSISP|vlsi signal processing vi|IEEE|1993|1993
+VLSITSADAT|vlsi tsa vlsi design automation test technical papers||2005|2005
+VLSITSA|vlsi technology systems applications technical papers||2006|2007
+VLSIT|vlsi technology digest technical papers||2011|2013
+VLSIT|vlsi technology||2009|2010
+VLSI|circuits digest technical papers|IEEE|2003|2003
+VLSI|computer design||1993|1993
+VLSI|computer society is||2006|2006
+VLSI|computer society system design system chip era|IEEE|2000|2000
+VLSI|computer society system design towards system chip paradigm|IEEE|1999|1999
+VLSI|design digital systems||1983|1983
+VLSI|ifip very large scale integration||1995|1995
+VLSI|microelectronics electronics enabling technologies||1987|1987
+VLSI|thermal investigations therminic||1997|1997
+VLSLON|computer vision||2005|2005
+VLSM|variational geometric level set methods computer vision third||2005|2005
+VLSM|variational level set methods computer vision|IEEE|2001|2001
+VLUDS|dfg s research training group visualization large unstructured data sets applications geospatial planning modeling engineering||2008|2008
+VLUDS|visualization large unstructured data sets applications geospatial planning modeling engineering irtg||2011|2012
+VMAEE|iii sustainable development agriculture energy ecology|IOP|2024|2024
+VMAEE|iv sustainable development engineering agriculture energy materials science|IOP|2026|2026
+VMAEE|sustainable development agriculture veterinary medicine agriculture engineering ecology|IOP|2023|2023
+VMBO|value modeling business ontologies||2018|2018
+VMBO|value modelling business ontologies co located advanced information systems engineering||2022|2022
+VMBO|value modelling business ontologies||2020|2025
+VMCAI|verification model checking abstract interpretation third revised papers||2002|2002
+VMCAI|verification model checking abstract interpretation was co located sigplan principles programming languages|Springer|2024|2024
+VMCAI|verification model checking abstract interpretation|Springer|2002|2026
+VMEIT|vehicle mechanical engineering information technology||2013|2014
+VMIC|vlsi multilevel interconnection|IEEE|1991|2008
+VMIL|first virtual machines intermediate languages emerging modularization mechanisms held sixth int conf aspect oriented software development||2007|2007
+VMIL|sigplan virtual machines intermediate languages co located icfp|ACM|2025|2025
+VMIL|sigplan virtual machines intermediate languages co located|ACM|2017|2024
+VMIL|virtual machines intermediate languages co located|ACM|2016|2016
+VMIL|virtual machines intermediate languages emerging modularization mechanisms held sigplan object oriented programming||2008|2008
+VMIL|virtual machines intermediate languages held sigplan object oriented programming systems languages applications||2009|2009
+VMIL|virtual machines intermediate languages held sigplan systems programming languages applications software humanity|ACM|2011|2011
+VMIL|virtual machines intermediate languages|ACM|2013|2013
+VMLS|visualization medicine life sciences|Springer|2012|2016
+VMR|virtual mixed reality third held as part hci||2009|2009
+VMSEC|virtual machine security co located computer communications security||2008|2009
+VMV|fall vision modeling visualization||2008|2008
+VMV|vision modeling visualization||2004|2020
+VNBA|vision networks behaviour analysis co located multimedia mm|ACM|2008|2008
+VNC|vehicular networking||2009|2025
+VNIS|record papers presented vehicle navigation information systems|IEEE|1992|1992
+VNIS|vehicle navigation information systems||1995|1995
+VNIS|vehicular navigation information systems|IEEE|1996|1996
+VOC|scientific meeting classification data analysis group italian statistical society cladag|Springer|2025|2025
+VOILA|visualization interaction ontologies linked data co located semantic web||2020|2020
+VOI|iov mobihoc internet vehicles vehicles internet|ACM|2016|2016
+VOLTA|alessandro memorial low power design|IEEE|1999|1999
+VOLUME|acoustical imaging||1982|1984
+VOLUME|advances cryogenic engineering materials||1984|1984
+VOLUME|advances cryogenic engineering||1984|1984
+VOLUME|advances instrumentation isa exhibit||1982|1984
+VOLUME|advances instrumentation parts isa exhibit||1980|1980
+VOLUME|advances x ray analysis applications x ray analysis||1981|1981
+VOLUME|advances x ray analysis||1982|1985
+VOLUME|american chemical society division environmental chemistry national meeting number||1986|1986
+VOLUME|american chemical society division fuel chemistry no preprints papers reactions coal novel systems coprocessing two stage liquefaction||1986|1986
+VOLUME|american chemical society division fuel chemistry no preprints papers||1987|1987
+VOLUME|american chemical society division fuel chemistry numbers preprints papers||1985|1985
+VOLUME|american power||1982|1983
+VOLUME|analysis instrumentation isa analysis instrumentation||1982|1982
+VOLUME|calorimetry thermoanalysis geneva vol calorimetrie et analyse thermique journees de geneve||1982|1982
+VOLUME|collection technical papers aiaa asme asce ahs asc structures structural dynamics materials aiaa asme ahs adaptive structures aiaa non deterministic approaches forum aiaa gossamer spacecraft forum aiaa multidisciplinary design optimization specialist||2005|2005
+VOLUME|developments theoretical applied mechanics selected papers southeastern theoretical applied mechanics||1982|1982
+VOLUME|district heating association||1982|1982
+VOLUME|engineering medicine biology||1983|1983
+VOLUME|institute briquetting agglomeration biennial||1985|1985
+VOLUME|instrumentation aerospace industry advances test measurement instrumentation||1982|1984
+VOLUME|instrumentation aerospace industry instrumentation||1985|1985
+VOLUME|instrumentation chemical petroleum industries smarter projects from concept implementation spring||1986|1986
+VOLUME|instrumentation mining metallurgy industries mining metallurgy industries exhibit||1983|1985
+VOLUME|microstructural science technical meeting metallographic society|Elsevier|1983|1983
+VOLUME|modeling simulation fifteenth pittsburgh||1984|1984
+VOLUME|modeling simulation pittsburgh||1981|1983
+VOLUME|national electronics||1981|1982
+VOLUME|national meeting american chemical society division environmental chemistry number||1981|1985
+VOLUME|national sampe exhibition materials processes continuing innovations||1983|1983
+VOLUME|national sampe exhibition technology vectors||1984|1984
+VOLUME|national sampe technical vision materials||1983|1983
+VOLUME|organic coatings applied polymer science||1982|1983
+VOLUME|organic coatings plastics chemistry||1981|1981
+VOLUME|polymeric materials science engineering acs division polymeric materials science engineering fall||1984|1985
+VOLUME|polymeric materials science engineering acs division polymeric materials science engineering spring||1985|1986
+VOLUME|polymeric materials science engineering acs division polymeric materials science engineering||1983|1984
+VOLUME|preprints american chemical society division fuel chemistry number||1981|1983
+VOLUME|preprints american chemical society division petroleum chemistry number||1983|1984
+VOLUME|preprints division petroleum chemistry american chemical society number symposia||1982|1983
+VOLUME|preprints division petroleum chemistry american chemical society numbers||1985|1985
+VOLUME|preprints division petroleum chemistry american chemical society number||1984|1985
+VOLUME|preprints papers american chemical society division fuel chemistry number||1983|1985
+VOLUME|preprints papers american chemical society fuel chemistry division number||1983|1983
+VOLUME|preprints symposia division petroleum chemistry american chemical society number number march||1986|1986
+VOLUME|sampe exhibition advanced materials||1987|1987
+VOLUME|science ceramics science ceramics||1981|1981
+VOLUME|theoretical applied mechanics japan national congress applied mechanics||1982|1985
+VOLUME|transactions american nuclear society winter meeting||1982|1982
+VOLUME|transactions american society artificial internal organs||1982|1984
+VOLUME|transactions society naval architects marine engineers||1982|1984
+VOLVIS|siggraph volume visualization graphics|IEEE|2002|2002
+VOLVIS|volume visualization graphics||2004|2004
+VOM|current issues materials processes manufacture chemical equipment dechema january aktuelle werkstoff und verarbeitungsfragen des apparatebaus vortraege konstruktions symposion der dechema||1986|1986
+VORTEX|verification monitoring runtime execution co located ecoop|ACM|2021|2021
+VORTEX|verification monitoring runtime execution co located|ACM|2024|2024
+VORTEX|verification monitoring runtime execution|ACM|2023|2023
+VOTEID|e voting identity third revised selected papers||2012|2012
+VOTEID|e voting identity|Springer|2015|2015
+VOTE|requirements engineering e voting systems re||2009|2009
+VOTING|advances secure electronic trusted smart contracts held financial cryptography data security fc|Springer|2020|2020
+VOY|voynich manuscript||2022|2022
+VPA|visual performance analysis held conjunction sc high performance computing networking storage analysis|IEEE|2014|2016
+VPPC|vehicle power propulsion september harbin china||2008|2008
+VPPC|vehicle power propulsion|IEEE|2006|2025
+VPT|verification program transformation horn clauses verification synthesis||2020|2020
+VPT|verification program transformation||2021|2021
+VPWJ|vlsi packaging japan||2008|2008
+VRAIS|research properties virtual reality|IEEE|1993|1993
+VRCAI|asia europe simulation serious gaming siggraph virtual reality continuum its applications industry|ACM|2016|2016
+VRCAI|siggraph virtual reality continuum its application industry||2010|2010
+VRCAI|siggraph virtual reality continuum its applications industry|ACM|2004|2025
+VRCAI|virtual reality continuum its applications industry|ACM|2009|2026
+VRCIA|virtual reality continuum its applications||2006|2006
+VRF|volga region farmland||2022|2022
+VRHCIAI|virtual reality human computer interaction artificial intelligence|IEEE|2022|2022
+VRIC|virtual reality laval virtual||2013|2013
+VRIC|virtual reality||2012|2012
+VRIPHYS|virtual reality interactions physical simulations||2007|2018
+VRISP|virtual reality image signal processing|ACM|2025|2025
+VRML|virtual reality modeling language|ACM|1998|1999
+VRML|web3d virtual reality modeling language||2000|2000
+VRST|virtual reality software technology|ACM|1998|2025
+VRTCH|vr technologies cultural heritage|Springer|2019|2019
+VRW|virtual reality 3d user interfaces abstracts workshops|IEEE|2021|2026
+VRW|virtual reality 3d user interfaces|IEEE|2020|2020
+VSAM|virtual seminar applied mechanics|Springer|2022|2022
+VSCC|visual analysis smart connected communities co located mm|ACM|2017|2017
+VSDIA|mini vehicle system dynamics identification anomalies||2002|2019
+VSIA|vision science its applications||1999|2001
+VSIP|video signal image processing|ACM|2019|2026
+VSL|knowledge representation health care kr4hc held as part vienna summer logic|Springer|2014|2014
+VSMM|digital heritage congress digital heritage held jointly virtual systems multimedia|IEEE|2018|2018
+VSMM|interactive technologies sociotechnical systems|Springer|2006|2006
+VSMM|virtual systems multimedia revised selected papers||2008|2008
+VSMM|virtual systems multimedia virtual systems information society||2012|2012
+VSMM|virtual systems multimedia|IEEE|1997|2016
+VSOE|vietnam advances offshore engineering|Springer|2022|2025
+VSPETS|joint visual surveillance performance evaluation tracking surveillance||2005|2005
+VSPICE|vlsi signal processing power electronics iot communication embedded systems|Springer|2021|2024
+VSPICE|vlsi signal processing power systems illumination lighting control communication embedded systems|Springer|2020|2020
+VSPID|vi scientific practical virtual simulation prototyping industrial design|IOP|2020|2020
+VSSN|second video surveillance sensor networks||2004|2004
+VSSN|video surveillance sensor networks co located multimedia|ACM|2005|2005
+VSSN|video surveillance sensor networks||2006|2006
+VSS|variable structure systems||1996|2024
+VSS|variable structure system|Springer|2013|2013
+VSS|verification scientific software||2025|2025
+VSTTE|verified software numerical software verification|Springer|2020|2020
+VSTTE|verified software theories tool experiments|Springer|2016|2016
+VSTTE|verified software theories tools experiments first ifip tc wg revised selected papers discussions||2008|2008
+VSTTE|verified software theories tools experiments numerical software verification|Springer|2022|2022
+VSTTE|verified software theories tools experiments second||2008|2008
+VSTTE|verified software theories tools experiments third||2010|2010
+VSTTE|verified software theories tools experiments|Springer|2012|2025
+VSTTE|working verified software theories tools experiments|Springer|2017|2018
+VST|validation analysis evolution software tests|IEEE|2018|2020
+VTCA|smart vehicular technology transportation communication applications|Springer|2018|2025
+VTC|fall vts vehicular technology||1999|1999
+VTC|technical digest vehicular technology group|IEEE|1969|1969
+VTC|vehicular technology fall fall||2009|2009
+VTC|vehicular technology fall volume||2003|2003
+VTC|vehicular technology fall vol||2003|2003
+VTC|vehicular technology fall vtc2010 fall||2010|2010
+VTC|vehicular technology fall|IEEE|2006|2025
+VTC|vehicular technology group|IEEE|1967|1975
+VTC|vehicular technology part||1998|1998
+VTC|vehicular technology spring spring|IEEE|2022|2022
+VTC|vehicular technology spring stockholm paving path wireless future volume||2005|2005
+VTC|vehicular technology spring stockholm paving path wireless future vol||2005|2005
+VTC|vehicular technology spring stockholm paving path wireless future||2005|2005
+VTC|vehicular technology spring|IEEE|2006|2025
+VTC|vehicular technology technical digest|IEEE|1971|1971
+VTC|vehicular technology vehicular technology metropolitan environment record|IEEE|1973|1973
+VTC|vehicular technology vtc2003 fall volume||2003|2003
+VTC|vehicular technology vtc2004 fall wireless technologies global security volume||2004|2004
+VTC|vehicular technology vtc2004 spring towards global wireless world volume||2004|2004
+VTC|vehicular technology vtc2006 spring||2006|2006
+VTC|vehicular technology vtc2007 spring||2007|2007
+VTC|vehicular technology vtc2011 spring||2011|2011
+VTC|vehicular technology vtc2024 spring|IEEE|2024|2024
+VTC|vehicular technology|IEEE|1968|2000
+VTC|vtc2000 vehicular technology shaping history through mobile technologies|IEEE|2000|2000
+VTDC|virtualization technologies distributed computing part|ACM|2015|2015
+VTDC|virtualization technologies distributed computing||2009|2013
+VTDC|virtualization technology distributed computing held conjunction sc06||2006|2006
+VTDC|virtualization technology distributed computing||2007|2007
+VTDS|eurosys virtualization technology dependable systems|ACM|2008|2008
+VTEST|digest papers vlsi test chip system test concerns s||1991|1991
+VTMS|institution mechanical engineers vehicle thermal management systems exhibition||2011|2011
+VTMS|institution mechanical engineers vehicle thermal management systems||2013|2013
+VTMS|institution mechanical engineers vehicle thermal management sytems||2017|2017
+VTM|vehicular traffic management smart cities||2012|2012
+VTSA|vlsi technology systems applications technical papers|IEEE|1991|1991
+VTS|vlsi test vts08||2008|2008
+VTS|vlsi test vts10||2010|2010
+VTS|vlsi test||2005|2026
+VTT|vacuum technique technology||2021|2021
+VULCANO|frontier objects astrophysics particle physics||2022|2022
+VVAPOL|research production use steel ropes conveyors hoisting machines||2014|2014
+VVG|institute mathematics its applications vision video graphics||2003|2005
+VVG|vision video graphics||2005|2005
+VVHP|heterogeneous processing held conjunction parallel processing|IEEE|1993|1993
+VVS|asme verification validation||2021|2021
+VVS|chapel hill volume visualization|ACM|1989|1989
+VVS|volume visualization|ACM|1990|1998
+VVUQ|verification validation uncertainty quantification||2024|2025

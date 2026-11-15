@@ -1,0 +1,1171 @@
+DAAAM|intelligent manufacturing automation||2019|2025
+DAAC|industry university joint data center automation analytics control held conjunction sc high performance computing networking storage analysis|IEEE|2019|2019
+DAAFRICA|data science agriculture africa co located african research computer science applied mathematics||2025|2025
+DAARC|anaphora analysis algorithms applications discourse anaphora anaphor resolution colloquium selected papers||2007|2007
+DAARC|anaphora processing applications discourse anaphora anaphor resolution colloquium revised selected papers||2011|2011
+DAARC|anaphora processing applications discourse anaphora anaphor resolution colloquium||2009|2009
+DAA|social learning multimodal interaction designing artificial agents|ACM|2016|2016
+DABCON|big data analytics bioinformatics|IEEE|2024|2024
+DACS|data analytics cyber security|Springer|2026|2026
+DAC|asia south pacific design automation asp|IEEE|1995|2021
+DAC|asp asia south pacific design automation|IEEE|2004|2026
+DAC|design automation|IEEE|2005|2025
+DAC|edac design automation|IEEE|2011|2011
+DADA|deepfake audio detection analysis co located joint artificial intelligence||2023|2023
+DADC|data aware distributed computing co located high performance distributed computing||2009|2009
+DADC|dynamic adversarial data collection||2022|2022
+DAD|innovative design analysis development practices aerospace automotive engineering i|IOP|2021|2023
+DAEM|design application engineering materials ic conjunction seminar nasional metalurgi dan material xi|IOP|2019|2019
+DAENG|advanced data information engineering|Springer|2019|2019
+DAENG|first advanced data information engineering||2014|2014
+DAFX|cost g digital audio effects||1999|2001
+DAFX|cost g6 digital audio effects||1998|1998
+DAFX|digital audio effects edafx2020 dafx2020||2020|2020
+DAFX|digital audio effects|IEEE|2002|2025
+DAGM|dynamic 3d imaging dyn3d||2009|2009
+DAGM|german association pattern recognition|Springer|2003|2004
+DAGM|pattern recognition itsecurity conjunction german association pattern recognition|Springer|2012|2012
+DAGRES|data grids escience co located computing frontiers cf||2009|2009
+DAH|dynamic adaptive hypertext generic frameworks approaches techniques||2009|2011
+DAICRA|scientific practical development agro industrial complex context robotization digitalization production russia abroad||2022|2022
+DAIC|scientific practical development agro lndustrial complex context robotization digitalization production russia abroad|EDP|2020|2020
+DAIRBM|fai digitalisation artificial intelligence revolution business management fai|Springer|2026|2026
+DAIS|distributed applications interoperable systems ifip wg held as part federated distributed computing techniques||2013|2013
+DAIS|distributed applications interoperable systems ifip wg int held as part int federated conf distributed computing techn proc|Springer|2014|2014
+DAIS|distributed applications interoperable systems ifip wg|Springer|2005|2012
+DAIS|ifip distributed applications interoperable systems|Springer|2023|2023
+DAIS|ifip wg distributed applications interoperable systems held as joint event federation ifip wg formal methods open object based distributed systems|Springer|2003|2003
+DAIS|ifip wg distributed applications interoperable systems held as part federated distributed computing techniques|Springer|2015|2026
+DAIS|ifip wg distributed applications interoperable systems|Springer|2005|2010
+DAIS|ifipwg6 distributed applications interoperable systems|Springer|2012|2012
+DAI|australian distributed artificial intelligence|Springer|1996|1996
+DAI|distributed artificial intelligence|ACM|2019|2025
+DALI|data augmentation labeling imperfections conjunction medical image computing computer assisted intervention|Springer|2024|2024
+DALI|data augmentation labelling imperfections held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+DALI|deep generative models medical image computing computer assisted intervention dgm4miccai data augmentation labelling imperfections held conjunction medical image computing computer assisted intervention|Springer|2021|2021
+DALI|dynamic logic new trends applications|Springer|2024|2024
+DALI|dynamic logic|Springer|2018|2020
+DALT|declarative agent languages technologies first|Springer|2004|2004
+DALT|declarative agent languages technologies ii second revised selected papers||2005|2005
+DALT|declarative agent languages technologies iii third selected revised papers||2006|2006
+DALT|declarative agent languages technologies iv|Springer|2006|2006
+DALT|declarative agent languages technologies ix revised selected invited papers||2012|2012
+DALT|declarative agent languages technologies v revised selected inviyed papers|Springer|2008|2008
+DALT|declarative agent languages technologies vi estoril portugal may revised selected invited papers||2009|2009
+DALT|declarative agent languages technologies vii revised selected invited papers||2010|2010
+DALT|declarative agent languages technologies viii revised selected invited papers||2011|2011
+DALT|declarative agent languages technologies x revised selected papers||2013|2013
+DALT|declarative agent languages technologies|Springer|2011|2011
+DAL|data analytics learning|Springer|2024|2026
+DAMAP|series data management peer peer systems||2008|2008
+DAMAS|damage assessment structures|IOP|2011|2020
+DAMAS|defence applications multi agent systems revised invited papers||2006|2006
+DAMAS|unified damage assessment structures maintenance engineering efficiency performance engineering|Springer|2026|2026
+DAMAS|unified defence applications multi agent systems maintenance engineering income v efficiency performance engineering network|Springer|2024|2024
+DAMA|big big data analytics machine learning data communication networks part|ACM|2017|2018
+DAMA|big big data machine learning artificial intelligence data communication networks part|ACM|2020|2020
+DAMDID|data analytics management data intensive domains|Springer|2017|2017
+DAMOCLES|detection mitigation cyber attacks that exploit human vulnerabilities co located advanced visual interfaces||2024|2024
+DAMON|data management new hardware co located sigmod||2005|2005
+DAMON|data management new hardware conjuction sigmod pods||2008|2008
+DAMON|data management new hardware conjunction sigmod pods|ACM|2009|2015
+DAMON|data management new hardware|ACM|2007|2025
+DAMP|declarative aspects multicore programming||2007|2011
+DAMP|popl declarative aspects applications multicore programming||2012|2012
+DAMP|sigplan declarative aspects multicore programming||2009|2010
+DAMT|digital arts media technology ecti northern section electrical electronics computer telecommunications engineering|IEEE|2022|2025
+DANAC|data analytics cloud conjunction sigmod pods|ACM|2013|2014
+DANAC|data analytics scale conjunction sigmod pods|ACM|2015|2015
+DANCE|darpa active networks exposition|IEEE|2002|2002
+DANF|dynamical aspects nuclear fission||2008|2008
+DANTE|database applications non traditional environments|IEEE|1999|1999
+DAPIC|digital analysis processing intelligent computation|IEEE|2025|2025
+DAPI|distributed ambient pervasive interactions first held as part hci||2013|2013
+DAPI|distributed ambient pervasive interactions held as part hci|Springer|2018|2025
+DAPI|distributed ambient pervasive interactions held as part human computer interaction hci|Springer|2015|2019
+DAPI|distributed ambient pervasive interactions held as part human computer interaction|Springer|2017|2023
+DAPI|distributed ambient pervasive interactions second held as part hci|Springer|2014|2014
+DAPPCON|decentralized applications infrastructures|IEEE|2019|2019
+DAPPS|decentralized applications infrastructures|IEEE|2020|2025
+DAPSE|data analysis patterns software engineering||2013|2013
+DAQUAMREC|data quality aware multimodal recommendation co located||2025|2025
+DARES|ai driven data engineering reusability earth space sciences co located european artificial intelligence||2025|2025
+DARE|data analytics renewable energy integration|Springer|2017|2018
+DARE|data management analytics healthcare co located||2013|2013
+DARE|designing augmented reality environments|ACM|2000|2000
+DARE|ecml pkdd data analytics renewable energy integration|Springer|2015|2015
+DARF|diophantine analysis related fields||2010|2011
+DARS|distributed autonomous robotic systems behavior bio inspired robotics|Springer|2022|2022
+DARS|distributed autonomous robotic systems|Springer|2012|2026
+DART|domain adaptation representation transfer affordable healthcare ai resource diverse global health held conjunction medical image computing computer assisted intervention|Springer|2021|2021
+DART|domain adaptation representation transfer distributed collaborative learning held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+DART|domain adaptation representation transfer held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+DART|domain adaptation representation transfer medical image learning less labels imperfect data mil3id held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+DART|information filtering retrieval|Springer|2018|2018
+DART|miccai domain adaptation representation transfer|Springer|2024|2024
+DART|new challenges distributed information filtering retrieval||2011|2011
+DAR|document analysis recognition held conjunction indian vision graphics image processing|Springer|2019|2019
+DAR|document analysis recognition||2012|2012
+DASAA|data science analytics applications|Springer|2018|2018
+DASA|decision aid sciences applications|IEEE|2022|2025
+DASA|decision aid sciences application|IEEE|2020|2021
+DASC|aiaa digital avionics systems|IEEE|1992|2022
+DASC|dependable autonomic secure computing pervasive intelligence computing big data intelligence computing cyber science technology congress|IEEE|2016|2016
+DASC|dependable autonomic secure computing|IEEE|2006|2025
+DASC|digital avionics systems closing generation gap increasing capability flight operations among legacy modern uninhabited aircraft||2011|2011
+DASC|digital avionics systems improving our environment through green avionics atm solutions||2010|2010
+DASC|digital avionics systems modernization avionics atm perspectives from air ground||2009|2009
+DASC|digital avionics systems projecting years aerospace history into future avionics||2012|2012
+DASC|digital avionics systems|IEEE|2019|2025
+DASC|third dependable autonomic secure computing||2007|2007
+DASC|world ubiquitous science congress dependable autonomic secure computing|IEEE|2014|2014
+DASFAA|advances databases concepts systems applications database systems advanced applications||2007|2007
+DASFAA|data quality high dimensional data analysis workshops||2009|2009
+DASFAA|database systems advanced applications held conjunction|Springer|2021|2021
+DASFAA|database systems advanced applications part ii|Springer|2014|2014
+DASFAA|database systems advanced applications part i|Springer|2014|2014
+DASFAA|database systems advanced applications workshops bdma damen sim3 uncrowd revised selected papers|Springer|2014|2014
+DASFAA|database systems advanced applications workshops bdma snsm secop|Springer|2013|2013
+DASFAA|database systems advanced applications workshops benchmarx mcis wdpp ppda mbc phd||2009|2009
+DASFAA|database systems advanced applications workshops gdm benchmarx mcis snsmw diew udm revised selected papers|Springer|2010|2010
+DASFAA|database systems advanced applications|Springer|1999|2026
+DASFAA|east european advances databases information systems held jointly database systems advanced applications adbis|Springer|2000|2000
+DASFAA|workshops database systems advanced applications big data management service big data quality management semantic computing personalization data management mining moocs|Springer|2017|2017
+DASFAA|workshops database systems advanced applications semantic computing personalization secop big data management service bdms posters|Springer|2015|2015
+DASH|data science human loop dashworkshop||2024|2024
+DASIA|data systems aerospace||2004|2012
+DASIP|design architecture signal image processing held jointly high performance embedded architectures compilers|Springer|2022|2022
+DASIP|design architecture signal image processing|Springer|2024|2026
+DASIP|design architectures signal image processing dasip2010||2010|2010
+DASIP|design architectures signal image processing|ACM|2011|2023
+DAS|danubia adria advances experimental mechanics|Elsevier|2010|2023
+DAS|danubia adria developments experimental mechanics||2007|2007
+DAS|danubla adria advances experimental mechanics||2012|2013
+DAS|development application systems|IEEE|2014|2026
+DAS|document analysis systems vii|Springer|2006|2006
+DAS|document analysis systems|Springer|2002|2004
+DAS|iapr document analysis systems|Springer|1999|2024
+DAS|university parma ingegneria industriale danubia adria experimental methods solid mechanics||2005|2005
+DATABIA|data science artificial intelligence business analytics|IEEE|2020|2021
+DATACLOUD|data intensive computing clouds co located sc|ACM|2011|2011
+DATACLOUD|data intensive computing clouds held conjunction sc high performance computing networking storage analysis|IEEE|2014|2016
+DATACOMM|data networks analysis design data communications|ACM|1973|1973
+DATACOM|big data intelligence computing|IEEE|2019|2023
+DATAED|sigmod data systems education bridging education practice education research|ACM|2022|2025
+DATAMOD|from data models back held as satellite event software engineering formal methods|Springer|2022|2022
+DATAMOD|from data models back|Springer|2021|2025
+DATASCIMI|data science machine learning business intelligence|IEEE|2026|2026
+DATATV|data driven personalisation television co located interactive experiences television online video||2019|2019
+DATAWEEK|d2r2 data driven resilience research co located data week leipzig||2023|2023
+DATAX|database technologies handling xml information web held extending database technology|ACM|2008|2008
+DATA|acquisition analysis part|ACM|2018|2020
+DATA|digital age technological advances sustainable development|Springer|2024|2026
+DATA|digital age technological innovations sustainable development ic|ACM|2025|2025
+DATA|management security applications medicine sciences engineering||2013|2013
+DATA|management technologies applications|Springer|2014|2024
+DATA|mining mining protection detection other security technologies mining ix mining protection detection other security technologies||2008|2008
+DATA|science e learning information systems|ACM|2019|2021
+DATA|science technology applications|SciTePress|2017|2026
+DATA|scientific spatial science research technology spatial|EDP|2021|2021
+DATA|technologies applications||2012|2013
+DATECH|digital access textual cultural heritage|ACM|2014|2019
+DATESO|databases texts specifications objects||2005|2017
+DATE|design automation test europe exhibition|IEEE|1999|2024
+DATE|design automation test europe|IEEE|1998|2026
+DATE|designers forum design automation test europe exhibition||2004|2004
+DATE|designers s forum design automation test europe exhibition||2004|2004
+DATE|es4cps engineering simulations cyber physical systems held conjunction design automation test europe|ACM|2014|2014
+DATRA|data driven treatment response assessment preterm perinatal paediatric image analysis held conjunction medical image computing computer assisted intervention|Springer|2018|2018
+DAT|seminar detection systems architectures technologies|IEEE|2017|2017
+DAT|technical papers vlsi design automation test vlsi||2014|2014
+DAT|vlsi design automation test vlsi technical papers||2007|2012
+DAT|vlsi design automation test vlsi|IEEE|2009|2022
+DAT|vlsi design automation test vlst technical papers||2007|2007
+DAT|vlsi technology systems applications vlsi tsa vlsi|IEEE|2023|2023
+DAWAK|big data analytics knowledge discovery|Springer|2015|2026
+DAWAK|data warehousing knowledge discovery|Springer|1999|2024
+DAWAK|datawarehousing knowledge discovery|Springer|2010|2010
+DAWO|european dao|Springer|2026|2026
+DAYS|capacity assessment corroded reinforced concrete structures cacrcs||2021|2021
+DAY|asne technical papers||1984|1985
+DAY|coal technical lectures||1988|1988
+DBANDIS|baltic forum dc joint baltic forum doctoral consortium co located baltic digital business intelligent systems baltic||2026|2026
+DBA|iasted databases applications||2006|2006
+DBB|deep learning big data blockchain|Springer|2023|2023
+DBB|joint deep learning big data blockchain|Springer|2023|2023
+DBKDA|advances databases knowledge data applications||2009|2010
+DBMC|current topics trends durability building materials components durability building materials components||2020|2020
+DBPL|database programming languages held conjunction|ACM|2021|2021
+DBPL|database programming languages revised selected papers||2005|2007
+DBPL|database programming languages|Springer|1998|2025
+DBPL|sigplan database programming languages co located|ACM|2019|2019
+DBRANK|ranking databases||2013|2013
+DBSEC|data applications security privacy xxv ifip wg||2011|2011
+DBSEC|data applications security privacy xxvi ifip wg||2012|2012
+DBSEC|data applications security privacy xxvii ifip wg||2013|2013
+DBSEC|data applications security privacy xxviii ifip wg working|Springer|2014|2014
+DBSEC|ifip data applications security privacy|Springer|2024|2024
+DBSEC|ifip wg 3working data applications security|Springer|2007|2007
+DBSEC|ifip wg data applications security privacy|Springer|2016|2025
+DBSEC|ifip wg working data applications security privacy|Springer|2010|2010
+DBSEC|ifip wg working data applications security|Springer|2006|2015
+DBSEC|ifip wg11 data applications security privacy|Springer|2020|2020
+DBSOCIAL|databases social networks|ACM|2011|2011
+DBSOCIAL|sigmod databases social networks||2012|2013
+DBTA|database technology applications dbta2010||2010|2010
+DBTA|database technology applications||2009|2009
+DBTEST|testing database part acmsigmod|ACM|2022|2022
+DBTEST|testing database systems co located||2013|2013
+DBTEST|testing database systems conjunction sigmod pods|ACM|2010|2011
+DBTEST|testing database systems|ACM|2008|2024
+DBT|current defect based testing current defect based testing||2005|2005
+DBT|current defect based testing||2004|2004
+DCABES|computational science engineering embedded ubiquitous computing distributed computing applications business engineering science cse euc|IEEE|2016|2016
+DCABES|distributed computing applications business engineering science|IEEE|2010|2022
+DCAC|digital culture audiovisual challenges interdisciplinary creativity arts technology||2018|2018
+DCAI|distributed computing artificial intelligence|Springer|2014|2026
+DCAS|dallas cas architecture circuits implementation socs||2005|2005
+DCAS|dallas cas implementation high performance circuits||2004|2004
+DCAS|dallas cas low power low voltage mixed signal circuits systems|IEEE|2001|2001
+DCAS|dallas cas system chip design applications integration software||2007|2007
+DCAS|dallas circuits systems design automation methodologies manufacturability||2010|2010
+DCAS|dallas circuits systems enabling internet things from sensors servers|IEEE|2014|2014
+DCAS|dallas circuits systems enabling technologies connected world|IEEE|2015|2015
+DCAS|dallas circuits systems energy efficient circuits systems||2009|2009
+DCAS|dallas circuits systems system chip design applications integration software||2008|2008
+DCAS|dallas circuits systems|IEEE|2016|2026
+DCAS|dallas icas design applications integration software||2006|2006
+DCA|computer applications communication networking digital contents fgcn held as part future generation information technology||2012|2012
+DCB|civil engineering design construction||2020|2020
+DCCN|distributed computer communication networks control computation communications|Springer|2020|2024
+DCCN|distributed computer communication networks|Springer|2014|2025
+DCC|data compression march snowbird utah|IEEE|2001|2001
+DCC|data compression|IEEE|1996|2026
+DCC|distributed cloud computing|ACM|2014|2014
+DCDATASOFT|doctoral consortium management technologies applications software technologies conjunction management technologies applications joint software technologies|SciTePress|2015|2015
+DCDS|dependable control discrete systems||2011|2011
+DCDS|ifac dependable control discrete systems||2007|2013
+DCDT|doctoral consortium demo track process mining co located process mining||2023|2023
+DCECTEL|doctoral consortium european technology enhanced learning co located european technology enhanced learning ec||2021|2023
+DCEIS|doctoral consortium conjunction||2007|2007
+DCEIS|doctoral consortium enterprise information systems conjunction||2008|2008
+DCEM|deposition characterization electronic materials||1987|1987
+DCFS|descriptional complexity formal systems|Springer|2005|2019
+DCFS|descriptional complexity format systems|Springer|2020|2023
+DCFS|ifip wg descriptional complexity formal systems|Springer|2016|2025
+DCFS|ifip wg descriptional complexity format systems|Springer|2021|2021
+DCHANGES|document changes modeling detection storage visualization part document engineering|ACM|2016|2016
+DCHPC|distributed computing high performance computing|IEEE|2022|2026
+DCH|final marie sklodowska curie initial training network digital cultural heritage itn|Springer|2018|2018
+DCINCO|doctoral consortium informatics control automation robotics conjunction informatics control automation robotics icinco|SciTePress|2015|2015
+DCIS|design circuits integrated systems|IEEE|2015|2025
+DCIT|dependable computing internet things|IEEE|2015|2015
+DCI|data centric interactions web conjunction ifip tc13 human computer interaction||2011|2011
+DCLXVI|designing conceptual landscape xair validation infrastructure|Springer|2025|2025
+DCMI|data core bridging human knowledge ai innovation||2025|2025
+DCMI|dublin core metadata applications metadata innovation enabling knowledge data intensive world||2023|2023
+DCMI|dublin core metadata applications metadata innovation inclusivity intelligence interoperability||2022|2022
+DCMI|dublin core metadata applications||2019|2019
+DCMI|metadata innovation trust transformation humanity||2024|2024
+DCM|developments computational models||2024|2024
+DCM|diamond carbon materials|Elsevier|2018|2018
+DCNAIR|school dynamics complex networks their application intellectual robotics|IEEE|2018|2019
+DCNAIR|scientific school dynamics complex networks their application intellectual robotics|IEEE|2020|2020
+DCNA|scientific school dynamics complex networks their applications|IEEE|2021|2025
+DCNET|data communication networking optical communication systems||2010|2010
+DCNET|data communication networking optical communication system||2011|2011
+DCNET|data communication networking part joint e business telecommunications|SciTePress|2014|2015
+DCNET|data communication networking|IEEE|2013|2013
+DCNET|ice b data communication networking e business optical communication systems icete||2012|2012
+DCOSS|distributed computing sensor systems adjunct iwsn mobisensors poster demo sessions||2010|2010
+DCOSS|distributed computing sensor systems first||2005|2005
+DCOSS|distributed computing sensor systems second|Springer|2006|2006
+DCOSS|distributed computing sensor systems third||2007|2007
+DCOSS|distributed computing sensor systems workshops||2011|2011
+DCOSS|distributed computing sensor systems|IEEE|2008|2022
+DCOS|distributed computing sensor systems|IEEE|2021|2021
+DCO|dynamic monitoring optimization|Springer|2022|2022
+DCPE|china hvdc power electronics meeting csee||2024|2026
+DCPS|cpsweek declarative cyber physical systems|IEEE|2016|2016
+DCSMART|digital content smart multimedia||2019|2019
+DCSOFT|doctoral consortium software data technologies doctoral consortium software data technologies conjunction||2008|2008
+DCS|vlsi device circuit system vlsi|IEEE|2020|2020
+DCS|vlsi vlsi device circuit system|IEEE|2022|2022
+DCTS|dc technologies systems|IEEE|2024|2025
+DCV|digital computational video||2001|2002
+DCW|distributed communities web|Springer|2002|2002
+DCW|ecml pkdd discovery challenge||2011|2011
+DDAM|deepfake detection audio multimedia|ACM|2022|2022
+DDCLS|data driven control learning systems|IEEE|2017|2025
+DDC|data compression|IEEE|2000|2000
+DDDAS|dynamic data driven application systems|Springer|2020|2020
+DDDAS|dynamic data driven applications systems|Springer|2024|2024
+DDDM|domain drive data mining dddm2007||2007|2007
+DDDSM|digital disease detection using social media||2017|2017
+DDDS|society petroleum engineers spe deep drilling development||1966|1968
+DDECS|design diagnostics electronic circuit systems|IEEE|2017|2017
+DDECS|design diagnostics electronic circuits systems|IEEE|2009|2026
+DDECS|formal design diagnostics electronic circuits systems|IEEE|2016|2016
+DDEP|digital documents electronic publishing principles digital document processing|Springer|2004|2004
+DDFP|sigplan data driven functional programming co located||2013|2013
+DDI|aktuelle forschungsergebnisse der gi fachgruppe didaktik der informatik||2008|2008
+DDI|data driven innovation web|ACM|2016|2016
+DDI|moglichkeiten empirischer forschungsmethoden und perspektiven der fachdidaktik der gi fachgruppe didaktik der informatik||2010|2010
+DDI|research contributions didactics informatics theory practice evaluation gi special interest group didactics informatics focus modeling informatics education forschungsbeitrage zur didaktik der informatik theorie praxis evaluation tagungsband des workshops der gi fachgruppe didaktik der informatik schwerpunkt modellierung der informatischen bildung||2002|2002
+DDPCHI|mobilizing research regulatory action dark patterns deceptive design practices co located human factors computing systems||2024|2024
+DDPS|society petroleum engineers spe deep drilling production||1970|1974
+DDP|digital data processing|IEEE|2019|2024
+DDP|society petroleum engineers spe deep drilling production||1977|1981
+DDREE|joint rapid continuous software engineering data driven decisions experimentation evolution rcose|IEEE|2019|2019
+DDSS|design decision support systems architecture urban planning design decision support systems architecture urban planning||2016|2016
+DDSS|design decision support systems||2010|2010
+DEAI|guangdong hong kong macao greater bay area digital economy artificial intelligence|ACM|2024|2025
+DEANA|winter differential equations numerical analysis|Springer|2016|2016
+DEAS|decentralized energy access solutions|IEEE|2019|2019
+DEAS|design evolution autonomic application software|ACM|2005|2005
+DEBAI|digital economy blockchain artificial intelligence|ACM|2024|2025
+DEBS|distributed event based systems|ACM|2003|2025
+DEBS|inaugural distributed event based systems||2007|2007
+DEBT|future debugging techniques co located|ACM|2024|2024
+DEB|monitoring simulation prevention remediation dense debris flows deb12||2012|2012
+DECAF|distributed collaborative federated learning affordable ai healthcare held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+DECAT|digital economy concepts technologies||2024|2025
+DECEMBER|landsat science investigations summary including results||1984|1984
+DECEPTECAI|deceptive ai held conjunction european artificial intelligence deceptive ai held conjunction joint artificial intelligence|Springer|2021|2021
+DECH|digital encounters cultural heritage research education urban history age digital libraries|Springer|2018|2018
+DECISIONCAMP|joint rules reasoning ruleml rr reasoning web summer school rw was part declarative ai|Springer|2020|2020
+DECISIONCAMP|ruleml rr companion companion joint rules reasoning also co located reasoning web summer school as part declarative ai||2025|2025
+DECISIONCAMP|ruleml rr companion companion joint rules reasoning co located reasoning web summer school rw as part declarative ai||2024|2024
+DECISIONCAMP|ruleml rr companion rule challenge doctoral consortium rulem rr co located reasoning web summer school rw as part declarative ai||2023|2023
+DECISIONCAMP|ruleml rr companion rule challenge doctoral consortium ruleml rr co located reasoning web summer school rw as part declarative ai||2022|2022
+DECISIONCAMP|ruleml rr companion rule challenge industry track doctoral consortium ruleml rr co located reasoning web summer school rw as part declarative ai||2021|2021
+DECISIONING|collaboration knowledge discovery decision making|Springer|2025|2025
+DECLARE|declarative programming unifying applications declarative programming knowledge management logic programming functional logic programming|Springer|2018|2018
+DECON|crystalline defects contamination their impact control device manufacturing iv||2005|2005
+DECON|decision economics|Springer|2020|2021
+DECON|design emergence content||1996|1996
+DECON|ic data energy communication network|IEEE|2025|2025
+DECO|data ecosystems co located very large databases||2022|2022
+DECSOS|dependable smart embedded cyber physical systems systems systems dependable development operation continuum methods dependable cyber physical systems underpinnings safe distributed ai artificial intelligence safety engineering held conjunction computer safety reliability security|Springer|2020|2020
+DECSOS|dependable smart embedded cyber physical systems systems systems next generation system assurance approaches critical systems towards safer systems architecture through security artificial intelligence safety engineering held conjunction computer safety reliability security|Springer|2024|2024
+DECS|digital economy computer science|ACM|2024|2026
+DEC|data economy part|ACM|2023|2023
+DEC|digital enterprise computing||2016|2017
+DEDANDM|digital enterprise design management|Springer|2014|2014
+DEECS|data engineering issues e commerce services conjunction electronic commerce ec o7||2007|2007
+DEECS|data engineering issues e commerce services second|Springer|2006|2006
+DEEC|data engineering issues e commerce||2005|2005
+DEEE|development energy environment economics development energy environment economics||2010|2010
+DEELIO|deep learning inside out knowledge extraction integration deep learning architectures co located north american chapter association computational linguistics naacl||2021|2021
+DEELIO|deep learning inside out knowledge extraction integration deep learning architectures||2022|2022
+DEEM|data management end end machine learning conjunction sigmod pods|ACM|2017|2025
+DEEM|data management end end machine learning|ACM|2023|2023
+DEEPLO|deep learning approaches low resource nlp||2022|2022
+DEEPTEST|deep learning testing testing deep learning|IEEE|2021|2026
+DEFECTS|large software systems held conjunction sigsoft software testing analysis|ACM|2009|2009
+DEFECTS|software testing analysis large software systems||2008|2008
+DEFIN|papers scientific practical|ACM|2020|2020
+DEFIN|scientific digital economy finances|Springer|2022|2022
+DEFIN|scientific practical digital economy finances|ACM|2021|2021
+DEFI|advances secure electronic voting schemes voting decentralized finance trusted smart contracts coordination decentralized finance held conjunction financial cryptography fc|Springer|2025|2025
+DEFI|decentralized finance security co located|ACM|2021|2025
+DEFI|decentralized finance security|ACM|2023|2023
+DEFI|digital economy fintech innovation|IEEE|2025|2025
+DEFORM|ifip tc5 wg5|Springer|2001|2001
+DEGAS|design evaluation e government applications services conjunction||2009|2009
+DEGAS|design evaluation e government applications services||2007|2007
+DEIC|digital economy intelligent computing|ACM|2025|2025
+DEIS|digital economy information systems|ACM|2025|2025
+DEIS|digital enterprise information systems||2011|2011
+DEIT|digital education information technology|ACM|2025|2026
+DELBA|designing facilitating educational location based applications co located european technology enhanced learning ec||2020|2020
+DELCON|delhi section|IEEE|2022|2022
+DELCON|edition delhi section flagship|IEEE|2024|2024
+DELCON|edition delhi section owned|IEEE|2023|2023
+DELCON|micro delaware bay computer||1982|1983
+DELCON|seventh micro delaware bay computer||1984|1984
+DELFI|die e learning fachtagung informatik der gesellschaft fur informatik e v||2014|2018
+DELFI|die e learning fachtagung informatik tagung der fachgruppe e learning der gesellschaft fur informatik e v||2004|2004
+DELFI|die e learning fachtagung informatik||2016|2016
+DELFI|die fachtagung bildungstechnologien der gesellschaft fur informatik e v||2020|2024
+DELFI|e learning computer science german informatics society die e learning fachtagung informatik der gesellschaft fur informatik e v||2012|2012
+DELFI|e learning fachtagung informatik der gesellschaft fur informatik e v||2011|2011
+DELFI|educational technologies die fachtagung bildungstechnologien||2019|2019
+DELFI|fachtagung bildungstechnologien der gesellschaft fur informatik e v||2023|2023
+DELFI|german e learning computer science german informatics society deutsche e learning fachtagung informatik der gesellschaft fur informatik e v||2005|2005
+DELFI|tagungsband der e learning fachtagung informatik||2003|2003
+DELFT|iabse colloquium advanced mechanics reinforced concrete||1981|1981
+DELITE|language driven deliberation technology lrec||2024|2024
+DELTAS|design engineering lighter than air systems|Springer|2023|2026
+DELTA|deep learning theory applications|Springer|2020|2025
+DELTA|discovering drift phenomena evolving landscapes|Springer|2025|2025
+DELTA|electronic design test applications|IEEE|2002|2010
+DELTA|electronic design test application||2011|2011
+DELTA|second electronic design test applications||2004|2004
+DELTA|third electronic design test applications||2006|2006
+DEMISEE|diagnostic electrical machines insulating systems electrical engineering|IEEE|2016|2016
+DEMI|data engineering medical imaging held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+DEMI|miccai data engineering medical imaging|Springer|2023|2023
+DEMMCA|differential equations mathematical modeling computational algorithms|Springer|2023|2023
+DEMM|foundations models languages data objects database schema evolution meta modeling fomlado|Springer|2001|2001
+DEMOBILE|software development lifecycle mobile|ACM|2013|2015
+DEMOCON|digital education moocs|IEEE|2024|2025
+DEMOCRAI|ai research ai4research democracy ai held conjunction joint artificial intelligence|Springer|2025|2025
+DEMO|acl meeting association computational linguistics system demonstrations||2023|2023
+DEMRA|joint proc decision making recommendation acceptance issues recommender systems user models motivational systems workshops int conf user modeling adaptation personalization||2011|2011
+DEM|digital earth moving|Springer|2001|2001
+DEM|us discrete element methods||1992|1992
+DENVER|heat transfer||1985|1985
+DEON|deontic logic artificial normative systems deontic logic computer science|Springer|2006|2006
+DEON|deontic logic computer science deontic logic computer science||2004|2004
+DEON|deontic logic computer science|Springer|2004|2012
+DEON|deontic logic normative systems|Springer|2014|2014
+DEPENDSYS|dependability sensor cloud big data systems applications|Springer|2019|2024
+DEPENDSYS|dependability sensor cloud big data systems application|IEEE|2020|2020
+DEPENDSYS|high performance computing communications data science systems smart city dependability sensor cloud big data systems application hpcc dss smartcity|IEEE|2022|2023
+DEPENDSYS|high performance computing communications data science systems smart city dependability sensor cloud big data systems applications hpcc dss smartcity|IEEE|2022|2022
+DEPLING|dependency linguistics||2013|2013
+DEPOSITION|chemical vapor||1981|1981
+DEPOSITION|ninth chemical vapor||1984|1984
+DERIS|design evaluation refinement intelligent systems||2009|2009
+DERIVE|workhop detection representation exploitation events semantic web conjunction int semantic web conf||2011|2011
+DERIVE|workhop detection representation exploitation events semantic web conjunction int semantic web||2012|2012
+DESDES|ifac discrete event system design||2006|2009
+DESE|developments esystems engineering|IEEE|2009|2025
+DESFORM|design semantics form movement||2019|2023
+DESIGNCON|engineering consortium||2006|2008
+DESIGNCON|where chip meets board||2014|2014
+DESIGNCON|where chipheads connect||2012|2013
+DESIGN|circuit theory european||1985|1985
+DESIGN|engineering congress matters cad present future seminar 1a cad systems evaluation selection implementation seminar 1a cad people seminar 1a selection surface treatments seminar 2a impact adhesives seminar 2a total business seminar 3a influence micro processor based systems seminar||1986|1986
+DESIGN|engineering congress matters||1986|1986
+DESIGN|stress analysis mechanical preprints papers||1981|1981
+DESIRES|design experimental search information retrieval systems||2021|2023
+DESIRE|creativity innovation design||2011|2011
+DESRIST|advances enterprise engineering iv ciao held|Springer|2010|2010
+DESRIST|advancing impact design science moving from theory practice|Springer|2014|2014
+DESRIST|design science intersection physical virtual design||2013|2013
+DESRIST|design science research information systems advances theory practice||2012|2012
+DESRIST|design science research information systems technology|Springer|2007|2026
+DESRIST|global perspectives design science research||2010|2010
+DESRIST|service oriented perspectives design science research||2011|2011
+DESRT|decommissioning environmental sciences remote technology||2024|2024
+DESSERT|dependable systems services technologies trustworthy ai internet robotics big data safe secure world|IEEE|2024|2024
+DESSERT|dependable systems services technologies|IEEE|2018|2023
+DESTION|design automation cps iot cyber physical systems internet things week cps iot week workshops|ACM|2025|2025
+DESTION|design automation cps iot|IEEE|2019|2024
+DEST|digital ecosystems technologies complex environment engineering||2012|2012
+DEST|digital ecosystems technologies smart planet cyber physical systems as embodiment digital ecosystems||2013|2013
+DEST|digital ecosystems technologies||2009|2011
+DEST|inaugural ies digital ecosystems technologies||2007|2007
+DEST|second digital ecosystems technologies||2008|2008
+DESYT|detection systems techniques nuclear particle physics|IOP|2020|2020
+DES|flip chip implementation data encryption standard||1997|1997
+DETC|asme design engineering technical computers information engineering detc2005 asme mechatronic embedded systems applications design manufacturing life cycle reliability stress analysis failure prevention||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 biennial mechanical vibration noise||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 computers information engineering||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 design automation||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 design theory methodology power transmission gearing||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 mechanisms robotics||2005|2005
+DETC|asme design engineering technical computers information engineering detc2005 multibody systems nonlinear dynamics control||2005|2005
+DETC|asme design engineering technical computers information engineering detc2006||2006|2006
+DETC|asme design engineering technical computers information engineering detc2007 asme mechatronic embedded systems applications||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 biennial mechanical vibration noise||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 computers information engineering||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 design automation||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 design theory methodology micro nano systems||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 mechanisms robotics||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 multibody systems nonlinear dynamics control||2008|2008
+DETC|asme design engineering technical computers information engineering detc2007 power transmission gearing||2008|2008
+DETC|asme design engineering technical computers information engineering detc2009||2010|2010
+DETC|asme design engineering technical computers information engineering||2009|2009
+DETC|procedings asme design engineering technical computers information engineering detc2007 biennial mechanical vibration noise||2008|2008
+DETECH|definition term extraction challenge co located multilingual digital terminology today||2026|2026
+DETERMINED|neurodevelopmental impairments preterm children computational advancements||2022|2022
+DETER|community cyber security experimentation test||2007|2007
+DETIPS|interdisciplinary trust identity privacy security digital economy dependability safety emerging cloud fog systems multimedia privacy security security privacy organizations systems engineering conjunction european research computer security|Springer|2020|2020
+DET|digital enterprise technology||2008|2008
+DET|distance education technologies|Springer|2025|2025
+DEVA|virtual developments applications geomatics|Springer|2024|2024
+DEVELOPMENT|specialty steels hard materials recent developments||1983|1983
+DEVELOPMENT|technology preprints papers||1980|1980
+DEVICES|dialectric layers semiconductors novel technologies||1986|1986
+DEVICES|dielectric layers semiconductors novel technologies||1986|1986
+DEVICES|solid state essderc sssdt meeting||1983|1983
+DEVICES|solid state european solid state device research including solid state device technology||1985|1985
+DEVICES|solid state invited papers presented european solid state device research|Elsevier|1986|1986
+DEVICES|solid state papers presented european solid state device research solid state device technology||1981|1981
+DEVICES|solid state||1984|1984
+DEVIC|devices integrated circuit|IEEE|2017|2025
+DEVOPS|software engineering aspects continuous development new paradigms software production deployment|Springer|2019|2020
+DEVS|integrative m s part spring simulation multiconference||2005|2007
+DEVS|spring simulation multiconference tms theory modeling simulation tms||2016|2016
+DEVS|theory modeling simulation integrative m s spring simulation multiconference||2010|2010
+DEVS|theory modeling simulation integrative m s spring simulation multi||2014|2014
+DEVS|theory modeling simulation integrative m s tms spring simulation multiconference||2011|2011
+DEVS|tms theory modeling simulation tms part spring simulation multi||2018|2018
+DEVS|tms theory modeling simulation tms spring simulation multi||2017|2017
+DEV|computing development|ACM|2010|2014
+DEWS|design engineering context asia asian design engineering||2015|2015
+DEXA|database expert systems applications dexa2009|IEEE|2009|2009
+DEXA|database expert systems applications|Springer|1993|2026
+DFDS|digital forensics doctoral held as part digital forensics research europe dfrws eu|ACM|2026|2026
+DFHMC|dahe fortune china forum chinese high educational management academic|IEEE|2020|2020
+DFHM|debris flow hazard mitigation|EDP|2023|2023
+DFHS|device free human sensing|ACM|2019|2020
+DFMA|distributed frameworks application||2008|2008
+DFMA|distributed frameworks multimedia applications||2007|2010
+DFMA|first distributed frameworks multimedia applications||2005|2005
+DFM|data flow execution models extreme scale computing|IEEE|2012|2014
+DFNE|discrete fracture network engineering||2018|2018
+DFRWS|digital forensic research eu||2014|2015
+DFRWS|digital forensic research usa||2001|2018
+DFRWS|eu europe||2016|2018
+DFRWS|usa usa digital forensics research||2016|2016
+DFRWS|usa usa||2017|2017
+DFSD|distributed fog services design part middleware|ACM|2019|2019
+DFSED|scientific digital future science education innovative development socio economic systems|Springer|2025|2025
+DFSP|advances digital filtering signal processing|IEEE|1998|1998
+DFTS|defect fault tolerance vlsi nanotechnology systems|IEEE|2013|2015
+DFT|defect fault tolerance vlsi nanotechnology systems|IEEE|2011|2025
+DFT|defect fault tolerance vlsi systems|IEEE|1995|2010
+DFT|gi itg measurement modelling evaluation dependable computer communication systems mmb|Springer|2016|2016
+DFT|int defect fault tolerance vlsi nanotechnology systems|IEEE|2017|2017
+DFT|measurement modelling evaluation computing systems dependability fault tolerance gi itg mmb||2010|2014
+DFUA|isprs joint remote sensing data fusion over urban areas|IEEE|2001|2001
+DFUC|diabetic foot ulcers grand challenge held conjunction medical image computing computer assisted intervention|Springer|2022|2025
+DFX|design x||2005|2024
+DGAS|deep gas exhibition||2010|2010
+DGCI|discrete geometry computer imagery iapr||2008|2013
+DGCI|discrete geometry computer imagery|Springer|1996|2006
+DGCI|iapr discrete geometry computer imagery|Springer|2011|2019
+DGG|novel optical technologies held meeting deutsche glastechnische gesellschaft||2005|2005
+DGMM|iapr discrete geometry mathematical morphology|Springer|2022|2022
+DGMM|joint discrete geometry mathematical morphology|Springer|2021|2026
+DGMTP|nankai tracts mathematics differential geometry physics differential geometric methods theoretical physics||2006|2006
+DGO|digital government research digital innovations public values inclusive collaboration community|ACM|2021|2021
+DGO|digital government research intelligent government intelligent information society|ACM|2020|2020
+DGO|digital government research intelligent technologies governments citizens|ACM|2022|2022
+DGO|digital government research together unstable world digital government solidarity|ACM|2023|2023
+DGO|digital government research|ACM|2024|2024
+DGRC|national digital games research trends technologies applications|IEEE|2018|2018
+DGS|dynamics games science|Springer|2017|2017
+DHA|digital health medical analytics|Springer|2021|2021
+DHA|lt language technology digital historical archives special focus central eastern europe middle east north africa conjunction recent advances natural language processing||2019|2019
+DHC|district heating cooling iea|Springer|2026|2026
+DHM|digital human modeling applications health safety ergonomics risk management healthcare safety environment transport held as part hci||2013|2013
+DHM|digital human modeling applications health safety ergonomics risk management held as part hci|Springer|2014|2025
+DHM|digital human modeling applications health safety ergonomics risk management held as part human computer interaction hci|Springer|2019|2019
+DHM|digital human modeling applications health safety ergonomics risk management held as part human computer interaction|Springer|2017|2023
+DHM|digital human modeling applications health safety ergonomics risk management human body modeling ergonomics held as part hci||2013|2013
+DHM|digital human modeling held as part hci|Springer|2018|2018
+DHM|digital human modeling held as part human computer interaction hci|Springer|2015|2015
+DHM|digital human modeling|Springer|2016|2025
+DHNB|digital humanities nordic baltic countries||2022|2022
+DHN|digital humanities nordic countries||2020|2020
+DHN|post digital humanities nordic countries||2020|2020
+DHSS|defence homeland security simulation||2022|2023
+DHSS|defense homeland security simulation held mediterranean latin american modeling multiconference i3m||2011|2011
+DHSS|defense homeland security simulation held multidisciplinary modeling simulation multiconference i3m||2012|2017
+DHSS|defense homeland security simulation||2014|2024
+DHW|digital humanities|ACM|2021|2021
+DIAGRAMS|theory application|Springer|2024|2024
+DIALDOC|document grounded dialogue conversational question answering||2021|2023
+DIALM|discrete algorithms methods mobile computing communications|ACM|1999|1999
+DIAL|first document image analysis libraries||2004|2004
+DIAL|second document image analysis libraries||2006|2006
+DICCT|device intelligence computing communication technologies|IEEE|2023|2026
+DICE|decoherence information complexity entropy|IOP|2025|2025
+DICE|dice2010 space time matter current issues quantum mechanics beyond|IOP|2011|2011
+DICE|dice2022 spacetime matter quantum mechanics|IOP|2023|2023
+DICE|from quantum mechanics through complexity spacetime role emergent dynamical structures|IOP|2009|2009
+DICE|spacetime matter quantum mechanics from planck scale emergent phenomena|IOP|2013|2013
+DICE|spacetime matter quantum mechanics|IOP|2019|2019
+DICG|distributed infrastructure common good part middleware|ACM|2020|2022
+DICG|distributed infrastructure common good part|ACM|2023|2023
+DICG|distributed infrastructure common good|ACM|2021|2021
+DICPS|data driven intelligent cyber physical systems part cps iot week|ACM|2021|2021
+DICR|selected distributed information computational resources||2020|2020
+DICTAP|digital information communication technology its applications|IEEE|2011|2016
+DICTA|digital image computing techniques applications biennial australian pattern recognition society||2007|2007
+DICTA|digital image computing techniques applications|IEEE|2008|2025
+DICTA|digital imaging computing techniques applications||2005|2005
+DIDC|data intensive distributed computing co located|ACM|2014|2014
+DIDC|data intensive distributed computing|ACM|2011|2016
+DIDFYZ|didactic transfer physics knowledge through distance education|IOP|2022|2022
+DIDFYZ|formation natural science image world century|IOP|2019|2019
+DIDFYZ|new approaches physics education generation z|IOP|2024|2024
+DIDIT|distributed digital twins co located federated distributed computing techniques||2024|2024
+DIDL|distributed infrastructures deep learning part middleware|ACM|2017|2020
+DIDL|distributed infrastructures deep learning|ACM|2021|2021
+DIERS|design institute emergency relief systems topical aiche spring meeting global congress process safety||2015|2015
+DIFTS|design implementation formal tools systems co located||2011|2011
+DIF|discoveries flavour physics e e colliders||2006|2006
+DIGEST|gaas ic gallium arsenide integrated circuit technical||1986|1987
+DIGEST|geoscience remote sensing remote sensing extending man s horizon||1983|1983
+DIGEST|geoscience remote sensing||1982|1985
+DIGEST|technical gaas ic gallium arsenide integrated circuit||1982|1985
+DIGEST|technical gaas ic||1983|1984
+DIGHUM|interdisciplinary science research digital humanism|Springer|2026|2026
+DIGIBIOM|emerging devices digital biomarkers|ACM|2022|2022
+DIGIBIOM|future digital biomarkers|ACM|2021|2021
+DIGIBIZ|digital business first iternational icst revised selected papers||2010|2010
+DIGILIENCE|digital transformation cyber security resilience|Springer|2024|2024
+DIGIPRO|digital production|ACM|2012|2025
+DIGIPRO|siggraph digital production|ACM|2016|2020
+DIGITECH|digital solutions industry science technology||1985|1985
+DIGITEL|digital game intelligent toy enhanced learning||2008|2012
+DIGITEL|first digital game intelligent toy enhanced learning||2007|2007
+DIGITRANSFED|digital transformation education co located ict education research industrial applications||2023|2024
+DIGITRANSFED|digital transformation education digital transformation education||2025|2025
+DIGI|green energy policy digital society green|EDP|2025|2025
+DIGRA|breaking new ground innovation games play practice theory||2009|2009
+DIGRA|changing views worlds play||2005|2005
+DIGRA|defragging game studies||2013|2013
+DIGRA|digital games research association situated play||2007|2007
+DIGRA|digital games research association||2014|2019
+DIGRA|diversity play||2015|2015
+DIGRA|limits margins games settings||2023|2023
+DIGRA|play everywhere||2020|2020
+DIGRA|think design play||2011|2011
+DIG|no exhibition no||2010|2013
+DIG|no trenchless construction utilities first||1985|1985
+DIIA|data intelligence innovative application|IEEE|2024|2024
+DIIDM|ifip tc5 wg5 wg5 wg5 working lnformation infrastructure systems manufacturing|Springer|2005|2005
+DIISM|ifip tc5 wg5 working design information infrastructure systems manufacturing|Springer|2001|2001
+DIISM|jspe ifip tc5 wg5 design information infrastructure systems manufacturing|Elsevier|1994|1994
+DIKW|data information knowledge wisdom|IEEE|2024|2024
+DILEND|digital innovations learning neurodevelopmental disorders||2024|2024
+DILS|data integration life science third|Springer|2006|2006
+DILS|data integration life sciences internationalworkshop||2008|2008
+DILS|data integration life sciences second||2005|2005
+DILS|data integration life sciences|Springer|2007|2019
+DIMAT|diffusion materials dimat2008||2009|2009
+DIMAT|diffusion materials||2012|2012
+DIMAT|dimat2000 fifth diffusion materials||2001|2001
+DIMAT|fifth diffusion materials||2001|2001
+DIMEA|digital interactive media entertainment arts||2007|2008
+DIMES|disruptive memory systems part|ACM|2023|2025
+DIMETA|diffusion metals alloys||1983|1983
+DIMS|iasted distributed intelligent multimedia systems||2008|2008
+DIMVA|detection intrusions malware vulnerability assessment revised selected papers|Springer|2013|2013
+DIMVA|detection intrusions malware vulnerability assessment second|Springer|2005|2005
+DIMVA|detection intrusions malware vulnerability assessment third|Springer|2006|2006
+DIMVA|detection intrusions malware vulnerability assessment|Springer|2007|2025
+DIM|digital identity management co located computer communications security|ACM|2005|2009
+DIM|digital identity management co located|ACM|2010|2013
+DIM|digital identity management|ACM|2007|2011
+DIM|fujihara seminar anniversary disk instability model compact binary stars||2026|2026
+DIM|second digital identity management co located computer communications security|ACM|2006|2006
+DINWC|digital information networking wireless communications|IEEE|2015|2018
+DIN|decentralization internet co located|ACM|2024|2024
+DIN|first dynamic internnection networks||2005|2005
+DIONE|data information online environments|Springer|2026|2026
+DIONE|eai data information online environments|Springer|2020|2025
+DIOXIN|halogenated environmental organic pollutants|Elsevier|2000|2000
+DIPAC|european beam diagnostics instrumentation particle accelerators||2005|2011
+DIPADA|digital parliamentary data action co located digital humanities nordic baltic countries||2022|2022
+DIPCA|digital image processing computer applications|IEEE|2025|2025
+DIPDMWC|digital information processing data mining wireless communications|IEEE|2016|2016
+DIPED|mtt ed ap west ukraine chapter direct inverse problems electromagnetic acoustic theory|IEEE|1997|1997
+DIPED|seminar direct inverse problems electromagnetic acoustic wave theory|IEEE|2004|2025
+DIPED|vith seminar direct inverse problems electromagnetic acoustic wave theory||2001|2001
+DIPED|xiith seminar direct inverse problems electromagnetic acoustic wave theory||2007|2007
+DIPED|xth seminar direct inverse problems electromagnetic acoustic wave theory||2005|2005
+DIPES|ifip tc working distributed parallel embedded systems ifip tc biologically inspired collaborative computing held as part ifip world computer congress|Springer|2010|2010
+DIPES|ifip tc working distributed parallel embedded systems|Springer|2006|2006
+DIPES|ifip tc10 working distributed parallel embedded systems|Springer|2004|2004
+DIPES|ifip wg10 wg10 wg10 distributed parallel embedded systems|Springer|2001|2001
+DIPP|digital presentation preservation cultural scientific heritage||2017|2025
+DIPWN|distributed information processing wireless networks|ACM|2017|2017
+DIP|digital image processing computer graphics||1995|1997
+DISA|world digital intelligence systems machines|IEEE|2018|2023
+DISCCO|dependability issues cloud computing||2013|2013
+DISCEX|darpa information survivability exposition ii|IEEE|2001|2001
+DISCEX|darpa information survivability exposition|IEEE|2000|2003
+DISCOMT|discourse machine translation||2013|2017
+DISCOVER|distributed computing vlsi electrical circuits robotics|IEEE|2016|2025
+DISCO|design implementation symbolic computation systems|Springer|1990|1996
+DISCO|digital infrastructures scholarly content objects co located joint digital libraries||2021|2021
+DISCRETE|prospects physics symmetries|IOP|2011|2025
+DISCS|data intensive scalable computing systems held conjuction sc high performance computing networking storage analysis|IEEE|2014|2014
+DISCS|data intensive scalable computing systems held conjunction sc high performance computing networking storage analysis|ACM|2013|2015
+DISCS|pdsw joint parallel data storage data intensive scalable computing systems held conjunction sc high performance computing networking storage analysis|ACM|2017|2018
+DISCS|pdsw joint parallel data storage data intensive scalable computing systems held conjunction sc16 high performance computing networking storage analysis|IEEE|2016|2016
+DISC|devices intelligent systems communication|IOP|2026|2026
+DISC|distributed computing|Springer|1998|2025
+DISE|design innovation software engineering|IEEE|2017|2017
+DISPLAYS|electronic information display systems||1982|1982
+DISPLAY|japan research||1983|1983
+DISPLAY|papers from research volume ii||1984|1984
+DISPLAY|papers from research volume||1984|1984
+DISPLAY|society information seminar lecture notes||1986|1986
+DISPOSAL|geotechnical practice waste specialty||1987|1987
+DISRPT|shared task discourse relation parsing treebanking||2021|2021
+DISS|disfluency spontaneous speech||2005|2013
+DISS|isca tutorial research disfluency spontaneous speech||2001|2003
+DISTCURATE|dimensions meaning distributional curated semantics||2022|2022
+DIS|across spectrum designing interactive systems|ACM|2004|2004
+DIS|biannual designing interactive systems processes practices methods techniques||1997|1997
+DIS|companion companion publication designing interactive systems|ACM|2019|2023
+DIS|companion designing interactive systems designing sustainable ocean|ACM|2025|2025
+DIS|companion designing interactive systems digital wellbeing|ACM|2022|2022
+DIS|companion designing interactive systems fuse|ACM|2016|2016
+DIS|companion designing interactive systems nowhere everywhere|ACM|2021|2021
+DIS|companion designing interactive systems|ACM|2017|2017
+DIS|companion proceedngs designing interactive systems|ACM|2026|2026
+DIS|companion publication designing interactive systems|ACM|2018|2018
+DIS|companion publication sigchi designing interactive systems|ACM|2014|2014
+DIS|deep inelastic scattering related subjects||2007|2026
+DIS|deep inelastic scattering related topics||2008|2009
+DIS|deep inelastic scattering||2006|2025
+DIS|designing interactive systems digital wellbeing|ACM|2022|2022
+DIS|designing interactive systems dis2006|ACM|2006|2006
+DIS|designing interactive systems fuse|ACM|2016|2016
+DIS|designing interactive systems nowhere everywhere|ACM|2021|2021
+DIS|designing interactive systems processes practices methods techniques|ACM|2000|2002
+DIS|designing interactive systems|ACM|2006|2025
+DIS|designing interfacial structures advanced materials their joints||2007|2007
+DIS|dynamics information systems|Springer|2024|2026
+DIS|proceedngs designing interactive systems|ACM|2026|2026
+DIS|sigchi designing interactive systems|ACM|2014|2014
+DITAM|oasics parallel programming run time management techniques many core architectures design tools architectures multicore embedded computing platforms parma||2026|2026
+DITAM|parallel programming run time management techniques many core architectures design tools architectures multicore embedded computing platforms parma|ACM|2020|2025
+DITAM|parma proc parallel programming run time manage tech many core architect design tools architect multicore embedded comput platforms||2014|2014
+DITEM|scientific practical digital information technologies economics management|Springer|2022|2025
+DIVAI|scientific distance learning applied informatics|Springer|2025|2025
+DIVANET|design analysis intelligent vehicular networks applications co located||2013|2013
+DIVANET|design analysis intelligent vehicular networks applications|ACM|2011|2023
+DIVANET|development analysis intelligent vehicular networks applications co located|ACM|2016|2017
+DIVANET|development analysis intelligent vehicular networks applications|ACM|2014|2015
+DIVERSIWEB|knowledge diversity web world wide web||2011|2011
+DIVERS|novelty diversity recommender systems recommender systems||2011|2011
+DIVETECH|developments diving technology||1984|1984
+DIVETECH|way ahead diving technology||1981|1981
+DIVK|society structural integrity life|Elsevier|2025|2025
+DIWANS|dependability issues wireless ad hoc networks sensor networks||2006|2006
+DLAI|diode pumped solid state lasers applications issues||1998|1998
+DLCP|deep learning computational physics||2022|2022
+DLCV|deep learning computer vision|IEEE|2025|2025
+DLC|data life cycle physics||2020|2020
+DLFM|digital libraries musicology association|ACM|2023|2025
+DLFM|digital libraries musicology satellite event|ACM|2019|2020
+DLFM|digital libraries musicology|ACM|2021|2024
+DLIA|neural network society deep learning innovations applications inns|Elsevier|2023|2023
+DLI|deep learning indaba||2025|2025
+DLI|design leaning innovation|Springer|2023|2023
+DLI|eai design leaning innovation|Springer|2021|2021
+DLI|eai design learning innovation|Springer|2022|2025
+DLMIA|deep learning medical image analysis multimodal learning clinical decision support ml held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+DLMIA|deep learning medical image analysis multimodal learning clinical decision support ml held conjunction|Springer|2018|2018
+DLM|contributions discussion service modeling diskussionsbeitrage des workshops dienstleistungsmodellierung||2010|2010
+DLNLD|deep learning linked data lrec||2024|2024
+DLNN|deep learning neural networks|IOP|2026|2026
+DLP|deep learning practice high dimensional sparse data bridging theory practice|ACM|2019|2019
+DLS|deep learning supercomputers held conjunction sc high performance computing networking storage analysis|IEEE|2019|2020
+DLS|dynamic languages co located object oriented programming systems languages applications||2009|2009
+DLS|dynamic languages co located|ACM|2013|2016
+DLS|dynamic languages part|ACM|2014|2014
+DLS|dynamic languages|ACM|2005|2015
+DLS|sigplan dynamic languages co located|ACM|2017|2023
+DLT|developments language theory revised papers||2002|2002
+DLT|developments language theory|Springer|2002|2026
+DLT|distributed ledger technology 2025c||2025|2025
+DLT|distributed ledger technology co located italian cybersecurity||2022|2022
+DLT|distributed ledger technology||2020|2024
+DLT|selected papers all russian scientific practical participation distance learning technologies||2021|2021
+DLT|selected papers scientific practical distance learning technologies||2021|2021
+DMAH|data management analytics medicine healthcare big graphs online querying big o held conjunction very large data bases|Springer|2016|2016
+DMAH|data management analytics medicine healthcare held conjunction very large data bases|Springer|2017|2017
+DMAH|polystore systems heterogeneous data multiple databases privacy security assurances poly data management analytics medicine healthcare|Springer|2022|2022
+DMAH|polystores other systems heterogeneous data poly data management analytics medicine health care held conjunction very large data bases|Springer|2019|2019
+DMAH|vldb workshops polystore systems heterogeneous data multiple databases privacy security assurances poly data management analytics medicine healthcare|Springer|2021|2021
+DMAH|workshops polystores other systems heterogeneous data poly data management analytics medicine healthcare held conjunction very large data bases|Springer|2019|2019
+DMAMH|digital media its application museum heritage||2007|2007
+DMAN|disaster management human health reducing risk improving outcomes||2013|2013
+DMBD|data mining big data held conjunction swarm intelligence|Springer|2018|2018
+DMBD|data mining big data|Springer|2016|2026
+DMCA|record papers industry applications society dynamic modeling control applications industry|IEEE|1997|1998
+DMCC|distributed memory computing|IEEE|1990|1991
+DMCIS|digital media communication information systems|IEEE|2025|2025
+DMCIT|data mining communications information technology|IOP|2019|2023
+DMC|design methodologies|IEEE|2021|2025
+DMDCM|digital media digital content management||2011|2011
+DMDP|service damage materials diagnostics prediction|Elsevier|2024|2024
+DMD|design medical devices||2021|2026
+DMEC|advances digital marketing ecommerce|Springer|2023|2023
+DMEC|digital marketing ecommerce|Springer|2020|2024
+DMESP|developing managing expert system programs|IEEE|1991|1991
+DMEST|seminar digital medical environmental systems tools|IEEE|2023|2023
+DMGIS|dynamic multi dimensional gis||2025|2025
+DMG|data management grids first vldb revised selected papers||2005|2005
+DMG|sigspatial data mining geoinformatics offered under auspices sigspatial advances geographic information systems acmgis||2010|2010
+DMIAF|digital media industry academic forum|IEEE|2016|2016
+DMIA|data mining industrial applications part|IEEE|2015|2015
+DMIN|data mining||2005|2008
+DMIP|digital medicine image processing|ACM|2019|2026
+DMISP|developing managing intelligent system projects|IEEE|1993|1993
+DMIT|digital management information technology|ACM|2025|2026
+DMI|digitalization management innovation iii||2025|2025
+DMI|digitalization management innovation ii||2023|2023
+DMI|digitalization management innovation iv digitalization management innovation||2025|2025
+DMI|digitalization management innovation||2023|2023
+DMKD|research issues data mining knowledge discovery conjunction management data||2004|2004
+DMKD|sigmod research issues data mining knowledge discovery||2003|2003
+DML|towards digital mathematics library||2008|2011
+DMMH|data mining medicine healthcare held sigkdd knowledge discovery data mining||2011|2011
+DMMS|defense military modeling simulation autumn simulation multiconference||2012|2012
+DMMT|data mining using matrices tensors conjunction knowledge discovery data mining||2009|2009
+DMNLP|interactions between data mining natural language processing co located european machine learning principles practice knowledge discovery databases ecml||2014|2015
+DMOLD|data mining linked data linked data mining challenge collocated european machine learning principles practice knowledge discovery databases||2013|2013
+DMO|data mining optimization||2009|2012
+DMRN|deidentification electronic health record notes iw|Springer|2025|2025
+DMR|designing meaning representation lrec||2024|2024
+DMR|designing meaning representations||2023|2023
+DMR|law joint linguistic annotation designing meaning representations||2021|2021
+DMSEC|vizsec visualization data mining computer security||2004|2004
+DMSN|data management sensor networks conjunction very large data bases vldb||2010|2010
+DMSN|data management sensor networks conjunction very large data bases|ACM|2006|2009
+DMSN|data management sensor networks held conjunction very large data bases||2005|2005
+DMSN|fifth data management sensor networks conjunction very large data bases|ACM|2008|2008
+DMSN|proceeedings data management sensor networks conjunction||2004|2004
+DMSRE|development materials science research education|IOP|2020|2025
+DMSRE|joint seminar development materials science research education|IOP|2022|2024
+DMSVIVA|dms visualization visual languages||2018|2023
+DMSVLSS|distributed multimedia systems visual languages sentient systems||2017|2017
+DMS|distributed multimedia systems||2005|2016
+DMS|extended discretization methods x|Springer|2016|2016
+DMTCS|discrete mathematics theoretical computer science|Springer|2003|2003
+DNA|based computers|Springer|2001|2003
+DNA|computing computing dna11 revised selected papers||2006|2006
+DNA|computing computing||2005|2005
+DNA|computing meeting computing dna12 revised selected papers||2006|2006
+DNA|computing meeting computing dna13 revised selected papers||2008|2008
+DNA|computing meeting computing dna14 revised selected papers||2009|2009
+DNA|computing molecular programming revised selected papers||2009|2011
+DNA|computing molecular programming|Springer|2011|2025
+DNCOCO|advances data networks communications computers wseas data networks communications computers||2010|2010
+DNCOCO|wseas data networks communications computers||2009|2009
+DNIS|databases networked information systems|Springer|2000|2015
+DOA|distributed objects applications|IEEE|1999|2001
+DOCEIS|advanced doctoral computing electrical industrial systems|Springer|2018|2027
+DOCEIS|ifip wg socolnet advanced doctoral computing electrical industrial systems|Springer|2016|2025
+DOCEIS|ifip wg socolnet doctoral computing electrical industrial systems|Springer|2014|2015
+DOCEIS|technological innovation sustainability second ifip wg socolnet doctoral computing electrical industrial systems||2011|2011
+DOCEIS|technological innovation value creation third ifip wg socolnet doctoral computing electrical industrial systems||2012|2012
+DOCENG|doceng2010 document engineering||2010|2010
+DOCENG|document engineering|ACM|2006|2025
+DOCPROCS|document processing systems|ACM|1988|1988
+DOCS|data driven optimization complex systems|IEEE|2022|2025
+DOFS|doppler oceanography from space|IEEE|2018|2018
+DOFS|first distributed optical fiber sensing technology applications|SPIE|2025|2025
+DOFS|second distributed optical fiber sensing technology applications|SPIE|2026|2026
+DOING|intelligent data from data knowledge knowledge graphs analysis large scale k modern approaches data engineering information system design advanced data systems management engineering analytics semantic web ontology design cultural heritage doctoral consortium which accompanied european advances databases information systems|Springer|2022|2022
+DOING|intelligent data from data knowledge knowledge graphs analysis large scale k modern approaches data engineering information system design personalization recommender systems held conjunction european advances databases information systems|Springer|2025|2025
+DOK|interdisciplinary problems environmental protection engineering eko|EDP|2019|2019
+DOLAP|data warehousing olap co located information knowledge management||2008|2010
+DOLAP|data warehousing olap co located|ACM|2005|2014
+DOLAP|design optimization languages analytical processing big data co located edbt joint edbt||2020|2020
+DOLAP|design optimization languages analytical processing big data co located extending database technology database theory edbt||2021|2026
+DOLAP|fifth data warehousing olap||2002|2002
+DOLAP|fourth data warehousing olap conjunction tenth information knowledge management||2001|2001
+DOLAP|seventh data warehousing olap||2004|2004
+DOLAP|sixth data warehousing olap||2003|2003
+DOMO|diffractive optics micro optics||2000|2004
+DOOD|deductive object oriented databases|Springer|1991|1997
+DOOR|discrete optimization operations research|Springer|2016|2016
+DOSCI|doctoral computational intelligence|Springer|2021|2026
+DOSIER|doctoral intelligence enabled research|Springer|2020|2025
+DOSTA|domain specific approaches software test automation conjunction esec fse joint meeting||2007|2007
+DOWNSCALE|downscaling semantic web||2012|2012
+DPC|dynamical processes excited states solids|Elsevier|1992|1995
+DPC|electric drives production e||2011|2011
+DPC|imaps exhibition device packaging conjunction global business council spring||2012|2012
+DPC|imaps exhibition device packaging||2015|2015
+DPC|selected papers from dynamical processes excited states solids||2011|2011
+DPC|seventh dynamical processes excited states solids|Elsevier|1990|1990
+DPC|society petroleum engineers upper gulf coast drilling production||1960|1960
+DPE|ds e engineering product design education||2006|2006
+DPF|division particles fields||2020|2020
+DPF|meeting american physical society division particles fields||2013|2013
+DPF|meeting aps division particles fields||2017|2017
+DPF|meeting division particles fields american physical society fall meeting japan particle physics community||2006|2006
+DPF|meeting division particles fields american physical society||2011|2019
+DPG|advances solid state physics plenary lectures meeting german physical society||1984|1984
+DPG|design patterns games co located foundations digital games||2012|2012
+DPH|digital public health|ACM|2019|2025
+DPIF|digital preservation interoperability framework intl||2010|2010
+DPIF|roadmap digital preservation interoperability framework us||2010|2010
+DPM|data privacy management autonomous spontaneous security revised selected papers|Springer|2011|2014
+DPM|data privacy management autonomous spontaneous security second revised selected papers||2010|2010
+DPM|data privacy management cryptocurrencies blockchain technology held conjunction european research computer security|Springer|2019|2020
+DPM|data privacy management cryptocurrencies blockchain technology held conjunction|Springer|2022|2022
+DPM|data privacy management cryptocurrencies blockchain technology security industrial control systems cyber physical systems which were held conjunction european research computer security|Springer|2025|2025
+DPM|data privacy management held conjunction european research computer security cryptocurrencies blockchain technology|Springer|2017|2017
+DPM|data privacy management security assurance quantitative aspects security assurance|Springer|2016|2016
+DPM|data privacy management security assurance|Springer|2016|2016
+DPM|workshops data privacy management cryptocurrencies blockchain technology held conjunction european research computer security|Springer|2023|2023
+DPPI|designing pleasurable products interfaces|ACM|2007|2013
+DPPR|advances digital image processing information technology first digital image processing pattern recognition||2011|2011
+DPP|digital production printing industrial applications dpp2005 final program||2005|2005
+DPP|society petroleum engineers spe drilling production practices||1962|1962
+DPRMA|digital preservation research methods artefacts co located joint digital libraries||2013|2013
+DPSH|digital platforms societal harms|IEEE|2024|2024
+DPSP|developments inpower system protection||2022|2022
+DPSP|developments power system protection||2020|2024
+DPSP|iet developments power system protection managing change||2010|2010
+DPSP|iet developments power system protection||2014|2014
+DPSP|iet developments power systems protection||2008|2012
+DPS|diagnostics processes systems|Springer|2014|2023
+DPS|dry process||1991|1997
+DPTA|data processing techniques applications cyber physical systems|Springer|2020|2020
+DQMLKG|text2kg joint one knowledge graph generation from text data quality meets machine learning knowledge graphs co located extended semantic web||2024|2024
+DQS|model driven service engineering data quality security mose co located information knowledge management||2009|2009
+DRAF|dynamic response failure composite materials|Springer|2023|2025
+DRBC|computer applications software engineering disaster recovery business continuity asea held conjunction||2012|2012
+DRBC|disaster recovery business continuity|IEEE|2015|2015
+DRBC|security technology disaster recovery business continuity sectech held as part future generation information technology||2010|2010
+DRCN|design reliable communication networks design management highly reliable networks services|IEEE|2003|2003
+DRCN|design reliable communication networks|IEEE|2007|2025
+DRC|data research camp|Springer|2025|2025
+DRC|device research digest|IEEE|2008|2014
+DRC|device research|IEEE|2006|2025
+DREAM|new dental research exhibition meeting new|IOP|2024|2025
+DREDGING|dredged material disposal||1984|1984
+DREE|designing running project based courses software engineering education|IEEE|2022|2022
+DREPS|applications information technology developing renewable energy processes systems it|IEEE|2017|2017
+DREPS|exhibition applications information technology renewable energy processes systems it||2013|2013
+DRIP|defects recognition imaging physics semiconductors||2012|2012
+DRMTICS|digital rights management technologies issues challenges systems first revised selected papers|Springer|2006|2006
+DRM|ccs digital rights management|Springer|2003|2003
+DRM|digital rights management co located computer communications security||2006|2009
+DRM|digital rights management co located||2010|2010
+DRM|digital rights management||2007|2011
+DRM|fifth digital rights management||2005|2005
+DRM|fourth digital rights management||2004|2004
+DRM|security privacy digital rights management held conjunction computer communications security|Springer|2002|2002
+DRM|society petroleum engineers drilling rock mechanics||1963|1969
+DRM|society petroleum engineers spe drilling rock mechanics||1971|1973
+DRM|third digital rights management||2003|2003
+DRONECOM|mobicom drone assisted wireless communications 5g beyond|ACM|2020|2022
+DRONESE|system engineering constrained embedded systems drone systems engineering rapid simulation performance evaluation methods tools hipeac|ACM|2023|2023
+DRONET|micro aerial vehicle networks systems applications civilian use co located|ACM|2016|2016
+DRONET|micro aerial vehicle networks systems applications civilian use|ACM|2015|2015
+DRONET|micro aerial vehicle networks systems applications co located|ACM|2017|2019
+DRONET|micro aerial vehicle networks systems applications part|ACM|2022|2022
+DRONET|micro aerial vehicle networks systems applications|ACM|2020|2023
+DRONET|mobile systems applications services|ACM|2018|2018
+DRPT|deregulation restructruing power technologies||2008|2008
+DRPT|electric utility deregulation restructuring power technologies volume||2004|2004
+DRPT|electric utility deregulation restructuring power technologies|IEEE|2011|2015
+DRPT|electric utility derequlation restructuring power technologies volume||2004|2004
+DRSD|disaster resilience sustainable development|Springer|2025|2025
+DSAA|data science advanced analytics|IEEE|2014|2025
+DSAI|data science artificial intelligence|Springer|2023|2026
+DSAI|digital society artificial intelligence|ACM|2024|2025
+DSAI|software development technologies enhancing accessibility fighting info exclusion|ACM|2020|2025
+DSAL|aspect oriented software development aosd domain specific aspect languages|ACM|2008|2008
+DSAL|domain specific aspect languages co located aspect oriented software development aosd||2009|2009
+DSAL|domain specific aspect languages||2011|2012
+DSAL|second domain specific aspect languages||2007|2007
+DSA|dependable systems their applications|IEEE|2017|2025
+DSCC|asme dynamic systems control dscc2009||2010|2010
+DSCC|asme dynamic systems control||2009|2009
+DSCC|fifth digital signal computer communications|SPIE|2025|2025
+DSCC|fourth digital signal computer communications|SPIE|2024|2024
+DSCC|second digital signal computer communications|SPIE|2022|2022
+DSCC|third digital signal computer communications|SPIE|2023|2023
+DSCI|ubiquitous computing communications computer information technology data science computational intelligence iucc cit|IEEE|2024|2024
+DSC|data science cyberspace|IEEE|2016|2025
+DSC|dependable secure computing pass4iot sicsa paper poster competition cybersecurity|IEEE|2022|2022
+DSC|dependable secure computing|IEEE|2018|2025
+DSC|driving simulation europe||2021|2021
+DSC|driving simulation virtual reality exhibition europe||2020|2020
+DSC|smart technologies data science communication smart|Springer|2021|2023
+DSDE|data storage data engineering|ACM|2010|2025
+DSDM|interdisciplinary scientific digitalisation sustainability development management economic social ecological aspects|EDP|2021|2021
+DSDM|model driven development mda applications actas del taller sobre desarrollo dirigido por modelos mda y aplicaciones||2005|2006
+DSDT|semi virtual data science digital transformation fourth industrial revolution|Springer|2021|2021
+DSD|euromicro digital system design architectures methods tools|IEEE|2002|2011
+DSD|euromicro digital system design|IEEE|2003|2025
+DSD|euromicro digital systems design architectures methods tools|IEEE|2001|2001
+DSD|euromicro systems digital system design||2004|2004
+DSEME|digitalization society economics management education|Springer|2020|2020
+DSHF|defence sites heritage future dshf12||2011|2011
+DSIA|data systems interactive analysis|IEEE|2017|2017
+DSICT|doctoral information communication technologies|Springer|2022|2022
+DSIC|digital science|Springer|2019|2022
+DSIE|design studies intelligence engineering||2023|2026
+DSINS|digital society intelligent systems|IEEE|2021|2025
+DSINS|second digital society intelligent systems|SPIE|2023|2023
+DSIS|data science intelligent systems|IEEE|2025|2025
+DSIT|data science information technology|IEEE|2020|2025
+DSKG|data science knowledge graph knowledge discovery web maturity web engineering practices co located web engineering|Springer|2020|2020
+DSLW|data science learning|IEEE|2021|2022
+DSL|diffusion solids liquids heat transfer microstructure properties diffusion solids liquids mass transfer heat transfer microstructure properties||2007|2007
+DSL|domain specific languages ifip tc working||2009|2009
+DSL|domain specific languages|ACM|1997|1999
+DSL|ifip tc working domain specific languages|Springer|2009|2009
+DSMIE|design simulation manufacturing innovation exchange|Springer|2020|2026
+DSMLAI|data science machine learning artificial intelligence|ACM|2021|2021
+DSML|domain specific modeling languages||2008|2008
+DSMM|data intensive software management minings co located information knowledge management||2009|2009
+DSMM|data science macro modeling conjunction sigmod pods|ACM|2018|2020
+DSMM|data science macro modeling financial economic datasets conjunction sigmod pods|ACM|2017|2017
+DSMP|data stream mining processing|IEEE|2016|2020
+DSMSI|cam selected papers scientific dynamical system modeling stability investigation volume computer applied mathematics||2023|2023
+DSMSI|selected papers scientific dynamical system modeling stability investigation volume mathematical foundations information technologies||2023|2023
+DSM|dependency structure modeling advanced systems engineering focusing complexity management||2024|2024
+DSM|dependency structure modeling||2018|2022
+DSM|dependency structure modelling||2013|2014
+DSM|doctoral middleware held ifip usenix middleware||2005|2005
+DSM|doctoral middleware||2004|2004
+DSM|domain specific modeling co located|ACM|2016|2016
+DSM|domain specific modeling|ACM|2010|2015
+DSM|gain competitive advantage managing complexity dependency structure modelling||2012|2012
+DSM|gain competitive advantage managing complexity||2012|2012
+DSM|reducing risk innovation dependency structure modelling||2013|2013
+DSM|sigplan domain specific modeling co located|ACM|2019|2021
+DSM|sigplan domain specific modeling part|ACM|2014|2014
+DSM|sustainability modern project management||2016|2016
+DSNCR|doctoral natural computing research|Springer|2021|2021
+DSNNLG|discourse structure neural nlg||2019|2019
+DSN|dependable systems networks||2000|2008
+DSN|iasted distributed sensor networks||2008|2008
+DSN|ifip dependable systems networks dsn2007||2007|2007
+DSN|ifip dependable systems networks industry track|IEEE|2019|2019
+DSN|ifip dependable systems networks|IEEE|2009|2025
+DSN|mils architecture assurance secure systems mils||2018|2018
+DSOG|data science oil gas||2021|2021
+DSOM|ambient networks ifip distributed systems operations management||2005|2005
+DSOM|ifip distributed systems operations management|Springer|1999|2009
+DSOM|integrated management systems services processes people it ifip distributed systems operations management||2009|2009
+DSOM|large scale management distributed systems ifip distributed systems operations management|Springer|2006|2006
+DSOM|managing large scale service deployment ifip distributed systems operations management||2008|2008
+DSOM|managing virtualization networks services ifip distributed systems operations management|Springer|2007|2007
+DSO|digital signal processing||2007|2007
+DSPA|digital signal processing its applications|IEEE|2020|2026
+DSPE|digital sourcing platforms ecosystems|Springer|2026|2026
+DSPIN|xviii high energy spin physics|IOP|2020|2020
+DSPP|data security privacy protection|Springer|2023|2026
+DSPWS|final program paper summaries digital signal processing|IEEE|1992|1992
+DSP|biennial digital signal processing vehicle systems||2011|2011
+DSP|biennial vehicle systems safety||2013|2013
+DSP|digital signal processing signal processing education|IEEE|2002|2002
+DSP|digital signal processing|IEEE|2009|2025
+DSP|iee electronics division colloquium teaching digital signal processing universities||1995|1995
+DSR|defense science research expo||2011|2011
+DSSCV|deep structure singularities computer vision first revised selected papers||2005|2005
+DSSNS|second dependability security sensor networks systems||2006|2006
+DSS|american water works association distribution systems||2007|2008
+DSS|american water works association exposition distribution engineering plant operations professionals||2006|2006
+DSS|data science systems|IEEE|2024|2024
+DSS|decision support systems collaborative models approaches real environments euro working group workshops ewg revised selected extended papers|Springer|2012|2012
+DSS|distribution systems exhibition||2009|2009
+DSS|distribution systems water security emergency preparedness exposition||2012|2012
+DSS|distribution system||2005|2005
+DSS|euro working group decision support systems ewg|Springer|2013|2013
+DSS|euro working group decision support systems iv ewg|Springer|2014|2014
+DSS|euro working group workshops decision support systems ewg|Springer|2014|2014
+DSS|high performance computing communications smart city data science systems hpcc smartcity|IEEE|2016|2020
+DSTA|dynamical systems theory applications|Springer|2014|2024
+DSTC|dialog system technology challenge||2023|2023
+DSTNDS|data science techniques datasets mental neurodegenerative disorders co located sds23 swiss data science||2023|2023
+DSU|dark side universe dark side universe dsu09||2009|2009
+DSU|dark side universe dark side universe||2006|2006
+DSU|dark side universe|IOP|2012|2012
+DSU|vi dark side universe||2011|2011
+DSVIS|engineering human computer interaction interactive systems joint working ehci||2005|2005
+DSVIS|interactive systems design specification verification revised papers||2006|2006
+DSW|data science|IEEE|2018|2019
+DTARM|scientific online directed transformation alimentary raw materials production foodstuffs food biologically active additives ensuring quality control safety|EDP|2022|2022
+DTA|database theory application|IEEE|2015|2015
+DTEC|down earth|IEEE|2016|2018
+DTESI|digital technologies education science industry||2022|2025
+DTESI|workshops short paper digital technologies education science industry||2024|2024
+DTE|ieelm informatization education e learning methodology digital technologies education||2020|2020
+DTGS|digital transformation global society|Springer|2016|2025
+DTIEE|digital transformation informatics economics education|SPIE|2023|2023
+DTIEE|fourth digital technologies optics materials science|SPIE|2025|2025
+DTIEE|third digital technologies optics materials science|SPIE|2024|2024
+DTIM|digital transformation innovation management society human beings||2024|2024
+DTIP|design test integration packaging mems moems|IEEE|2010|2025
+DTIP|design test integration packaging mems|IEEE|2003|2003
+DTIS|design technology integrated systemes nanoscale era||2009|2009
+DTIS|design technology integrated systems nanoscale era technical program||2011|2011
+DTIS|design technology integrated systems nanoscale era|IEEE|2007|2021
+DTIS|design test integrated systems nanoscale technology||2006|2006
+DTIS|detection technology intelligence system|IOP|2022|2025
+DTI|scientific digital transformation industry trends management strategies|Springer|2022|2024
+DTMBIO|data text mining bioinformatics co located information knowledge management||2008|2009
+DTMBIO|data text mining bioinformatics co located|ACM|2014|2014
+DTMBIO|data text mining biomedical informatics co located information knowledge management||2010|2010
+DTMBIO|data text mining biomedical informatics co located|ACM|2012|2015
+DTMIS|scientific conferenc digital transformation manufacturing infrastructure service|ACM|2020|2020
+DTMIS|scientific digital transformation manufacturing infrastructure service|Springer|2023|2023
+DTM|design theory methodology||1989|1992
+DTM|digital transformation management|ACM|2026|2026
+DTN|delay disruption tolerant networking ii||2009|2009
+DTPI|digital twins parallel intelligence|IEEE|2021|2025
+DTP|sigplan dependently typed programming co located|ACM|2013|2013
+DTSMEA|digital transformation achieving sustainable development management economic applied sciences|Springer|2026|2026
+DTS|design test integrated micro nano systems|IEEE|2019|2022
+DTS|digital transformation society|Springer|2025|2025
+DTS|dynamics technical systems||2021|2021
+DTS|xv scientific technical dynamics technical systems|IOP|2019|2019
+DTS|xvii scientific technical dynamics technical systems|IOP|2023|2023
+DTTB|itu smpte tutorial digital terrestrial broadcasting|IEEE|1994|1994
+DTTIS|design test technology integrated systems|IEEE|2023|2024
+DTTLS|digital technologies teaching learning strategies|Springer|2022|2022
+DTTL|digital technologies teaching learning||2021|2021
+DTUC|digital tools uses congress|ACM|2020|2020
+DUBAI|society plastics engineers technical exhibition society plastics engineers antec||2014|2014
+DUBMMSM|data driven user behavioral modeling mining from social media co located||2012|2012
+DUBMOD|data driven user behavioral modelling mining from social media co located||2013|2013
+DUE|domestic use energy|IEEE|2012|2019
+DUI|distributed user interfaces multimodal interaction|ACM|2014|2014
+DUPLEX|essc european stainless steel science market european stainless steel exhibition||2017|2022
+DURABI|durability building infrastructures smart city|Springer|2026|2026
+DUST|i inter disciplinary underground science technology|EDP|2022|2022
+DUXU|design user experience usability design philosophy methods tools second held as part hci||2013|2013
+DUXU|design user experience usability health learning playing cultural cross cultural user experience second held as part hci||2013|2013
+DUXU|design user experience usability held as part hci|Springer|2018|2025
+DUXU|design user experience usability held as part human computer interaction hci|Springer|2011|2019
+DUXU|design user experience usability held as part human computer interaction|Springer|2017|2024
+DUXU|design user experience usability theories methods tools designing user experience third held as part hci|Springer|2014|2014
+DUXU|design user experience usability theory methods tools practice first held as part hci||2011|2011
+DUXU|design user experience usability user experience design diverse interaction platforms environments third held as part hci|Springer|2014|2014
+DUXU|design user experience usability user experience design everyday life applications services third held as part hci|Springer|2014|2014
+DUXU|design user experience usability user experience design practice third held as part hci|Springer|2014|2014
+DUXU|design user experience usability user experience novel technological environments second held as part hci||2013|2013
+DUXU|design user experience usability web mobile product design second held as part hci||2013|2013
+DUXU|design user experience usability|Springer|2023|2023
+DUX|designing user experiences||2003|2007
+DVM|dynamics vibroacoustics machines|IEEE|2020|2022
+DWCAA|dolomites constructive approximation applications||2013|2013
+DXC|applications x ray analysis denver x ray||2013|2013
+DYCAELS|dynamics control applications applied engineering life science|Springer|2025|2025
+DYCOPS5|ifac dynamics control process systems|Elsevier|2000|2000
+DYCOPS|dynamics control process systems book abstracts||2010|2010
+DYCOPS|ifac dynamics control process systems including biosystems|Elsevier|2019|2025
+DYCOPS|ifac dynamics control process systems||2013|2013
+DYCOSS|iaa dynamics control space systems advances astronautical sciences academy astronautics dynamics control space systems||2012|2012
+DYDESS|dynamic data driven environmental systems science|Springer|2015|2015
+DYLA|dynamic languages applications colocated european object oriented programming||2012|2012
+DYLA|dynamic languages applications||2013|2013
+DYNAK|dynamic networks knowledge discovery co located european machine learning principles practice knowledge discovery databases ecml||2014|2014
+DYNAK|dynamic networks knowledge discovery||2010|2010
+DYNAMICS|dynamic novel advances machine learning intelligent cyber security pre|ACM|2020|2020
+DYNAMICS|dynamic novel advances machine learning intelligent cyber security|ACM|2019|2019
+DYNAMICS|eccomas thematic multibody||2017|2017
+DYNAMICS|fluid transmission line||1983|1983
+DYNAMICS|research structures||1984|1984
+DYNAMO|sigplan dynamic adaptive compilation optimization|ACM|2000|2000
+DYNA|dynamical systems game theory|Springer|2011|2011
+DYNETMM|dynamic networks management mining|ACM|2013|2013
+DYSBA|seams school dynamical systems bifurcation analysis|Springer|2019|2019
+DYSC|dynamic systems computer science theory applications||2021|2021
+DYSON|dynamics systems nanoscale|IOP|2013|2013
+DYSPAN|dynamic spectrum access networks|IEEE|2011|2025
+DYSPAN|new frontiers dynamic spectrum access networks||2005|2008
+DYSPAN|new frontiers dynamic spectrum||2010|2010

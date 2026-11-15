@@ -1,0 +1,880 @@
+FAABS|formal approaches agent based systems third revised selected papers||2004|2004
+FAABS|formal approaches agent based systems|Springer|2001|2003
+FAAVSP|joint facial analysis animation auditory visual speech processing||2015|2015
+FAA|facial analysis animation||2013|2013
+FAA|sspnet facial analysis animation||2010|2010
+FABLEARN|maker education making as resistance resilience|ACM|2020|2020
+FABLEARN|maker education what role does maker education play world growing social|ACM|2019|2019
+FABRE|existing bridges viaducts tunnels research innovation applications|Elsevier|2024|2024
+FABRICATION|high energy rate presented high energy rate||1984|1984
+FABS|forensics analytics big data security|IEEE|2021|2021
+FABTECH|aws welding show including metalform||2012|2012
+FABULOUS|eai future access enablers ubiquitous intelligent infrastructures eai|Springer|2024|2024
+FABULOUS|eai future access enablers ubiquitous intelligent infrastructures|Springer|2019|2025
+FABULOUS|future access enablers ubiquitous intelligent infrastructures|Springer|2015|2018
+FAB|foundations applications blockchain||2021|2022
+FACCT|fairness accountability transparency|ACM|2021|2024
+FACCT|formal arguments cps certification|IEEE|2025|2026
+FACESQCD|many faces qcd||2010|2010
+FACS|formal aspects component software revised selected papers|Springer|2012|2014
+FACS|formal aspects component software|Springer|2015|2024
+FACTIFY|de de multimodal fact checking hate speech detection co located||2022|2022
+FACTIFY|de multi modal fake news hate speech detection co located artificial intelligence||2022|2022
+FACTIFY|de multimodal fact checking hate speech detection||2022|2022
+FACTORY|competitive performance through advanced technology||1992|1992
+FACTS|iee colloquium flexible ac transmission systems key increased utilisation power systems||1994|1994
+FACTS|power division colloquium flexible ac transmission systems key increased utilisation power systems||1994|1994
+FACTUM|fashion communication between tradition future digital developments|Springer|2026|2026
+FACTUM|fashion communication digital age|Springer|2023|2023
+FAC|foundations augmented cognition directing future adaptive systems held as part hci||2011|2011
+FAC|foundations augmented cognition held as part human computer interaction hci|Springer|2011|2011
+FAC|foundations augmented cognition neuroergonomics operational neuroscience held as part hci||2009|2009
+FAC|foundations augmented cognition third held as part hci||2007|2007
+FAC|frontiers analog cad||2017|2017
+FADS|frontiers advances data science|IEEE|2017|2017
+FAFEE|frontier academic forum electrical engineering|Springer|2021|2026
+FAIA|functional analysis interdisciplinary applications|Springer|2017|2017
+FAILFEST|celebrating scientific value failure|IEEE|2020|2020
+FAILSAFE|engineering reliable robust secure embedded wireless sensing systems part|ACM|2017|2017
+FAIMI|fairness ai medical imaging ethical philosophical issues medical imaging held conjunction medical image computing computer assisted interventions|Springer|2025|2025
+FAIMI|fairness ai medical imaging held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+FAIML|frontiers artificial intelligence machine learning|ACM|2022|2025
+FAIM|flexible automation intelligent manufacturing beyond industry industrial advances engineering education intelligent manufacturing|Elsevier|2019|2019
+FAIM|flexible automation intelligent manufacturing capturing competitive advantage via advanced manufacturing enterprise transformation||2014|2014
+FAIM|flexible automation intelligent manufacturing|Springer|2020|2026
+FAINT|foundations artificial intelligence ki||2007|2007
+FAIRNESS|fair next generation scientists edition||2023|2023
+FAIRNESS|fair next generation scientists||2026|2026
+FAIRNESS|fair next generation|IOP|2013|2014
+FAIRNESS|fairness2019 fair next generation scientists||2020|2020
+FAIRWARE|equitable data technology|IEEE|2022|2023
+FAIR|conceptual modeling ontologies metadata management data conceptual modeling requirements engineering business analysis empirical methods conceptual modeling modeling management big data mobid19 ontologies andconceptual modelling held conceptual modeling er|Springer|2019|2019
+FAIR|fundamentals artificial intelligence research|Springer|1991|1991
+FALLS|heat transfer niagara||1984|1984
+FALL|arftg digest|IEEE|1982|1984
+FALL|minutes meeting pennsylvania electric association engineering section electrical equipment committee||1982|1982
+FALL|minutes meeting pennsylvania electric association engineering section relay committee||1982|1982
+FALL|modeling as solution concrete problems session aci convention||2009|2009
+FALL|photonics electromagnetics research piers|IEEE|2025|2025
+FAMECSE|federated africa middle east software engineering|ACM|2022|2022
+FAMET|frontiers advanced materials engineering technology||2012|2014
+FAME|frontiers automobile mechanical engineering|IOP|2010|2020
+FANCCO|fuzzy neuro computing|Springer|2015|2015
+FANRES|food agriculture natural resources|EDP|2026|2026
+FAN|noise technology numerical methods||2015|2015
+FAPM|fundamental applied problems mechanics||2020|2020
+FAPR|formal applied practical reasoning|Springer|1996|1996
+FAPR|joint qualitative quantitative practical reasoning ecsqaru|Springer|1997|1997
+FARBA|scientific practical fundamental applied research biology agriculture current issues achievements innovations|EDP|2021|2021
+FAREASTCON|multi industrial engineering modern technologies|IEEE|2018|2020
+FAREASTCON|science technology chapter|IOP|2020|2020
+FAREASTCON|science technology preface|IOP|2020|2020
+FAREASTSON|science technology|Springer|2021|2021
+FARM|functional art music modelling design co located|ACM|2016|2016
+FARM|sigplan functional art music modeling design co located|ACM|2013|2019
+FARM|sigplan functional art music modelling design co located|ACM|2015|2024
+FARM|sigplan functional art music modelling design|ACM|2014|2014
+FASDIFF|formal analytic solutions diff equations|Springer|2018|2018
+FASEC|formal aspects security|Springer|2003|2003
+FASE|fundamental approaches software engineering held as part european joint theory practice software|Springer|2012|2024
+FASE|fundamental approaches software engineering held as part joint european theory practice software|Springer|1998|2011
+FASE|fundamental approaches software engineering held as part joint theory practice software|Springer|2005|2026
+FASE|fundamental approaches software engineering which was held as part joint theory practice software|Springer|2025|2025
+FASE|fundamental approaches software engineering|Springer|1999|1999
+FASMI|federation asian societies molecular imaging|Springer|2022|2022
+FASTA|fully actuated system theory applications|IEEE|2024|2026
+FASTENING|welding bonding||1985|1985
+FAST|file storage technologies||2002|2002
+FAST|formal aspects security trust fourth revised selected papers||2007|2007
+FAST|formal aspects security trust internaional revised selected papers||2009|2009
+FAST|formal aspects security trust revised selected papers||2010|2012
+FAST|formal aspects security trust thrid revised selected papers||2006|2006
+FAST|ifip tc1 wg1 formal aspects security trust|Springer|2005|2005
+FAST|sea transportation||2007|2013
+FAST|sname sea technology||2025|2025
+FAST|sname sea transportation||2015|2021
+FAST|usenix file storage technologies||2003|2025
+FATDES|fatigue design|Elsevier|2023|2025
+FATES|formal approaches software testing revised selected papers|Springer|2006|2006
+FATES|formal approaches software testing runtime verification first combined workshops rv revised selected papers||2006|2006
+FATES|formal approaches software testing||2005|2005
+FATES|formal approaches testing software|Springer|2004|2004
+FATIGUE|papers presented thresholds||1984|1984
+FAT|fairness accountability transparency||2018|2018
+FAVE|facets virtual environments first revised selected papers||2010|2010
+FAVPQC|formal analysis verification post quantum cryptographic protocols co located formal engineering methods||2022|2022
+FAW|frontiers algorithmcs first||2007|2007
+FAW|frontiers algorithmics held conjunction joint theoretical computer science ijtcs|Springer|2022|2022
+FAW|frontiers algorithmics second internationalworkshop changsha china june||2008|2008
+FAW|frontiers algorithmics third||2009|2009
+FAW|frontiers algorithmics|Springer|2010|2020
+FAW|joint theoretical computer science frontier algorithmic wisdom ijtcs|Springer|2022|2025
+FBB|frontiers biotechnology bioengineering|IOP|2019|2019
+FBIE|future biomedical information engineering||2009|2009
+FBIE|seminar future biomedical information engineering||2008|2008
+FBIT|frontiers convergence bioscience information technologies||2007|2007
+FBMT|fundamental bases mechanochemical technologies|Elsevier|2019|2019
+FBM|confederated enterprise integration interoperability networking ei2n fact based modeling industry case studies program methods evaluation tools applications creation consumption structured data e society meta4es onthemove academy odbase posters held as part|Springer|2018|2018
+FBSE|frontiers biological sciences engineering|IOP|2021|2023
+FBTA|fiber based technologies applications||2014|2014
+FBW|caneus fly wireless||2011|2011
+FBW|fbw10 caneus fly wireless||2010|2010
+FCAI|foundations future change artificial intelligence co located european artificial intelligence||2025|2025
+FCCE|frontiers computers communication engineering|IEEE|2023|2023
+FCCM|field programmable custom computing machines|IEEE|2001|2026
+FCCM|field programme custom computing machines||2007|2007
+FCCM|fpgas custom computing machines|IEEE|1998|1998
+FCCM|frontiers corrosion control materials|Elsevier|2019|2019
+FCCM|seventh field programmable custom computing machines||1999|1999
+FCC|ftra frontier innovation future computing communications|Springer|2014|2014
+FCC|future computer communication||2009|2009
+FCDAC|ai ml frontiers cross disciplinary applications case studies ai|Springer|2026|2026
+FCEE|forum clean energy engineering|EDP|2024|2025
+FCICS|future communication information computer science||2015|2015
+FCI|scientific practical future construction industry challenges development prospects|EDP|2023|2023
+FCMTCCT|functor categories model theory constructive category theory|Springer|2024|2024
+FCN|future communications networks|IEEE|2023|2025
+FCPC|fastcode programming challenge|ACM|2025|2025
+FCRC|applied computational geometry|Springer|1996|1996
+FCR|chai joint humanities centred artificial intelligence formal cognitive reasoning co located german artificial intelligence ki||2025|2025
+FCR|formal cognitive reasoning co located german artificial intelligence ki||2020|2024
+FCR|society petroleum engineers spe four corners regional meeting||1964|1964
+FCR|spe four corners regional meeting september farmington new mexico||1966|1966
+FCSIT|euro asia frontiers computer science information technology|IEEE|2022|2022
+FCST|frontier computer science technology|IEEE|2009|2015
+FCST|japan china joint frontier computer science technology||2006|2008
+FCS|foundations computer science frontiers education held as part world congress computer science computer engineering applied computing|Springer|2025|2025
+FCS|foundations computer science||2005|2008
+FCS|frequency control||2010|2010
+FCS|frontiers cyber security|Springer|2018|2024
+FCS|joint frequency control european frequency time forum|IEEE|2015|2015
+FCTA|fuzzy computation theory applications||2014|2014
+FCTEA|xi all russian participation fuel combustion theory experiment applications|IOP|2022|2022
+FCTE|future communication technology engineering||2015|2015
+FCT|fundamentals computation theory|Springer|1977|2026
+FCV|frontiers computer vision iw|Springer|2020|2026
+FCV|frontiers computer vision|IEEE|2015|2015
+FCV|korea japan joint frontiers computer vision||2011|2013
+FDA|fractional differentiation its applications fda08||2009|2009
+FDA|ifac fractional differentiation its applications final program||2006|2006
+FDA|ifac joint sssc tds fractional differentiation its applications||2013|2013
+FDCS|fluid dynamics computational science|IOP|2023|2023
+FDEA|functional differential equations applications|Springer|2021|2021
+FDG|foundations digital games program||2012|2012
+FDG|foundations digital games|ACM|2009|2025
+FDG|joint digital games research association foundation digital games digra||2016|2016
+FDL|advances design methods from modeling languages embedded systems soc s selected contributions specification design verification from||2010|2010
+FDL|forum specification design languages|Springer|2009|2024
+FDL|forum specification design language||2025|2025
+FDL|forum specification design lanugage||2011|2011
+FDL|forum specification verification design languages||2008|2008
+FDL|languages design methods tools electronic system design selected contributions from|Springer|2015|2015
+FDL|languages design methods tools electronic system design|Springer|2016|2016
+FDL|models methods tools complex chip design selected contributions from|Springer|2014|2014
+FDL|system specification design languages selected contributions from||2012|2012
+FDMD|fatigue design material defects|Elsevier|2026|2026
+FDMECE|fluid dynamic mechanical electrical control engineering||2012|2012
+FDM|advances fracture damage mechanics ix||2011|2011
+FDM|finite difference methods theory applications|Springer|2014|2014
+FDM|finite difference methods|Springer|2019|2019
+FDM|fracture damage mechanics||2003|2020
+FDM|fracture damage structural health monitoring|Elsevier|2024|2026
+FDNA|sigcomm future directions network architecture|ACM|2003|2004
+FDPE|functional declarative programming education|ACM|2005|2005
+FDPE|sigplan functional declarative programming education co located|ACM|2008|2008
+FDSE|future data security engineering advanced computing applications|Springer|2017|2017
+FDSE|future data security engineering|Springer|2014|2026
+FDTC|fault detection tolerance cryptography|IEEE|2020|2025
+FDTC|fault diagnosis tolerance cryptography third|Springer|2006|2006
+FDTC|fault diagnosis tolerance cryptography|IEEE|2008|2019
+FEAST|forming ecosystem around software transformation co located|ACM|2017|2024
+FEAST|forming ecosystem around software transformation|ACM|2019|2020
+FEATS|ifip tcs wgs wgs feature modelling advanced design life cycle systems|Springer|2003|2003
+FEA|improved results structural dynamic calculations linking finite element analysis experimental modal analysis||1995|1995
+FEBID|feedback control implementation design computing systems networks|ACM|2010|2010
+FEB|xviii th youth science environmental forum baltic region countries ecobaltica|IOP|2022|2022
+FECS|frontiers education computer science computer engineering||2005|2008
+FEDCLOUDNET|workshops cliot was4fi seaclouds cloudway idea held conjunction european service oriented cloud computing|Springer|2016|2016
+FEDCSIS|computer science intelligence systems|IEEE|2021|2025
+FEDCSIS|federated computer science information systems|IEEE|2011|2020
+FEDCSIS|topical area software system service engineering s3e held as part practical aspects solutions software engineering held as part|Springer|2025|2025
+FEDEDGE|data privacy federated learning technologies mobile edge network|ACM|2022|2022
+FEDSM|asme fluids engineering division summer fedsm2009||2009|2009
+FEDSM|asme fluids engineering division summer forums fedsm2005 vol||2005|2005
+FEDSM|asme fluids engineering division summer meeting fedsm2005||2005|2005
+FEDSM|asme fluids engineering division summer meeting fedsm2006||2006|2006
+FEDSM|asme fluids engineering division summer meeting part||1997|1997
+FEDSM|asme fluids engineering division summer symposia fedsm2005 vol||2005|2005
+FEDSM|asme fluids engineering division summer symposia fedsm2005||2005|2005
+FEDSM|asme fluids engineering division summer||2009|2009
+FEDSM|asme joint u s european fluids engineering summer meeting||2006|2006
+FEDSM|joint asme jsme fluids engineering summer fedsm2007||2007|2007
+FED|asme heat transfer fluids engineering summer ht volume part b||2004|2004
+FED|asme heat transfer fluids engineering summer ht volume part||2004|2004
+FED|asme heat transfer fluids engineering summer ht volume||2004|2004
+FED|asme heat transfer fluids engineering summer ht||2004|2004
+FEEM|future energy environment materials||2014|2014
+FEF|finite elements flow problems|Springer|2020|2020
+FEIWS|future educational innovation series data action|IEEE|2023|2023
+FELFA|free electron laser facilities applications|Elsevier|1998|1998
+FEL|free electron laser||2005|2019
+FEMIB|finance economics management it business|SciTePress|2019|2024
+FEMR|future energy materials research||2013|2013
+FEM|functional engineering materials|IOP|2020|2020
+FENDT|far east forum nondestructive evaluation testing new technology application increasingly perfect ndt e|IEEE|2014|2014
+FENDT|far east forum nondestructive evaluation testing new technology application||2013|2013
+FENDT|far east ndt new technology application forum|IEEE|2015|2025
+FENOMECH|finite elements nonlinear mechanics||1982|1985
+FENV|food environment fenv11||2011|2011
+FEOFS|advances fracture materials behavior selected peer reviewed papers seventh fracture strength solids||2008|2008
+FEOSW|joint finance economics semantic web resource discovery semantic business process management conjunction extended semantic web||2012|2012
+FEST|future engineering systems technologies||2021|2021
+FES|future energy solutions|IEEE|2023|2025
+FES|future enterprise systems co located future internet||2010|2010
+FES|sice festival sice|IEEE|2024|2025
+FETLT|future emergent trends language technology|Springer|2016|2016
+FETLT|future emerging trends language technology|Springer|2017|2017
+FET|european future technologies exhibition||2011|2011
+FET|ifac fieldbuses networks industrial embedded systems preprint||2007|2007
+FET|stick slip motion frictionally damped turbine airfoils finite element time approach||1995|1995
+FEVER|fact extraction verification||2021|2026
+FEWS|finding experts web semantics||2007|2007
+FFER|face facial expression recognition from real world videos deep learning pattern recognition held pattern recognition|Springer|2019|2019
+FFER|face facial expression recognition from real world videos held conjunction pattern recognition|Springer|2015|2015
+FFHMT|fluid flow heat mass transfer||2015|2025
+FFK|precision physics fundamental physical constants||2019|2019
+FFL|energy propulsion exhibition||2023|2024
+FFL|sae energy propulsion||2025|2025
+FFL|sae powertrains fuels lubricants digital summit||2021|2021
+FFP|frontiers fundamental physics|Springer|2014|2024
+FFSPIN|formal foundations security programmable network infrastructures|ACM|2022|2022
+FFW|fracture fatigue wear numerical modelling engineering||2025|2025
+FFW|fracture fatigue wear|Springer|2019|2023
+FGCN|communication networking held as part future generation information technology conjunction||2011|2011
+FGCN|communication networking held as part future generation information technology||2010|2010
+FGCN|future generation communication networking bio science bio technology||2008|2008
+FGCN|future generation communication networking symposia||2008|2008
+FGCN|future generation communication networking|IEEE|2007|2015
+FGCN|second future generation communication networking||2008|2008
+FGCS|generation computer systems|Elsevier|1994|1994
+FGCT|future generation communication technologies|IEEE|2012|2017
+FGCT|future generation communication technology|IEEE|2015|2015
+FGIT|control automation energy system engineering ca ces3 held as part future generation information technology conjunction||2011|2011
+FGIT|future generation information technology first||2009|2009
+FGIT|future generation information technology second||2010|2010
+FGIT|future generation information technology third conjunction||2011|2011
+FGIT|future generation information technology|Springer|2010|2012
+FGIT|grid distributed computing control automation gdc ca held as part future generation information technology||2010|2010
+FGIT|software engineering business continuity education asea drbc el held as part future generation information technology conjunction||2011|2011
+FGM|multiscale multifunctional functionally graded materials|IOP|2013|2013
+FGR|automatic face gesture recognition||2002|2006
+FGR|sixth automatic face gesture recognition||2004|2004
+FGT|frontiers geometry topology summer school research||2024|2024
+FGWM|ki knowledge management co located german artificial intelligence ki||2025|2025
+FHEP|frontiers high energy physics|Springer|2020|2020
+FHGIAO|toward factory future production research working fraunhofer institute industrial engineering|Springer|1985|1985
+FHIES|foundations health informatics engineering systems first revised selected papers||2012|2012
+FHIES|foundations health information engineering systems second revised selected papers||2013|2013
+FHIES|foundations health information engineering systems software engineering health care|Springer|2017|2017
+FHIES|foundations health information engineering systems|Springer|2014|2014
+FHMN|sigcomm future human centric multimedia networking|ACM|2013|2013
+FHPC|functional high performance computing co located|ACM|2016|2016
+FHPC|sigplan functional high performance computing co located|ACM|2013|2018
+FHPC|sigplan functional high performance computing|ACM|2012|2012
+FHPNC|sigplan functional high performance numerical computing co located|ACM|2019|2023
+FIAC|food ingredients asia toward one health through sustainable innovative food science technology|IOP|2025|2025
+FIAM|frontiers industrial applied mathematics|IOP|2020|2025
+FIBPRO|fib italy ymg concrete concrete structures||2019|2019
+FIB|congress better smarter stronger||2019|2019
+FIB|congress concrete structures century||2002|2002
+FIB|congress improving performance concrete structures||2014|2014
+FIB|phd civil engineering||2016|2016
+FICAC|future artificial intelligence cybersecurity|IEEE|2025|2025
+FICAILY|ai current research industry trends innovations|Springer|2026|2026
+FICC|benchcouncil federated intelligent computing block chain|Springer|2021|2021
+FICC|future information communication|Springer|2019|2025
+FICC|future information computing|Springer|2023|2023
+FICLOUDW|future internet things cloud workshops|IEEE|2019|2019
+FICLOUD|future internet things cloud open big data|IEEE|2015|2015
+FICLOUD|future internet things cloud workshops w|IEEE|2016|2018
+FICLOUD|future internet things cloud|IEEE|2014|2025
+FICMSS|frontiers intelligent control measurement signal systems|IOP|2025|2025
+FICS|fixed points computer science||2025|2025
+FICTA|frontiers intelligent computing theory applications|Springer|2013|2026
+FIDJI|scientific engineering distributed java applications|Springer|2004|2005
+FIELDMATTERS|nlp applications field linguistics||2023|2024
+FIEMS|future information engineering manufacturing science||2015|2015
+FIES|scientific practical agriculture food security technology innovation markets human resources|EDP|2020|2025
+FIE|asee frontiers education||2008|2008
+FIE|frontiers education celebrating forty years innovation program||2010|2010
+FIE|frontiers education celebrating years monumental innovations from around world||2011|2011
+FIE|frontiers education energizing future||2013|2013
+FIE|frontiers education imagining engineering future cset education||2009|2009
+FIE|frontiers education part||1996|1996
+FIE|frontiers education soaring new heights engineering education||2012|2012
+FIE|frontiers education|IEEE|2019|2025
+FIFI|fetal infant image analysis ophthalmic medical image analysis held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+FIGLANG|figurative language processing||2024|2024
+FIG|frontiers gamma ray spectroscopy|IOP|2014|2014
+FIIW|future instrumentation||2011|2012
+FII|future industrial internet|Springer|2025|2025
+FILAS|fiber laser applications||2012|2012
+FILAS|fiber lasers applications||2012|2012
+FILTCON|afs expo||2018|2018
+FIMH|functional imaging modeling heart third||2005|2005
+FIMH|functional imaging modeling heart|Springer|2001|2025
+FIMH|functional imaging modelling heart|Springer|2017|2017
+FIMI|icdm frequent itemset mining implementations||2003|2003
+FIM|forum interdisciplinary mathematics|Springer|2018|2018
+FINANCECOM|enterprise applications markets services finance industry|Springer|2017|2025
+FINANCECOM|enterprise applications services finance industry revised papers|Springer|2013|2013
+FINANCECOM|enterprise applications services finance industry|Springer|2015|2015
+FINANSE|software engineering challenges financial firms|ACM|2024|2026
+FINDER|functional nanopowder||2021|2021
+FINNLP|financial technology natural language processing||2022|2022
+FINNLP|joint financial technology natural language processing financial narrative processing large language models finance legal||2025|2025
+FINTAL|advances natural language processing nlp|Springer|2006|2006
+FINTDI|promotion innovation new technologies engineering education||2011|2011
+FIN|aesf technical sur||1996|1996
+FIN|national association surface finishing manufacturing technology trade show sur||2017|2017
+FIN|national association surface finishing technical sur||2005|2009
+FIN|national association surface finishing trade show sur||2010|2014
+FIN|technical national association surface finishing sur||2007|2007
+FIO|frontiers optics frontiers optics laser science ls part frontiers optics laser science||2025|2025
+FIO|frontiers optics frontiers optics laser science part frontiers optics laser science aps dls||2020|2020
+FIO|frontiers optics frontiers optics laser science part frontiers optics laser science||2024|2024
+FIO|frontiers optics||2003|2022
+FIRA|future internet routing addressing|ACM|2022|2022
+FIRA|next wave robotics roboworld congress||2011|2011
+FIRA|roboworld congress|Springer|2013|2013
+FIRA|sigcomm future internet routing addressing|ACM|2023|2023
+FIRA|trends intelligent robotics robot world congress||2010|2010
+FIRE|meeting forum information retrieval evaluation|ACM|2019|2026
+FIRE|multilingual information access south asian languages second third revised selected papers||2013|2013
+FIRE|text processing|Springer|2018|2018
+FIRE|wn working notes forum information retrieval evaluation||2020|2021
+FIRE|working notes forum information retrieval evaluation co located forum information retrieval evaluation||2025|2025
+FIRE|working notes forum information retrieval evaluation||2019|2025
+FIRST|forum research science technology|IOP|2020|2020
+FIRST|industrial results semantic technologies co located||2007|2007
+FISAED|frontier sustainable agromaritime environmental development|EDP|2025|2025
+FISCAS|scientific al khwarizmi society||2020|2020
+FISCAS|scientific iraqi al khwarizmi society||2021|2021
+FISEE|frontiers software engineering education|Springer|2020|2023
+FISITA|world automotive congress|Springer|2013|2016
+FISTS|forum innovative sustainable transportation systems|IEEE|2024|2026
+FISTS|forum integrated sustainable transportation systems|IEEE|2011|2020
+FIS|dc doctoral consortium future internet||2010|2010
+FIS|future internet first future internet revised selected papers||2009|2009
+FIS|future internet second future internet revised selected papers||2010|2010
+FIS|future internet third future internet||2010|2010
+FIS|poster demonstration paper track future internet||2008|2008
+FITCE|communication days congress ict professionals industrial data cloud low latency privacy|IEEE|2021|2021
+FITCE|congress future telecommunications infrastructure sustainability|IEEE|2022|2022
+FITCE|congress ict bridging ever shifting digital divide||2011|2011
+FITCE|ctte smart cities information communication technology ctte|IEEE|2019|2019
+FITCE|european telecommunications congress||1990|1990
+FITI|from innovation impact|IEEE|2019|2021
+FITME|future information technology management engineering||2009|2010
+FITME|seminar future information technology management engineering||2008|2008
+FITRAMEN|traffic management traffic engineering future internet first euro nf revised selected papers||2009|2009
+FITTEST|future internet testing first revised selected papers|Springer|2014|2014
+FITYR|future intelligent technologies young researchers|IEEE|2024|2025
+FIT|frontiers information technology|IEEE|2009|2025
+FJC|french japanese asian economies era globalization|Springer|2025|2025
+FKBI|perspectives operational management decision support research colloquium business intelligence fkbi09 gi special interest group management support systems perspektiven der betrieblichen management und entscheidungsunterstutzung tagungsband des forschungskolloquiums business intelligence der gi fachgruppe management support systems||2009|2009
+FKBI|research colloquium business intelligence gi special interest group management support systems cooperation competence center business intelligence dresden university technology business intelligence area conflict between efficiency agility tagungsband des forschungskolloquiums business intelligence der gi fachgruppe management support systems zusammenarbeit mit dem competence center business intelligence tud||2010|2010
+FLAIEC|finnish learning analytics artificial intelligence education||2022|2022
+FLAIRS|florida artificial intelligence research society||2008|2026
+FLAIRS|nineteenth florida artificial intelligence research society|ACM|2006|2006
+FLAIRS|recent advances artifical intelligence eighteenth florida artificial intelligence research society||2005|2005
+FLAIRS|seventeenth florida artificial intelligence research society volume one||2004|2004
+FLAIRS|twentieth florida artificial intelligence research society||2007|2007
+FLAI|austrian artificial intelligence fuzzy logic|Springer|1993|1993
+FLAME|biennial future learning aspects mechanical engineering|Springer|2023|2026
+FLAME|foreign language association maine||2016|2016
+FLAME|future learning aspects mechanical engineering|Springer|2020|2026
+FLAME|recent advances retardancy polymeric materials||2017|2017
+FLARE|challenge fast low resource accurate organ pan cancer segmentation abdomen ct held conjunction medical image computing computer assisted interventions|Springer|2024|2024
+FLARE|challenge fast lowresource semi supervised abdominal organ segmentation ct scans held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+FLASY|flavor symmetries consequences accelerators cosmology||2011|2012
+FLATOPTICS|flat optics components systems||2021|2021
+FLC|ferroelectric liquid crystals||2004|2010
+FLEPS|flexible printable sensors systems|IEEE|2019|2025
+FLEXEV|flexible electronics electric vehicles|Springer|2023|2023
+FLEXEV|flexible electronics electrical vehicle|Springer|2024|2024
+FLEXNETS|flexible networks artificial intelligence supported network flexibility agility part|ACM|2021|2021
+FLEXPACKCON|society plastics engineers flexible packaging||2006|2014
+FLEXPACKCON|society plastics engineers polyolefins||2008|2008
+FLEXSCIENCE|ai scientific computing scale using flexible computing infrastructures co located|ACM|2022|2022
+FLEXSCIENCE|ai scientific computing scale using flexible computing infrastructures part high performance parallel distributed computing|ACM|2024|2024
+FLEXSCIENCE|ai scientific computing scale using flexible computing infrastructures|ACM|2023|2023
+FLEX|flexible electronics displays exhibition||2009|2009
+FLINS|applied artificial intelligence fuzzy logic intelligent technologies nuclear science||2006|2006
+FLINS|computational intelligence foundations applications fuzzy logic intelligent technologies nuclear science||2010|2010
+FLINS|decision making soft computing fuzzy logic intelligent technologies nuclear science||2014|2014
+FLINS|uncertainty modelling knowledge engineering decision making fuzzy logic intelligent technologies nuclear science||2016|2016
+FLLM|foundation large language models|IEEE|2024|2025
+FLOC|dl description logics co located federated logic||2022|2022
+FLOC|formal methods fm held as part federated logic|Springer|2018|2018
+FLOC|sc square sc square co located federated logic as part joint automated reasoning||2023|2023
+FLOMEKO|flow measurement||1984|2022
+FLOMEKO|imeko tc9 flow measurement||2003|2003
+FLOPS|fuji functional logic programming|Springer|1999|1999
+FLOPS|functional logic programming|Springer|2001|2026
+FLOSS|first emerging trends research development||2007|2007
+FLOSS|icse emerging trends free libre open source software research development||2009|2009
+FLOTATION|column column||1988|1988
+FLOWERS|spie advanced display technologies basic studies problems information display||2001|2001
+FLOWS|forum turbulent||1987|1987
+FLOWS|gas solid||1986|1986
+FLOW|fluvial hydraulics river||2014|2016
+FLOW|forum unsteady||1985|1987
+FLOW|reservoir sedimentation special session reservoir sedimentation fluvial hydraulics river||2014|2014
+FLOW|swiss competences river engineering restoration special session swiss competences river engineering restoration fluvial hydraulics river||2014|2014
+FLP|figurative language processing||2022|2022
+FLS|icfa advanced beam dynamics future light sources||2006|2018
+FLTA|federated learning technologies applications|IEEE|2024|2025
+FLUCOME|fluid control measurement visualization||2007|2007
+FLUIDIZATION|science technology papers second china japan|Elsevier|1985|1985
+FLUIDOS|venezuelan society fluid mechanics|Springer|2014|2014
+FLUIDOS|xi meeting recent advances physics fluids their applications|IOP|2011|2011
+FLUIDSHEAT|recent researches mechanics proc int conf fluid mechanics heat mass transfer proc int conf theoretical applied mechanics proc wseas int conf urban planning transportation proc wseas int conf cultural heritage tourism||2011|2011
+FLUTE|biennial fluids thermal engineering|Springer|2024|2024
+FLUTE|fluids thermal engineering||2022|2022
+FMA4|meeting ferroelectric materials their applications||1983|1983
+FMA5|meeting ferroelectric materials their applications||1985|1985
+FMANO|formal methods aided network operation part|ACM|2025|2025
+FMANO|sigcomm formal methods aided network operation|ACM|2024|2024
+FMAP|functional materials applied physics||2022|2022
+FMAP|third functional materials applied physics|IOP|2025|2025
+FMAS|formal methods autonomous systems automated verifiable software system development||2022|2022
+FMAS|formal methods autonomous systems was co located integrated formal methods ifm||2025|2025
+FMAS|formal methods autonomous systems||2020|2024
+FMA|iasme wseas fluid mechanics aerodynamics||2009|2009
+FMA|meeting ferroelectric materials their applications||1993|1996
+FMA|recent advances fluid mechanics heat mass transfer proc iasme wseas int conf fluid mechanics aerodynamics proc iasme wseas int conf heat transfer thermal engineering environment||2011|2011
+FMBC|formal methods blockchains||2020|2025
+FMBC|oasics formal methods blockchains||2026|2026
+FMB|scientific meeting medical physics biophysics pit south east asian congress medical physics|IOP|2020|2020
+FMCAD|formal methods computer aided design|IEEE|1996|2025
+FMCE|functional materials civil engineering conf||2026|2026
+FMCO|formal methods components objects amsterdam netherlands october revised papers||2008|2008
+FMCO|formal methods components objects revised lectures|Springer|2006|2013
+FMCO|formal methods components objects revised papers||2011|2011
+FMCO|formal methods components objects revised selected papers||2010|2013
+FMCO|formal methods components objects third revised lectures||2005|2005
+FMCO|formal methods components objects|Springer|2002|2004
+FMCREA|maghrebian renewable energies their applications|Elsevier|2022|2022
+FMC|xxi fluid mechanics|IOP|2014|2014
+FMC|xxv fluid mechanics|IOP|2022|2022
+FMDT|applications formal methods digital twins co located formal methods fm||2023|2023
+FMEC|fog mobile edge computing|IEEE|2017|2025
+FME|facial micro expression advanced techniques facial expressions generation spotting|ACM|2021|2021
+FME|facial micro expression advanced techniques multi modal facial expression analysis co located mm|ACM|2023|2023
+FME|facial micro expression advanced techniques multi modal facial expression analysis|ACM|2022|2022
+FME|formal methods europe|Springer|1993|2003
+FME|formal methods increasing software productivity formal methods europe||2001|2001
+FMFP|national fluid mechanics fluid power|Springer|2021|2026
+FMFUN|formal methods fun everybody|Springer|2021|2021
+FMGM|field measurments geomechanics||2007|2007
+FMIA|fluid mechanics industrial applications|IOP|2020|2023
+FMICS|formal methods industrial critical systems revised selected papers||2009|2009
+FMICS|formal methods industrial critical systems|Springer|2008|2026
+FMICS|tenth formal methods industrial critical systems||2005|2005
+FMLDS|future machine learning data science|IEEE|2024|2025
+FMMB|formal methods macro biology first|Springer|2014|2014
+FMMB|formal methods macro biology|Springer|2014|2014
+FMN|function materials nanotechnology fmn2013||2013|2013
+FMN|future multimedia networking second||2009|2009
+FMN|future multimedia networking third||2010|2010
+FMOODS|formal methods open object based distributed systems ifip wg|Springer|2005|2008
+FMOODS|formal methods open object based distributed systems iv tc6 wg6 fourth formal methods open object based distributed systems||2000|2000
+FMOODS|formal techniques distributed systems joint ifip wg ifip wg||2009|2012
+FMOODS|ifip formal techniques distributed systems joint ifip wg formal methods open object based distributed systems ifip wg formal techniques networked distributed systems|Springer|2009|2009
+FMOODS|ifip formal techniques distributed systems jointly ifip wg formal methods open object based distributed systems ifip wg formal techniques distributed objects components systems|Springer|2010|2010
+FMOODS|ifip wg formal methods open object based distributed systems|Springer|2003|2007
+FMPMSA|farm machinery processes management sustainable agriculture|Springer|2023|2023
+FMPMSA|scientific farm machinery processes management sustainable agriculture|Springer|2024|2024
+FMRIA|future material research industry application||2012|2012
+FMSB|formal methods systems biology first||2008|2008
+FMSDG|futuristic materials sustainable development goals|Springer|2026|2026
+FMSE|formal methods security engineering co located computer communications security||2008|2008
+FMSE|formal methods security engineering||2003|2007
+FMSE|fourth formal methods security engineering held conjuction computer communications security||2006|2006
+FMSI|fracture mechanics materials structural integrity|Elsevier|2019|2019
+FMSP|formal methods software practice||2000|2000
+FMSP|frontiers materials synthesis processing|IOP|2020|2020
+FMST|frontiers materials science technology||2008|2008
+FMSYS|foundation models cyber physical systems internet things cyber physical systems internet things week cps iot week workshops|ACM|2025|2025
+FMSYS|foundation models cyber physical systems internet things|IEEE|2024|2024
+FMS|foundations modern statistics|Springer|2023|2023
+FMS|sigplan formal methods security co located|ACM|2018|2018
+FMTC|faculty management technology|Springer|2026|2026
+FMTEA|formal methods teaching|Springer|2024|2026
+FMTEA|tutorial held as part world congress formal methods fm|Springer|2019|2021
+FMV|full motion video workflows technologies intelligence surveillance reconnaissance situational awareness||2012|2012
+FNANO|extended abstracts foundations nanoscience self assembled architectures devices||2009|2009
+FNANO|foundations nanoscience self assembled architectures devices||2005|2020
+FNCES|national engineering sciences||2012|2012
+FNC|future networks communications mobile systems pervasive computing sustainable energy information technology|Elsevier|2023|2025
+FNC|future networks communications mobile systems pervasive computing|Elsevier|2014|2014
+FNE|national forum statistics latin american congress statistical societies|Springer|2019|2019
+FNE|national statistics forum|Springer|2025|2025
+FNM|viii functional nanomaterials high purity substances||2021|2021
+FNP|financial narrative processing||2021|2021
+FNSS|future network systems security|Springer|2015|2019
+FNS|fnp joint financial narrative processing multiling financial summarisation||2020|2020
+FNWF|future networks world forum beyond connectivity 6g sustainable intelligent future|IEEE|2025|2025
+FNWF|future networks world forum future networks imagining network future|IEEE|2023|2023
+FNWF|future networks world forum|IEEE|2022|2024
+FOAL|foundations aspect oriented languages co located aspect oriented software development aosd||2009|2009
+FOAL|foundations aspect oriented languages co located|ACM|2014|2014
+FOAL|foundations aspect oriented languages||2011|2013
+FOAL|seventh foundations aspect oriented languages held seventh aspect oriented software development||2008|2008
+FOAL|sixth foundations aspect oriented languages was held sixth aspect oriented software development||2007|2007
+FOAMS|foam processing technology||2009|2011
+FOAMS|society petroleum engineers thermoplastic foam||2006|2006
+FOAMS|society plastics engineers foam materials technology||2010|2014
+FOAMS|thermoplastic foam processing technology technical papers||2004|2004
+FOAN|fiber optics access networks|IEEE|2019|2025
+FOAN|fiber optics access network|IEEE|2013|2017
+FOCI|foundations computational intelligence series computational intelligence||2013|2013
+FOCI|foundations computational intelligence||2007|2007
+FOCI|free open communications internet|ACM|2021|2021
+FOCI|usenix free open communications internet co located usenix security||2011|2020
+FOCS|foundations computer science||1979|2025
+FOC|fiber optics communications exposition||1982|1982
+FOC|west fiber optics communications papers presented fiber optics communications exposition year||1981|1981
+FODO|foundations data organization algorithms|Springer|1989|1993
+FODS|ims foundations data science|ACM|2020|2020
+FOE|future education||2021|2025
+FOGA|foundations genetic algorithms revised selected papers||2005|2007
+FOGA|foundations genetic algorithms xiii|ACM|2015|2015
+FOGA|foundations genetic algorithms||2013|2013
+FOGA|sigevo foundations genetic algorithms xi||2011|2011
+FOGA|sigevo foundations genetic algorithms|ACM|2009|2025
+FOIKS|foundations information knowledge systems first||2000|2000
+FOIKS|foundations information knowledge systems|Springer|2000|2026
+FOIS|formal ontology information systems||2020|2025
+FOIS|satellite satellite events formal ontology information systems ontology showcase demonstrations early career||2025|2025
+FOITIC|faculty industrial technology congress development multidisciplinary science engineering enhancing innovation reputation|EDP|2024|2024
+FOI|functional optical imaging||2011|2011
+FOMCD|future optical materials circuit design||2013|2013
+FOMC|sigact sigmobile foundations mobile computing||2011|2012
+FOMI|formal ontologies meet industry co located workshops about industrial ontology foundry european project ontocommons||2022|2022
+FOMI|formal ontologies meet industry|Springer|2006|2015
+FOMLADO|foundations models languages data objects|Springer|2000|2000
+FOMLAS|software verification formal methods ml enables autonomous systems numerical software verification|Springer|2022|2022
+FONES|eai forthcoming networks sustainability iot era|Springer|2021|2021
+FOODBALT|baltic food science technology innovations food science production||2011|2011
+FOODOPS|food operations processing simulation held multidisciplinary modeling simulation multiconference i3m||2017|2017
+FOODOPS|food operations processing simulation||2015|2024
+FOODSIM|simulation modelling food bio industry||2006|2024
+FOOL|rex school foundations object oriented languages|Springer|1991|1991
+FOPARA|foundational practical aspects resource analysis first revised selected papers||2010|2010
+FOPARA|foundational practical aspects resource analysis second revised selected papers||2012|2012
+FOPARA|foundational practical aspects resource analysis|Springer|2010|2016
+FORC|foundations responsible computing||2021|2026
+FORECO|forest ecosystems under climate change biological productivity remote sensing||2021|2021
+FORGE|ai foundation models software engineering|ACM|2024|2025
+FORITAAL|italian forum ambient assisted living|Springer|2017|2026
+FORMABS|formal methods analysis business systems co located|ACM|2016|2016
+FORMALISE|fme formal methods software engineering|ACM|2013|2017
+FORMALISE|formal methods software engineering|IEEE|2018|2025
+FORMATS|data modern architectures workloads|ACM|2026|2026
+FORMATS|formal modeling analysis timed systems third||2005|2005
+FORMATS|formal modeling analysis timed systems|Springer|2004|2023
+FORMATS|formal modelling analysis timed systems|Springer|2017|2017
+FORMATS|joint formal modelling analysis timed systems formal techniques real time fault tolerant systems|Springer|2004|2004
+FORMATS|joint quantitative evaluation systems formal modeling analysis timed systems qest|Springer|2026|2026
+FORMAT|forms formal methods automation safety railway automotive systems||2011|2014
+FORMING|metal metal||2008|2012
+FORMREQ|formal requirements|IEEE|2020|2020
+FORMSERA|formal methods software engineering rigorous agile approaches||2012|2012
+FORM|construction formation living environment|IOP|2023|2023
+FORM|scientific advance civil engineering construction formation living environment|EDP|2024|2024
+FORM|scientific construction formation living environment|EDP|2019|2023
+FORM|xxiii scientific advance civil engineering construction formation living environment engineering infrastructure|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment management construction|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment modern building materials|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment new construction technologies|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment preface|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment reliability buildings constructions|IOP|2020|2020
+FORM|xxiii scientific advance civil engineering construction formation living environment smart city|IOP|2020|2020
+FORM|xxvii scientific advance civil engineering construction formation living environment|IOP|2026|2026
+FORTE|formal techniques distributed objects components systems ifipwg6 held as part federated distributed computing techniques|Springer|2014|2014
+FORTE|formal techniques distributed systems joint ifip wg fmoods held as part federated distributed computing techniques||2013|2013
+FORTE|formal techniques networked distributed systems held conjunction theory building formal methods electronic mobile commerce european performance engineering integration testing methodologies|Springer|2004|2004
+FORTE|formal techniques networked distributed systems ifip wg|Springer|2005|2008
+FORTE|ifip tc6 wg6 formal description techniques distributed systems communications protocols|Elsevier|1994|1994
+FORTE|ifip tc6 wg6 formal description techniques|Elsevier|1994|1994
+FORTE|ifip wg formal methods networked distributed systems|Springer|2006|2008
+FORTE|ifip wg formal techniques distributed objects components systems held as part federated distributed computing techniques|Springer|2015|2026
+FORTE|ifip wg formal techniques networked distributed systems|Springer|2002|2007
+FORTE|ifip wg taipei formal techniques networked distributed systems|Springer|2005|2005
+FORTE|ifipwg6 formal techniques distributed objects components systems held as part federated distributed computing techniques|Springer|2022|2022
+FORTH|special interest group from classroom real world conjunction computer science computer science education applied computing|ACM|1993|1993
+FORUM|cavitation multiphase flow||1983|1987
+FORUM|cavitation polyphase flow presented aiaa asme joint thermophysics fluids plasma heat transfer||1982|1982
+FORUM|fluid measurements instrumentation||1986|1987
+FORUM|vertical flight society technology display future vertical flight||2021|2021
+FORUM|vertical flight society technology display||2022|2023
+FORUM|water world water issues evolution||1986|1986
+FOR|asme synfuels national need beyond||1981|1981
+FOR|glass science technology problems prospects||1985|1985
+FOR|honoring richard s stein american chemical society award polymer chemistry||1984|1984
+FOR|institution engineers sri lanka transactions||1984|1984
+FOR|iron steel pollution abatement technology||1983|1983
+FOR|iron steel pollution abatement||1982|1982
+FOR|record standards human factors nuclear safety||1980|1980
+FOR|record third human factors nuclear safety||1985|1985
+FOSADA|future software architecture design assistants part|ACM|2015|2015
+FOSAD|foundations security analysis design iv tutorial lectures||2007|2007
+FOSAD|foundations security analysis design v tutorial lectures|Springer|2009|2009
+FOSAD|school foundations security analysis design|Springer|2014|2014
+FOSAD|summer school foundations security analysis design|Springer|2016|2016
+FOSBE|foundations systems biology engineering|Elsevier|2019|2019
+FOSBE|ifac foundations systems biology engineering|Elsevier|2022|2024
+FOSD|feature oriented software development co located gpce||2013|2013
+FOSD|feature oriented software development co located|ACM|2016|2016
+FOSD|feature oriented software development||2010|2012
+FOSD|sigplan feature oriented software development co located|ACM|2017|2017
+FOSER|fse sdp future software engineering research||2010|2010
+FOSET|scientific food science egineering technology|EDP|2025|2025
+FOSET|scientific participation food science engineering technology|EDP|2022|2024
+FOSE|future software engineering|ACM|2007|2014
+FOSE|software engineering future software engineering icse|IEEE|2023|2023
+FOSM|frontiers software maintenance||2008|2008
+FOSSACS|foundations software science computation structures held as part european joint theory practice software|Springer|2013|2024
+FOSSACS|foundations software science computation structures held as part joint european theory practice software|Springer|1999|2006
+FOSSACS|foundations software science computation structures held as part joint theory practice software|Springer|2025|2026
+FOSSACS|foundations software science computation structures third held as part joint european theory practice software||2000|2000
+FOSSACS|foundations software science computation structures|Springer|1998|2017
+FOSSACS|foundations software science computational structures held as part european joint theory practice software|Springer|2012|2023
+FOSSACS|foundations software science computational structures held as part joint european theory practice software||2005|2011
+FOSSACS|foundations software science computational structures int held as part joint european theory practice software proc||2010|2010
+FOSSACS|foundations software science computational structures part joint european conf theory practice software proc||2009|2009
+FOTA|frontiers optimization theory applications|Springer|2018|2018
+FOVEOOS|formal verification object oriented software revised selected papers||2011|2012
+FOWANC|foundations wireless ad hoc sensor networking computing co located|ACM|2009|2009
+FPCA|functional programming languages computer architecture|ACM|1989|1993
+FPCDSL|sigplan functional programming concepts domain specific languages co located|ACM|2013|2013
+FPCP|flavor physics cp violation|EDP|2006|2024
+FPD|active matrix flatpanel displays devices am|IEEE|2024|2024
+FPD|active matrix flatpanel displays devices tft technologies materials am|IEEE|2012|2023
+FPD|am active matrix flatpanel displays devices tft technologies materials|IEEE|2014|2025
+FPGA|field programmable gate arrays|IEEE|1996|1996
+FPGA|fifteenth acmisigda field programmable gate arrays||2007|2007
+FPGA|fourteenth sigda field programmable gate arrays||2006|2006
+FPGA|sigda field programmable gate arrays|ACM|2000|2026
+FPGA|sigda thirteenth field programmable gate arrays||2005|2005
+FPGA|sigda twelfth field programmable gate arrays||2004|2004
+FPGA|sixteenth sigda field programmable gate arrays||2008|2008
+FPGA|tenth acn field programmable gate arrays||2002|2002
+FPID|isa food pharmaceutical industries division food pharmaceutical futures technology innovation global demands||2016|2016
+FPID|isa food pharmaceutical industries division pharmaceutical automation technology update control optimization measurement serialization||2015|2015
+FPLE|funtional programming languages education|Springer|1995|1995
+FPL|digest field programmable logic applications|IEEE|2014|2014
+FPL|field programmable logic applications reconfigurable computing is going mainstream||2002|2002
+FPL|field programmable logic applications|IEEE|1993|2025
+FPM|fluid power mechatronics|IEEE|2011|2023
+FPNI|ph d fluid power||2014|2016
+FPNSES|future power network smart energy systems issues challenges|Springer|2025|2025
+FPROPER|sigplan functional programming productivity performance co located|ACM|2024|2024
+FPSAC|formal power series algebraic combinatorics||2006|2019
+FPS|foundations practice security canada france mitacs revised selected papers||2012|2012
+FPS|foundations practice security revised selected papers|Springer|2013|2014
+FPS|foundations practice security|Springer|2015|2026
+FPS|from programs systems systems perspective computing etaps honor joseph sifakis|Springer|2014|2014
+FPT|fieid programmable technology|IEEE|2002|2002
+FPT|field programmable technology|IEEE|2003|2022
+FPW|future programming|ACM|2015|2015
+FQAS|flexible query answering systems|Springer|2002|2026
+FQMT|frontiers quantum mesoscopic thermodynamics||2012|2012
+FRACTURE|advances research||1984|1984
+FRAGBLAST|blasting mines new trends hosted rock fragmentation blasting||2013|2013
+FRAGBLAST|measurement analysis blast fragmentation hosted rock fragmentation blasting||2013|2013
+FRAGBLAST|performance explosives new developments hosted rock fragmentation blasting||2013|2013
+FRAGBLAST|rock fragmentation blasting rock fragmentation blasting||2013|2013
+FRAGBLAST|tunnelling rock drilling blasting hosted rock fragmentation blasting||2013|2013
+FRAMCOS3|fracture mechanics concrete concrete structures|Elsevier|2000|2000
+FRAMCOS|fracture mechanics concrete concrete structures||2013|2013
+FRAME|flexible resource application management edge co located|ACM|2022|2022
+FRAME|flexible resource application management edge part high performance parallel distributed computing|ACM|2024|2024
+FRAME|flexible resource application management edge|ACM|2021|2023
+FRAME|future recent advances mechanical engineering|IOP|2025|2025
+FRAPWS|frontier research astrophysics iii||2018|2018
+FRAPWS|frontier research astrophysics iv||2025|2025
+FRC|fibre reinforced concrete from design structural applications aci fib rilem||2020|2020
+FREECO|free composition||2011|2011
+FREQ|frequency control|IEEE|1958|1965
+FRESM|futuristic research engineering smart materials|Elsevier|2021|2021
+FRIAR|flood urban water management||2020|2022
+FRMDS|futuristic research modeling dynamical systems|IOP|2022|2022
+FROCOS|frontiers combining systems co located automated reasoning analytic related methods|Springer|2021|2021
+FROCOS|frontiers combining systems|Springer|2000|2026
+FROM|papers national convention iece japan||1986|1986
+FROM|working formal methods||2022|2025
+FRPRCS|fiber reinforced polymer reinforcement concrete structures||2011|2024
+FRPRCS|joint fiber reinforced polymers reinforced concrete structures asia pacific fiber reinforced polymers structures||2015|2015
+FRPR|development applications frp reinforcements da||2022|2022
+FRP|fiber reinforced polymer reinforcement concrete structures||2005|2005
+FRSE|frontiers robotics software engineering|Springer|2023|2025
+FRUCT|artificial intelligence natural language information extraction social media web search ainl ismw|IEEE|2015|2015
+FRUCT|intelligence social media web ismw|IEEE|2016|2016
+FRUCT|open innovations association||2013|2026
+FRUGALTHINGS|experiences design implementation frugal smart objects|ACM|2020|2020
+FSAB|food science biotechnology|IOP|2021|2021
+FSAET|futuristic sustainable aspects engineering technology|IOP|2023|2023
+FSBE|frontiers biological sciences engineering|IOP|2020|2020
+FSCD|formal structures computation deduction||2020|2025
+FSC|future smart cities resilient responsible architecture urbanism|Springer|2023|2023
+FSC|future smart cities|Springer|2024|2026
+FSDM|fuzzy systems data mining ix||2023|2023
+FSDM|fuzzy systems data mining viii||2022|2022
+FSDM|fuzzy systems data mining vii||2021|2021
+FSDM|fuzzy systems data mining vi||2020|2020
+FSDM|fuzzy systems data mining v||2019|2019
+FSDM|fuzzy systems data mining xi||2026|2026
+FSDM|fuzzy systems data mining x||2024|2024
+FSE8|sigsoft eighth foundations software engineering||2000|2000
+FSEDS|doctoral sigsoft foundations software engineering||2008|2008
+FSEN|fundamentals software engineering ipm revised selected papers||2012|2012
+FSEN|fundamentals software engineering revised selected papers|Springer|2013|2013
+FSEN|fundamentals software engineering third ipm revised selected papers||2010|2010
+FSEN|fundamentals software engineering|Springer|2007|2021
+FSEN|ifip wg fundamentals software engineering|Springer|2025|2025
+FSEN|ipm fundamentals software engineering|Springer|2023|2023
+FSE|esec joint european software engineering sigsoft foundations software engineering||2009|2009
+FSE|esec joint meeting european so ftware engineering foundations so ftware engineering|ACM|2018|2018
+FSE|esec joint meeting european software engineering foundations software engineering|ACM|2019|2023
+FSE|esec joint meeting european software engineering sigsoft foundations software engineering companion papers||2007|2007
+FSE|esec joint meeting sixth specification verification component based systems||2007|2007
+FSE|european software engineering held jointly sigsoft foundations software engineering esec||2003|2003
+FSE|european software engineering software engineering esec|Springer|1997|1997
+FSE|fase4games foundations applied software engineering games co located esec|ACM|2024|2024
+FSE|fast software encryption internationalworkshop lausanne switzerland february revised selected papers|Springer|2008|2008
+FSE|fast software encryption revised selected papers|Springer|2005|2014
+FSE|fast software encryption|Springer|1997|2016
+FSE|gamify gamification software development verification validation co located esec|ACM|2022|2023
+FSE|joint european software engineering sigsoft foundations software engineering||2005|2005
+FSE|joint european software engineering sigsoft symoposium foundations software engineering||2003|2003
+FSE|joint meeting european software engineering sigsoft foundation software engineering esec||2007|2007
+FSE|joint meeting european software engineering sigsoft foundations software engineering esec|ACM|2007|2015
+FSE|msr4p s mining software repositories applications privacy security co located esec|ACM|2022|2022
+FSE|nl4se sigsoft nlp software engineering co located|ACM|2018|2018
+FSE|qp4se quantum programming software engineering co located esec|ACM|2022|2023
+FSE|qse ne quantum software engineering next evolution co located esec|ACM|2024|2024
+FSE|rl se pl sigsoft representation learning software engineering program languages co located esec|ACM|2020|2020
+FSE|se4safeml dependability trustworthiness safety critical systems machine learned components co located esec|ACM|2023|2023
+FSE|sea4dq software engineering ai data quality cyber physical systems internet things co located esec|ACM|2022|2024
+FSE|sigsoft foundations software engineering||2010|2012
+FSE|sigsoft sigsoft foundations software engineering||2011|2011
+FSE|software engineering esec european software engineering held jointly sigsoft foundations software engineering||1999|1999
+FSE|tenth sigsoft foundations software engineering||2002|2002
+FSFMA|french singaporean formal methods applications||2013|2013
+FSF|seminar fire safety facades|EDP|2013|2013
+FSIC|forest society|IOP|2024|2024
+FSI|subrata chakrabarti fluid structure interaction||2013|2013
+FSKD|fourth fuzzy systems knowledge discovery||2007|2007
+FSKD|fuzzy systems knowledge discovery second part i||2005|2005
+FSKD|fuzzy systems knowledge discovery second|Springer|2005|2006
+FSKD|fuzzy systems knowledge discovery third|Springer|2006|2006
+FSKD|fuzzy systems knowledge discovery|IEEE|2008|2015
+FSKD|icnc natural computation fuzzy systems knowledge discovery|IEEE|2017|2025
+FSKD|natural computation fuzzy systems knowledge discovery icnc co located harmony search soft computing applications|Springer|2019|2019
+FSKD|natural computation fuzzy systems knowledge discovery icnc|IEEE|2016|2016
+FSMNLP|finite state methods natural language processing revised selected papers||2010|2010
+FSMNLP|finite state methods natural language processing||2011|2021
+FSO|physics switching arc||2005|2019
+FSPMA|functional structural plant growth modeling simulation visualization applications|IEEE|2016|2016
+FSP|fpgas software programmers co located field programmable logic applications||2017|2019
+FSRAABA|scientific practical fundamental scientific research their applied aspects biotechnology agriculture|EDP|2021|2021
+FSR|field service robotics|Springer|2006|2016
+FSSAT|food security sustainable agriculture tropics|IOP|2023|2023
+FSSAT|food security sustainable agriculturein tropics ic adapting agricultural production covid||2021|2021
+FSSAT|food security sustainable agriculturein tropics ic crop production environment||2021|2021
+FSSAT|food security sustainable agriculturein tropics ic preface||2021|2021
+FSSAT|food security sustainable agriculturein tropics ic smart farming agricultural engineering||2021|2021
+FSSCIT|russian advances fuzzy systems soft computing selected contributions fuzzy systems soft soft computing intelligent technologies||2020|2020
+FSSIC|fluid structure sound interactions control|Springer|2016|2024
+FSS|food security innovative solutions sustainable agriculture food security|IOP|2025|2025
+FST&TCS|foundations software technology theoretical computer science fst tcs|Springer|1993|1993
+FSTTCS|foundations software technology theoretical computer science|Springer|2005|2012
+FSTTCS|iarcs foundations software technology theoretical computer science||2008|2025
+FSWP|friction stir welding processing held as part meeting exhibition|Springer|2025|2025
+FTAI|future telecommunications artificial intelligence ic|IEEE|2024|2025
+FTAL|sustainable smart cities regions||2021|2021
+FTA|fabrication testing aspheres||1999|1999
+FTCS|digest papers fault tolerant computing systems||1986|1986
+FTCS|digest papers fault tolerant computing|IEEE|1984|1998
+FTCS|digest papers fifteenth fault tolerant computing||1985|1985
+FTCS|digest papers seventeenth fault tolerant computing||1987|1987
+FTCS|eighteenth fault tolerant computing digest papers||1988|1988
+FTCS|fault tolerant computing|IEEE|1990|1992
+FTCS|frontiers technology circuits systems|IEEE|2025|2025
+FTC|future technologies|Springer|2016|2026
+FTDCS|future trends distributed computing systems|IEEE|1999|2008
+FTFC|faible tension faible consommation||2011|2014
+FTFJP|formal techniques java like programs co located ecoop|ACM|2021|2021
+FTFJP|formal techniques java like programs co located papers presented||2012|2012
+FTFJP|formal techniques java like programs co located|ACM|2014|2024
+FTFJP|formal techniques java like programs|ACM|2009|2023
+FTFJP|sigplan formal techniques java like programs co located|ACM|2020|2020
+FTMDD|future trends model driven development conjunction||2010|2010
+FTMDD|future trends model driven development future trends model driven development conjunction||2009|2009
+FTM|american gear manufacturers association fall technical meeting agma||2008|2015
+FTM|american gear manufacturers association fall technical meeting held motion power technology expo||2025|2025
+FTM|american gear manufacturers association fall technical meeting||2022|2024
+FTM|fall technical meeting american gear manufacturers association agma||2006|2007
+FTNCT|futuristic trends network communication technologies|Springer|2019|2021
+FTNCT|futuristic trends networks computing technologiess|Springer|2020|2020
+FTNCT|futuristic trends networks computing technologies|Springer|2022|2025
+FTPDS|fault tolerant parallel distributed systems|IEEE|1994|1994
+FTP|first order theorem proving||2009|2009
+FTRI|digital transformation methods skills technologies public administration joint expert public administration informatics law informatics digitale transformation methoden kompetenzen und technologien fur die verwaltung gemeinsame fachtagung verwaltungsinformatik und fachtagung rechtsinformatik||2016|2016
+FTRTFT|formal techniques real time fault tolerant systems|Springer|1988|2002
+FTSCS|formal techniques safety critical systems|Springer|2014|2020
+FTSCS|sigplan formal techniques safety critical systems co located|ACM|2022|2023
+FTS|fault top seals||2022|2022
+FTS|fourier transform spectroscopy||1999|2021
+FTTE|frontiers traffic transportation engineering|SPIE|2022|2026
+FTVI|administrative informatics legal informatics fachtagung verwaltungsinformatik fachtagung rechtsinformatik||2010|2010
+FTVI|digitalisierung von staat und verwaltung gemeinsame fachtagung verwaltungsinformatik und fachtagung rechtsinformatik||2019|2019
+FTVI|way open networked smart administrative culture collaboration administrative informatics legal informatics auf dem weg zu einer offenen smarten und vernetzten verwaltungskultur gemeinsame fachtagung verwaltungsinformatik und fachtagung rechtsinformatik||2012|2012
+FTW|flaky tests|ACM|2024|2026
+FTXS|fault tolerance hpc extreme scale co located|ACM|2017|2017
+FTXS|fault tolerance hpc extreme scale held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+FTXS|fault tolerance hpc extreme scale held conjunction sc18 high performance computing networking storage analysis|IEEE|2018|2018
+FTXS|fault tolerance hpc extreme scale part|ACM|2015|2015
+FTXS|fault tolerance hpc extreme scale|ACM|2013|2016
+FT|recent advancement concrete freezing thawing durability||2010|2010
+FUELCELL|fourth asme fuel cell science engineering technology cell||2006|2006
+FUMCA|system support future mobile computing applications||2006|2006
+FUNARCH|sigplan functional software architecture co located icfp|ACM|2025|2025
+FUNARCH|sigplan functional software architecture co located|ACM|2023|2024
+FUNCMAT|brazilian functional structural materials||2013|2013
+FUSION|heavy ion collisions near barrier energies|EDP|2024|2024
+FUSION|information internal information||2007|2007
+FUSION|npss engineering|IEEE|1991|1991
+FUSION|seventh information volume ii||2004|2004
+FUSION|seventh information volume||2004|2004
+FUTURED|future event detection||2024|2024
+FUTUREHPC|future hpc systems challenges power constrained performance held conjunction supercomputing||2012|2012
+FUTURENETW|future network mobile summit||2011|2012
+FUTUREPLAY|gdc canada future game design technology||2009|2009
+FUTURETECH|ftra future information technology|Springer|2015|2015
+FUTURETECH|future information technology application service||2012|2012
+FUTURETECH|future information technology|Springer|2010|2019
+FUTURETV|future television making television personal social held european interactive tv video||2011|2011
+FUZZING|co located|ACM|2024|2024
+FUZZ|cis fuzzy systems|IEEE|2021|2021
+FUZZ|confernce north american fuzzy information processing society nafips||2000|2000
+FUZZ|fuzzy systems|IEEE|2008|2025
+FVCA|finite volumes complex applications fvca10|Springer|2023|2023
+FVCA|finite volumes complex applications|Springer|2020|2023
+FWC|fog world congress|IEEE|2017|2017
+FWPE|seminar fields waves photonics electro optics theory practical applications|IEEE|2023|2023
+FWPR|ferroelectrics part||2000|2000
+FYEE|first year engineering experience||2020|2024

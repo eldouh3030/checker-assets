@@ -1,0 +1,396 @@
+UAAII|ubiquitous affective awareness intelligent interaction||2011|2011
+UACE|underwater acoustics exhibition||2019|2025
+UADLTF|ukrainian distributed ledger technology forum|IEEE|2023|2023
+UAHCI|universal access human computer interaction addressing diversity held as part hci||2009|2009
+UAHCI|universal access human computer interaction aging assistive environments held as part hci|Springer|2014|2014
+UAHCI|universal access human computer interaction ambient interaction universal access human computer interaction held as part hci||2007|2007
+UAHCI|universal access human computer interaction applications services held as part hci||2009|2011
+UAHCI|universal access human computer interaction applications services quality life held as part hci||2013|2013
+UAHCI|universal access human computer interaction applications services universal access human computer interaction held as part hci||2007|2007
+UAHCI|universal access human computer interaction context diversity held as part hci||2011|2011
+UAHCI|universal access human computer interaction coping diversity universal access human computer interaction held as part hci||2007|2007
+UAHCI|universal access human computer interaction design all accessibility practice held as part hci|Springer|2014|2014
+UAHCI|universal access human computer interaction design all einclusion held as part hci||2011|2011
+UAHCI|universal access human computer interaction design development methods universal access held as part hci|Springer|2014|2014
+UAHCI|universal access human computer interaction design methods tools interaction techniques einclusion held as part hci||2013|2013
+UAHCI|universal access human computer interaction held as part hci|Springer|2018|2025
+UAHCI|universal access human computer interaction held as part human computer interaction hci|Springer|2015|2019
+UAHCI|universal access human computer interaction held as part human computer interaction|Springer|2017|2023
+UAHCI|universal access human computer interaction intelligent ubiquitous interaction environments held as part hci||2009|2009
+UAHCI|universal access human computer interaction universal access information knowledge held as part hci|Springer|2014|2014
+UAHCI|universal access human computer interaction user context diversity held as part hci||2013|2013
+UAHCI|universal access human computer interaction users diversity held as part hci||2011|2011
+UAHCI|universal access human computer interaction|Springer|2015|2016
+UAI|epistemic uncertainty artificial intelligence epi|Springer|2024|2024
+UAI|uncertainty artificial intelligence||2005|2025
+UAMAERO|application three dimensional aerosol model south coast air basin||1997|1997
+UASG|unmanned aerial system geomatics|Springer|2023|2023
+UAS|ifac research education development unmanned aerial systems red||2013|2013
+UAS|research education development unmanned aerial systems red|IEEE|2015|2019
+UAVM|uavs multimedia capturing world from new perspective co located mm|ACM|2023|2025
+UAVM|uavs multimedia|ACM|2024|2024
+UAV|deep learning based computer vision dl visual computing machine learning biomedical applications held computer analysis images patterns|Springer|2019|2019
+UBDM|utility based data mining||2005|2005
+UBICNET|eai ubiquitous communications network computing|Springer|2019|2019
+UBICNET|ubiquitous communications network computing|Springer|2018|2021
+UBICOMM|mobile ubiquitous computing systems services technologies pervasive computing embedded systems||2011|2011
+UBICOMM|mobile ubiquitous computing systems services technologies||2007|2024
+UBICOMP|adjunct adjunct publication ubiquitous computing||2013|2013
+UBICOMP|adjunct joint pervasive ubiquitous computing|ACM|2014|2016
+UBICOMP|joint pervasive ubiquitous computing|ACM|2013|2016
+UBICOMP|ubiquitous computing adjunct|ACM|2010|2010
+UBICOMP|ubiquitous computing|Springer|2002|2012
+UBICROWD|ubiquitous crowdsouring||2011|2011
+UBIMOB|french speaking mobility ubiquity computing actes des quatriemes journees francophones mobilite et ubiquite|ACM|2008|2008
+UBIMOB|french speaking mobility ubiquity computing||2004|2009
+UBISEC|ubiquitous security|Springer|2022|2025
+UBMK|computer science engineering|IEEE|2017|2025
+UCAMI|ubiquitous computing ambient intelligence context awareness context driven interaction||2013|2013
+UCAMI|ubiquitous computing ambient intelligence|Springer|2012|2026
+UCANS|meeting union compact accelerator driven neutron sources|EDP|2024|2024
+UCAWSN|ftra ubiquitous computing application wireless sensor network|Springer|2015|2015
+UCAWSN|ubiquitous computing application wireless sensor network|Springer|2016|2016
+UCCV|user centered computer vision||2013|2013
+UCC|companion companion utility cloud computing|ACM|2017|2017
+UCC|companion utility cloud computing|ACM|2019|2021
+UCC|the10th utility cloud computing|ACM|2017|2017
+UCC|utility cloud computing|IEEE|2011|2025
+UCDEAS|user centred design evaluation adaptive systems held user modeling adaptation personalization||2009|2009
+UCD|model tests numerical simulations liquefaction lateral spreading leap|Springer|2020|2020
+UCERSTI|user centric evaluation recommender systems their interfaces||2010|2010
+UCET|uk china emerging technologies|IEEE|2019|2021
+UCHPC|euro par parallel processing workshops bigdatacloud dihc fedici heteropar hibb lsdve mhpc omhi padabs proper resilience rome revised selected papers|Springer|2014|2014
+UCIP|ultrasound control industrial processes||2012|2012
+UCMA|ubiquitous computing multimedia applications second||2011|2011
+UCMA|ubiquitous computing multimedia applications||2010|2012
+UCMEDIA|user centric media first revised selected papers||2010|2010
+UCMEDIA|user centric media second icst revised selected papers||2012|2012
+UCMMT|uk europe china millimeter waves terahertz technologies|IEEE|2018|2019
+UCMMT|uk europe china millimeter waves thz technology|IEEE|2013|2015
+UCMMT|uk europe china millimetre waves terahertz technologies|IEEE|2016|2023
+UCMMT|united millemetre waves terahertz technologies|IEEE|2024|2024
+UCMMT|united millimeter waves terahertz technologies|IEEE|2025|2025
+UCNC|unconventional computation natural computation|Springer|2012|2026
+UCOMMS|underwater communications networking|IEEE|2014|2024
+UCPSS|fifth ultra clean processing silicon surfaces||2003|2003
+UCPSS|internatinal ultra clean processing silicon surfaces||2000|2000
+UCPSS|ultra clean processing semiconductor surfaces ix||2009|2009
+UCPSS|ultra clean processing semiconductor surfaces viii selected peer reviewed papers from ultra clean processing semiconductor surfaces||2008|2008
+UCPSS|ultra clean processing semiconductor surfaces||2008|2021
+UCPSS|ultra clean processing silicon surfaces||1999|2005
+UCSUD|urban climate sustainability urban design|Springer|2025|2025
+UCS|ubiquitous computing systems second revised selected papers||2005|2005
+UCS|ubiquitous computing systems third|Springer|2006|2006
+UCS|ubiquitous computing systems||2007|2007
+UCT|urban construction transportation|EDP|2024|2024
+UCUI|understanding city urban informatics co located|ACM|2015|2015
+UCVP|use context vision processing conjunction multimodal interfaces machine learning multi modal interaction icmi||2009|2009
+UDCC|high quality urban development beautiful countryside construction|Springer|2025|2026
+UDG|understanding different geographies|Springer|2013|2013
+UDMV|eurographics urban data modelling visualisation||2013|2016
+UDM|ubiquitous data management||2005|2005
+UDM|urban drainage modelling|Springer|2019|2019
+UDS|urban data science||2020|2020
+UDW|universal dependencies be held as part||2021|2021
+UDW|universal dependencies||2023|2023
+UECTC|us eu china thermophysics renewable energy||2009|2009
+UEDC|city is not tree urban ecologies divided cities|Springer|2023|2023
+UEMCON|ubiquitous computing electronics mobile communication|IEEE|2016|2025
+UEMCOS|ubiquitous emerging concepts sensors transducers|IEEE|2019|2019
+UEMGREEN|ubiquitous energy management green environment|IEEE|2019|2019
+UEO|ultrafast electronics optoelectronics||1993|2003
+UEO|user engagement optimization co located||2013|2013
+UEPMR|urban environmental pollution monitoring remediation|Springer|2026|2026
+UESF|ural environmental science forum sustainable development industrial region|EDP|2021|2024
+UFFCS|frequency control exposition ultrasonics ferroelectrics frequency control society||2005|2005
+UFGNM|open school nis countries ultrafine grained nanostructured materials||2020|2020
+UFGNSM|ultrafine grained nano structured materials||2014|2014
+UFMF1|nato advanced research modern aspects ferroelectricity open ukranian french meeting ferroelectricity||2001|2001
+UFO|ultrafast optics ultrafast optics ufoxiii||2023|2023
+UGAS|society petroleum engineers spe middle east unconventional gas exhibition unconventional tight gas bridging gaps sustainable economic development||2013|2013
+UGC|department defense high performance computing modernization program users group hpcmp||2009|2009
+UGC|dod high performance computing modernization program users group hpcmp||2011|2011
+UGC|hpcmp users group||2006|2006
+UGC|society petroleum engineers spe americas unconventional gas||2011|2011
+UGC|users group||2004|2004
+UGIM|biennial university government industry micro nano||2010|2012
+UGIM|university government industry microelectronics||1983|1983
+UGM|icst geoscience environmental management|EDP|2023|2023
+UGM|science technology icst|IOP|2025|2025
+UGR|society petroleum engineers spe unconventional gas recovery||1980|1984
+UGS|user generated services located joint service oriented computing||2009|2009
+UGT|society petroleum engineers spe unconventional gas technology||1986|1986
+UHDL|research education urban history age digital libraries|Springer|2021|2021
+UHECR|ultra high energy cosmic rays||2025|2025
+UIA|ultrasonic industry association|IEEE|2009|2025
+UICAT|unhas agricultural technology|IOP|2023|2024
+UICMS|uitm mathematical sciences|Springer|2025|2025
+UIC|symposia workshops ubiquitous autonomic trusted computing conjunction||2010|2010
+UIC|ubiquitous intelligence computing autonomic trusted computing||2013|2013
+UIC|ubiquitous intelligence computing third|Springer|2006|2006
+UIC|ubiquitous intelligence computing|Springer|2007|2011
+UIDIS|user interfaces data intensive systems|IEEE|1999|2001
+UIIR|understanding user logging interpreting user interactions information search retrieval conjunction||2009|2009
+UIST|adjunct adjunct publication user interface software technology|ACM|2013|2019
+UIST|adjunct adjunct user interface software technology|ACM|2022|2023
+UIST|adjunct publication user interface software technology|ACM|2014|2021
+UIST|adjunct user interface software technology|ACM|2011|2016
+UIST|siggraph user interface software technology|ACM|1988|1990
+UIST|user interface software technology adjunct||2010|2010
+UIST|user interface software technology user interface software technology||2008|2008
+UIST|user interface software technology|ACM|1991|2025
+UIT|heat transfer|IOP|2022|2024
+UIUA|underground infrastructure urban areas||2018|2018
+UKCBR|uk case based reasoning|Springer|2011|2020
+UKCI|uk computational intelligence|Springer|2005|2020
+UKICER|united kingdom ireland computing education research|ACM|2020|2024
+UKITOICES|uki toraja education science|IOP|2023|2023
+UKIWCWS|uk india cognitive wireless systems||2009|2009
+UKIWCWS|uk india idrc cognitive wireless systems||2010|2010
+UKMAS|uk workshops multi agent systems|Springer|2002|2002
+UKRCON|ukraine electrical computer engineering|IEEE|2017|2021
+UKRMICO|information telecommunication technologies radio electronics|IEEE|2017|2023
+UKRMICO|scientific radio electronics info communications|IEEE|2016|2016
+UKRMW|ukrainian microwave week|IEEE|2020|2022
+UKRPROG|scientific practical programming||2024|2024
+UKSIM|amss computer modelling simulation|IEEE|2014|2016
+UKSIM|amss modelling simulation|IEEE|2017|2018
+UKSIM|computer modelling simulation eurosim uksim2008||2008|2008
+UKSIM|computer modelling simulation||2009|2013
+UKSIM|modelling simulation||2011|2012
+UKSIM|uksim2010 computer modelling simulation||2010|2010
+ULICOSTE|universitas lampung science technology environment|IOP|2022|2022
+ULIS|eurosoi joint eurosoi ultimate integration silicon|IEEE|2015|2015
+ULIS|joint eurosoi ultimate integration silicon eurosoi|IEEE|2016|2021
+ULIS|joint eurosol ultimate integration silicon eurosoi|IEEE|2017|2017
+ULIS|ultimate integration silicon incorporating technology briefing day||2013|2013
+ULIS|ultimate integration silicon||2008|2014
+ULITE|understanding literature references academic full text co located joint digital libraries||2022|2022
+ULSSIS|software engineering ultra large scale software intensive systems||2008|2008
+ULTRAVIS|proc int ultrascale visualization held conjunction sc int high performance computing networking storage analysis|ACM|2013|2013
+ULTRAVIS|ultrascale visualization|ACM|2008|2009
+UMAP|adjunct adjunct publication user modeling adaptation personalization|ACM|2019|2020
+UMAP|adjunct publication user modeling adaptation personalization|ACM|2017|2021
+UMAP|adjunct user modeling adaptation personalization|ACM|2023|2025
+UMAP|advances user modeling workshops revised selected papers||2012|2012
+UMAP|poster user modeling adaptation personalization||2012|2012
+UMAP|umap2022 adjunct user modeling adaptation personalization|ACM|2022|2022
+UMAP|umap2022 user modeling adaptation personalization|ACM|2022|2022
+UMAP|user modeling adaptation personalization formerly um ah||2009|2009
+UMAP|user modeling adaptation personalization|ACM|2010|2026
+UMAP|user modeling adaption personalization||2011|2011
+UMAP|ws joint workshops co located user modeling adaptation personalization||2026|2026
+UMC|ubiquitous multimedia computing||2008|2008
+UMC|ultrafast magnetism|Springer|2014|2014
+UMC|unconventional models computation|Springer|2002|2002
+UMD|scientific forum ural mining decade|EDP|2020|2020
+UMEDIA|joint awareness science technology ubi media computing can we realize awareness via ubi media icast||2013|2013
+UMEDIA|ubi media computing proceeedings|IEEE|2015|2015
+UMFM|sigspatial urban mobility foundation models|ACM|2025|2025
+UMICS|caise ubiquitous mobile information collaboration systems|Springer|2005|2005
+UMICS|ubiquitous mobile information collaboration systems caiseworkshop revised selected papers|Springer|2004|2004
+UMI|research as part urban mobility india expo|Springer|2024|2024
+UML|modeling languages applications satellite activities||2005|2005
+UML|unified modeling language model engineering concepts tools||2002|2002
+UML|unified modeling language|Springer|1999|2003
+UMSO|unconventional modelling simulation optimization soft computing meta heuristic|IEEE|2018|2018
+UNCECOMP|eccomas thematic uncertainty quantification computational sciences engineering||2015|2023
+UNCECOMP|uncertainty quantification computational science engineering||2025|2025
+UNCECOMP|uncertainty quantification computational sciences engineering||2017|2021
+UNCERTAINLP|uncertainty aware nlp||2024|2024
+UNCERTAINTY|geologic environment part||1996|1996
+UNEECC|university networks european capitals culture|Springer|2026|2026
+UNESST|computer applications database education ubiquitous computing el dta held as part future generation information technology||2012|2012
+UNESST|u e service science technology held as part future generation information technology conjunction||2011|2011
+UNESST|u e service science technology held as part future generation information technology||2010|2010
+UNESST|u e service science technology|IEEE|2015|2015
+UNET|ubiquitous networking|Springer|2016|2024
+UNIDL|uncertainty description logics||2010|2010
+UNIFIED|emerging technologies cyber physical systems industrial ai|Springer|2026|2026
+UNILIBNSD|university library new stage social communications development||2025|2025
+UNIMPLICIT|understanding implicit underspecified language||2021|2024
+UNIREPS|edition unifying representations neural models||2024|2024
+UNIREPS|unifying representations neural models||2023|2025
+UNISCON|information systems modeling development integration third united information systems|Springer|2009|2009
+UNISCON|united information systems|Springer|2008|2013
+UNITECR|biennial worldwide congress unified technical refractories conjunction colloquium refractories||2015|2015
+UNITECR|biennial worldwide refractories||2011|2011
+UNITECR|unified technical refractories biennial worldwide congress conj int colloquium refractories||2007|2007
+UNITECR|unified technical refractories biennial worldwide congress refractories||2006|2006
+UNITECR|unified technical refractories||2014|2022
+UNI|electronic congress e con|IEEE|2017|2017
+UNLP|ukrainian natural language processing lrec||2024|2024
+UNSAT|asia pacific unsaturated soil mechanics from theory practice ap||2016|2016
+UNSAT|asia pacific unsaturated soils ap||2019|2019
+UNSAT|european unsaturated soils e|EDP|2020|2020
+UNSAT|unsaturated soils advances geo engineering european unsaturated soils e||2008|2008
+UNSAT|unsaturated soils research applications unsaturated soils||2014|2014
+UNSAT|unsaturated soils|EDP|2023|2023
+UNSURE|uncertainty safe utilization machine learning medical imaging clinical image based procedures held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+UNSURE|uncertainty safe utilization machine learning medical imaging graphs biomedical image analysis held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+UNSURE|uncertainty safe utilization machine learning medical imaging held conjunction medical image computing computer assisted intervention|Springer|2022|2026
+UNSURE|uncertainty safe utilization machine learning medical imaging perinatal preterm paediatric image analysis held conjunction medical image computing computer assisted intervention|Springer|2021|2021
+UODIGS|siggraph user oriented design interactive graphics systems|ACM|1976|1976
+UOGS|society petroleum engineers spe unconventionals middle east from exploration development optimisation||2022|2022
+UOLMM|robust understanding low quality multimedia data unitive enhancement analysis evaluation|ACM|2022|2022
+UPADSD|urban planning architectural design sustainable development circular economy sustainable development|Springer|2023|2023
+UPADSD|urban planning architectural design sustainable development|Springer|2022|2025
+UPCON|electrical electronics computer engineering|IEEE|2019|2019
+UPCON|up section electrical computer electronics|IEEE|2015|2015
+UPCON|uttar pradesh section electrical computer electronics engineering|IEEE|2016|2016
+UPCON|uttar pradesh section electrical computer electronics|IEEE|2017|2017
+UPCON|uttar pradesh section electrical electronics computer engineering|IEEE|2018|2025
+UPDATE|automotive manufacturing||1981|1981
+UPDATE|dialog dialog users||1984|1984
+UPEC|universities power engineering big data smart grids|IEEE|2022|2022
+UPEC|universities power engineering part||1997|1997
+UPEC|universities power engineering powering net zero emissions|IEEE|2021|2021
+UPEC|universities power engineering procedings||2006|2006
+UPEC|universities power engineering september belfast northern ireland||2000|2000
+UPEC|universities power engineering upec2005||2005|2005
+UPEC|universities power engineering upec2009||2009|2009
+UPEC|universities power engineering|IEEE|2004|2025
+UPGRADE|high performance distributed computing use p2p grid agents development content networks||2008|2008
+UPINCASE|upy applied science education|IOP|2021|2023
+UPINLBS|ubiquitous positioning indoor navigation location based services|IEEE|2016|2025
+UPINLBS|ubiquitous positioning indoor navigation location based service|IEEE|2010|2015
+UPIOT|joint ubiquitous power internet things green energy smart grid|IOP|2019|2019
+UPIOT|ubiquitous power internet things green energy smart grid||2020|2020
+UPON|unsolved problems noise fluctuations unsolved problems noise fluctuations physics biology high technology|IOP|2003|2003
+UPP|unconventional programming paradigms revised selected invited papers||2005|2005
+UPSEC|usability psychology security||2008|2008
+UPT|latest trends urban planning transportation wseas urban planning transportation||2010|2010
+UPWIECON|uttar pradesh section women engineering electrical electronics computer engineering|IEEE|2025|2025
+URAI|ubiquitous robots ambient intelligence|IEEE|2011|2017
+URALCON|ural electrical power engineering|IEEE|2019|2025
+URALCON|ural green energy|IEEE|2018|2018
+URALCON|ural measurements|IEEE|2017|2017
+URBANAI|sigspatial advances|ACM|2025|2025
+URBANE|conext urban networking||2012|2012
+URBANGIS|sigspatial smart cities urban analytics|ACM|2015|2016
+URBANMM|multimedia computing urban data co located mm|ACM|2021|2021
+URBANRAIN|precipitation urban areas rainfall monitoring modelling forecasting urban environments||2019|2019
+URBANRAIN|precipitation urban areas urban challenges rainfall analysis||2017|2017
+URBANRAIN|rainfall urban natural systems precipitation urban areas||2015|2015
+URBAN|grss isprs joint remote sensing data fusion over areas|IEEE|2003|2003
+URBCOMP|urban computing held conjunction||2012|2013
+URBSYS|urban building energy sensing controls big data analysis visualization part|ACM|2020|2020
+URCC|society petroleum engineers spe canada unconventional resources||2020|2020
+URC|society petroleum engineers spe canada unconventional resources||2018|2018
+URC|undergraduate research applied computing ai sustainable economy|IEEE|2024|2024
+URC|undergraduate research applied computing|IEEE|2020|2020
+URC|undergraduate research ict resilient sustainable infrastructure|IEEE|2022|2022
+URGENTHPC|hpc urgent decision making held conjunction sc high performance computing networking storage analysis|IEEE|2019|2021
+URGENTHPC|workshops urgent interactive hpc held conjunction sc high performance computing networking storage analysis|IEEE|2020|2020
+URICET|universitas riau education technology|IEEE|2021|2021
+URICSE|universitas riau science environment|IOP|2019|2021
+URKE|uncertainty reasoning knowledge engineering||2011|2012
+URM|scientific research knowledge based technologies development utilization mineral resources|EDP|2021|2021
+URSIGASS|ursi general assembly scientific||2011|2011
+URSI|antem antenna technology applied electromagnetics canadian radio sciences|IEEE|2006|2006
+URSI|antem antenna technology applied electromagnetics|IEEE|2004|2004
+URSI|antenna technology applied electromagnetics canadian radio sciences meeting antem||2009|2009
+URSI|antennas propagation cnc usnc radio science meeting leading wave ap s||2010|2010
+URSI|antennas propagation inc usncursi radio science meeting ap s inc usnc|IEEE|2024|2024
+URSI|antennas propagation north american radio science meeting ap s cnc usnc|IEEE|2025|2025
+URSI|antennas propagation north american radio science meeting aps|IEEE|2021|2021
+URSI|antennas propagation usnc radio science meeting ap s|IEEE|2022|2023
+URSI|inc usnc radio science meeting inc usnc|IEEE|2024|2024
+URSI|usnc radio science meeting ap s|IEEE|2023|2023
+URSI|usnc radio science meeting usnc|IEEE|2013|2022
+URSW|uncertain reasoning semantic web i iswac workshops revisd selected invited papers||2008|2008
+URSW|uncertainty reasoning semantic web collocated semantic web||2009|2012
+URSW|uncertainty reasoning semantic web held conjunction semantic web||2008|2008
+URSW|uncertainty reasoning semantic web ii workshops held iswc held floc revised selected papers||2013|2013
+URSW|uncertainty reasoning semantic web||2005|2007
+URS|green urbanism gu urban regeneration sustainability|Springer|2024|2024
+URS|urban regeneration sustainability|Springer|2022|2025
+URTC|mit undergraduate research technology|IEEE|2015|2025
+URTC|society petroleum engineers spe aapg seg unconventional resources technology||2023|2025
+URTC|spe aapg seg unconventional resources technology||2018|2022
+URTC|unconventional resources technology||2013|2013
+URTEC|society petroleum engineers unconventional resources technology||2015|2015
+URTEC|spe aapg seg asia pacific unconventional resources technology asia pacific||2021|2021
+URTEC|spe aapg seg unconventional resources technology||2020|2020
+USAB|hci usability e inclusion workgroup human computer interaction usability engineering austrian computer society||2009|2009
+USAB|hci usability education work workgroup human computer interaction usability engineering austrian computer society||2008|2008
+USAB|hci usability medicine health care third workgroup human computer interaction usability engineering austrian computer society||2007|2007
+USAB|hci work learning life leisure workgroup human computer interaction usability engineering||2010|2010
+USAB|information quality e health workgroup human computer interaction usability engineering austrian computer society||2011|2011
+USAD|ee understanding subjective attributes data focus evoked emotions co located mm|ACM|2018|2018
+USARE|usability accessibility focused requirements engineering held conjunction software engineering usability accessibility focused requirements engineering held conjunction requirements engineering re|Springer|2016|2016
+USARE|usability accessibility focused requirements engineering|IEEE|2012|2014
+USAS|utopian sacred architecture|Springer|2025|2025
+USA|aimcal r2r roll roll web coating finishing spe s flexpackcon||2017|2018
+USA|capacitor resistor technology||1994|1994
+USA|european mpi users group meeting eurompi|ACM|2020|2022
+USA|itc telemetering||1986|1986
+USA|ntc telemetering||1986|1986
+USA|passive components carts||2005|2011
+USA|passive electronics carts||2008|2009
+USA|pira sizing||2004|2004
+USA|telemetering itc||1990|1990
+USA|telemetering technical exhibition itc||2012|2012
+USA|telemetric itc||1991|1991
+USBEREIT|ural biomedical engineering radioelectronics information technology|IEEE|2018|2022
+USBEREIT|ural siberian biomedical engineering radioelectronics information technology|IEEE|2023|2025
+USCG|asme marine technology standards||2010|2018
+USCUDAR|recent advances urban planning cultural sustainability green development urban sustainability cultural sustainability green development green structures clean cars||2010|2010
+USCUDAR|recent researches urban sustainability green development urban sustainability cultural sustainability green development green structures clean cars||2011|2011
+USEC|financial cryptography data security fc usable security revised selected papers||2007|2007
+USEC|ural smart energy|IEEE|2020|2020
+USED|i interplay between usability evaluation software development||2008|2009
+USENIX|high speed networking||1994|1994
+USENIX|middleware ifip|Springer|2006|2006
+USENIX|object oriented technologies||1995|1996
+USENIX|very high level languages||1994|1994
+USEREST|use remote sensing techniques monitoring volcanoes seismogenic areas||2008|2008
+USERSWEB|end user aspects semantic web||2005|2005
+USERS|gis errachidia gis|EDP|2025|2025
+USER|evaluation software engineering researchers||2012|2012
+USER|evaluations software engineering researchers||2013|2013
+USER|science engineering experience engineer engage i|IEEE|2014|2014
+USER|science engineering i|Springer|2010|2018
+USEWARE|vdi vde human technology interaction age industry||2016|2016
+USE|ubiquitous systems evaluation conjunction ubicomp||2008|2008
+USE|ultrasonic electronics||1994|1994
+USITS|usenix internet technologies systems||1997|2003
+USME|scientific practical ukrainian school mining engineering|EDP|2019|2019
+USME|ukrainian school mining engineering|EDP|2020|2020
+USM|ifip gi trends distributed systems|Springer|2000|2000
+USRMS|dc rocks u s rock mechanics||2001|2001
+USRMS|u s rock mechanics||1956|1998
+USRMS|vail rocks u s rock mechanics||1999|1999
+USSEC|ural siberian smart energy|IEEE|2021|2021
+USS|underwater science||1997|1997
+UST|unmanned systems technology|IEEE|2025|2025
+USUZCAMP|usa uzbekistan analysis mathematical physics|Springer|2018|2018
+USYS|underwater system technology theory applications|IEEE|2016|2024
+USYS|underwater system technology theory application|IEEE|2018|2018
+UTCA|pervasive technology artificial intelligence communication|IOP|2024|2024
+UTCE|society petroleum engineers iadc spe underbalanced technology exhibition||2003|2003
+UTF|umbilicals future||1995|1995
+UTILIZATION|ocean space|Springer|1985|1985
+UTI|underwater techology remote intervention||1997|1997
+UTP|unifying theories programming first revised selected papers|Springer|2006|2006
+UTP|unifying theories programming revised selected papers||2013|2013
+UTP|unifying theories programming second revised selected papers||2010|2010
+UTP|unifying theories programming third||2010|2010
+UTP|unifying theories programming|Springer|2010|2019
+UUST|unmanned untethered submersible technology|IEEE|1980|1987
+UVS|unmanned vehicle systems oman intelligent systems industrial challenges|IEEE|2026|2026
+UVS|unmanned vehicle systems oman|IEEE|2019|2024
+UVX|coherent incoherent sources uv vuv x applications recent developments 10e colloque sur les sources coherentes et incoherentes uv vuv et x applications et developpements recents|EDP|2011|2011
+UVX|coherent incoherent sources uv vuv x applications recent developments 11e colloque sur les sources coherentes et incoherentes uv vuv et x applications et developpements recents|EDP|2013|2013
+UVX|coherent incoherent sources uv vuv x applications recent developments 9e colloque sur les sources coherentes et incoherentes uv vuv et x applications et developpements recents|EDP|2009|2009
+UWBST|ultra wideband systems technologies digest papers||2002|2002
+UWBST|ultra wideband systems technologies||2003|2003
+UWBUSIS|confernce ultrawideband ultrashort impulse signals||2010|2010
+UWBUSIS|second ultrawideband ultrashort impulse signals||2004|2004
+UWBUSIS|ultrawideband ultrashort impulse signals september sevastopol ukraine||2008|2008
+UWBUSIS|ultrawideband ultrashort impulse signals|IEEE|2006|2018
+UXELATE|user experience e learning augmented technologies education co located multimedia||2012|2012
+UXSED|i interplay between user experience evaluation software development conjunction nordic human computer interaction||2012|2012
+UXSED|interplay between user experience software development i||2010|2010
+UXTV|uxtv08 designing interactive user experiences tv video||2008|2008
+UYMS|turkish national software engineering|IEEE|2020|2021

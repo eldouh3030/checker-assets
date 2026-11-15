@@ -1,0 +1,1250 @@
+WAA|third wavelet analysis its applications volume||2003|2003
+WAA|wavelet analysis its applications|Springer|2001|2001
+WABBWUAS|architectures building blocks web based user adaptive systems||2010|2010
+WABD|algorithm big data|ACM|2021|2021
+WABI|algorithms bioinformatics|Springer|2001|2025
+WAB|multimodal product identification livestreaming challenge co located mm|ACM|2021|2021
+WACA|adaptable cloud architectures||2025|2025
+WACBE|world congress bioengineering|Springer|2015|2015
+WACCPD|accelerator programming using directives held conjunction high performance computing networking storage analysis sc|Springer|2018|2018
+WACCPD|accelerator programming using directives held conjunction sc high performance computing networking storage analysis|IEEE|2014|2022
+WACCPD|accelerator programming using directives|Springer|2019|2022
+WACC|joint work activities coordination collaboration|ACM|1999|1999
+WACC|national advances communication computing|Springer|2014|2014
+WACE|ifac aerospace control education|Elsevier|2024|2024
+WACOWC|west asian colloquium optical wireless communications|IEEE|2019|2019
+WACVW|cvf winter applications computer vision workshops|IEEE|2022|2025
+WACVW|winter applications computer vision workshops|IEEE|2015|2024
+WACV|applications computer vision|IEEE|1996|2013
+WACV|cvf winter applications computer vision|IEEE|2022|2026
+WACV|seventh applications computer vision||2007|2007
+WACV|winter applications computer vision|IEEE|2014|2025
+WAC|applied computing co located computing congress cc||2022|2022
+WAC|atoms clusters||1992|1992
+WAC|autonomic communication second ifip revised selected papers||2006|2006
+WAC|autonomie communication first ifip||2005|2005
+WAC|biannual world automation congress|Springer|2026|2026
+WAC|ifip autonomic communication|Springer|2005|2006
+WAC|image processing biomedicine multimedia financial engineering manufacturing forum multimedia image processing ifmip sixth biannual world automation congress||2004|2004
+WAC|intelligent automation control trends principles applications intelligent automation control isiac sixth biannual world automation congress||2004|2004
+WAC|multimedia image processing soft computing trends principles applications biannual world automation congress||2002|2002
+WAC|robotics automation control manufacturing trends principles applications biannual world automation congress||2002|2002
+WAC|robotics trends principles applications robotics applications isora sixth biannual world automation congress||2004|2004
+WAC|soft computing industrial applications soft computing industry issci sixth biannual world automation congress||2004|2004
+WAC|web as corpus held european chapter association computational linguistics||2014|2014
+WAC|web as corpus north american chapter association computational linguistics human language technologies naacl||2010|2010
+WAC|wireless africa|IEEE|2019|2025
+WAC|world automation congress||2007|2022
+WADAS|washington ada ada empowering software users developers|ACM|1992|1992
+WADAS|washington ada ada|ACM|1990|1990
+WADAS|washington ada summer sigada meeting ada software foundation competitveness|ACM|1991|1991
+WADGMM|applications discrete geometry mathematical morphology first revised selected papers||2012|2012
+WADL|ifip tc architecture description languages|Springer|2005|2005
+WADS|algorithms data structures|Springer|1989|2025
+WADT|algebraic development techniques|Springer|1998|2021
+WADT|ifip wg algebraic development techniques|Springer|2017|2025
+WADT|recent trends algebraic development techniques joint cofi wg meeting selected papers||2002|2002
+WADT|recent trends algebraic development techniques revised selected papers||2009|2013
+WADT|recent trends algebraic development techniques|Springer|2000|2007
+WAE|algorithm engineering|Springer|1999|2001
+WAFR|algorithmic foundations robotics|Springer|2013|2026
+WAF|physical agents|Springer|2019|2021
+WAGT|isomorphisms symmetry computations algebraic graph theory|Springer|2020|2020
+WAHC|encrypted computing applied homomorphic cryptography co located|ACM|2021|2024
+WAHC|encrypted computing applied homomorphic cryptography|ACM|2019|2025
+WAHC|financial cryptography data security fc workshops usec revised selected papers||2013|2013
+WAHC|workshops financial cryptography data security fc held conjuction encrypted computing applied homomorphic cryptography blockchain research advances secure electronic schemes trusted smart contracts targeted attacks ta|Springer|2017|2017
+WAIE|artificial intelligence education|IEEE|2020|2025
+WAIFI|arithmetic finite fields first proceedigs||2007|2007
+WAIFI|arithmetic finite fields third||2010|2010
+WAIFI|arithmetic finite fields workshops||2008|2008
+WAIFI|arithmetic finite fields|Springer|2012|2026
+WAIFI|arithmetic finite field|Springer|2021|2021
+WAIHCWS|aspects human computer interaction social web anais do iii sobre aspectos da interacao humano computador para web social||2011|2011
+WAIHCWS|human computer interaction aspects social web human computer interaction aspects social web|Springer|2020|2020
+WAILS|artificial intelligence learning sciences past present future horizons|Springer|2024|2026
+WAIM|advances data web management joint apweb||2009|2009
+WAIM|advances web age information management|Springer|2005|2006
+WAIM|advances web network technologies information management apweb workshops dbir revised selected papers||2009|2009
+WAIM|advances web network technologies information management apweb workshops||2007|2007
+WAIM|apweb joint web big data apweb|Springer|2019|2019
+WAIM|asia pacific web web age information management joint web big data apweb conjunction knowledge graph management applications semi structured big data management applications deep learning large scale unstructured data analytics|Springer|2021|2021
+WAIM|asia pacific web web age information management joint web big data apweb held conjuction mobile web data analytics hot topics big spatial data urban computing graph data management analysis data driven crowdsourcing spatio temporal data management analytics mobility analytics from spatial social data|Springer|2017|2017
+WAIM|asia pacific web web age information management joint web big data apweb knowledge graph management applications semi structured big data management application deep learning large scale unstructured data analytics|Springer|2021|2021
+WAIM|asia pacific web web age information management joint web big data apweb knowledge graph management applications semi structured big data management applications deep learning large scale unstructured data analytics|Springer|2023|2023
+WAIM|asia pacific web web age information management joint web big data apweb|Springer|2017|2026
+WAIM|joint asia pacific web web age information management apweb|Springer|2021|2023
+WAIM|web age information management held conjunction spatiotemporal data management mining web semi structured big data management applications mobile web data analytics|Springer|2016|2016
+WAIM|web age information management workshops gdmm iwsn mdsp usdm xmldm||2012|2012
+WAIM|web age information management workshops hardbd mdsp bigem tmsn lqpm bdms||2013|2013
+WAIM|web age information management workshops revised selected papers||2010|2012
+WAIM|web age information management|Springer|2000|2016
+WAIM|workshops web age information management|Springer|2015|2015
+WAINA|advanced information networking applications workshops|IEEE|2009|2018
+WAINA|workshops advanced information networking applications|Springer|2020|2020
+WAIN|ai engineering software engineering ai|IEEE|2021|2021
+WAISE|workshops assure decsos sassur strive co located computer safety reliability security|Springer|2018|2018
+WAISS|euro mediterranean artificial intelligence smart systems co located verification evaluation computer communication systems||2025|2025
+WAI|advanced interconnects|IEEE|2025|2025
+WAI|artificial intelligence co located computing congress cc||2022|2022
+WALCOM|algorithms computation second||2008|2008
+WALCOM|algorithms computation third||2009|2009
+WALCOM|algorithms computations|Springer|2019|2019
+WALCOM|algorithms computation|Springer|2010|2021
+WALCOM|workshops algorithms computation|Springer|2020|2026
+WALM|seventh web age information management workshops||2006|2006
+WALTD|advanced learning technologies disabled non disabled people held conjunction advanced learning technologies||2008|2008
+WALTD|proc advanced learning technologies disabled non disabled people held conjunction int conf advanced learning technologies||2007|2007
+WALT|congress world association laser therapy||2006|2006
+WALT|updates from congress world association laser therapy||2010|2010
+WALT|world association laser therapy congress||2012|2012
+WALT|world association laser therapy||2008|2008
+WALT|world congress world association laser therapy||2016|2016
+WAMA|app market analytics co located|ACM|2016|2016
+WAMA|sigsoft app market analytics co located esec|ACM|2019|2019
+WAMA|sigsoft app market analytics co located|ACM|2017|2017
+WAMCA|applications multi core architecture||2012|2012
+WAMCA|architecture multi core applications||2011|2011
+WAMICON|wireless microwave technology|IEEE|2005|2025
+WAMSDO|accelerator magnet superconductors design optimization||2009|2013
+WAMS|applied modeling simulation||2015|2015
+WAMS|wireless antenna microwave|IEEE|2022|2025
+WAMTA|asynchronous many task systems applications|Springer|2023|2026
+WAMUS|wseas wavelet analysis multirate systems wseas non linear analysis non linear systems chaos||2010|2010
+WAMWB|advances mobile wearable biometrics co located mobile human computer interaction||2023|2023
+WAM|predictive theoretical computational experimental approaches additive manufacturing|Springer|2018|2018
+WANLP|arabic natural language processing||2021|2022
+WANLP|co located arabic natural language processing||2017|2017
+WAOA|approximation online algorithms internationalworkshop revised papers||2008|2008
+WAOA|approximation online algorithms revised papers||2007|2011
+WAOA|approximation online algorithms revised selected papers|Springer|2012|2014
+WAOA|approximation online algorithms second||2005|2005
+WAOA|approximation online algorithms third revised selected papers||2006|2006
+WAOA|approximation online algorithms|Springer|2004|2026
+WAPCV|attention cognitive systems attention cognitive systems revised selected papers||2009|2009
+WAPCV|attention cognitive systems theories systems from interdisciplinary viewpoint attention cognitive systems revised selected papers||2007|2007
+WAPCV|attention performance computational vision second||2005|2005
+WAPI|api usage evolution|IEEE|2017|2017
+WARA|associative rings algebras additional structures|Springer|2024|2024
+WARN|altruist social robots personalized continuous adaptive assistance bailar behavior adaptation learning assistive robotics scrita trust acceptance social cues human robot interaction weighing benefits autonomous robot personalisation altruist bailar scrita co located ro||2024|2024
+WARTIA|advanced research technology industry applications|IEEE|2014|2014
+WASA|applications software agents||2011|2011
+WASA|automotive software architecture part|ACM|2015|2015
+WASA|automotive systems software architectures|IEEE|2016|2016
+WASA|second wireless algorithms systems applications||2007|2007
+WASA|siggraph asia||2012|2012
+WASA|wireless algorithms systems applications third||2008|2008
+WASA|wireless algorithms systems applications|Springer|2009|2022
+WASA|wireless algoritnms systems applications first|Springer|2006|2006
+WASA|wireless artificial intelligent computing systems applications|Springer|2025|2025
+WASD|world association sustainable development s sustainability||2024|2024
+WASD|world association sustainable development||2023|2023
+WASL|usenix analysis system logs||2008|2008
+WASOWC|west asian optical millimeter wave wireless communications|IEEE|2020|2022
+WASPAA|applications signal processing audio acoustics|IEEE|1993|2025
+WASPI|sigsoft automated specification inference co located|ACM|2018|2018
+WASSA|computational approaches subjectivity sentiment analysis meeting association computational linguistics human language technologies acl||2011|2011
+WASSA|computational approaches subjectivity sentiment analysis||2012|2012
+WASSA|computational approaches subjectivity sentiment social media analysis empirical methods natural language processing||2015|2015
+WASSA|computational approaches subjectivity sentiment social media analysis meeting association computational linguistics||2014|2014
+WASSA|computational approaches subjectivity sentiment social media analysis north american chapter association computational linguistics human language technologies naacl||2016|2016
+WASSA|computational approaches subjectivity sentiment social media analysis||2013|2026
+WASTES|solutions treatments opportunities||2018|2018
+WASTE|management municipal as important factor sustainable urban development|IEEE|2018|2018
+WASUN|erratum pe performance evaluation wireless ad hoc sensor ubiquitous networks|ACM|2020|2020
+WASUN|pe first performance evaluation wireless ad hoc sensor ubiquitous networks||2004|2004
+WASUN|pe fourth performance evaluation wireless ad hoc sensor ubiquitous networks||2007|2007
+WASUN|pe performance evaluation wireless ad hoc sensor ubiquitious networks||2008|2008
+WASUN|pe performance evaluation wireless ad hoc sensor ubiquitous networks co located|ACM|2010|2017
+WASUN|pe performance evaluation wireless ad hoc sensor ubiquitous networks|ACM|2009|2023
+WASUN|pe second performance evaluation wireless ad hoc sensor ubiquitous networks||2005|2005
+WASUN|pe third performance evaluation wireless ad hoc sensor ubiquitous networks||2006|2006
+WATCH|analytics telemetry cybersecurity hpcc|ACM|2025|2025
+WATERMATEX|systems analysis water quality management||1991|1991
+WATER|anniversary iwsa technology towards twenty first century||1988|1988
+WATER|anti malware testing research|IEEE|2013|2015
+WATER|quality drought human health engineering water2006||2006|2006
+WAT|agreement technologies||2009|2010
+WAT|asian translation computational linguistics||2022|2022
+WAT|asian translation||2015|2024
+WAT|mts machine translation summit asian translation||2023|2023
+WAVE|advanced virtual environments education|Springer|2022|2022
+WAW|algorithms models web graph|Springer|2004|2023
+WAW|modelling mining networks|Springer|2024|2026
+WBCS|ifip tc6 broadband satellite communication systems challenges mobility|Springer|2005|2005
+WBDB|big data benchmarking|Springer|2015|2016
+WBDB|specifying big data benchmarks first second revised selected papers||2014|2014
+WBD|brain decoding pattern recognition challenges neuroimaging conjunction pattern recognition||2010|2010
+WBE|iasted multiconferences iasted web based education||2013|2013
+WBE|iasted web based education||2005|2010
+WBIA|binary instrumentation applications cooperation microarchitecture||2009|2009
+WBIA|biomedical image analysis|IEEE|1998|1998
+WBIR|biomedical image registration held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+WBIR|biomedical image registration third|Springer|2006|2006
+WBIR|biomedical image registration|Springer|2003|2022
+WBIS|big data information security|IEEE|2017|2017
+WBL|advances blended learning second blended learning jinhua china august revised selected papers||2008|2008
+WBMA|brazilian agile methods|Springer|2015|2023
+WBMA|sigmm biometrics methods applications|ACM|2003|2003
+WBPA|branching processes their applications|Springer|2016|2016
+WCAE|computer architecture education held conjunction computer architecture|ACM|2002|2005
+WCAE|computer architecture education|ACM|1998|2025
+WCAE|world acoustic emission|Springer|2014|2019
+WCAIAA|world artificial intelligence advances applications|Springer|2026|2026
+WCAL|computing advanced localization indoor positioning indoor navigation co located indoor positioning indoor navigation||2025|2025
+WCB|world congress biomechanics conjunction biomedical engineering icbme asia pacific biomechanics apbiomech||2010|2010
+WCCAIS|world congress computer applications information systems|IEEE|2014|2014
+WCCA|asabe world congress computers agriculture natural resources||2009|2009
+WCCCE|western canadian computing education cooperation sigcse|ACM|2014|2014
+WCCCE|western canadian computing education held cooperation special interest group computer science education|ACM|2018|2018
+WCCCE|western canadian computing education|ACM|2009|2024
+WCCCS|codes cryptography communication systems|IEEE|2014|2014
+WCCCT|world computing communication technologies|IEEE|2020|2026
+WCCCT|world congress computing communication technologies|IEEE|2014|2017
+WCCEST|world cutting edge science technology|IEEE|2025|2025
+WCCE|computers education ifip tc world computers education||1981|1981
+WCCE|education technology better world ifip tc world computers education||2009|2009
+WCCE|ifip tc world computers education|Springer|2017|2017
+WCCE|ifip world computers education|Springer|2005|2023
+WCCIS|world computer information security|Springer|2025|2026
+WCCIT|world congress computer information technology||2013|2013
+WCCI|advances computational intelligence world congress computational intelligence plenary invited lectures||2012|2012
+WCCI|ai6g short paper artificial intelligence beyond 5g 6g wireless networks co located world congress computational intelligence||2022|2022
+WCCI|computational intelligence research frontiers world congress computational intelligence plenary invited lectures||2008|2008
+WCCI|world congress computational intelligence congress evolutionary computation||2010|2010
+WCCI|world congress computational intelligence joint neural networks|IEEE|2010|2010
+WCCI|world congress computational intelligence||2010|2010
+WCCM|world congress computational mechanics european computational mechanics european computational fluid dynamics||2014|2014
+WCCM|world congress computational mechanics||2015|2015
+WCCM|world congress condition monitoring|Springer|2017|2026
+WCCST|proceedngs world computational science technology|IEEE|2026|2026
+WCCS|world complex systems|IEEE|2015|2024
+WCC|artificial intelligence theory practice iii third ifip tc artificial intelligence ifip ai held as part||2010|2010
+WCC|coding cryptography revised selected papers|Springer|2006|2006
+WCC|ifip tc artificial intelligence ifip ai held as part ifip world computer congress|Springer|2010|2010
+WCC|ifip tc artificial intelligence ifip ai held as part world computer congress|Springer|2015|2015
+WCC|ifip tc enterprise architecture integration interoperability eai2n held as part ifip world computer congress|Springer|2010|2010
+WCC|ifip wg history computing hc held as part world computer congress|Springer|2010|2010
+WCC|ifip wg history computing hc held ifip world computer congress|Springer|2019|2019
+WCC|ifip world computer congress ifip history computing education||2008|2008
+WCC|ifip world computer congress ifip tc biologically inspired collaborative computing|Springer|2008|2008
+WCC|ifip world computer congress knowledge management action|Springer|2008|2008
+WCC|ifip world computer congress tc foundations computer science|Springer|2008|2008
+WCC|ifip world computer congress tc human computer interaction|Springer|2008|2008
+WCC|ifip world computer congress tc10 working distributed parallel embedded systems|Springer|2008|2008
+WCC|ifip world computer congress|Springer|2004|2017
+WCC|imia ifip joint e health e health held as part world computer congress|Springer|2010|2010
+WCDCC|computational design computer aided creativity co located computational creativity||2025|2025
+WCDS|cryptology data security co located||2026|2026
+WCEAM|engineering asset lifecycle management||2009|2009
+WCEAM|iseam flagship world congress engineering asset management|Springer|2022|2022
+WCEAM|world congress engineering asset management|Springer|2006|2026
+WCECS|advances electrical electronics engineering iaeng special edition world congress engineering computer science||2008|2008
+WCECS|world congress engineering computer science||2013|2019
+WCEEA|wireless communications electrical engineering automation|IEEE|2022|2022
+WCES|control embedded systems co located easton computing sciences||2021|2021
+WCES|control embedded systems co located tootill computing sciences||2022|2022
+WCET|worst case execution time analysis held conjunction euromicro real time systems||2011|2011
+WCET|worst case execution time analysis held euromicro real time systems||2011|2011
+WCET|worst case execution time analysis||2006|2024
+WCE|world congress engineering||2010|2022
+WCFLP|curry functional logic programming|ACM|2005|2005
+WCFS|world floating solutions|Springer|2022|2024
+WCFS|world floating structures|Springer|2025|2025
+WCGO|congress global optimization engineering science|Springer|2015|2015
+WCGO|world congress global optimization engineering science|Springer|2014|2014
+WCGO|world congress global optimization|Springer|2020|2020
+WCHBE|fifth water conservancy hydropower building engineering|SPIE|2026|2026
+WCHC|web coating handling||2016|2016
+WCICA|fifth world congress intelligent control auto mation volume||2004|2004
+WCICA|fifth world congress intelligent control automation volume||2004|2004
+WCICA|world congress intelligent control automation digest||2011|2011
+WCICA|world congress intelligent control automation volume||2000|2000
+WCICA|world congress intelligent control automation|IEEE|2002|2018
+WCICSS|world congress industrial control systems security|IEEE|2015|2016
+WCII|conditionals information inference revised selected papers||2005|2005
+WCIM|world congress industrial materials applications products technologies||2013|2014
+WCIS|world intelligent system industrial automation|Springer|2024|2024
+WCIS|world intelligent systems industrial automation|Springer|2021|2024
+WCITCA|world congress information technology computer applications|IEEE|2015|2015
+WCITD|ifip tc6 wireless communications information technology developing countries ifip tc network future nf held as part ifip world computer congress|Springer|2010|2010
+WCIT|world information technology||2011|2011
+WCI|computational intelligence theories applications future directions|IEEE|2015|2015
+WCLOUD|cloud education environments||2012|2012
+WCLP|deklarative ansatze zur kunstlichen intelligenz punktuelle beitrage post des workshops fur logische programmierung||2019|2019
+WCMEB|world congress management e business||2007|2007
+WCMEIM|world mechanical engineering intelligent manufacturing|IEEE|2019|2025
+WCM|conceptual modeling er held workshops ecomo|Springer|2000|2000
+WCNA|wireless communications networking applications|Springer|2016|2026
+WCNCW|wireless communications networking workshops|IEEE|2010|2026
+WCNCW|wireless communications networking|IEEE|2019|2019
+WCNC|computer networks communications co located easton computing sciences||2021|2021
+WCNC|computer networks communications co located tootill computing sciences||2022|2022
+WCNC|wireless communication networking volume|IEEE|2004|2004
+WCNC|wireless communications networking broadband wireless masses ready take off volume|IEEE|2005|2005
+WCNC|wireless communications networking broadband wireless masses ready take off|IEEE|2005|2005
+WCNC|wireless communications networking broadband wireless masses ready takeoff volume|IEEE|2005|2005
+WCNC|wireless communications networking dawn pervasive communication|IEEE|2003|2003
+WCNC|wireless communications networking volume|IEEE|2004|2004
+WCNC|wireless communications networking wcnc2006|IEEE|2006|2006
+WCNC|wireless communications networking|IEEE|2007|2026
+WCNIOT|wireless communication networking internet things|IEEE|2025|2025
+WCNIS|wireless communications networking information security||2010|2010
+WCNM|wireless communications networking mobile computing||2005|2005
+WCNPS|communication networks power systems|IEEE|2017|2025
+WCNR|world neutron radiography|Springer|2020|2026
+WCONF|world communication computing|IEEE|2023|2025
+WCOP|doctoral components architecture|ACM|2012|2014
+WCOSET|world congress science engineering technology|IOP|2023|2023
+WCO|computational optimization|Springer|2018|2025
+WCO|corrosion congress icc intercorr||2021|2021
+WCO|workshops computational optimization|Springer|2022|2022
+WCPAM|world pavement asset management||2019|2019
+WCPEC|world photovoltaic energy conversion joint pvsc pvsec eu pvsec|IEEE|2018|2018
+WCPR|computational personality recognition mm|ACM|2014|2014
+WCQR|world qualitative research|Springer|2019|2026
+WCRE|reverse engineering||2000|2000
+WCRE|software evolution week software maintenance reengineering reverse engineering csmr||2014|2014
+WCRE|working reverse engineering||1999|2013
+WCRML|crossmodal learning application|ACM|2019|2019
+WCSA|control sciences automation|ACM|2022|2022
+WCSE|computer science engineering information processing control engineering ipce||2015|2015
+WCSE|computer science engineering spring||2019|2019
+WCSE|computer science engineering summer||2014|2014
+WCSE|computer science engineering winter||2014|2014
+WCSE|computer science engineering||2009|2025
+WCSE|world congress software engineering||2012|2013
+WCSE|wri world congress software engineering||2009|2010
+WCSI|world seismic isolation energy dissipation active vibration control structures|Springer|2024|2024
+WCSI|world seismic isolation|Springer|2023|2023
+WCSN|ninth wireless communication sensor networks|Springer|2014|2014
+WCSN|wireless communication sensor networks||2008|2010
+WCSN|wireless communication sensor network|IEEE|2014|2014
+WCSP|wireless communications signal processing|IEEE|2009|2025
+WCST|world congress sustainable technologies|IEEE|2011|2016
+WCS|communication security|Springer|2018|2018
+WCS|world construction||2019|2025
+WCS|worldwide cybersecurity summit||2011|2012
+WCTE|from world timber engineering advancing timber future built environment||2025|2025
+WCTE|world timber engineering architecture engineering case studies||2012|2012
+WCTE|world timber engineering future timber engineering||2012|2012
+WCTE|world timber engineering poster papers||2012|2012
+WCTE|world timber engineering strength serviceability extreme events||2012|2012
+WCTE|world timber engineering timber engineering challenges solutions||2012|2012
+WCTE|world timber engineering||2006|2023
+WCTFTR|world futuristic trends research innovation social welfare|IEEE|2016|2016
+WCTR|recent advances emerging issues transport research|Elsevier|2020|2020
+WCTR|world transport research|Elsevier|2017|2025
+WCTS|wire cable technical||2000|2000
+WCTT|worst case traversal time co located real time system||2011|2011
+WCTT|worst case traversal time||2012|2012
+WCVA|computer vision applications held conjunction indian computer vision graphics image processing|Springer|2019|2019
+WCW|web content caching distribution|Springer|2004|2005
+WCX|sae world congress experience||2020|2024
+WCX|world congress experience||2019|2019
+WDAG|distributed algorithms|Springer|1988|1997
+WDA|data analytics||2024|2025
+WDC|security implications deepfakes cheapfakes held conjunction|ACM|2023|2023
+WDC|security implications deepfakes cheapfakes|ACM|2022|2025
+WDDDM|dependable distributed data management affiliated|ACM|2008|2008
+WDDM|dependable distributed data management|ACM|2009|2009
+WDD|waveform diversity design|IEEE|2004|2015
+WDES|joint software engineering systems systems distributed software development software ecosystems systems systems sesos|IEEE|2021|2021
+WDES|software engineering systems systems distributed software development software ecosystems systems systems sesos|IEEE|2019|2019
+WDFIA|digital forensics incident analysis||2007|2007
+WDFIA|digital forensics incidents analysis||2008|2008
+WDIA|advances depth image analysis applications selected invited papers||2013|2013
+WDM|wavelength division multiplexing components||1999|1999
+WDSA|water distribution systems analysis||2009|2012
+WDS|australian journal dairy technology||2007|2007
+WEAH|evolvable adaptive hardware||2007|2009
+WEARMME|wearable multimedia co located|ACM|2017|2017
+WEARRACON|wearable robotics association|IEEE|2019|2019
+WEARSYS|wearable systems applications co located|ACM|2016|2019
+WEARSYS|wearable systems applications part|ACM|2020|2020
+WEARSYS|wearable systems applications|ACM|2015|2018
+WEAR|engineering application research||2011|2011
+WEASELTECH|proc int empirical assessment software engineering languages technologies held int conf automated software eng||2007|2007
+WEAST|engineering education applied sciences technology||2021|2021
+WEA|engineering applications applied computer sciences engineering|Springer|2022|2022
+WEA|engineering applications congress engineering|IEEE|2015|2015
+WEA|engineering applications|Springer|2012|2026
+WEA|experimental algorithms|Springer|2006|2008
+WEA|experimental efficient algorithms|Springer|2003|2005
+WEA|software ecosystem architectures||2013|2013
+WEBDB|web databases co located|ACM|2010|2010
+WEBDB|web databases colocated sigmod|ACM|2004|2004
+WEBDB|web databases freshness correctness quality information knowledge web|ACM|2015|2015
+WEBDB|web databases web opinions truths beliefs confl|ACM|2017|2017
+WEBDB|web databases|ACM|2001|2018
+WEBDYN|web dynamics conjunction database theory||2001|2001
+WEBDYN|web dynamics conjunction world wide web||2002|2004
+WEBIST|web information systems technologies funchal madeira portugal may revised selected papers|Springer|2009|2009
+WEBIST|web information systems technologies revised selected papers|Springer|2010|2013
+WEBIST|web information systems technologies third revised selected papers|Springer|2008|2008
+WEBIST|web information systems technologies web information systems technologies|Springer|2023|2023
+WEBIST|web information systems technologies|SciTePress|2005|2025
+WEBIST|web information systems technology||2010|2010
+WEBI|web intelligence conjunction enterprise information systems|SciTePress|2013|2013
+WEBKDD|advances web mining web usage analysis knowledge discovery web revised papers||2006|2007
+WEBKDD|advances web mining web usage analysis knowledge discovery web revised selected papers|Springer|2006|2006
+WEBKDD|advances web mining web usage analysis knowledge discovery web social networks analysis sna revised papers||2009|2009
+WEBKDD|mining web data discovering usage patterns profiles|Springer|2003|2003
+WEBKDD|mining web log data across all customers touch points|Springer|2002|2002
+WEBMEDIA|anais de artigos completos do xvi simposio brasileiro de sistemas multimidia e web||2010|2010
+WEBMEDIA|brazilian multimedia web|ACM|2005|2023
+WEBMEDIA|brazillian multimedia web|ACM|2017|2019
+WEBMEDIA|series brazilian multimedia web||2006|2006
+WEBMEDIA|xvii brazilian multimedia web co located xxv brazilian database||2011|2011
+WEBMINE|from web social web discovering deploying user content profiles web mining revised selected invited papers||2007|2007
+WEBNLG|natural language generation semantic web||2016|2016
+WEBQUALITY|joint wicow airweb web quality||2011|2012
+WEBSCIENCE|hypertext hypermedia hypertext collaboration collective intelligence||2008|2008
+WEBSCIENCE|hypertext hypertext hypermedia ht creating||2008|2008
+WEBSCI|companion web science|ACM|2019|2020
+WEBSCI|ht hypertext social media co located|ACM|2022|2022
+WEBSCI|web science|ACM|2011|2026
+WEBTOUR|web tourism co located||2021|2021
+WEB|e business e life enabled convergence commerce work social life|Springer|2016|2016
+WEB|e business|Springer|2017|2025
+WEB|e life enabled convergence commerce work social life e business revised selected papers|Springer|2012|2012
+WEB|exploring grand challenges next generation e business e business revised selected papers|Springer|2010|2010
+WEB|latin american congress empowering our la|IEEE|2003|2003
+WEB|latin american congress la|IEEE|2012|2014
+WEB|latin american converence la||2007|2007
+WEB|latin american la||2008|2008
+WEB|tav testing analysis verification software||2008|2008
+WEB|testing analysis verification services applications tav||2006|2006
+WEB|third latin american congress la||2005|2005
+WECARE|wildlife endangered species conservation animal reproduction|EDP|2025|2025
+WECE|electronics communication engineering|SPIE|2024|2025
+WECONF|wave electronics its application information telecommunication systems|IEEE|2018|2026
+WECON|edition wireless networks embedded systems|IEEE|2018|2018
+WECON|wireless networks embedded systems|IEEE|2016|2016
+WECON|world engineering contemporary technologies nextgen sustainable technologies|IEEE|2025|2025
+WECSR|financial cryptography data security fc workshops rlcps revised selected papers||2012|2012
+WECSR|financial cryptography data security fc workshops usec revised selected papers|Springer|2012|2012
+WECU|educators day web engineering curricula||2010|2010
+WECWIS|advance issues e commerce web based information systems|IEEE|1999|1999
+WECWIS|advanced issues e commerce web based information systems|IEEE|2000|2002
+WEC|first electronic contracting||2004|2004
+WEC|fourth world enformatika||2005|2005
+WEC|world enformatika||2005|2005
+WEDELMUSIC|fourth web delivering music||2004|2004
+WEDELMUSIC|web delivering music|IEEE|2001|2003
+WEEC|world energy engineering congress||2005|2018
+WEEC|world energy engineering||2016|2016
+WEEF|world engineering education forum conjunction regional engineering education research higher education rcee steam education innovative practices higher education expo i|IEEE|2017|2017
+WEEF|world engineering education forum disruptive engineering education sustainable development|Elsevier|2020|2020
+WEEK|paper paper industry technical association papers||1984|1984
+WEEK|soft hard magnetic materials applications||1988|1988
+WEFCLIM|water energy food security context global climate change water scarcity|IOP|2025|2025
+WEFTEC|technical exhibition||2012|2024
+WEFTEC|water environment federation s technical exhibition||2019|2019
+WEFTEC|water environment federation technical exhibition||2013|2025
+WEH|exception handling co located sigsoft foundations software engineering||2008|2008
+WEH|exception handling||2012|2012
+WEIT|school theoretical computer science||2011|2013
+WEKEX|joint automatic knowledge base construction web scale knowledge extraction akbc north american chapter association computational linguistics human language technologies naacl||2012|2012
+WELCOM|australian welding institute welding computers||1983|1983
+WELCOM|electronic commerce|Springer|2001|2001
+WEMDCD|electrical machines design control diagnosis|IEEE|2013|2025
+WEPIR|birds joint bridging gap between information science information retrieval data science evaluation personalisation information retrieval co located sigir human information interactionand retrieval||2021|2021
+WERC|waste management education research|IEEE|2020|2025
+WERE|web requirements engineering||2010|2010
+WEROB|wearable robotics rehabilitation|IEEE|2017|2017
+WER|anais do em engenharia de requisitos requirements engineering||2020|2021
+WER|anais do em engenharia de requisitos||2014|2019
+WER|annals requirements engineering anais do em engenharia de requisitos||2017|2017
+WER|requirements engineering anais do em engenharia de requisitos||2013|2013
+WER|requirements engineering||2005|2012
+WESAAC|school agent systems their environment applications||2012|2012
+WESCANEX|digital communications||1988|1988
+WESCANEX|western canada s programmable control systems exhibition||1987|1987
+WESCON|idea microelectronics record|IEEE|1994|1994
+WESE|embedded cyber physical systems education organized as part embedded systems week|ACM|2016|2016
+WESE|embedded cyber physical systems education|ACM|2013|2015
+WESE|embedded systems education||2009|2011
+WESOACS|engineering service oriented applications cloud services adaptive service oriented cloud applications iot systems provisioning management context aware smart cities edition towards blockchain based collaborative enterprise edition smart data integration processing service based environments held conjunction service oriented computing|Springer|2020|2020
+WESOACS|workshops asoca ai pa fmciot held conjunction service oriented computing|Springer|2023|2023
+WESS|embedded systems security|ACM|2010|2015
+WESTEX|western expert systems||1987|1987
+WESTEX|western knowledge based engineering expert systems||1986|1986
+WEST|circuit expo||1986|1986
+WEST|mini micro record||1983|1983
+WEST|nepcon part||1996|1997
+WEST|technical program nepcon national electronic packaging production||1987|1987
+WETICE|enabling technologies infrastructure collaborative enterprises|IEEE|2016|2025
+WETICE|enabling technologies infrastructures collaborative enterprises|IEEE|2015|2015
+WETICE|fourteenth workshops enabling technologies infrastructure collaborative enterprises||2005|2005
+WETICE|workshops enabling technologies infrastructure collaborative enterprises||2006|2011
+WETICE|workshops enabling technologies infrastructures collaborative enterprises||2009|2009
+WETSEB|emerging trends software engineering blockchain|IEEE|2019|2025
+WETSOM|emerging trends software metrics co located||2011|2011
+WETSOM|emerging trends software metrics conjunction software engineering||2010|2010
+WETSOM|emerging trends software metrics|ACM|2012|2016
+WEUSE|end user software engineering|ACM|2005|2005
+WEVR|everyday virtual reality|IEEE|2015|2019
+WEWORC|research cryptology second western european revised selected papers||2008|2008
+WEWORC|research cryptology western european revised selected papers||2012|2012
+WEWORC|western european research cryptology||2005|2013
+WEWST|emerging web services technology||2006|2009
+WEWST|enhanced web service technologies||2010|2011
+WFCES|iii scientific forum computer energy sciences|IOP|2023|2023
+WFCES|scientific forum computer energy sciences|EDP|2021|2024
+WFCES|vii scientific forum computer energy sciences|SPIE|2026|2026
+WFCS|factory communication systems communication automation|IEEE|2021|2022
+WFCS|factory communication systems|IEEE|1995|2026
+WFC|world foundry congress advanced sustainable foundry||2014|2014
+WFC|world foundry congress creative foundry||2018|2018
+WFC|world foundry congress||2008|2024
+WFEO|joint event world federation engineering organisations federation information processing ifip held during world summit information society|Springer|2005|2005
+WFLP|functional constraint logic programming revised selected papers||2010|2011
+WFLP|functional constraint logic programming|Springer|2019|2021
+WFLP|functional logic programming|Springer|2011|2011
+WFM|formal models||2006|2007
+WFOPC|fibre optical passive components wfopc2011||2011|2011
+WFOPC|leos fibre optical passive components|IEEE|2002|2002
+WFOPC|wfopc2005 leos fibres optical passive components||2005|2005
+WFPST|world forum public safety technology|IEEE|2024|2024
+WFSDI|scientific forum sustainable development innovation|EDP|2021|2021
+WFSV|rina royal institution naval architects design construction wind farm support vessels||2016|2016
+WGAIS|world general artificial intelligence congress||2022|2022
+WGC|world gas||2018|2018
+WGEC|genetic evolutionary computing||2009|2009
+WGEC|second genetic evolutionary computing||2008|2008
+WGP|generic programming|ACM|2006|2006
+WGP|iticse iticse working group reports|ACM|2015|2015
+WGP|sigplan generic programming co located functional programming|ACM|2009|2009
+WGP|sigplan generic programming co located|ACM|2010|2015
+WGP|sigplan generic programming|ACM|2008|2014
+WGR|comped working group reports global computing education|ACM|2019|2024
+WGR|iticse final reports innovation technology computer science education working groups||2012|2012
+WGR|iticse innovation technology computer science education|ACM|2013|2013
+WGR|iticse iticse working group reports|ACM|2018|2018
+WGR|iticse publication working group reports innovation technology computer science education|ACM|2025|2026
+WGR|iticse working group reports from iticse innovation technology computer science education|ACM|2000|2001
+WGR|iticse working group reports innovation technology computer science education|ACM|2014|2023
+WGR|iticse working group reports iticse innovation technology computer science education|ACM|2007|2007
+WGR|sigcse virtual working group reports virtual global computing education|ACM|2025|2025
+WGR|working group reports from iticse innovation technology computer science education iticse||2002|2004
+WGR|working group reports from||2010|2010
+WHCM|health care management||2010|2010
+WHC|joint eurohaptics haptic interfaces virtual environment teleoperator systems world haptics|IEEE|2005|2005
+WHC|world haptics|IEEE|2011|2025
+WHEC|world hydrogen energy bridging continents h2||2022|2022
+WHEC|world hydrogen energy speeches plenary talks||2010|2010
+WHEC|world hydrogen energy||2006|2016
+WHH|iasme wseas continuum mechanics cm iasme wseas water resources hydraulics hydrology iasme wseas geology seismology||2011|2011
+WHICEB|wuhan e business|Springer|2012|2025
+WHISE|humanities semantic web co located extended semantic web||2020|2020
+WHISPERS|hyperspectral image signal processing evolution remote sensing program||2010|2011
+WHISPERS|hyperspectral image signal processing evolution remote sensing||2009|2018
+WHISPERS|hyperspectral image signal processing||2012|2012
+WHISPERS|hyperspectral imaging signal processing evolution remote sensing|IEEE|2019|2025
+WHPCF|high performance computational finance co located sc|ACM|2011|2011
+WHPCF|high performance computational finance held conjunction sc high performance computing networking storage analysis|IEEE|2014|2015
+WHPCF|high performance computational finance held conjunction sc int conf high performance computing networking storage analysis|ACM|2013|2013
+WHPCF|high performance computational finance|ACM|2009|2010
+WHPCF|work shop high performance computational finance||2008|2008
+WHP|heterogeneous processing|IEEE|1992|1992
+WHSP|higher symmetries physics|IOP|2009|2009
+WHTC|world hydrogen technology convention|Springer|2024|2024
+WHTTC|world hydrogen technology convention|Springer|2024|2024
+WIAD|wireless advanced|IEEE|2010|2018
+WIAMIS|image analysis multimedia interactive services||2007|2013
+WIAPP|internet applications|IEEE|2001|2003
+WIAR|national information assurance research||2012|2012
+WIA|implementing automata|Springer|1997|2001
+WIBI|women bioinformatics|IEEE|2025|2025
+WICES|geotechnical engineering iraq icge iraq warith engineering sciences|IOP|2024|2024
+WICOM|wireless communications networking mobile computing||2007|2012
+WICON|eai wireless internets|Springer|2020|2020
+WICON|eai wireless internet|Springer|2023|2024
+WICON|first wireless internet||2005|2005
+WICON|icst wireless internet|Springer|2007|2013
+WICON|wireless internet icst revised selected papers||2012|2012
+WICON|wireless internet|Springer|2006|2019
+WICOW|information credibility web co located information knowledge management||2008|2008
+WICOW|information credibility web co located||2009|2009
+WICOW|information credibility web||2007|2007
+WICOW|information credibility||2010|2010
+WICSA|fourth working ifip software architecture||2004|2004
+WICSA|ifip working software architecture||2008|2008
+WICSA|joint working software architecture european software architecture companion volume||2012|2012
+WICSA|software architecture working ifip||2005|2005
+WICSA|working ifip software architecture|IEEE|2001|2016
+WICS|ifac intelligent control systems wics2010||2010|2010
+WICT|innovations bio inspired computing applications world congress information communication technologies ibica|Springer|2025|2025
+WICT|world congress information communication technologies|IEEE|2011|2015
+WIDE|workflows distributed environments|ACM|2024|2024
+WIDM|fifth web information data management||2003|2003
+WIDM|fourth web information data||2002|2002
+WIDM|interactive data mining|ACM|2019|2019
+WIDM|sixth web information data management||2004|2004
+WIDM|third web informations data management||2001|2001
+WIDM|web information data management co located information knowledge management||2007|2008
+WIDM|web information data management co located||2005|2012
+WIDSTAIF|women data science taif university|IEEE|2021|2021
+WIEM|integrating error models fault injection|IEEE|1994|1994
+WIESS|industrial experiences systems software|ACM|2000|2002
+WIE|women engineering forum usa east forum|IEEE|2019|2019
+WIE|women engineering forum usa east|IEEE|2017|2017
+WIFAI|italian physics high intensity||2025|2025
+WIFAI|italiano sulla fisica ad alta intensita||2024|2024
+WIFLEX|wireless access flexibility first||2013|2013
+WIFO|wissenschaftsforum digitale transformation||2022|2022
+WIFS|information forensics security|IEEE|2009|2025
+WIFT|industrial strength formal specification techniques|IEEE|1998|1998
+WIGC|women indian geotechnical|Springer|2025|2025
+WIKINLP|advancing natural language processing wikipedia||2024|2024
+WIKISYM|wikis open collaboration|ACM|2009|2012
+WILDRE|indian language data resource evaluation lrec||2024|2024
+WILDRE|indian language data resources evaluation held conjunction language resources evaluation||2022|2022
+WILE|intelligent learning environments hybrid intelligent systems new trends computational intelligence applications were held jointly mexican artificial intelligence|Springer|2024|2024
+WILF|applications fuzzy sets theory fuzzy logic applications||2007|2007
+WILF|fuzzy logic applications revised selected papers||2005|2006
+WILF|fuzzy logic applications|Springer|2009|2021
+WIMAW|software management fortschritt durch bestandigkeit fachtagung des gi fachausschusses management der anwendungsemtwicklung und wartung im fachbereich wirtschaftsinformatik||2002|2002
+WIMAW|software management outsourcing integration gi expert committee management application development maintenance field information systems software management outsourcing und integration fachtagung des gi fachausschusses management der anwendungsentwicklung und wartung im fachbereich wirtschaftsinformatik||2004|2004
+WIMBI|web intelligence meets brain informatics first wici revised selected invited papers||2007|2007
+WIMD|medical grade wireless networks co located|ACM|2009|2009
+WIMESH|wireless mesh networks held conjunction||2005|2005
+WIMESH|wireless mesh networks||2007|2010
+WIMOA|advances wireless mobile networks applications||2011|2011
+WIMOBCITY|wireless mobile technologies smart cities co located|ACM|2014|2014
+WIMOB|group iv photonics||2005|2005
+WIMOB|wireless mobile computing networking communications|IEEE|2005|2025
+WIMOB|wireless mobile computing networking communication||2008|2009
+WIMON|trends networks communications necom west||2011|2011
+WIMOS|wireless mobile computing networking communications||2005|2005
+WIMO|recent trends wireless mobile networks third||2011|2011
+WIMO|wireless mobile networks||2010|2010
+WIMP|patras axions wimps wisps axion||2012|2012
+WIMS|web intelligence mining semantics real time intelligent systems|ACM|2020|2020
+WIMS|web intelligence mining semantics|ACM|2011|2019
+WINCOM|wireless networks mobile communications green communications networking|IEEE|2016|2016
+WINCOM|wireless networks mobile communications|IEEE|2015|2025
+WINC|wireless network coding||2010|2010
+WINDSOR|adapting change new thinking comfort||2010|2010
+WINDSOR|resilient comfort||2020|2020
+WINDTECH|windship technology||1985|1985
+WIND|scientific dynamic civil engineering transport structures engineering dyn||2014|2014
+WINE|internationalconference web internet economics|Springer|2024|2024
+WINE|internet network economics first||2005|2005
+WINE|internet network economics second||2006|2006
+WINE|internet network economics third||2007|2007
+WINE|internet network economics|Springer|2008|2012
+WINE|web internet economics|Springer|2013|2026
+WINITS|wireless networking intelligent transportation systems||2007|2007
+WINSYS|wireless information networks systems part joint e business telecommunications|SciTePress|2013|2015
+WINSYS|wireless information networks systems||2006|2011
+WINSYS|wireless networks mobile systems|SciTePress|2021|2021
+WINS|intelligent systems co located tootill computing sciences||2022|2022
+WINTECHCON|women technology emerging technologies from silicon software sustainable future|IEEE|2023|2023
+WINTECHCON|women technology transforming future data driven innovations semicon verse|IEEE|2025|2025
+WINTECHCON|women technology|IEEE|2022|2024
+WINTECH|first wireless network testbeds experimental evaluation characterization||2006|2006
+WINTECH|message from co chairs|ACM|2020|2020
+WINTECH|mobicom wireless network testbeds experimental evaluation characterization|ACM|2014|2014
+WINTECH|proc wireless network testbeds experimental evaluation characterization co located int symp|ACM|2010|2010
+WINTECH|proc wireless network testbeds experimental evaluation characterization||2009|2009
+WINTECH|wireless network testbeds experimental evaluation characterization co located|ACM|2007|2019
+WINTECH|wireless network testbeds experimental evaluation characterization part|ACM|2020|2023
+WINTECH|wireless network testbeds experimental evaluation characterization|ACM|2012|2025
+WINTER|minutes meeting pennsylvania electric association engineering section electrical equipment committee||1982|1982
+WINTER|minutes meeting pennsylvania electric association engineering section relay committee||1983|1983
+WINTER|minutes meeting pennsylvania electric association engineering section transmission distribution committee||1984|1984
+WINVR|asme afm world innovative virtual reality winvr2009||2009|2009
+WIOPT|final modeling optimization mobile ad hoc wireless networks||2009|2009
+WIOPT|intl modeling optimization mobile ad hoc wireless networks||2010|2010
+WIOPT|modeling optimization mobile ad hoc wireless networks|IEEE|2006|2025
+WIOPT|wio5pt third modeling optimization mobile ad hoc wireless networks||2005|2005
+WIOPT|workshops modeling optimization mobile ad hoc wireless networks||2013|2013
+WIO|euro american information optics||2010|2012
+WIO|information optics information optics||2006|2006
+WIO|information optics|IEEE|2007|2018
+WIPDA|wide bandgap power devices applications|IEEE|2013|2025
+WIPFOR|industry practices forecasting|Springer|2015|2015
+WIPHAL|work progress hardware software location computation co located localization icl||2025|2025
+WIPHAL|work progress hardware software location computation||2023|2024
+WIPIC|innovative technology reservoir optimization eage well injectivity productivity carbonates||2025|2025
+WIPLAY|interaction player research game development|Springer|2026|2026
+WIPSCE|primary secondary computing education research|ACM|2023|2024
+WIPSCE|primary secondary computing education|ACM|2012|2022
+WIP|icl gnss localization gnss||2020|2020
+WIP|indoor positioning indoor navigation work progress papers co located indoor positioning indoor navigation||2021|2024
+WIP|short paper indoor positioning indoor navigation work progress papers co located indoor positioning indoor navigation||2019|2019
+WIP|works progress part spring simulation multiconference||2018|2018
+WIREASIA|wire rod cable wire products processing production||1982|1982
+WIRE|women renewable energy|SPIE|2019|2019
+WIRI|challenges web information retrieval integration||2005|2005
+WIRMS|infrared spectroscopy microscopy accelerator based sources wirms11||2012|2012
+WIRN|italian neural nets||2011|2011
+WIRN|italian neural networks|Springer|2018|2018
+WIRN|neural nets italian neural nets natural artificial immune systems revised selected papers||2006|2006
+WIRN|neural networks|Springer|2016|2026
+WIRN|workshops neural network|Springer|2025|2025
+WISATS|eai wireless satellite systems|Springer|2019|2025
+WISATS|wireless satellite services|Springer|2022|2023
+WISATS|wireless satellite systems|Springer|2015|2018
+WISA|ccf web information systems applications china|Springer|2024|2024
+WISA|information security applications revised selected papers|Springer|2006|2014
+WISA|information security applications|Springer|2004|2026
+WISA|web information system application|IEEE|2013|2015
+WISA|web information systems applications conjunction big data processing analysis information system security|IEEE|2016|2016
+WISA|web information systems applications semantic web ontology electronic government technology application||2010|2011
+WISA|web information systems applications|Springer|2009|2026
+WISA|world information security applications|Springer|2020|2020
+WISA|world information security application|Springer|2018|2021
+WISCS|information sharing collaborative security co located|ACM|2015|2016
+WISDOM|issues sentiment discovery opinion mining held conjunction|ACM|2012|2013
+WISEC|security privacy wireless mobile networks|ACM|2012|2025
+WISEC|wireless network security|ACM|2008|2011
+WISEE|wireless space extreme environments|IEEE|2013|2025
+WISEML|wireless security machine learning|ACM|2019|2025
+WISER|interdisciplinary software engineering research co located software engineering||2006|2006
+WISER|interdisciplinary software engineering research||2004|2004
+WISES|fourth intelligent solutions embedded systems||2006|2006
+WISES|intelligent solutions embedded systems|IEEE|2008|2017
+WISES|intelligent solutions embedded system||2007|2007
+WISES|third intelligent solutions embedded systems||2005|2005
+WISEW|web information systems engineering workshops web wireless geographical information systems w2gis web services quality multichannel mobile information systems|IEEE|2004|2004
+WISE|ifip tc11 wg11 world information security education|Springer|2003|2003
+WISE|ifip wg world information security education co located ict systems security privacy protection|Springer|2022|2022
+WISE|ifip wg world information security education|Springer|2019|2026
+WISE|long term industrial collaboration software engineering co located|ACM|2014|2014
+WISE|web information system engineering||2011|2011
+WISE|web information systems engineering combined workshops revised selected papers|Springer|2013|2013
+WISE|web information systems engineering org2|Springer|2015|2015
+WISE|web information systems engineering web information systems engineering|Springer|2005|2007
+WISE|web information systems engineering web information systems era ai|Springer|2020|2020
+WISE|web information systems engineering workshops wiss workshops cise mbc revised selected papers||2011|2011
+WISE|web information systems engineering workshops workshops|Springer|2005|2008
+WISE|web information systems engineering workshops|IEEE|2002|2002
+WISE|web information systems engineering|Springer|2000|2026
+WISE|web information systems web information systems engineering|Springer|2006|2006
+WISE|web information systems workshops workshops|Springer|2006|2006
+WISE|wireless security||2006|2006
+WISE|workshops web information systems engineering big webdata mbc pcs steh quat sceh stsc|Springer|2014|2014
+WISE|world information security education held ifip world computer congress|Springer|2018|2018
+WISE|world information security education wise10 held conjunction ict systems security privacy protection ifip|Springer|2017|2017
+WISE|world information security education|Springer|2007|2024
+WISG|information security governance co located computer communications security||2009|2009
+WISI|intelligence security informatics||2006|2006
+WISMA|interoperable social multimedia applications multimedia metadata community||2010|2010
+WISMM|internet scale multimedia management mm|ACM|2014|2014
+WISM|emerging research web information systems mining||2011|2011
+WISM|web information systems mining||2009|2012
+WISM|web information systems modeling held conjunction||2009|2009
+WISNET|eti topical wireless sensors sensor networks radio wireless week||2013|2013
+WISNET|topical wireless sensors sensor networks|IEEE|2014|2026
+WISO|wind solar integration||2026|2026
+WISPNET|wireless communications signal processing networking|IEEE|2016|2026
+WISP|intelligent signal processing from classical measurement computing perceptions|IEEE|2003|2003
+WISP|intelligent signal processing|Springer|2007|2015
+WISSCON|winter summit smart computing networks|IEEE|2023|2023
+WISTDCS|wombat information security threats data collection sharing||2008|2008
+WISTP|ifip tc6 wg8 wg11 information security theory practices|Springer|2007|2007
+WISTP|ifip wg information security theory practices|Springer|2008|2019
+WISTP|ifip wg information security theory practice|Springer|2009|2024
+WISTP|information security theory practice securing internet things ifip wg|Springer|2014|2014
+WISTP|information security theory practice security mobile cyber physical systems ifip wg||2013|2013
+WISTP|information security theory practice security privacy mobile devices wireless communication ifip wg||2011|2011
+WISTP|information security theory practice security privacy trust computing systems ambient intelligent ecosystems ifip wg||2012|2012
+WISTP|information security theory practice smart devices pervasive systems ubiquitous networks third ifip wg||2009|2009
+WISTP|information security theory practices second ifip wg||2008|2008
+WISTP|information security theory practices security privacy pervasive systems smart devices ifip wg||2010|2010
+WISTP|information security theory practices smart cards mobile ubiquitous computing systems first ifip tc6 wg wg||2007|2007
+WIS|exploring abyss inequalities well being information society||2012|2012
+WIS|well being information society fighting inequalities|Springer|2018|2018
+WIS|well being information society|Springer|2014|2022
+WIS|wireless information systems conjunction||2005|2006
+WITCOM|congress telematics computing|Springer|2018|2026
+WITCOM|telematics computing|Springer|2024|2024
+WITMEMO|wireless traffic measurements modeling||2005|2006
+WITNESS|it innovations enabling seamless secure supply chains conjunction electronic government||2011|2011
+WITS|automated reasoning security protocol analysis issues theory security joint arspa revised selected papers||2010|2010
+WITS|foundations applications security analysis joint automated reasoning security protocol analysis issues theory security arspa revised selected papers||2009|2009
+WITS|information technologies systems||2006|2016
+WITS|information technology systems leveraging big data analytics societal benefits||2013|2013
+WITS|information technology systems||2005|2005
+WITS|issues theory security||2005|2005
+WITS|joint automated reasoning security protocol analysis issues theory security arspa|Springer|2010|2010
+WITS|wireless technologies embedded intelligent systems|IEEE|2017|2022
+WIT|deriving insights from user generated text||2022|2022
+WIVACE|artificial life evolutionary computation|Springer|2020|2022
+WIVACE|italian artificial life evolutionary computation|Springer|2014|2025
+WIVEC|wireless vehicular communications|IEEE|2013|2014
+WIW|large scale integration wind power into power systems as well as transmission networks offshore wind power plants||2021|2021
+WIW|wic web intelligence workshops|IEEE|2016|2016
+WIW|wind solar integration||2022|2024
+WIW|wsmo implementations||2005|2005
+WKDD|knowledge discovery data mining||2010|2010
+WKKD|knowledge discovery data mining||2009|2009
+WKSHPS|computer communications workshops infocom|IEEE|2011|2025
+WKSHPS|infocom computer communications workshops|IEEE|2022|2022
+WLC|financial cryptography data security fc workshops rlcps wecsr revised selected papers||2010|2010
+WLMC|society petroleum engineers spe water lifecycle management exhibition||2024|2024
+WLM|will we ever really replace n gram model future language modeling north american chapter association computational linguistics human language technologies naacl||2012|2012
+WLPE|joint implementation constraint logic programming systems logic based methods programming environments ciclops||2014|2014
+WLPE|logic based methods programming environments||2005|2013
+WLPE|logic based programming environments||2012|2012
+WLP|logic programming||2006|2012
+WLSI|worldwide language service infrastructure|Springer|2016|2016
+WMAD|edition gis applied computing water resources|EDP|2021|2021
+WMAN|mobile ad hoc netzwerke deutscher uber mobile ad hoc netzwerke||2002|2002
+WMASH|first wireless mobile applications services wlan hotspots||2003|2003
+WMASH|second wireless mobile applications services wlan hotspots||2004|2004
+WMASH|third wireless mobile applications services wlan hotspots||2005|2005
+WMCAUS|world multidisciplinary civil engineering architecture urban planning number||2020|2020
+WMCAUS|world multidisciplinary civil engineering architecture urban planning preface|IOP|2019|2019
+WMCAUS|world multidisciplinary civil engineering architecture urban planning section|IOP|2019|2019
+WMCAUS|world multidisciplinary civil engineering architecture urban planning|IOP|2022|2023
+WMCSA|mobile computing systems applications|IEEE|1999|2003
+WMCSA|seventh mobile computing system applications supplement supplement||2006|2006
+WMCSA|sixth mobile computing systems applications||2004|2004
+WMCS|second mobile commerce services||2005|2005
+WMCS|texas wireless microwave circuits systems making waves texas|IEEE|2020|2021
+WMCS|texas wireless microwave circuits systems|IEEE|2013|2025
+WMCS|texas wireless microwave circuits system|IEEE|2024|2024
+WMC|membrane computing revised selected invited papers||2006|2010
+WMC|membrane computing|Springer|2004|2005
+WMC|mobile commerce applications perspectives mobile commerce mobile commerce anwendungenund perspektiven zum mobile commerce||2003|2003
+WMC|mobile economy transactions processes applications services mobile commerce mobile economy transaktionen prozesse anwendungen und dienste zum mobile commerce||2004|2004
+WMDD|multimodal deception detection co located|ACM|2015|2015
+WMED|microelectronics electron devices electron devices northwest regional meeting||2004|2004
+WMED|microelectronics electron devices|IEEE|2006|2024
+WMESS|world multidisciplinary earth sciences preface|IOP|2017|2017
+WMESS|world multidisciplinary earth sciences|IOP|2019|2021
+WMISI|multimodal interfaces semantic interaction multimodal interfaces post||2007|2007
+WMI|wireless mobile internet|ACM|2001|2001
+WMLQ|machine learning quantum computing applications medicine physics|IOP|2024|2024
+WMME|materials mechanical engineering||2014|2014
+WMM|multimedia metadata held conjunction french multimedia compression representation audiovisual signals||2009|2009
+WMNC|ifip wg joint wireless mobile networking|Springer|2009|2009
+WMNC|ifip wireless mobile networking|IEEE|2014|2025
+WMNC|joint ifip wireless mobile networking||2010|2013
+WMNC|wireless mobile networking|IEEE|2017|2017
+WMPI|memory performance issues conjunction computer architecture||2004|2004
+WMR|web maintenance reengineering co located european software maintenance reengineering||2006|2006
+WMSCI|world multi systemics cybernetics informatics jointly information systems analysis synthesis||2006|2009
+WMSCI|world multi systemics cybernetics informatics||2005|2025
+WMSO|modelling simulation optimization||2009|2009
+WMSSE|ii modeling simulation science engineering|IOP|2020|2020
+WMSSE|iii modeling simulation science engineering||2020|2020
+WMSSE|iv modeling simulation science engineering||2021|2021
+WMSSE|v modeling simulation science engineering|IOP|2023|2023
+WMSVM|modeling simulation visualization methods||2010|2010
+WMTC|sname world maritime technology||2015|2015
+WMTE|wireless mobile technologies education||2002|2005
+WMT|6thworkshop statistical machine translation||2011|2011
+WMT|machine translation||2017|2025
+WMT|statistical machine translation empirical methods natural language processing||2015|2015
+WMT|statistical machine translation meeting association computational linguistics||2007|2008
+WMT|statistical machine translation||2012|2013
+WMUNEP|first wireless multimedia networking performance modeling||2005|2005
+WMUNEP|second wirelessmultimedia networking performance modeling||2006|2006
+WMUNEP|third wireless multimedia networking performance modeling||2007|2007
+WMUNEP|wireless multimedia networking computing co located||2011|2011
+WMUNEP|wireless multimedia networking performance modeling||2008|2008
+WMUPS|middleware ubiquitous pervasive systems co located int communication system software middleware||2009|2009
+WMUTE|fourth wireless mobile ubiquitous technology education||2006|2006
+WMUTE|wireless mobile ubiquitous technologies education mobile social media learning education formal informal settings||2010|2010
+WMUTE|wireless mobile ubiquitous technologies education||2008|2008
+WMUTE|wireless mobile ubiquitous technology education||2012|2012
+WMVC|motion video computing||2007|2009
+WMVC|national wave mechanics vibrations|Springer|2020|2020
+WMVC|wave mechanics vibrations|Springer|2023|2023
+WMWA|pacific asia web mining web based application||2009|2009
+WNAA|numerical analysis its applications|Springer|1997|1997
+WNGW|next generation wireless ns|ACM|2019|2019
+WNIS|wireless networks information systems||2009|2009
+WNU|narrative understanding||2022|2024
+WNWEC|world non grid connected wind power energy||2009|2010
+WNYIPW|western new york image processing|IEEE|2005|2013
+WNYISPW|western new york image signal processing|IEEE|2014|2024
+WOAH|online abuse harms||2021|2022
+WOA|ai ia taboo joint from objects agents agents industry technological applications software agents||2007|2007
+WOA|ai ia taboo joint from objects agents simulation formal analysis complex systems||2005|2005
+WOA|from objects agents co located italian association artificial intelligence ai ia||2013|2013
+WOA|from objects agents evolution agent development methodologies tools platforms languages||2008|2008
+WOA|from objects agents||2006|2025
+WOA|nazionale dagli oggetti agli agenti||2010|2010
+WOA|objects agents||2009|2012
+WOCCES|communication critical embedded systems|Springer|2017|2017
+WOCCI|child computer interaction||2008|2017
+WOCC|wireless optical communication jointly held photonics forum chiao tung universities|IEEE|2016|2016
+WOCC|wireless optical communications|IEEE|2009|2026
+WOCC|wireless optical communication|IEEE|2014|2018
+WOCC|wocc2010 technical program wireless optical communications converging communications around pacific||2010|2010
+WOCIE|wireless optical communication information engineering|SPIE|2025|2025
+WOCN|ifip wireless optical communications networks wocn2011||2011|2011
+WOCN|ifip wireless optical communications networks||2007|2009
+WOCN|wireless optical communications networks wocn2010||2010|2010
+WOCN|wireless optical communications networks||2012|2017
+WOCOUQ|ifipwg working uncertainty quantification scientific computing|Springer|2012|2012
+WOCOUQ|uncertainty quantification scientific computing ifip wg working revised selected papers||2012|2012
+WOC|container technologies container clouds part middleware|ACM|2019|2023
+WOC|container technologies container clouds part|ACM|2024|2024
+WOC|container technologies container clouds|ACM|2021|2021
+WOC|iasted wireless optical communications||2007|2009
+WODA|dynamic analysis co located software engineering||2006|2006
+WODA|dynamic analysis held conjunction sigsoft software testing analysis||2009|2009
+WODA|dynamic analysis|ACM|2005|2015
+WODCON|world dredging congress exhibition||2013|2013
+WODCON|world dredging congress||2007|2019
+WODES|discrete event systems|IEEE|2002|2016
+WODES|eighth discrete event systems||2006|2006
+WODES|ifac discrete event systems|Elsevier|2024|2024
+WODOOM|debugging ontologies ontology mappings co located extended semantic web||2014|2014
+WOD|open data||2012|2013
+WOFE|advanced frontiers electronics||1997|1997
+WOLE|web linked entities conjunction semantic web||2012|2012
+WOLFHPC|domain specific languages high level frameworks high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2014|2016
+WOLLIC|logic language information communication|Springer|2019|2019
+WOLLIC|logic language information computation|Springer|2007|2026
+WOLTE|low temperature electronics|IEEE|2014|2022
+WOMM|meta modelling||2006|2006
+WOMO|modular ontologies co located semantic web||2006|2006
+WOMO|modular ontologies||2007|2012
+WOMPAT|openmp applications tools|Springer|2001|2003
+WOMPAT|shared memory parallel programming openmp openmp applications tools||2005|2005
+WOMRAD|music recommendation discovery||2010|2011
+WONDER|nuclear data evaluation reactor applications|EDP|2024|2024
+WONLYAERO|aerospace technical papers||2018|2026
+WONLYAUTO|automotive technical papers||2020|2026
+WONS|fourth wireless demand network systems services||2007|2007
+WONS|ifip tc6 working wireless demand network systems|Springer|2004|2004
+WONS|wireless demand network systems services ifip||2014|2014
+WONS|wireless demand network systems services|IEEE|2004|2026
+WONTO|ontologies their applications co located joint iberamia sbia||2006|2006
+WONTO|ontologies their applications||2008|2008
+WOODEMA|green deal initiatives sustainable management market demands new production perspectives forestry based sector scientific papers||2024|2024
+WOODEMA|scientific crisis management safety foresight forest based sector smes operating global environment||2022|2022
+WOODEMA|scientific papers current trends challenges forest based sector carbon neutrality bioeconomy||2023|2023
+WOODEMA|scientific response forest based sector changes global economy||2021|2021
+WOODEMA|wood future integrating sustainability across industries scientific papers||2025|2025
+WOOT|offensive technologies co located s p||2022|2023
+WOOT|usenix offensive technologies co located usenix security||2017|2020
+WOOT|usenix offensive technologies||2007|2025
+WOPPLOT|evolutionary models strategies parallel processing logic organization technology|Springer|1991|1991
+WOPPLOT|parallel processing logic organization technology|Springer|1987|1987
+WOPS|software performance||2007|2007
+WOP|ontology design patterns co located semantic web||2019|2024
+WOP|ontology patterns collocated semantic web||2009|2009
+WOP|ontology patterns conjunction semantic web||2012|2012
+WOP|ontology patterns semantic web||2010|2010
+WORDS|object oriented real time dependable systems|IEEE|1995|2005
+WORDS|resource disaggregation serverless|ACM|2023|2023
+WORDS|sixth object oriented real time dependable systems|IEEE|2001|2001
+WORKLOAD|human mental models applications h|Springer|2017|2021
+WORKLOAD|mental models applications h|Springer|2019|2019
+WORKSHOPS|pervasive computing communication percom||2014|2014
+WORKSHOP|beam instrumentation twelfth beam instrumentation biwo6||2006|2006
+WORKSHOP|circulation control||1987|1987
+WORKSHOP|iabse quality assurance within building process||1983|1983
+WORKSHOP|new zealand geothermal||1981|1983
+WORKS|workflows support large scale science co located sc|ACM|2011|2011
+WORKS|workflows support large scale science conjunction sc|ACM|2009|2009
+WORKS|workflows support large scale science held conjunction sc high performance computing networking storage analysis|IEEE|2013|2022
+WORKS|workflows support large scale science high performance distributed computing|ACM|2007|2007
+WORKS|workflows support large scale science||2006|2010
+WORLDCIST|world information systems technologies|Springer|2014|2026
+WORLDCIS|world congress internet security|IEEE|2011|2015
+WORLDSUAS|world skills universal data analytics sciences|IEEE|2025|2025
+WORLDS|usenix real large distributed systems||2004|2006
+WORMA|robust malware analysis|ACM|2022|2022
+WORM|ontologies reasoning modularity||2008|2008
+WORM|rapid malcode||2003|2005
+WORM|recurring malcode co located computer communications security||2006|2006
+WORM|recurring malcode||2007|2007
+WORV|robot vision||2013|2013
+WOSAR|software aging rejuvenation held conjunction software reliability engineering||2011|2011
+WOSAR|software aging rejuvenation||2011|2011
+WOSC|serverless computing part middleware|ACM|2017|2022
+WOSC|serverless computing|ACM|2021|2021
+WOSC|serverless part middleware|ACM|2023|2023
+WOSC|sigplan stencil computations part|ACM|2014|2014
+WOSC|wosc11 serverless computing part middleware|ACM|2025|2025
+WOSE|move meaningful internet systems otm workshops otm confederated internationl workshops posters awesome cams gada mios interop orm phds sebgis swws||2005|2005
+WOSIS|security information systems conjunction enterprise information systems|SciTePress|2013|2013
+WOSIS|security information systems conjunction|SciTePress|2005|2014
+WOSIS|security information systems security information systems conjunction||2008|2009
+WOSN|online social networks|ACM|2010|2012
+WOSOCER|software certification conjunction software reliability engineering||2011|2011
+WOSP|fifth software performance||2005|2005
+WOSP|fourth software performance||2004|2004
+WOSP|second software performance||2000|2000
+WOSP|software performance|ACM|1998|2008
+WOSP|third software performance wosp2002||2002|2002
+WOSQ|software engineering icse workshops icse software quality||2009|2009
+WOSQ|software quality co located software engineering||2006|2006
+WOSQ|software quality||2011|2011
+WOSSE|open source software engineering|ACM|2005|2005
+WOSSPA|systems signal processing their applications||2011|2013
+WOSS|first sigsoft self healing systems||2002|2002
+WOSS|sigsoft self managing systems co located sigsoft foundations software engineering||2004|2004
+WOTE|electronic voting technology trustworthy elections evt||2012|2014
+WOTE|evt electronic voting technology trustworthy elections||2009|2011
+WOTUG|communicating process architectures||2019|2019
+WOT|web things conjunction pervasive computing||2011|2011
+WOT|web things||2012|2012
+WOWCS|organizing workshops symposia computer systems||2008|2008
+WOWMOM|fifth wireless mobile multimedia||2002|2002
+WOWMOM|third wireless mobile multimedia||2000|2000
+WOWMOM|wireless mobile multimedia|ACM|1998|2001
+WOWMOM|world wireless mobile multimedia networks digital||2010|2012
+WOWMOM|world wireless mobile multimedia networks workshops||2009|2009
+WOWMOM|world wireless mobile multimedia networks wowmom2008||2008|2008
+WOWMOM|world wireless mobile multimedia networks|IEEE|2005|2025
+WOWS|open web search co located european information retrieval||2024|2025
+WOW|pels emerging technologies wireless power transfer|IEEE|2017|2021
+WOW|pels emerging technologies wireless power|IEEE|2015|2016
+WPANDRP|joint workshops research projects track co located research challenges information science||2026|2026
+WPA|physical analytics co located|ACM|2014|2017
+WPA|physical analytics|ACM|2015|2015
+WPCF|particle correlations femtoscopy||2019|2019
+WPC|program comprehension||1996|1996
+WPC|world petroleum congress||2014|2014
+WPDRTS|joint parallel distributed real time systems parallel distributed real time systems 0bject oriented real time systems|IEEE|1997|1997
+WPDRTS|parallel distributed real time systems 1995e|IEEE|1995|1995
+WPDRTS|parallel distributed real time systems|IEEE|1996|1996
+WPD|poster demonstration sessions co located joint knowledge graphs||2024|2024
+WPES|privacy electronic society co located computer communications security|ACM|2006|2009
+WPES|privacy electronic society co located|ACM|2010|2022
+WPES|privacy electronic society|ACM|2004|2025
+WPET|power electronics transportation||2004|2004
+WPMC|wireless personal multimedia communications bridging wireless business worlds||2020|2020
+WPMC|wireless personal multimedia communications co located global wireless summit||2013|2013
+WPMC|wireless personal multimedia communications communications networking applications internet things||2011|2011
+WPMC|wireless personal multimedia communications paving way digital wireless transformation||2021|2021
+WPMC|wireless personal multimedia communications||2012|2025
+WPMVP|programming models simd vector processing co located|ACM|2018|2020
+WPMVP|sigplan programming models simd vector processing co located|ACM|2014|2014
+WPNC|positioning navigation communications|IEEE|2018|2018
+WPNC|positioning navigation communication|IEEE|2007|2019
+WPRDM|pattern recognition data mining|IOP|2022|2022
+WPTCE|wireless power technology expo|IEEE|2023|2025
+WPTC|wireless power transfer|IEEE|2014|2021
+WPTE|rewriting techniques program transformations evaluation||2014|2014
+WPTMT|mcm vlsi packaging techniques manufacturing technologies|IEEE|1994|1994
+WPT|wireless power transfer||2013|2013
+WPW|wireless power week|IEEE|2022|2022
+WQTC|water quality technology exposition||2013|2013
+WQTC|water quality technology||2005|2005
+WQV|qualitative vision|IEEE|1993|1993
+WRAC|innovative concepts autonomic agent based systems second radical agent concepts revised papers||2006|2006
+WRAC|radical agent concepts|Springer|2003|2003
+WRAICOGS|writing aids crossroads ai cognitive science nlp||2025|2025
+WRAITS|recent advances intrusion tolerant systems conjuction european computer systems|ACM|2008|2008
+WRAITS|recent advances intrusion tolerant systems recent advances intrusion tolerant systems conjunction european computer systems|ACM|2008|2008
+WRAP|recent advances photonics|IEEE|2014|2023
+WRASQ|automating service quality held automated software engineering||2007|2007
+WRAS|reliability availability security|ACM|2010|2010
+WREC|women researchers electronics computing|Springer|2024|2024
+WREFT|computing frontiers radiation effects fault tolerance nanometer technologies||2008|2008
+WREF|world renewable energy forum including world renewable energy congress xii colorado renewable energy society||2012|2012
+WREM|water resource environmental management|Springer|2020|2025
+WREM|water resources environmental management|Springer|2026|2026
+WREN|internet network management research enterprise networking inm||2010|2010
+WREN|research enterprise networking co located|ACM|2009|2009
+WRE|brazilian robotics robotics education sbr|IEEE|2024|2025
+WRE|latin american robotics brazilian robotics robotics education lars sbr|IEEE|2018|2023
+WRE|water resource environment|Springer|2019|2025
+WRE|water resources environment||2015|2015
+WRFPM|lwr fuel performance meeting top fuel||2010|2010
+WRFPM|water reactor fuel performance meeting|Springer|2024|2024
+WRI|water rock interaction applied isotope geochemistry iagc|EDP|2019|2019
+WRI|water rock interaction water rock interaction||2007|2010
+WRLA|rewriting logic its applications held as satellite event etaps revised selected papers||2012|2012
+WRLA|rewriting logic its applications held as satellite event european joint theory practice software|Springer|2010|2016
+WRLA|rewriting logic its applications held as satellite event revised selected papers||2010|2010
+WRLA|rewriting logic its applications|Springer|2008|2024
+WRM|society petroleum engineers spe western regional meeting||2020|2025
+WRM|sustainable water resources management wrm11||2011|2011
+WROCO|ifac robot control|Elsevier|2019|2019
+WROC|wroclaw exhibition electromagnetic compatibility|IEEE|2008|2008
+WRPMD|preparing century||1999|1999
+WRPT|brics nus water resources pollution treatment|Springer|2025|2025
+WRRC|convention rehabilitation engineering assistive technology world rehabilitation robot convention|IEEE|2024|2024
+WRSM|robotics smart manufacturing|Springer|2013|2013
+WRS|reduction strategies rewriting programming as part federated logic||2006|2006
+WRS|reduction strategies rewriting programming as part federated rewriting deduction programming||2007|2007
+WRS|reduction strategies rewriting programming associated rewriting techniques applications was part federated rewriting deduction programming||2009|2009
+WRS|reduction strategies rewriting programming collocated rewriting techniques applications||2008|2008
+WRTP|ifac ifip real time programming||1993|1993
+WRT|refactoring tools co located|ACM|2011|2011
+WRT|refactoring tools conjunction object oriented programming systems languages applications||2008|2008
+WRT|refactoring tools|ACM|2012|2013
+WRT|welding related technologies||2025|2025
+WSAI|world artificial intelligence|IEEE|2020|2024
+WSAN|ifip wg wireless sensor actor networks|Springer|2007|2007
+WSAN|ifip wireless sensor actor networks|Springer|2008|2008
+WSA|itg smart antennas|IEEE|2008|2021
+WSA|smart antennas|IEEE|2024|2025
+WSA|static analysis|Springer|1993|1993
+WSBE|world sustainable built environment beyond preface||2020|2020
+WSBE|world sustainable built environment beyond||2020|2020
+WSBE|world sustainable built environment|IOP|2024|2024
+WSBI|third business intelligence gi special interest group business intelligence cooperation institute business administration information systems i university stuttgart tagungsband des dritten workshops business intelligence der gi fachgruppe business intelligence zusammenarbeit mit dem lehrstuhl fur abwl und wirtschaftsinformatik i der universitat stuttgart||2011|2011
+WSCAD|high performance computing systems|Springer|2018|2020
+WSCAR|world computer applications research|IEEE|2014|2016
+WSCC|world sustainable construction series|IOP|2026|2026
+WSCC|world sustainable construction|IOP|2022|2025
+WSCD|web search click data|ACM|2009|2009
+WSCE|world communication engineering|IEEE|2019|2025
+WSCG|central europe computer graphics visualization computer vision co operation eurographics full papers||2005|2011
+WSCG|central europe computer graphics visualization computer vision communication papers co operation eurographics association||2015|2015
+WSCG|central europe computer graphics visualization computer vision communication papers||2013|2013
+WSCG|central europe computer graphics visualization computer vision full papers co operation eurographics association||2014|2014
+WSCG|central europe computer graphics visualization computer vision full papers||2013|2016
+WSCG|central europe computer graphics visualization computer vision poster papers co operation eurographics association||2014|2014
+WSCG|central europe computer graphics visualization computer vision poster papers||2012|2012
+WSCG|central europe computer graphics visualization computer vision posters||2015|2015
+WSCG|central europe computer graphics visualization computer vision poster||2013|2013
+WSCG|central europe computer graphics visualization computer vision short papers||2015|2015
+WSCG|central europe computer graphics visualization computer vision||2012|2025
+WSCG|jubilee central europe computer graphics visualization computer vision||2022|2022
+WSCMM|xxii winter school continuous media mechanics||2021|2021
+WSCNIS|world computer networks information security|IEEE|2015|2015
+WSCSC|water system control smart city|IOP|2022|2022
+WSCS|semantic computing systems||2008|2008
+WSC|online world soft computing industrial applications wsc17|Springer|2014|2014
+WSC|online world soft computing industrial applications|Springer|2019|2019
+WSC|winter simulation simulation making decisions complex world||2013|2013
+WSC|winter simulation|IEEE|1977|2025
+WSC|winter simulatoin||2008|2008
+WSDM|exploiting semantic annotations information retrieval||2009|2009
+WSDM|l2d enabling data driven decisions from learning web co located web search data mining||2021|2021
+WSDM|web search data mining companion|ACM|2026|2026
+WSDM|web search data mining|ACM|2008|2026
+WSESE|methodological issues empirical studies software engineering|ACM|2024|2026
+WSES|world electrical systems|IEEE|2025|2025
+WSE|eighth web site evolution||2006|2006
+WSE|seventh web site evolution||2005|2005
+WSE|sixth web site evolution||2004|2004
+WSE|web site evolution architecture|IEEE|2003|2003
+WSE|web site evolution|IEEE|2001|2008
+WSE|web systems evolution||2009|2013
+WSKS|emerging technologies information systems knowledge society firstworld summit knowledge society||2008|2008
+WSKS|knowledge management information systems e learning sustainability research third world summit knowledge society||2010|2010
+WSKS|organizational business technological aspects knowledge society third world summit knowledge society||2010|2010
+WSKS|visioning engineering knowledge society web science perspective second world summit knowledge society||2009|2009
+WSKS|world summit knowledge society|Springer|2008|2008
+WSLM|wearables sports lifestyle management|IEEE|2022|2022
+WSMC|web scale multimedia corpus co located multimedia mm||2009|2009
+WSMDEIS|joint web services model driven enterprise information services conjunction||2005|2005
+WSMPA|magneto plasma aerodynamics||2021|2021
+WSM|medical semantic web affiliated french national knowledge engineering ic web semantique medical affiliated 21emes journees francophones d ingenierie des connaissances ic||2010|2010
+WSM|mm multimedia co located workshops social media||2011|2011
+WSM|sigmm social media co located multimedia mm||2009|2009
+WSM|sigmm social media co located multimedia||2010|2010
+WSNA|second wireless sensor networks applications||2003|2003
+WSN|iasted multi wireless optical communications wireless sensor networks||2006|2006
+WSN|iet wireless sensor network iet||2010|2010
+WSOF|eighth specialty optical fibers their applications|SPIE|2025|2025
+WSOF|fifth specialty optical fibers their applications|SPIE|2017|2017
+WSOF|sixth specialty optical fibers their applications|SPIE|2019|2019
+WSOF|specialty optical fibers their applications||2015|2015
+WSOM|advances self organizing maps|Springer|2009|2013
+WSOM|int self organizing maps||2007|2007
+WSOM|self organizing maps learning vector quantization clustering data visualization|IEEE|2017|2017
+WSOM|self organizing maps|Springer|2005|2016
+WSPA|smart precise agriculture machine learning measurement informatics shared task scope detection peer review articles data assessment readiness ai artificial intelligence enterprise process transformation ai4ept held conjunction pacific asia knowledge discovery data mining|Springer|2021|2021
+WSPI|philosophy informatics organized sig philosophy informatics professional knowledge management||2005|2005
+WSPI|philosophy informatics||2008|2008
+WSPML|signal processing machine learning|SPIE|2023|2023
+WSR|software reengineering||2008|2008
+WSSANLP|south southeast asian nlp co located computational linguistics||2014|2014
+WSSCI|fall meeting western states section combustion institute||2015|2015
+WSSCI|fall technical meeting western states section combustion institute||2017|2017
+WSSCI|spring technical meeting western states section combustion institute||2016|2018
+WSSE|world software engineering|ACM|2019|2026
+WSSMA|world smart materials applications|IOP|2019|2020
+WSS|iet wireless sensor systems||2012|2012
+WSS|self stabilizing systems|Springer|2001|2001
+WSS|waterside security||2010|2010
+WSTFES|software technologies future embedded systems|IEEE|2003|2003
+WSUD|water sensitive urban design building water sensitive community final program abstract book||2012|2012
+WSWAN|world web applications networking|IEEE|2015|2015
+WSWR|scientific technical water supply wastewater disposal designing construction operation monitoring||2026|2026
+WTAOP|testing aspect oriented programs||2006|2006
+WTAOP|third testing aspect oriented programs held sixth aspect oriented software development||2007|2007
+WTAS|iasted web technologies applications services||2005|2005
+WTAS|second iasted web technologies applications services||2006|2006
+WTCS|advanced technology teaching teaching computational science||2012|2012
+WTCS|computation physics beyond theoretical computer science dedicated cristian s calude occasion his birthday revised selected invited papers||2012|2012
+WTC|ita aites world tunnel congress ita aites general assembly tunnelling underground association||2023|2023
+WTC|ita aites world tunnel congress||2016|2024
+WTC|underground way future world tunnel congress||2013|2013
+WTC|world telecommunications congress|IEEE|2010|2014
+WTC|world tribology congress||2013|2013
+WTC|world tunnel congress general assembly tunnelling underground space association ita||2019|2019
+WTEK|cvmlh joint computer vision machine learning healthcare technological innovations education knowledge dissemination co located tootill computing sciences||2022|2022
+WTEK|technological innovations education knowledge dissemination co located easton computing sciences||2021|2021
+WTMC|traffic measurements cybersecurity co located asia|ACM|2016|2016
+WTMC|traffic measurements cybersecurity part|ACM|2018|2018
+WTM|leos winter topicals||2009|2009
+WTM|photonics society winter topicals meeting series||2010|2010
+WTM|winter topicals||2011|2011
+WTQA|waste testing quality assurance||2003|2003
+WTS|wireless telecommunications|IEEE|2004|2024
+WTTA|world technological trends agribusiness||2022|2022
+WTVDI|iberoamerican applications usability interactive tv jauti interactive digital tv|Springer|2014|2014
+WUAUC|ec nsf universal accessibility ubiquitous computing providing elderly|ACM|2001|2001
+WUC|joint wireless ubiquitous computing conjunction||2007|2007
+WUICACE|warmadewa university architecture civil engineering|IOP|2026|2026
+WUWNET|first underwater networks||2006|2006
+WUWNET|mobile computing networking mobicom second underwater networks||2007|2007
+WUWNET|underwater networks co located||2008|2008
+WUWNET|underwater networks systems|ACM|2012|2025
+WUWNET|underwater networks|ACM|2007|2011
+WVCARMME|world virtual advanced research mechanical materials engineering||2014|2014
+WVC|computer vision|IEEE|2017|2019
+WVLSI|computer society vlsi|IEEE|2001|2001
+WVS|visual surveillance|IEEE|1998|1998
+WWAC|isa water wastewater automatic controls||2018|2018
+WWAC|water wastewater automatic controls||2015|2016
+WWAI|wseas waste management water pollution air pollution indoor climate||2010|2010
+WWCA|coference worldwide computing its applications|Springer|1998|1998
+WWCA|waterloo computer algebra|Springer|2018|2018
+WWCA|worldwide computing its applications|Springer|1997|1997
+WWC|workload characterization|IEEE|2001|2002
+WWC|world wireless congress||2007|2007
+WWEC|world wind energy exhibition|IOP|2022|2022
+WWIC|ifip wg wired wireless internet communications|Springer|2016|2019
+WWIC|ifip wired wireless internet communications|Springer|2018|2018
+WWIC|wired wireless internet communications ifip tc||2011|2011
+WWIC|wired wireless internet communications third||2005|2005
+WWIC|wired wireless internet communications|Springer|2006|2017
+WWIC|wired wireless internet communication||2012|2013
+WWND|winter nuclear dynamics|IOP|2011|2014
+WWOSII|workstation operation systems second workstation operating systems||1989|1989
+WWOS|workstation operating systems|IEEE|1992|1993
+WWS|webble world summit|Springer|2013|2013
+WWV|biennial wind energy||1981|1981
+WWV|int l automated specification verification web systems||2007|2007
+WWV|preliminary automated specification verification web systems||2009|2009
+WWWRONG|exchanging experiences technology enhanced learning what went wrong what went right||2007|2007
+WWW|companion companion web|ACM|2024|2024
+WWW|companion web|ACM|2022|2022
+WWW|companion world wide web|ACM|2011|2016
+WWW|cross disciplinary web accessibility w4a world wide web www2004||2004|2004
+WWW|cross disciplinary web accessibility w4a world wide web www2005||2005|2005
+WWW|declarative 3d web architecture dec3d||2012|2012
+WWW|i3 identity identifiers identification entity centric approaches information knowledge management web co located||2007|2007
+WWW|interoperability web based educational systems conjunction world wide web||2005|2005
+WWW|models trust web||2006|2006
+WWW|semantics analytics visualisation enhancing scholarly data save sd co located world wide web|Springer|2016|2016
+WWW|thirteenth world wide web www2004||2004|2004
+WWW|web companion world wide web|ACM|2018|2023
+WWW|web world wide web|ACM|2018|2023
+WWW|world wide web companion||2012|2017
+WWW|world wide web web revolution|ACM|1995|1995
+WWW|world wide web www2005||2005|2005
+WWW|world wide web www2007||2007|2007
+WWW|world wide web|ACM|2001|2017
+WZEE|scientific selected issues electrical engineering electronics|Springer|2015|2018
+WZEE|selected issues electrical engineering electronics|IEEE|2016|2021
+WZEE|selected problems electrical engineering electronics|IEEE|2015|2015

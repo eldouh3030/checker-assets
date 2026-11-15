@@ -1,0 +1,207 @@
+JACA|jiangsu automation||2020|2026
+JAC|journees automates cellulaires||2008|2010
+JADT|statistical analysis textual data|Springer|2020|2024
+JAHRESTAGUNG|chemical mechanical technologies propellants explosives internationale fraunhofer institute fuer treib und explosivstoffe chemische und mechanische technologie von treib und explosivstoffen||1981|1981
+JAHRESTAGUNG|fraunhofer institute propellants explosives measurement test methods propellants explosives internationale fraunhofer institut fuer treib und explosivstoffe mess und pruefmethoden fuer treib und sprengstoffe||1980|1980
+JAHRESTAGUNG|fraunhofer institute propellants explosives use plastic materials propellants explosives internationale fraunhofer institut fuer treib und explosivstoffe verwendung von kunststoffen fuer treib und explosivstoffe||1982|1982
+JAMAICA|joining academia industry contributions test automation model based testing|ACM|2014|2014
+JAMAICA|joining academia industry contributions testing automation||2013|2013
+JANO|numerical analysis optimization days|Springer|2021|2021
+JAN|materials analysis ultrasonics metals ceramics composites nasa||1987|1987
+JAPMED|japanese mediterranean applied electromagnetic engineering magnetic superconducting multifunctional nano materials||2014|2014
+JAPTAL|advances natural language processing nlp||2012|2012
+JAVACARD|java smart cards|Springer|2001|2001
+JBCC|jonathan borwein commemorative|Springer|2020|2020
+JBI|bioinformatics personalized medicine spanish revised selected papers||2012|2012
+JBI|eccb european computational biology meeting spanish bioinformatics network||2005|2005
+JCAI|iita joint artificial intelligence||2009|2009
+JCCME|joint civil marine engineering|Springer|2021|2026
+JCC|joint chemistry chemistry sustainable development|IOP|2025|2025
+JCC|joint chemistry visualizing latest up front chemistry research education better future|IOP|2022|2022
+JCC|joint chemistry||2020|2020
+JCC|joint cloud computing mobile cloud computing services engineering|IEEE|2021|2021
+JCC|joint cloud computing|IEEE|2020|2025
+JCDCGGG|japan discrete computational geometry graphs games|Springer|2026|2026
+JCDCGGG|japanese discrete computational geometry graphs|Springer|2021|2021
+JCDCGG|japan discrete computational geometry graphs|Springer|2016|2016
+JCDCGG|japanese discrete computational geometry graphs|Springer|2014|2014
+JCDCG|discrete computational geometry japanese revised selected papers||2005|2005
+JCDCG|japanese discrete computational geometry|Springer|1998|2001
+JCDL|ai4scisci artificial intelligence science science co located cs joint digital libraries||2026|2026
+JCDL|cs joint digital libraries opening information horizons||2006|2006
+JCDL|cs joint digital libraries|ACM|2001|2013
+JCDL|digital libraries years past years forward vision||2010|2010
+JCDL|fourth joint digital libraries global reach diverse impact||2004|2004
+JCDL|histoinformatics computational history co located joint digital libraries||2021|2021
+JCDL|joint digital libraries building sustaining digital environment||2007|2007
+JCDL|joint digital libraries|IEEE|2009|2025
+JCICE|joint information communication engineering|IEEE|2022|2025
+JCIS|computer science informatics ist high performance ist computer vision pattern recognition image processing volume||1998|1998
+JCIS|computer science informatics volume||1998|1998
+JCIS|joint information sciences abstracts summaries||1994|1994
+JCIS|joint information sciences||2002|2002
+JCIT|jerusalem information technology next decade information technology||1984|1984
+JCKBSE|japan cis knowledge based software engineering||1995|1995
+JCKBSE|joint knowledge based software engineering|Springer|2010|2019
+JCM|joint mechanics design engineering advanced manufacturing|Springer|2021|2025
+JCOMSE|joint mathematics statistics engineering|IOP|2022|2022
+JCPC|joint pervasive computing||2009|2009
+JCRAI|joint robotics artificial intelligence|IOP|2022|2026
+JCRAI|robotics artificial intelligence|ACM|2023|2023
+JCRIS|sbr brazilian robotics lars latin american robotics robocontrol applied robotics automation sbr lars robocontrol part joint robotics intelligent systems|IEEE|2015|2015
+JCSG|ifip tc joint entertainment computing serious games icec|Springer|2019|2019
+JCSG|joint serious games|Springer|2015|2026
+JCSSE|joint computer science software engineering cybernetics human beings|IEEE|2021|2021
+JCSSE|joint computer science software engineering human factors computer science software engineering e science high performance computing ehpc||2014|2014
+JCSSE|joint computer science software engineering knowledge evolution towards singularity man machine intelligence|IEEE|2019|2019
+JCSSE|joint computer science software engineering|IEEE|2011|2025
+JCS|joint convention earth science resources engineering|IOP|2026|2026
+JEEIT|jordan joint electrical engineering information technology|IEEE|2019|2023
+JEEP|edition joint european days equilibrium between phases|EDP|2013|2013
+JEEP|phase equilibria|EDP|2009|2011
+JEESD|earth energy environmental science sustainable development||2021|2021
+JELIA|european logics artificial intelligence|Springer|1991|2026
+JELIA|logics artificial intelligence european|Springer|2002|2012
+JEMS|joint european magnetic symposia|IOP|2011|2011
+JEM|multiphase flow journey|Springer|2022|2022
+JENAM|dwarf galaxies keys galaxy formation evolution||2012|2012
+JENAM|environment formation galaxies years later||2011|2011
+JENAM|from varying couplings fundamental physics||2011|2011
+JENAM|grand challenges computational astrophysics||2010|2010
+JENAM|joint european national astronomical meeting|Springer|2012|2012
+JENAM|radio astronomy from karl jansky microjansky||2005|2005
+JENAM|square kilometre array paving way new century radio astronomy paradigm||2012|2012
+JENAM|star clusters era large surveys||2012|2012
+JENAM|teaching communicating astronomy||2005|2005
+JENSFEST|dedicated jens palsberg occasion his birthday co located|ACM|2024|2024
+JESSD|earth energy environmental science sustainable development|IOP|2023|2023
+JETSET|jet simulations experiments theory|Springer|2019|2019
+JETTA|ifip wg relationship between synthesis test verification||1993|1993
+JETTA|line testing||2002|2002
+JETTA|special issue european test||2001|2001
+JET|congress applied mechanics|Springer|2024|2025
+JFES|spwla formation evaluation japan||2020|2020
+JFLA|31eme journees francophones des langages applicatifs||2020|2020
+JFLA|32emes journees francophones des langages applicatifs||2021|2021
+JFLA|actes de la vingtiemes journees francophones des langages applicatifs||2009|2009
+JFLA|french speaking applicative languages journees francophones des langages applicatifs||2005|2008
+JFLA|journees francophones des langages applicatifs||2017|2019
+JFLA|vingt septiemes journees francophones des langages applicatifs||2016|2016
+JFLA|vingt sixiemes journees francophones des langages applicatifs||2015|2015
+JFPC|18es journees francophones de programmation par contraintes held plate forme intelligence articielle||2023|2023
+JFPC|actes des 15es journees francophones de programmation par contraintes||2019|2019
+JFPC|actes des journees francophones de programmation par contraintes||2011|2011
+JFPC|actes des seiziemes journees francophones de programmation par contraintes||2021|2021
+JFPC|dixiemes journees francophones de programmation par contraintes||2014|2014
+JFPC|eleventh french speaking constraint programming onziemes journees francophones de programmation par contraintes||2015|2015
+JFPC|french speaking constraint programming actes des cinquiemes journees francophones de programmation par contraintes||2009|2009
+JFPC|french speaking constraint programming actes des journees francophones de programmation par contraintes||2012|2012
+JFPC|french speaking constraint programming actes des quatriemes journees francophones de programmation par contraintes||2008|2008
+JFPC|french speaking constraint programming actes des sixiemes journees francophones de programmation par contraintes||2010|2010
+JFPC|french speaking constraint programming douziemes journees francophones de programmation par contraintes||2016|2016
+JFPC|french speaking constraint programming held artificial intelligence platform 17es journees francophones de programmation par contraintes held plate forme intelligence articielle||2022|2022
+JFPC|journees francophones de programmation par contraintes||2024|2025
+JFPC|ninth french speaking constraint programming neuviemes journees francophones de programmation par contraintes||2013|2013
+JFPC|quatorziemes journees francophones de programmation par contraintes||2018|2018
+JFPC|treiziemes journees francophones de programmation par contraintes||2017|2017
+JFPC|troisiemes journees francophones de programmation par contraintes organisees conjointement avec la||2007|2007
+JGRG|general relativity gravitation japan||2005|2018
+JGRG|resceu general relativity gravitation||2012|2012
+JHGBU|mm multimedia co located workshops j||2011|2011
+JHPCS|jara hpc high performance scientific computing|Springer|2017|2017
+JIBEC|jordanian biomedical engineering|IEEE|2024|2024
+JICC|joint computer||2005|2005
+JICETS|joint emerging computing technology sports number|IOP|2020|2020
+JICTEE|joint information communication technology electronic electrical engineering||2014|2014
+JICV|virtual campus|IEEE|2020|2023
+JIEEEC|jordan electrical electronics engineering|IEEE|2017|2017
+JIEEEC|jordanian electrical electronics engineering|IEEE|2015|2015
+JIEE|electrical electronic engineering|Springer|2022|2022
+JIFREMA|renewable energy sources energy efficiency environment|Springer|2026|2026
+JIISIC|ibero american software engineering knowledge engineering jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2008|2008
+JIISIC|ibero american software engineering knowledge engineering xiv jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2019|2019
+JIISIC|jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2018|2018
+JIISIC|latin american software engineering knowledge engineering ix jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2012|2012
+JIISIC|latin american software engineering knowledge engineering vi jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2007|2007
+JIISIC|xi jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento||2015|2015
+JIISIC|xii jornadas iberoamericanas de ingenieria de software e ingenieria del conocimiento held jointly ecuadorian software engineering software engineering applied control automation systems||2017|2017
+JINIS|systems engineering||2023|2023
+JIPMA|materials physics applications|IOP|2010|2010
+JIP|fdmd ii fatigue design material defects|EDP|2014|2014
+JISBD|actas de las jornadas de ingeniera del software y bases de datos||2015|2017
+JISBD|actas de las jornadas de ingenieria del software y bases de datos||2018|2019
+JISBD|engineering software databases||2007|2007
+JISBD|jornadas de ingenieria del software y bases de datos||2005|2022
+JISBD|software engineering databases||2008|2009
+JISIC|joint intelligence security informatics|IEEE|2014|2014
+JIST|joint semantic technology|Springer|2015|2020
+JIST|semantic technology second joint||2013|2013
+JIST|semantic technology third joint revised selected papers|Springer|2014|2014
+JIST|semantic web joint semantic technology||2012|2012
+JITEL|telematics engineering||2007|2007
+JITH|days thermal science energy|Springer|2026|2026
+JITH|edition days thermal science energy|Springer|2024|2024
+JIWES|joint entity oriented semantic search co located sigir||2012|2012
+JLAU|society petroleum engineers spe aapg seg latin america unconventional resources technology||2023|2023
+JMAG|joint applied physics materials applications applied magnetism ferroelectrics capma|Elsevier|2022|2022
+JMLC|joint modular languages jmlc2000|Springer|2000|2000
+JMLC|joint modular languages|Springer|1997|1997
+JMLC|modular programming languages joint modular languages|Springer|2006|2006
+JMRE|mm multimedia co located workshops j||2011|2011
+JOBIM|biology informatics mathematics|Springer|2001|2001
+JOCICI|jornadas costarricenses de investigacion en computacion e informatica|IEEE|2019|2021
+JOE|edition oriental days environment green lab solution sustainable development|EDP|2023|2025
+JOINT|chinese german hydraulic ocean engineering||2008|2008
+JOLATE|dynamics games science dgs vi latin american economic theory consortium applied bioeconomy research|Springer|2021|2021
+JOPES|peruvian solar energy|IOP|2020|2025
+JOWO|joint ontology workshops co located bolzano summer knowledge||2020|2020
+JOWO|joint ontology workshops episode ix quebec summer ontology co located formal ontology information systems||2023|2023
+JOWO|joint ontology workshops episode sicilian summer under etna co located formal ontology information systems||2025|2025
+JOWO|joint ontology workshops episode vii bolzano summer knowledge co located formal ontology information systems biomedical ontologies||2021|2021
+JOWO|joint ontology workshops episode viii svear sommar ontology||2022|2022
+JOWO|joint ontology workshops episode x tukker zomer ontology satellite events co located formal ontology information systems||2024|2024
+JRC|asme asce joint rail||2008|2008
+JRC|asme joint rail jrc2006||2006|2006
+JRC|asme joint rail jrc2009||2009|2009
+JRC|asme joint rail jrc2010||2010|2010
+JRC|joint rail||2011|2024
+JSAE|sae powertrains fuels lubricants||2019|2019
+JSAI|artificial intelligence supported japanese society artificial intelligence|Springer|2015|2015
+JSAI|japanese society artificial intelligence|Springer|2001|2020
+JSAI|new frontiers artificial intelligence joint post|Springer|2006|2006
+JSAI|new frontiers artificial intelligence workshops revised selected papers||2008|2009
+JSAI|new frontiers artificial intelligence workshops||2007|2007
+JSAI|symposia artificial intelligence isai|Springer|2023|2023
+JSAP|optica joint symposia optica joint symposia abstracts||2022|2024
+JSAP|osa joint symposia||2014|2021
+JSA|journees scientifiques agap qualite|EDP|2022|2024
+JSEET|software engineering joint track software engineering education training icse||2021|2021
+JSIC|joint information science||2006|2006
+JSME|asme joint information storage processing systems micromechatronics information precision equipment isps||2018|2018
+JSME|asme thermal engineering joint||2011|2011
+JSME|leading edge manufacturing materials processing||2020|2020
+JSOS|joint software engineering systems systems distributed software development software ecosystems systems systems|IEEE|2017|2017
+JSPMNTC|joint innovations sustainable engineering project management new transformations computing communication ic|IOP|2025|2025
+JSSPP|job scheduling strategies parallel processing conjunction parallel distributed processing|Springer|2026|2026
+JSSPP|job scheduling strategies parallel processing held conjunction ipps spdp|Springer|1999|1999
+JSSPP|job scheduling strategies parallel processing held conjunction parallel distributed processing|Springer|2023|2023
+JSSPP|job scheduling strategies parallel processing llth revised selected papers||2006|2006
+JSSPP|job scheduling strategies parallel processing revised papers||2008|2009
+JSSPP|job scheduling strategies parallel processing revised selected papers|Springer|2010|2014
+JSSPP|job scheduling strategies parallel processing|Springer|2000|2025
+JSSP|joint semantic processing textual inference structures corpora||2013|2013
+JSST|asia simulation||2009|2009
+JSTOOLS|javascript tools||2012|2012
+JTRES|java technologies real time embedded systems||2006|2013
+JUAS|joint universities accelerator school courses exercises||2024|2024
+JURIX|ai approaches complexity legal systems complex systems semantic web ontologies argumentation dialogue workshops aicol ii revised selected papers||2010|2010
+JURIX|ai4evir ai evidential reasoning co located legal knowledge information systems||2026|2026
+JURIX|dc doctoral consortium co located legal knowledge information systems||2020|2020
+JURIX|legal knowledge information systems thirty eighth||2025|2025
+JURIX|legal knowledge information systems||2005|2024
+JURIX|online dispute resolution conjunction legal knowledge information system||2005|2005
+JURSE|joint urban remote sensing event|IEEE|2011|2025
+JVA|john vincent atanasoff modern computing|IEEE|2006|2023
+JVC8|joint vacuum croatia austria slovenia hungary pula croatia june||2001|2001
+JVM|java virtual machine research technology||2001|2001
+JVRC|jvrc12 joint virtual reality icat egve||2012|2012

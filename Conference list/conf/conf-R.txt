@@ -1,0 +1,920 @@
+R2R|challenges roll roll fabrication electronics other functionalities||2011|2011
+RAAD|robotics alpe adria danube region|Springer|2010|2025
+RAAICON|robotics automation artificial intelligence internet things|IEEE|2019|2025
+RAAISA|recent advances artificial intelligence smart applications|Springer|2025|2025
+RAAI|robotics automation artificial intelligence|IEEE|2021|2025
+RAAI|selected contributions russian advances artificial intelligence track co located russian artificial intelligence||2020|2021
+RAAR|recent advancements air conditioning refrigeration|Springer|2021|2021
+RABIDA|scientific meeting nuclear physics|Springer|2019|2019
+RACCAI|recent advancements communication computing artificial intelligence|IOP|2024|2025
+RACCCS|recent advancement computer communication computational sciences|Springer|2018|2022
+RACE|recent advancements civil engineering|Springer|2024|2024
+RACE|robotics automation control embedded systems|IEEE|2015|2015
+RACR|intelligent systems decision making risk analysis crisis response risk analysis crisis response||2013|2013
+RACR|risk analysis crisis response||2015|2017
+RACSS|recent advances computing software systems||2012|2012
+RACS|research adaptive convergent systems research adaptive convergent systems|ACM|2025|2025
+RACS|research adaptive convergent systems|ACM|2013|2026
+RACS|research applied computation preface||2011|2011
+RACS|research applied computation||2012|2012
+RACTE|recent advancements computing technologies engineering|IOP|2024|2024
+RAC|materials science engineering recent advances challenges icmse||2018|2020
+RAC|recent advances concrete technology||2007|2007
+RADARCONF|radar radar move|IEEE|2021|2021
+RADARCONF|radarconf23 radar|IEEE|2023|2023
+RADARCON|eye storm radar||2011|2011
+RADARCON|radar arctic new frontier||2013|2013
+RADARCON|radar from sensing information|IEEE|2014|2014
+RADARCON|radar ubiquitous radar program||2012|2012
+RADAR|beyond orthodoxy new paradigms||2013|2013
+RADAR|global innovation||2010|2010
+RADAR|institution engineering technology systems||2007|2007
+RADAR|sensing safer world|IEEE|2024|2024
+RADAR|surveillance safer world||2009|2009
+RADCOR|radiative corrections applications quantum field theory phenomenology||2024|2024
+RADCOR|radiative corrections||2019|2019
+RADCURE|sme afp selected papers||1983|1983
+RADECS|data conjunction|IEEE|2024|2024
+RADECS|european radiation its effects component systems||2011|2011
+RADECS|european radiation its effects components systems part||1996|1996
+RADECS|european radiation its effects components systems|IEEE|1998|2024
+RADECS|first european radiation its effects devices systems||1992|1992
+RADIO|antenna days indian ocean|IEEE|2012|2025
+RADM|recent advances design manufacturing|Springer|2026|2026
+RAD|radiation applications various fields research||2019|2019
+RAD|radiation natural sciences medicine engineering technology ecology||2024|2024
+RAD|radiation natutal sciences medicine engineering technology ecology||2023|2023
+RAD|radiation various fields research||2021|2022
+RAD|radiative transfer||2019|2025
+RAECE|national recent advances electronics computer engineering|IEEE|2015|2015
+RAECS|recent advances engineering computational sciences|IEEE|2014|2015
+RAEEUCCI|recent advances electrical electronics ubiquitous communication computational intelligence|IEEE|2023|2026
+RAEE|recent advances electrical engineering|IEEE|2015|2019
+RAEG|recent advances exploration geophysics||2018|2018
+RAEOM|national recent advances electronic optical magnetic materials|Springer|2026|2026
+RAETCS|recent advances engineering technology computational sciences|IEEE|2018|2018
+RAFAS|recent advances fundamental applied sciences|IOP|2020|2022
+RAFDA|research applications foundation models data mining affective computing temporal analytics held conjunction pacific asia knowledge discovery data mining|Springer|2024|2024
+RAFM|national recent advances functional materials|Elsevier|2021|2021
+RAGE|real time intelligent edge computing|IEEE|2024|2025
+RAGTIME|workshops black holes neutron stars||2020|2023
+RAG|ir information retrieval s role systems co located research development information retrieval||2024|2024
+RAG|ir information retrieval s role systems ir co located research development information retrieval||2025|2025
+RAHA|robotics automation humanitarian applications|IEEE|2016|2016
+RAICS|recent advances intelligent computational systems|IEEE|2011|2025
+RAIDS|eai responsible artificial intelligence data science|Springer|2026|2026
+RAID|recent advances intrusion detection revised papers|Springer|2006|2006
+RAID|recent advances intrusion detection|Springer|2000|2011
+RAID|research attacks intrusions defenses|Springer|2012|2025
+RAIE|responsible ai engineering|ACM|2024|2025
+RAIIC|robotics artificial intelligence intelligent control|IEEE|2023|2025
+RAIIE|robotics artificial intelligence information engineering|IEEE|2022|2025
+RAIL|resources african indigenous languages lrec||2024|2024
+RAIL|resources african indigenous languages||2023|2023
+RAINS|research advances integrated navigation systems|IEEE|2016|2016
+RAISE|realizing ai synergies software engineering||2012|2012
+RAISE|realizing artificial intelligence synergies software engineering|ACM|2013|2019
+RAISE|recent advances structural engineering|Springer|2025|2025
+RAISE|recent advances sustainable environment|Springer|2023|2023
+RAISE|requirements engineering ai powered software|IEEE|2025|2025
+RAIT|recent advances information technology|IEEE|2012|2025
+RAI|polish artificial intelligence pp|Springer|2026|2026
+RAMAN|recent advancements materials science nanotechnology|Elsevier|2020|2020
+RAMBO|reconstruction analysis moving body organs breast image analysis thoracic image analysis held conjunction medical imaging computer assisted intervention|Springer|2018|2018
+RAMBO|workshops reconstruction analysis moving body organs workshops whole heart great vessel segmentation from 3d cardiovascular mri congenital heart disease held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+RAME|recent advances mechanical engineering|Springer|2021|2021
+RAMICS|relational algebraic methods computer science|Springer|2011|2026
+RAMLAS|riau meeting law social sciences role law environmental science policy sustainable development goals|IOP|2023|2023
+RAMMTE|recent advances materials manufacturing thermal engineering|Springer|2023|2023
+RAMM|recent advances materials minerals environment|Elsevier|2019|2019
+RAMSACT|recent advances material science computational techniques|IOP|2025|2025
+RAMSACT|recent advances materials science computational techniques|IOP|2023|2023
+RAMSA|recent advances mathematical sciences its applications|IOP|2020|2020
+RAMSOS|recent advances material science organic synthesis|Elsevier|2023|2023
+RAMSTES|recent advances modeling simulations techniques engineering science|IOP|2024|2024
+RAMS|reliability maintainability product quality integrity||2010|2010
+RAMS|reliability maintainability tutorials||2012|2013
+RAMS|reliability maintainability|IEEE|2006|2026
+RAMT|robotics advanced manufacturing technology|IOP|2025|2025
+RAM|cis cybernetics intelligent systems robotics automation mechatronics|IEEE|2024|2024
+RAM|cybernetics intelligent systems robotics automation mechatronics cis|IEEE|2019|2023
+RAM|recent advances manufacturing|Springer|2021|2022
+RAM|robotics automation mechatronics|ACM|2008|2026
+RANDOM|approximation randomization combinatorial optimization algorithms techniques approx||2020|2025
+RANDOM|randomization approximation techniques computer science|Springer|1997|2002
+RANLPSTUD|student research associated recent advances natural language processing||2011|2023
+RANLPSTUD|student research associated||2017|2017
+RANLP|ahasis st shared task sentiment analysis arabic dialects hospitality domain multi dialect benchmark associated recent advances natural language processing||2025|2025
+RANLP|biomedical infromation extraction held conjunction||2009|2009
+RANLP|definition extraction held conjunction||2009|2009
+RANLP|dravidianlangtech speech language technologies dravidian languages associated recent advances natural language processing||2023|2023
+RANLP|events emerging text types eetts held conjunction||2009|2009
+RANLP|human informed translation interpreting technology hit it associated||2019|2019
+RANLP|language technology digital humanities central eastern europe lt4dhcsee conjunction||2017|2017
+RANLP|m daigt st multi domain detection ai generated text shared task associated recent advances natural language processing||2025|2025
+RANLP|multilingual resources technologies evaluation central eastern european languages held conjunction||2009|2009
+RANLP|natural language processing methods corpora translation lexicography language learning held conjunction||2009|2009
+RANLP|nlp medicine biology nlp medicine biology associated recent advances natural language processing||2013|2013
+RANLP|nlp4tia natural language processing tools resources translation interpreting applications associated recent advances natural language processing||2023|2023
+RANLP|recent advances natural language processing deep learning natural language processing methods applications||2021|2021
+RANLP|recent advances natural language processing deep learning world||2019|2019
+RANLP|recent advances natural language processing large language models natural language processing||2023|2023
+RANLP|recent advances natural language processing natural language processing generative ai era||2025|2025
+RANLP|recent advances natural language processing||2013|2013
+RANLP|student research associated recent advances natural language processing||2025|2025
+RANLP|student research recent advances natural language processing associated recent advances natural language processing||2013|2013
+RAN|open ai open ai part mobicom|ACM|2025|2025
+RAN|world congress recent advances nanotechnology||2016|2025
+RAOM|reasoning about other minds logical cognitive perspectives||2011|2011
+RAOOL|relationships associations object oriented languages co located european object oriented programming ecoop||2009|2009
+RAPIDO|drone systems engineering rapid simulation performance evaluation methods tools dronese|ACM|2021|2021
+RAPIDO|proc rapid simulation performance evaluation methods tools conj intl conf high performance embedded architectures compilers||2013|2013
+RAPIDO|rapid simulation performance evaluation methods tools conjunction intl high performance embedded architectures compilers|ACM|2012|2014
+RAPIDO|rapid simulation performance evaluation methods tools|ACM|2020|2026
+RAPID|3d imaging exposition society manufacturing engineers||2012|2013
+RAPID|3d imaging exposition||2010|2011
+RAPID|advanced radiation detector instrumentation nuclear particle physics|Springer|2023|2023
+RAPID|research applications photonics defense|IEEE|2018|2025
+RAPID|resources processing linguistic para linguistic extra linguistic data from people various forms cognitive psychiatric developmental impairments lrec||2024|2024
+RAPNEC|workshops application theory petri other models concurrency petri||2010|2010
+RASCC|aicte sponsored national e recent advances smart system automation computing communication||2021|2021
+RASC|ursi asia pacific radio science ap|IEEE|2019|2019
+RASC|ursi asia pacific radio science meeting ap|IEEE|2025|2025
+RASC|ursi asia pacific radio science ursi ap|IEEE|2016|2016
+RASC|ursi atlantic asia pacific radio science meeting ap|IEEE|2022|2022
+RASC|ursi atlantic radio science meeting|IEEE|2018|2024
+RASC|ursi atlantic radio science ursi|IEEE|2015|2015
+RASD|dependable transportation systems recent advances software dependability wdts||2013|2013
+RASD|recent advances structural dynamics|IOP|2019|2019
+RASEFT|recent advances sustainable engineering future technologies|IEEE|2024|2024
+RASLAN|recent advances slavonic natural language processing||2007|2025
+RASM|global recent advances sustainable materials gc|Elsevier|2021|2021
+RASM|recent advances sliding modes|IEEE|2015|2015
+RASSE|recent advances systems science engineering|IEEE|2021|2025
+RASTA|regulated agent systems theory applications co located joint autonomous agents multi agent systems|Springer|2004|2004
+RAST|recent advances air space technologies|IEEE|2023|2023
+RAST|recent advances space technologies|IEEE|2003|2019
+RATE|national recent advances traffic engineering|Springer|2020|2024
+RATIO|robust argumentation machines|Springer|2024|2024
+RAV|management natural resources sustainable development ecological hazards ravage planet rav09||2009|2009
+RAWCET|recent advances wireless communications emerging technologies|IOP|2023|2023
+RAWCON|radio wireless|IEEE|2002|2003
+RAWMU|recent advances waste minimization utilization|EDP|2024|2024
+RAWSN|rfid adaptive wireless sensor networks conjunction networked systems|IEEE|2015|2015
+RAWS|representation analysis web space||2005|2005
+RAW|resource awareness systems society||2024|2024
+RBAC|role based access control|ACM|1999|2000
+RBCA|guide risk based corrective action protection ecological resources||1997|1997
+RCAAI|robotics control automation artificial intelligence|Springer|2023|2026
+RCAE|robotics control automation engineering advanced mechanical electrical engineering|ACM|2019|2019
+RCAE|robotics control automation engineering|IEEE|2020|2025
+RCAI|russian artificial intelligence|Springer|2018|2021
+RCAR|real time computing robotics|IEEE|2016|2025
+RCBJSF|russia cis baltic japan ferroelectricity||2011|2011
+RCCE|construction building engineering regional civil engineering iconbuild|IOP|2020|2020
+RCDL|all russian scientific digital libraries advanced methods technologies digital collections||2011|2012
+RCDL|damdid supplementary data analytics management data intensive domains||2021|2021
+RCDL|data analytics management data intensive domains damdid|Springer|2018|2026
+RCDL|supplementary data analytics management data intensive domains damdid||2020|2020
+RCEE|regional engineering education research higher education|IOP|2022|2022
+RCEM|river coastal estuarine morphodynamics iahr river coastal estuarine morphodynamics||2006|2008
+RCENEE|thermofluid xiii regional energy engineering thermofluids|IOP|2024|2024
+RCGEOE|aun seed net regional geological geo resource engineering|IOP|2022|2022
+RCIS|research challenges information sciences|Springer|2020|2023
+RCIS|research challenges information science|Springer|2009|2026
+RCIS|research projects track co located||2023|2023
+RCIS|second research challenges information science marrakech june morrocco||2008|2008
+RCIS|ws rp joint workshops research projects track co located conferecence research challenges information science||2025|2025
+RCIS|ws rp joint workshops research projects track co located research challenges information science||2024|2024
+RCIS|ws rp joint workshops research projects track co located research challenges ininformation science||2022|2022
+RCI|cyber research ireland cyber|IEEE|2022|2025
+RCM|aun seed net regional materials materials engineering manufacturing|IOP|2021|2021
+RCM|iet railway condition monitoring non destructive testing||2011|2011
+RCM|iet railway condition monitoring||2008|2014
+RCOM|regional congress membrane technology regional environmental engineering|Elsevier|2020|2020
+RCOSE|rapid continuous software engineering|IEEE|2014|2017
+RCRA|experimental evaluation algorithms solving problems combinatorial explosion||2009|2010
+RCRA|hydra joint hybrid models coupling deductive inductive reasoning experimental evaluation algorithms solving problems combinatorial explosion co located logic programming non monotonic reasoning||2022|2022
+RCRA|ips joint italian planning scheduling experimental evaluation algorithms solving problems combinatorial explosion co located||2020|2020
+RCRM|river corridor research management|Springer|2022|2024
+RCRS|ursi regional radio science ursi|IEEE|2020|2024
+RCRS|ursi regional radio science usri|IEEE|2022|2022
+RCSC|society petroleum engineers spe advances integrated reservoir modelling field development exhibition||2025|2025
+RCSC|society petroleum engineers spe reservoir characterisation simulation exhibition new approaches characterisation modelling complex reservoirs||2013|2013
+RCSC|society petroleum engineers spe reservoir characterisation simulation exhibition||2011|2023
+RCSGSO|reducing costs spacecraft ground systems operations||2007|2007
+RCSM|recent trends computing smart mobility|IEEE|2025|2025
+RCSSST|regional solid state science technology||2016|2020
+RCTEMME|aun seed net joint regional transportation energy mechanical manufacturing engineering|Springer|2022|2022
+RCTFC|robotics current trends future challenges robotics human development|IEEE|2016|2016
+RCVE|robotics control vision engineering|ACM|2023|2025
+RDAAPS|reconciling data analytics automation privacy security big data challenge|IEEE|2021|2021
+RDAI|short paper reframing diversity ai representation inclusion power co located artificial intelligence||2021|2021
+RDCAPE|recent developments control automation power engineering|IEEE|2015|2025
+RDECS|recent developments electronics communication systems recent developments electronics communication systems||2023|2023
+RDF|refuse derived fuel quality standards processing||1991|1991
+RDME|national recent developments inmechanical engineering|IOP|2022|2022
+RDMPMC|national research developments material processing modelling characterization|Springer|2022|2022
+RDPE|research development power engineering|EDP|2019|2019
+RDP|seg aapg eage spe research development petroleum exhibition||2018|2018
+RDS|ethics explainability responsible data science ee|IEEE|2021|2021
+RDS|rock dynamics summit||2019|2019
+RDURP|role design ubicomp research practice||2011|2011
+REACS|recent advances computing systems|IEEE|2025|2025
+READINGS|scientific practical vavilov dedicated anniversary discovery law homological series anniversary birth n i vavilov|EDP|2022|2022
+READINGS|scientific practical vavilov|EDP|2023|2023
+READI|tools resources people reading difficulties lrec||2024|2024
+READI|tools resources reading difficulties collocated language resources evaluation||2022|2022
+REALDATAFCA|analyzing real data formal concept analysis co located formal concept analysis||2021|2021
+REALITIES|real emotions affect extended|Springer|2026|2026
+REALLM|sicsa sicsa reasoning evaluation application large language models||2024|2024
+REALMAN|second multi hop ad hoc networks from theory reality|ACM|2006|2006
+REALWSN|real world embedded wireless systems networks part|ACM|2018|2018
+REALWSN|real world wireless sensor networks co located|ACM|2015|2015
+REALWSN|real world wireless sensor networks|Springer|2008|2014
+REALXR|prototyping developing real world applications extended reality co located advanced visual interfaces||2024|2024
+REAQCT|recent advances quantum computing technology|ACM|2024|2024
+REBLS|reactive event based languages systems co located|ACM|2016|2016
+REBLS|sigplan reactive event based languages systems co located|ACM|2017|2023
+REBPM|interrelations between requirements engineering business process management|IEEE|2014|2014
+REBSE|realising evidence based software engineering||2005|2005
+RECAR|recent advances automotive engineering mobility research||2014|2014
+RECASE|reaction engineering catalysis sustainable energy|Elsevier|2022|2022
+RECITAL|taln traitement automatique des langues africaines african language processing||2014|2014
+RECI|reliability engineering computational intelligence|Springer|2021|2021
+RECLAIM|effectiveness analysis implementing regional clean air incentives market program reduce emissions south coast air basin||1997|1997
+RECODE|code translation transformation modernization|ACM|2026|2026
+RECOMB|comparative genomics revised selected papers||2005|2005
+RECOMB|comparative genomics|Springer|2005|2006
+RECOMB|computational methods snps haplotype inference dimacs|Springer|2004|2004
+RECOMB|computational molecular biology||2000|2000
+RECOMB|eighth research computational molecular biology||2004|2004
+RECOMB|fifth computational biology||2001|2001
+RECOMB|regulatory genomics revised selected papers||2005|2005
+RECOMB|research computational molecular biology|Springer|2005|2025
+RECOMB|seventh research computational molecular biology||2003|2003
+RECOMB|systems biology computational proteomics joint satellite workshops systems biology computational proteomics revised selected papers||2007|2007
+RECOMB|systems biology regulatory genomics joint satellite workshops systems biology regulatory genomics revised selected papers||2007|2007
+RECONFIG|reconfigurable computing fpga s||2006|2006
+RECONFIG|reconfigurable computing fpgas|IEEE|2005|2019
+RECONGT|research conclave global transformation|Springer|2026|2026
+RECORD|control power systems||1982|1984
+RECORD|industrial applications machine vision||1982|1982
+RECORD|military communications electronic battle new era communications||1985|1985
+RECORD|mining industry technical papers presented fifth||1987|1987
+RECORD|mining industry technical papers presented third||1983|1983
+RECORD|mining industry technical||1985|1985
+RECOSOC|reconfigurable communication centric systems chip|IEEE|2010|2019
+RECSOGOOD|recommender systems sustainability social good|Springer|2025|2026
+RECSYSTEL|recommender systems technology enhanced learning conjunction european technology enhanced learning ec||2012|2012
+RECSYSTEL|recommender systems technology enhanced learning|Elsevier|2010|2010
+RECSYS|challenge context aware movie recommendation camra2010||2010|2010
+RECSYS|decisions human decision making recommender systems conjunction recommender systems||2012|2012
+RECSYS|hr recommender systems human resources co located recommender systems recsys2021||2021|2021
+RECSYS|hr recommender systems human resources co located recommender systems recsys2023||2023|2023
+RECSYS|hr recommender systems human resources co located recommender systems||2022|2025
+RECSYS|joint human decision making recommender systems decisions user centric evaluation recommender systems their interfaces ucersti affiliated recommender systems||2011|2011
+RECSYS|perspectives perspectives evaluation recommender systems co located recommender systems recsys2021||2021|2021
+RECSYS|recommender systems challenge context aware movie recommendation||2011|2011
+RECSYS|recommender systems fashion retail|Springer|2025|2025
+RECSYS|recommender systems social web collocated recommender systems||2009|2009
+RECSYS|recommender systems|ACM|2007|2024
+RECSYS|recsys2025 recommender systems|ACM|2025|2025
+RECS|p practical reproducible evaluation computer systems co located|ACM|2019|2022
+RECS|p practical reproducible evaluation computer systems|ACM|2020|2021
+RECS|practical reproducible evaluation computer systems p|ACM|2018|2018
+RECTOUR|recommenders tourism co located recommender systems recsys2024||2024|2024
+RECTOUR|recommenders tourism co located recommender systems||2021|2025
+REC|mechanical engineering researches evolutionary challenges icmech|Springer|2024|2026
+REC|renewable energy climate changes|Springer|2020|2020
+REC|scientific cities new age glass|EDP|2023|2023
+REC|scientific territorial inequality problem or development driver|EDP|2021|2021
+REDCID|innovation complexity uncertainty economics business|Springer|2022|2022
+REDCYSEC|recent developments cyber security|Springer|2024|2025
+REDEC|renewable energies developing countries|IEEE|2012|2020
+REDEC|renewable energy developing countries|IEEE|2023|2025
+REDSET|recent developments science engineering technology|Springer|2018|2020
+REDUNDANCY|problems information control systems|IEEE|2015|2023
+REDW|radiation effects data conjunction nsrec|IEEE|2022|2025
+REDW|radiation effects data held conjunction nuclear space radiation effects|IEEE|2011|2020
+REDW|radiation effects data record held conjunction nuclear space radiation effects||2009|2009
+REDW|radiation effects data||2010|2010
+RED|plnnet ds doctoral natural language processing from pln net network co located edition spanish society natural language processing||2022|2022
+RED|problems redundancy information control systems||2012|2012
+RED|resource discovery co located extended semantic web revised selected papers|Springer|2013|2013
+RED|resource discovery co located extended semantic web||2011|2011
+RED|resource discovery second revised papers||2010|2010
+RED|resource discovery third revised selected papers||2012|2012
+REEC|renewable energy energy conservation|IOP|2025|2025
+REEDCON|recent advances electrical electronics digital healthcare technologies|IEEE|2023|2023
+REEE|renewable energy environment engineering|EDP|2019|2025
+REEPE|youth radio electronics electrical power engineering|IEEE|2019|2026
+REES|research engineering education connecting research policy practice transforming engineering education||2024|2024
+REES|research engineering education making connections||2019|2019
+REES|research engineering education translating research into practice||2015|2015
+REES|research engineering education||2009|2017
+REES|resource exploration environmental science environmental chemistry environmental bioengineering related technologies|IOP|2019|2019
+REES|resource exploration environmental science environmental engineering sustainable development|IOP|2019|2019
+REES|resource exploration environmental science preface|IOP|2019|2019
+REES|resource exploration environmental science resource exploration utilization geography geological engineering|IOP|2019|2019
+REES|resource exploration environmental science resources energy power engineering|IOP|2019|2019
+REES|resource exploration environmental science|EDP|2023|2024
+REET|renewable energy environmental technology||2014|2014
+REET|requirements engineering education training part requirements engineering||2011|2011
+REET|requirements engineering education training|IEEE|2008|2020
+REFAG|iag reference frames applications geosciences refag2010||2013|2013
+REFAG|iag reference frames applications geosciences|Springer|2017|2024
+REFLECTION|metalevel architectures separation crosscutting concerns|Springer|2001|2001
+REFSQ|joint workshops doctoral posters tools track education training track co located requirements engineering foundation software quality||2025|2025
+REFSQ|joint workshops doctoral posters tools track education training track requirements engineering foundation software quality||2026|2026
+REFSQ|jp joint workshops doctoral live studies track poster track co located requirements engineering foundation software quality||2020|2020
+REFSQ|jp joint workshops doctoral posters tools track co located requirements engineering foundation software quality||2022|2022
+REFSQ|jp joint workshops doctoral posters tools track education training track co located requirements engineering foundation software quality||2024|2024
+REFSQ|jp joint workshops doctoral posters tools track journal early feedback co located requirements engineering foundation software quality||2023|2023
+REFSQ|jp joint workshops openre poster toolstrack doctoral co located requirements engineering foundation software quality||2021|2021
+REFSQ|requirements engineering foundation software quality conjunction||2005|2005
+REFSQ|requirements engineering foundation software quality working|Springer|2007|2014
+REFSQ|working requirements engineering foundation software quality conjunction||2006|2006
+REFSQ|working requirements engineering foundation software quality|Springer|2015|2026
+REGS|renewable energy green computing sustainable development|Springer|2024|2026
+REHABEND|euro american congress construction pathology rehabilitation technology heritage management||2016|2024
+REHABEND|latin american congress construction pathology rehabilitation technology heritage management congresso dell america latina su patologia della costruzione tecnologia di riabilitazione e gestione del patrimonio congresso latino americano sobre patologia da constru o tecnologia de reabilita o e gest o do patrim nio congreso latinoamericano sobre patolog de la construcci n tecnolog de la rehabilitaci n y gesti n del patrimonio||2014|2014
+REHAB|icts improving patients reahbilitation research techniques co located human computer interaction interaccion||2022|2022
+REHAB|icts improving patients rehabilitation research techniques|Springer|2015|2019
+REI8|radiation effects insulators|Elsevier|1996|1996
+REIGN|acidic deposition science policy acid part||1995|1995
+REINACT|reasoning interaction||2021|2021
+REIS|iet professional development course railway electrification infrastructure systems||2009|2011
+RELABIRA|broadband networks fast internet||2012|2012
+RELATED|relations legal domain co located artificial intelligence law||2021|2021
+RELATIONS|meaning between phrases sentences||2019|2019
+RELAW|requirements engineering law held conjunction requirements engineering||2011|2011
+RELAW|requirements engineering law|IEEE|2008|2015
+RELCOMEX|dependability complex systems depcos|Springer|2013|2019
+RELCOMEX|dependability computer systems depcos|Springer|2007|2026
+RELECTRONIC|reliability electronics||1982|1982
+RELENG|release engineering co located|ACM|2016|2016
+RELENG|release engineering|IEEE|2013|2015
+RELIABILITY|failure prevention||1983|1987
+RELMICS|relational methods computer science|Springer|2001|2001
+RELMICS|relations kleene algebra computer science int relational methods computer science int applications kleene algebra proc||2009|2009
+RELMS|relational models semantics meeting association computational linguistics human language technologies acl||2011|2011
+RELSTAT|multidisciplinary reliability statistics transportation communication|Springer|2022|2026
+RELSTAT|reliability statistics transportation communication|Springer|2021|2021
+REMAR|asme iftomm reconfigurable mechanisms robots||2009|2009
+REMAR|iftomm reconfigurable mechanisms robots||2016|2016
+REMAR|reconfigurable mechanisms robots|IEEE|2018|2024
+REMCES|xiie rencontre marocaine sur la chimie de l etat solide|EDP|2013|2013
+REMIA|resource efficient medical image analysis held conjunction medical imaging computer assisted intervention|Springer|2022|2022
+REMME|regional mechanical marine engineering|Springer|2020|2020
+REMOD|regulations modelling deployment held conjunction||2008|2008
+REMOTE|wseas sensing||2009|2009
+REM|all union||1983|1983
+REM|applied energy forum renewable energy matrix||2025|2025
+REM|asian pacific electron microscopy reflection electron microscopy|Elsevier|1993|1993
+REM|research education mechatronics|IEEE|2014|2024
+RENA|congress natural resources sustainable development|EDP|2026|2026
+RENA|edition natural resources sustainable development|EDP|2024|2024
+RENEW|developments renewable energies offshore renewable energies offshore||2021|2021
+RENEW|renewable energies offshore||2014|2025
+RENE|replications negative results part|ACM|2024|2024
+RENO|society flight test engineers||2006|2006
+REPAIR|china ship||1986|1986
+REPA|requirements patterns|IEEE|2011|2015
+REPC|rural electric power papers presented|IEEE|2009|2019
+REPC|rural electric power|IEEE|2013|2025
+REPEVAL|evaluating vector space representations nlp||2017|2017
+REPE|renewable energy power engineering|IEEE|2018|2025
+REPRICO|requirements prioritization communication|IEEE|2014|2014
+REPSS|vision based remote physiological signal sensing challenge co located joint artificial intelligence||2024|2024
+REPSS|vision based remote physiological signal sensing challenge vision based remote physiological signal sensing challenge co located joint artificial intelligence||2025|2025
+REPSYS|reproducibility replication recommender systems evaluation held recommender systems|ACM|2013|2013
+REP|reproducibility replicability|ACM|2023|2025
+REQUEST|reproducible quality efficient systems tournament co designing pareto efficient deep learning co located|ACM|2018|2018
+RERA|renewable energy research applications|IOP|2025|2025
+RESACS|requirements engineering self adaptive collaborative cyber physical systems|IEEE|2018|2018
+RESC|requirements engineering social computing||2011|2011
+RESDIS|resource disaggregation high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2022|2022
+RESEARCH|joint university program air transportation||1987|1987
+RESEARCH|life sciences space topical meeting cospar interdisciplinary scientific commission f cospar plenary meeting||1981|1981
+RESEARCH|nasa aircraft controls||1984|1984
+RESEARCH|operational tenth||1984|1984
+RESEARCH|trends vehicle design||1987|1987
+RESEARCH|uk robotics||1984|1984
+RESEC|radical experiential security co located asia|ACM|2018|2018
+RESEM|renewable energy smart environmental monitoring|SPIE|2026|2026
+RESEM|renewable energy sustainable e mobility|IEEE|2023|2023
+RESER|replication empirical software engineering research||2012|2013
+RESGENXAI|responsible generative explainable ai|IEEE|2025|2025
+RESGEO|eage reservoir geoscience||2018|2018
+RESGEO|eage vpi reservoir geoscience||2019|2019
+RESGEVT|recent trends renewable energy smart grid electric vehicle technologies||2020|2020
+RESILIENCE|nature based solutions climate change|IOP|2025|2025
+RESILIENTFL|systems challenges reliable secure federated learning part|ACM|2021|2021
+RESNA|employing technology ninth rehabilitation technology||1986|1986
+RESNA|meeting challenge rehabilitation technology||1987|1987
+RESOSY|interdisciplinary requirements engineering sociotechnical systems co located asia pacific software engineering||2022|2022
+RESOURCEFUL|resources representations under resourced languages domains||2023|2023
+RESPECT|research equitable sustained participation engineering computing technology|IEEE|2022|2025
+RESPECT|research equity sustained participation engineering computing technology computer society s special technical community broadening participation co located stars celebration starscomputingcorps org|IEEE|2016|2016
+RESPECT|research equity sustained participation engineering computing technology|IEEE|2015|2026
+RESS|requirements engineering systems services systems systems co located requirements engineering||2011|2011
+RESS|requirements engineering systems services systems systems||2012|2012
+RESTAPIA|rammed earth conservation rammed earth conservation||2012|2012
+RESTCON|robotics engineering science technology|IEEE|2024|2024
+REST|renewable energies smart technologies|IEEE|2022|2024
+REST|restful design ws||2010|2012
+RES|ai revolution research ethics society air|Springer|2026|2026
+RES|next generation real time embedded systems ng||2020|2025
+RES|oasics next generation real time embedded systems ng||2026|2026
+RES|recent researches environment energy planning pollution proc wseas int conf renewable energy sources proc wseas int conf energy planning energy saving environmental education proc wseas int conf waste management water pollution air pollution indoor climate||2011|2011
+RETCOMP|recent emerging trends computer computational sciences|IEEE|2015|2015
+RETC|rapid excavation tunneling||2013|2013
+RETECH|multimedia real estate tech co located|ACM|2018|2018
+RETEC|automotive challenge plastics response automotive plastics||1987|1987
+RETEC|cad society plastics engineers color appearance division||2011|2011
+RETEC|regional technical society plastics engineers color plastics||2003|2003
+RETEC|regional technical spe color appearance division cad back basics||2006|2006
+RETEC|regional technical spe color appearance division cad remember color||2007|2007
+RETEC|rochester advances processing finishing plastics business machines||1982|1982
+RETEC|society plastics engineers color appearance division regional technical cad driving color into next decade||2008|2008
+RETEC|society plastics engineers color appearance division regional technical color appearance cad||2010|2010
+RETEC|society plastics engineers regional technical spe color appearance division cad you can t sing blues when your world is full color||2005|2005
+RETEC|spe cad society plastics engineers color appearance division regional technical hot colors cool plastics||2004|2004
+RETEC|vinyl vinyl material future||1989|1989
+RETEE|renewable energy technology electrical engineering|IOP|2024|2025
+RETHICS|ethics requirements engineering research practice|IEEE|2020|2020
+RETIS|recent trends information systems|IEEE|2011|2015
+RETMCS|renewable energy technologies modern communications systems future challenges|IEEE|2024|2024
+RETREAT|recent trends engineering advanced computing technology|IOP|2021|2023
+RET|requirements engineering testing|IEEE|2014|2019
+REVET|renewable energies vehicular technology||2012|2012
+REVIEW|hi tech||1984|1984
+REVOPID|opinion mining summarization diversification collocated hypertext social media|ACM|2018|2018
+REVOTE|requirements engineering electronic voting systems conjunction requirements engineering re||2011|2011
+REV|battery renewable energy electric vehicles icb|IOP|2023|2023
+REV|first requirements engineering visualization||2007|2007
+REV|remote engineering virtual instrumentation open science engineering co organized edunet world|Springer|2023|2023
+REV|remote engineering virtual instrumentation|Springer|2012|2023
+REV|requirements engineering visualization||2007|2010
+REWAS|enabling materials resource sustainability held during meeting exhibition||2013|2013
+REWAS|global recycling waste treatment clean technology||2005|2008
+REWBAH|requirements engineering well being aging health|IEEE|2020|2020
+REW|requirements engineering workshops|IEEE|2016|2025
+REX&GG|recrystallization grain growth rex gg|Springer|2016|2016
+REXS|resonant elastic x ray scattering condensed matter|IOP|2014|2014
+RFCOM|radio frequency computing|ACM|2025|2025
+RFCOM|radio frequency rf computing part|ACM|2024|2024
+RFCON|radio frequency communication networks|IEEE|2025|2025
+RFH|robots humans co located edition advanced visual interfaces||2024|2024
+RFIC|digest papers radio frequency integrated circuits||2004|2004
+RFIC|integrated circuits||2002|2002
+RFIC|radio frequency integrated circuits digest papers||2005|2012
+RFIC|radio frequency integrated circuits|IEEE|1998|2025
+RFIDSEC|radio frequency identification iot security|Springer|2017|2017
+RFIDSEC|radio frequency identification security privacy issues revised selected papers||2010|2013
+RFIDSEC|radio frequency identification security privacy issues|Springer|2013|2013
+RFIDSEC|radio frequency identification|Springer|2015|2015
+RFIDSEC|rfid security privacy revised selected papers||2012|2012
+RFID|eurasip technology||2012|2012
+RFIT|radio frequency integration technology integrated circuits wideband communication wireless sensor networks||2005|2005
+RFIT|radio frequency integration technology silicon technology heats up thz|IEEE|2014|2014
+RFIT|radio frequency integration technology|IEEE|2007|2025
+RFIW|recognizing families wild co located mm|ACM|2017|2017
+RFI|radio frequency interference coexisting radio frequency interference|IEEE|2016|2019
+RFI|radio frequency interference||2025|2025
+RFMIR|roadmapping future multimodal interaction research including business opportunities challenges co located|ACM|2014|2014
+RFMI|representations analysis recognition shape motion from imaging data|Springer|2017|2019
+RFM|rf microwave|IEEE|2004|2025
+RFPPC|topical radio frequency power plasmas|EDP|2026|2026
+RFP|reference framing perspective lrec||2024|2024
+RFTS|pacific rim fault tolerant systems|IEEE|1991|1991
+RGC|xiv russian germany biomedical engineering|IOP|2019|2019
+RGD|rarefied gas dynamics|IOP|2019|2019
+RGU|rechner gestutzter unterricht|Springer|1974|1974
+RHMF|research high magnetic fields|Elsevier|1998|1998
+RHR|analysis vent path through pressurizer manway under loss residual heat removal system during mid loop operation pwr||1996|1996
+RIACT|robotics intelligent automation control technologies|IOP|2021|2024
+RIASIC|xi scientific technical robotic intelligent aircraft systems improving challenges||2021|2021
+RICAI|robotics intelligent control artificial intelligence|IEEE|2019|2025
+RICAP|roma astroparticle physics|EDP|2025|2025
+RICE|research intelligent computing engineering|IEEE|2018|2025
+RICH|ring imaging cherenkov detectors|Elsevier|1996|1996
+RICSS|re design industrial control systems security co located|ACM|2024|2024
+RICSS|re design industrial control systems security|ACM|2025|2025
+RIDE|research issues data engineering||1997|1997
+RIDME|recent innovations developments mechanical engineering ic|Springer|2020|2020
+RIDS|rules database systems|Springer|1995|1995
+RIDT|electronic publishing ep raster imaging digital typography|Springer|1998|1998
+RIEEM|relevant issues ecology environmental management|EDP|2024|2024
+RIE|robotics education|Springer|2018|2025
+RIF|research computing feminine|IEEE|2025|2025
+RIF|seminary computer science research feminine||2022|2023
+RIIFORUM|research innovation forum|Springer|2021|2026
+RIISS|robotic intelligence informationally structured space series computational intelligence||2013|2013
+RIISS|robotic intelligence informationally structured space||2009|2009
+RIIT|research information technology|ACM|2012|2017
+RIMA|risk management assessment mitigation||2010|2010
+RIME|reconstruction imaging motion estimation graphs biomedical image analysis held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+RINCER|national institutions role confronting environmental risks reality solutions|Springer|2026|2026
+RIOS|joint ai robotics robocup iran open learning glorious future||2013|2013
+RIOT|recent advances internet things|IEEE|2015|2015
+RIPAM|meeting mediterranean architectural heritage||2024|2024
+RIPQOS|sigcomm revisiting ip qos what have we learned why do we care|ACM|2003|2003
+RISCE|research innovation sustainability civil engineering|Springer|2025|2025
+RISE|rapid integration software engineering techniques first revised selected papers||2005|2005
+RISE|rapid integration software engineering techniques second revised selected papers|Springer|2006|2006
+RISE|rapid integration software engineering techniques third revised selected papers||2007|2007
+RISKMANCPY|development riskmancpy1997 software promote strategic planning risk management programs||1997|1997
+RISK|assessment driven quality assurance held conjunction testing software systems|Springer|2017|2017
+RISK|assessment driven testing first held conjunction revised selected papers|Springer|2014|2014
+RISK|assessment driven testing|Springer|2015|2015
+RISK|computer simulation analysis hazard mitigation risk10||2010|2010
+RISK|computer simulation analysis hazard mitigation structures under shock impact||2016|2016
+RISK|computer simulation analysis hazard mitigation||2014|2014
+RISK|geo developments reliability resilience selected papers from sessions geo||2023|2023
+RISK|risk21 coping risks due natural hazards century risk21||2006|2006
+RISK|simulation analysis hazard mitigation||2012|2012
+RISSEF|radical innovations software systems engineering future|Springer|2004|2004
+RIST|recent innovations science technology|IOP|2022|2024
+RITAM|technological research|Springer|2023|2023
+RITA|robot intelligence technology applications|Springer|2014|2025
+RIVERS|river meandering||1984|1984
+RIVF|computer sciences research innovation vision future||2006|2006
+RIVF|computing communication technologies research innovation vision future|IEEE|2009|2016
+RIVF|computing communication technologies|IEEE|2019|2025
+RIVF|research innovation vision future computing communication technologies||2008|2008
+RIVF|research innovation vision future||2007|2007
+RKFM|russian kazakhstan chemical technologies functional materials|Elsevier|2020|2020
+RLEM|reinforcement learning energy management buildings cities|ACM|2020|2020
+RLI|asee research leadership institute||2020|2020
+RMAM|society petroleum engineers meeting rocky mountain petroleum engineers aime||1961|1961
+RMAM|society petroleum engineers rocky mountain joint meeting||1957|1958
+RMAM|society petroleum engineers spe rocky mountain joint meeting||1959|1959
+RMBS|rocky mountain bioengineering isa biomedical sciences instrumentation||2014|2017
+RMCAE|combined leesburg workshops reliability maintainability computer aided engineering concurrent engineering|IEEE|1990|1990
+RMC|all russian microwave|IEEE|2020|2024
+RMC|rapid mashup challenge|Springer|2016|2017
+RMELS|resource efficient mobile embedded llm system aiot part sensys|ACM|2024|2024
+RMGET|essays mining science practice|EDP|2019|2025
+RMGET|iv essays mining science practice|IOP|2023|2023
+RMKMATE|research methodologies knowledge management artificial intelligence telecommunication engineering|IEEE|2023|2026
+RMMT|recent trends materials manufacturing technologies|IOP|2024|2024
+RMM|rheology modeling materials ic|IOP|2020|2020
+RMO|metrology regional metrology organisations||2008|2008
+RMPTC|society petroleum engineers spe rocky mountain petroleum technology||2001|2001
+RMR|society petroleum engineers rocky mountain joint regional meeting||1962|1962
+RMR|society petroleum engineers spe rocky mountain joint regional meeting||1963|1963
+RMR|society petroleum engineers spe rocky mountain regional meeting||1965|1999
+RMR|spe rocky mountain regional meeting may casper wyoming||1980|1980
+RMSC|university north carolina greensboro regional mathematics statistics uncg|Springer|2015|2015
+RMSE|recommendation multi stakeholder environments co located recommender systems||2019|2019
+RMSW|radar methods systems|IEEE|2016|2016
+RMS|european refractory metals silicides|Elsevier|1989|1991
+RMTC|iwa regional membrane technology iwa|Springer|2024|2024
+RMXAC|robotic autonomous observatories||2017|2019
+RNCNDTTD|xxii russian national non destructive testing technical diagnostics transformation non destructive testing technical diagnostics era digitalization society security changing world||2020|2020
+RNDM|reliable networks design modeling|IEEE|2014|2015
+RNDM|resilient networks design modeling|IEEE|2016|2025
+RNNS|neuroinformatics neurocomputers|IEEE|1992|1992
+ROAI|robotics artificial intelligence|IOP|2021|2022
+ROA|role abstraction software engineering||2008|2008
+ROBCE|robotics control engineering|ACM|2021|2025
+ROBEXS|third robotics expert systems||1987|1987
+ROBINS|cognitive robotics intelligent systems icc|IEEE|2024|2025
+ROBIONETICS|robotics biomimetics intelligent computational systems||2013|2013
+ROBIO|robotics biomimetics digest||2012|2012
+ROBIO|robotics biomimetics|IEEE|2004|2025
+ROBMECH|pattern recognition association south africa robotics mechatronics prasa|IEEE|2015|2017
+ROBMECH|robotics mechatronics south africa||2012|2012
+ROBMECH|robotics mechatronics||2013|2013
+ROBOCOMM|robot communication coordination|ACM|2007|2007
+ROBOCUP|robot soccer world cup iv||2001|2001
+ROBOCUP|robot soccer world cup viii||2005|2005
+ROBOCUP|robot soccer world cup vi||2003|2003
+ROBOCUP|robot soccer world cup v||2002|2002
+ROBOCUP|robot soccer world cup xiii||2010|2010
+ROBOCUP|robot soccer world cup xii||2009|2009
+ROBOCUP|robot soccer world cup xiv||2011|2011
+ROBOCUP|robot soccer world cup xi||2008|2008
+ROBOCUP|robot soccer world cup xvi||2013|2013
+ROBOCUP|robot soccer world cup x||2007|2007
+ROBOCUP|robot world cup soccer games|Springer|1999|2001
+ROBOCUP|robot world cup soccer rescue competitions|Springer|2003|2004
+ROBOCUP|robot world cup xvii|Springer|2014|2014
+ROBONLP|language grounding robotics meeting association computational linguistics||2017|2017
+ROBONLP|splu spatial language understanding grounded communication robotics||2024|2024
+ROBONTICS|ontologies autonomous robotics co located robot human interactive communication ro||2023|2023
+ROBONTICS|ontologies autonomous robotics co located robotic computing communication||2025|2025
+ROBOPERC|visapp robotic perception visapp roboperc08 conjunction||2008|2008
+ROBOSOFT|ras soft robotics|IEEE|2026|2026
+ROBOSOFT|soft robotics|IEEE|2018|2025
+ROBOTHIA|robotics technologies industrial automation|IEEE|2025|2026
+ROBOTICA|autonomous robot systems||2013|2013
+ROBOTICCC|robotic computing communication|IEEE|2025|2025
+ROBOTICS|seminar industrial experience developments applications||1987|1987
+ROBOTIK|german robotics||2012|2012
+ROBOTIK|joint robotics german robotics isr||2010|2010
+ROBOT|iberian robotics|Springer|2014|2024
+ROBOT|information communication technology robotics ict|IEEE|2018|2018
+ROBOVIS|robotics computer vision intelligent systems robotics computer vision intelligent systems|Springer|2022|2022
+ROBOVIS|robotics computer vision intelligent systems|Springer|2020|2026
+ROBTEP|industrial service humanoid robotics||2013|2014
+ROBUSTRECSYS|design evaluation deployment robust recommender systems co located recommender systems||2024|2024
+ROBVIS|robot vision second||2008|2008
+ROBVIS|robot vision|Springer|2001|2001
+ROCDYN|rock dynamics applications||2016|2016
+ROCKS|american rock mechanics association us rock mechanics alaska rock mechanics energy mineral infrastructure development northern regions||2005|2005
+ROCKS|autumn school stochastic model checking rigorous dependability analysis using model checking techniques stochastic systems|Springer|2014|2014
+ROCLING|computational linguistics poster paper||1994|1994
+ROCLING|computational linguistics short papers||1993|1993
+ROCLING|computational linguistics speech processing poster papers||2003|2011
+ROCLING|computational linguistics speech processing student||2003|2003
+ROCLING|computational linguistics speech processing||2000|2025
+ROCLING|computational linguistics||1988|1996
+ROCLING|research computational linguistics short papers||1999|1999
+ROCLING|research computational linguistics||1997|1999
+ROCOM|wseas robotics control manufacturing technology wseas multimedia systems signal processing||2011|2011
+ROCOM|wseas robotics control manufacturing technology||2010|2010
+ROCOND|ifac robust control design final program abstracts||2006|2006
+ROCOND|ifac robust control design|Elsevier|2009|2025
+RODBH|doctoral research online databases history co located data history||2019|2019
+ROEDUNET|edition networking education research||2011|2011
+ROEDUNET|networking education research edition|IEEE|2016|2016
+ROEDUNET|networking education research|IEEE|2013|2025
+ROLCG|romania tier federation grid cloud high performance computing science|IEEE|2015|2015
+ROMANSY|cism iftomm theory practice robots manipulators|Springer|1993|2014
+ROMANSY|joint mechanical systems robotics msr|Springer|2024|2024
+ROMANSY|theory practice robots manipulators fifth cism iftomm||1985|1985
+ROMAN|robot human communication|IEEE|1992|1992
+ROMAN|robot human interactive communication||2001|2024
+ROMA|aiit transport infrastructure systems tis|Elsevier|2023|2023
+ROMA|robotics manufacturing automation roma2014|IEEE|2014|2014
+ROMA|robotics manufacturing automation|IEEE|2016|2025
+ROMA|transport infrastructure systems tis|Elsevier|2025|2025
+ROMCIR|reducing online misinformation through credible information retrieval co located european information retrieval||2021|2025
+ROME|performance evaluation reactive optics model emissions||1997|1997
+ROMOCO|fifth robot motion control||2005|2005
+ROMOCO|fourth robot motion control||2004|2004
+ROMOCO|robot motion control|IEEE|1999|2024
+ROMOPTO|ninth optics micro nanophotonics ii||2010|2010
+ROMOPTO|spie eighth optics||2007|2007
+ROMOPTO|spie seventh optics||2004|2004
+ROMOPTO|spie sixth optics||2000|2000
+ROMOPTO|tenth optics micro nanophotonics iii||2013|2013
+ROOTS|reversing offensive oriented trends co located deepsec|ACM|2020|2021
+ROPEC|autumn meeting power electronics computing|IEEE|2013|2025
+ROSENET|eai robotic sensor networks|Springer|2020|2021
+ROSENET|eai robotics networks eai|Springer|2023|2026
+ROSENET|eai robotics networks|Springer|2024|2024
+ROSEN|robotics sensor networks|IOP|2025|2025
+ROSE|robotic sensing sensing perception century robotics|IEEE|2003|2003
+ROSE|robotic sensor environments||2007|2007
+ROSE|robotic sensors environments|IEEE|2008|2024
+ROSE|robotic sensors robotic sensor environments||2005|2005
+ROSE|robotics software engineering|IEEE|2019|2025
+ROSS|runtime operating systems supercomputers co located|ACM|2019|2019
+ROSS|runtime operating systems supercomputers conjunction hpdc|ACM|2017|2017
+ROSS|runtime operating systems supercomputers conjunction|ACM|2012|2019
+ROSS|runtime operating systems supercomputers held conjunction sc high performance computing networking storage analysis|IEEE|2020|2022
+ROSS|runtime operating systems supercomputers||2011|2011
+ROVISP|robotic vision signal processing power applications|Springer|2017|2019
+ROVISP|robotics vision signal processing power applications|Springer|2022|2024
+ROV|exposition technology whose time has come||1983|1983
+RPA|robotic process automation blockchain forum held as part business process management|Springer|2021|2021
+RPA|scientific technical relay protection automation|IEEE|2023|2025
+RPA|youth scientific technical relay protection automation|IEEE|2018|2022
+RPC|russia pacific computer technology applications||2010|2010
+RPC|russian pacific computer technology applications|IEEE|2017|2018
+RPDS|radiative processes dephasing semiconductors||1998|1998
+RPERS|regional problems earth remote sensing|EDP|2020|2021
+RPE|caise research projects exhibition papers presented advanced information systems engineering||2023|2025
+RPGRS|results prospects geobotanical research siberia dedicated anniversary laboratory ecology geobotany csbg sb ras|EDP|2019|2019
+RPG|iet renewable power generation||2011|2013
+RPG|renewable power generation future power systems uk||2023|2023
+RPG|renewable power generation meeting net zero carbon||2022|2022
+RPG|renewable power generation||2021|2026
+RPIC|information processing control|IEEE|2015|2025
+RPIC|robot perception intelligent control|IEEE|2026|2026
+RPSD|radiation protection shielding division||2024|2024
+RPSD|topical meeting radiation protection shielding division||2014|2018
+RPTC|society petroleum engineers spe russian petroleum technology||2018|2021
+RQD|issat reliability quality design||2013|2025
+RRAU|resilient responsible architecture urbanism|Springer|2024|2024
+RRCON|asme spring joint railroad|IEEE|1992|1992
+RREPS|ix radiation from relativistic electrons periodic structures||2012|2012
+RREPS|viii radiation from relativistic electrons periodic structures|IOP|2010|2010
+RRIME|ecs transactions solid state general ecs meeting||2009|2009
+RRLCEP|large scale surveys as bridges between spectroscopy photometry||2023|2023
+RRNR|advances theory applications non integer order systems non integer order calculus its applications||2013|2013
+RRNR|non integer order calculus its applications|Springer|2017|2017
+RRPR|fourth reproducible research pattern recognition|Springer|2023|2023
+RRPR|reproducible research pattern recognition|Springer|2017|2026
+RRS|rational robust secure negotiation mechanisms multi agent systems||2005|2005
+RSAC|cryptographers track ct|Springer|2026|2026
+RSAE|isprs remote sensing synergic analysis atmospheric environment||2019|2019
+RSAE|robotics systems automation engineering|ACM|2021|2025
+RSAMD|reliability science advanced materials devices|IEEE|2013|2013
+RSA|cryptographer s track ct|Springer|2007|2024
+RSA|cryptographers track ct|Springer|2001|2025
+RSA|cryptographers track security ct|Springer|2002|2002
+RSA|cryptographers track topics cryptology ct|Springer|2018|2018
+RSA|topics cryptology ct cryptographer s track|Springer|2014|2014
+RSA|topics cryptology ct cryptographers track|Springer|2005|2013
+RSA|topics cryptology ct|Springer|2016|2016
+RSCE|regional chemical engineering|IOP|2020|2020
+RSCS|iet professional development course railway signalling control systems||2008|2012
+RSCTC|rough sets current trends computing|Springer|1998|2014
+RSCTC|rough sets current trends soft computing|Springer|2014|2014
+RSCY|eighth remote sensing geoinformation environment|SPIE|2020|2020
+RSCY|eleventh remote sensing geoinformation environment|SPIE|2025|2025
+RSCY|first remote sensing geoinformation environment||2013|2013
+RSCY|ninth remote sensing geoinformation environment|SPIE|2023|2023
+RSCY|second remote sensing geoinformation environment|SPIE|2014|2014
+RSCY|seventh remote sensing geoinformation environment|SPIE|2019|2019
+RSCY|tenth remote sensing geoinformation environment|SPIE|2024|2024
+RSC|society petroleum engineers spe reservoir simulation||2017|2025
+RSDE|remote sensing digital earth|SPIE|2025|2026
+RSDHA|redefining scalability diversely heterogeneous architectures held conjunction sc high performance computing networking storage analysis|IEEE|2021|2022
+RSEF|lecture notes essays astrophysics astrophysics group spanish royal physical society||2009|2009
+RSEF|lecture notes essays astrophysics ii astrophysics held during biannual meeting royal spanish physical society||2005|2005
+RSEF|lecture notes essays astrophysics iii after astrophysics during scientific biannual meeting royal spanish physical society||2014|2014
+RSEGP|renewable sustainable energies green processes|EDP|2026|2026
+RSEISP|rough sets intelligent systems paradigms second held as part|Springer|2014|2014
+RSEISP|rough sets intelligent systems paradigms||2007|2007
+RSEMW|radiation scattering electromagnetic waves|IEEE|2017|2023
+RSES|communications computation control resilient smart energy systems|ACM|2016|2016
+RSES|rudenko methodological problems reliability study large energy systems|EDP|2019|2024
+RSETE|remote sensing environment transportation engineering|Atlantis|2011|2013
+RSE|agriculture earth remote sensing environment|EDP|2023|2023
+RSE|remote sensing earth geoinformatics cartography ecology agriculture|SPIE|2022|2022
+RSE|remote sensing earth physics|SPIE|2026|2026
+RSFDGRC|new directions rough sets data mining granular soft computing|Springer|1999|1999
+RSFDGRC|rough sets fuzzy sets data mining granular computing|Springer|2003|2015
+RSGPA|remote sensing global positioning algorithm|IOP|2024|2024
+RSGPA|second remote sensing global positioning algorithm|SPIE|2025|2025
+RSIP|remote sensing intelligent processing|IEEE|2017|2017
+RSJ|intelligent robots systems||2010|2010
+RSKT|rough set knowledge technology||2010|2010
+RSKT|rough sets knowledge technology first|Springer|2006|2006
+RSKT|rough sets knowledge technology second||2007|2007
+RSKT|rough sets knowledge technology third||2008|2008
+RSKT|rough sets knowledge technology|Springer|2009|2015
+RSMBD|remote sensing measurement big data|IOP|2025|2025
+RSMC|scientific technical rapid solidification materials coatings||2021|2021
+RSMG|remote sensing mapping geographic information systems|SPIE|2024|2024
+RSMG|remote sensing mapping geographic systems|SPIE|2023|2023
+RSMG|third remote sensing mapping geographic information systems|SPIE|2025|2025
+RSMIP|remote sensing mapping image processing|SPIE|2024|2025
+RSM|regional micro nano electronics|IEEE|2013|2015
+RSM|regional micro nanoelectronics programme abstracts||2011|2011
+RSM|regional micro nanoelectronics|IEEE|2017|2025
+RSM|usnc ursi radio science meeting uscn ursi|IEEE|2021|2021
+RSP|ifip rapid system prototyping shortening path from specification prototype||2008|2009
+RSP|ifip rapid system prototyping||2007|2007
+RSP|rapid system prototyping shortening path from specification prototype|ACM|2011|2025
+RSP|rapid system prototyping||2004|2010
+RSP|russian polish slovak seminar theoretical foundation civil engineering|Springer|2022|2022
+RSP|seventeenth rapid system prototyping||2006|2006
+RSR|society petroleum engineers spe regional secondary recovery||1967|1967
+RSSDS|research school statistics data science|Springer|2019|2019
+RSSE|proc recommendation systems software engineering co located sigsoft foundations software engineering||2008|2008
+RSSE|recommendation systems software engineering conjunction software engineering||2010|2010
+RSSE|recommendation systems software engineering|ACM|2012|2014
+RSSM|remote sensing surveying mapping|SPIE|2023|2026
+RSSRAIL|reliability safety security railway systems modelling analysis verification certification|Springer|2023|2023
+RSSRAIL|reliability safety security railway systems|Springer|2016|2026
+RSS|robotics science systems||2014|2022
+RSTIP|remote sensing technology image processing|SPIE|2025|2025
+RSTIP|second remote sensing technology image processing|SPIE|2026|2026
+RSTSM|remote sensing technology survey mapping|SPIE|2024|2024
+RSTSM|second remote sensing technology survey mapping|SPIE|2025|2025
+RST|recent advances robotics sensor technology humanitarian demining counter ieds|IEEE|2016|2016
+RSVT|robotics systems vehicle technology|ACM|2019|2022
+RSWEB|recsys recommender systems social web|ACM|2012|2012
+RSW|radio wireless||2013|2013
+RSW|reminiscence systems||2009|2009
+RSW|resilience week|IEEE|2015|2015
+RTASCE|recent trends applications soft computing engineering|Springer|2025|2025
+RTAS|real time embedded technology applications|IEEE|2002|2026
+RTAS|real time embedded technology application||2009|2009
+RTAS|real time technology applications||1995|2001
+RTAS|seventh real time technology applications||2001|2001
+RTAS|twelfth real time embedded technology applications||2006|2006
+RTA|intemational rewriting techniques applications|Springer|1995|1995
+RTA|real time applications|IEEE|1993|1994
+RTA|rewriting techniques applications reduction strategies rewriting programming||2011|2011
+RTA|rewriting techniques applications|Springer|1985|2013
+RTA|term rewriting applications|Springer|2005|2007
+RTBS|recent trends biomedical sciences|EDP|2024|2024
+RTCSA|embedded real time computing systems applications cyber physical systems networks applications||2012|2012
+RTCSA|embedded real time computing systems applications|IEEE|2006|2025
+RTCSA|real time computing systems applications|IEEE|1998|2000
+RTCSA|real time embedded computing systems applications|Springer|2004|2004
+RTC|expo real time communications iit|IEEE|2021|2025
+RTDN|iee reliability transmission distribution networks||2005|2005
+RTDN|iet reliability transmission distribution networks||2011|2011
+RTD|asme joint rail||2002|2002
+RTECC|recent trends electrical control communication|IEEE|2018|2018
+RTEICT|recent trends electronics information communication technology|IEEE|2016|2021
+RTEP|recent technologies innovations electronics photonics|Springer|2024|2024
+RTESD|recent trends environment sustainable development|Elsevier|2019|2019
+RTEST|cpssi real time embedded systems technologies|IEEE|2022|2022
+RTEST|csi cpssi real time embedded systems technologies|IEEE|2020|2020
+RTEST|csi real time embedded systems technologies|IEEE|2015|2018
+RTE|scientific railway transport engineering|IOP|2021|2021
+RTFDR|national e recent trends fluid dynamics research|Springer|2022|2022
+RTFNB|xli brazilian meeting nuclear physics|IOP|2019|2019
+RTIC|iet its road transport information control||2012|2012
+RTIC|twelfth road transport information control||2004|2004
+RTIDSM|recent trends infrastructural development sustainable materials ic|Springer|2025|2025
+RTIMES|recent trends mechanical engineering sciences innovative synergy|IOP|2025|2025
+RTIMES|recent trends mechanical engineering sciences rtimes2025|IOP|2025|2025
+RTIMES|recent trends mechanical engineering sciences|IOP|2024|2024
+RTISD|random transformations invariance stochastic dynamics|Springer|2021|2021
+RTIS|real time intelligent systems|Springer|2018|2025
+RTNS|real time network systems||2012|2012
+RTNS|real time networks systems|ACM|2013|2025
+RTP|advanced thermal processing semiconductors|IEEE|2001|2010
+RTSD|nuclear science medical imaging room temperature semiconductor detector nss mic|IEEE|2017|2017
+RTSE|real time systems education iii|IEEE|1998|1998
+RTSE|requirements targeting software systems engineering|Springer|1998|1998
+RTSI|forum research technologies society industry innovation shape future|IEEE|2019|2019
+RTSI|forum research technologies society industry innovation|IEEE|2022|2024
+RTSI|forum research technologies society industry leveraging better tomorrow|IEEE|2016|2016
+RTSI|forum research technologies society industry|IEEE|2015|2025
+RTSI|forum research technology society industry|IEEE|2021|2021
+RTSS|real time systems symposiumy||2006|2006
+RTSS|real time systems|IEEE|1990|2025
+RTS|iet railway traction systems||2010|2010
+RTS|recognition analysis tracking faces gestures real time systems ratfg|IEEE|1999|1999
+RTTR|recent trends telecommunications research|IEEE|2017|2017
+RTT|scientific practical railway transport technologies|IOP|2023|2023
+RTUCON|scientific confererence power electrical engineering riga technical university|IEEE|2017|2017
+RTUCON|scientific power electrical engineering riga technical university|IEEE|2014|2025
+RTUWO|advances wireless optical communications|IEEE|2015|2018
+RUBIS|resilience rubber based agroforestry systems context global change|EDP|2021|2021
+RUE|recommendation utility evaluation beyond rmse recommender systems||2012|2012
+RULEAPPS|east european rule based applications european artificial intelligence||2008|2008
+RULEAPPS|east european rule based applications||2009|2009
+RULEML|advances rule interchange applications||2007|2007
+RULEML|brf challenge co located rule||2011|2011
+RULEML|challenge collocated rules applications interoperability||2009|2009
+RULEML|challenge dc challenge special track rule based recommender systems web data special industry track doctoral consortium hosted web rule||2015|2015
+RULEML|challenge human language technology doctoral consortium rule challenge hlt dc rules||2013|2013
+RULEML|challenge web rule||2010|2010
+RULEML|ecai challenge doctoral consortium rules||2012|2012
+RULEML|rule based modeling computing semantic web america||2011|2011
+RULEML|rule based reasoning programming applications||2011|2011
+RULEML|rule interchange applications||2009|2009
+RULEML|rule representation interchange reasoning web|Springer|2008|2008
+RULEML|rule technologies foundations tools applications|Springer|2015|2015
+RULEML|rule technologies|Springer|2016|2016
+RULEML|rules rule markup languages semantic web first||2005|2005
+RULEML|rules rule markup languages semantic web third||2004|2004
+RULEML|rules rule markup languages semantic web|Springer|2004|2004
+RULEML|rules web from theory applications co located european artificial intelligence|Springer|2014|2014
+RULEML|rules web research applications||2012|2012
+RULEML|second rules rule markup languages semantic web||2006|2006
+RULEML|semantic web rules||2010|2010
+RULEML|theory practice applications rules web||2013|2013
+RULE|based programming||2010|2010
+RULE|sigplan based programming||2002|2002
+RUMONAS|russian mathematical modelling natural sciences|IOP|2024|2024
+RUNTIME|requirements run time re||2010|2011
+RUPAC|contributions russian charged particle accelerators||2006|2006
+RUPAC|contributions russian particle accelerator||2008|2012
+RUPAC|russian particle accelerator||2014|2021
+RUR|reasoning uncertainty robotics|Springer|1996|1996
+RUSAUTOCONF|russian automation|Springer|2021|2021
+RUSAUTOCON|russian automation|IEEE|2018|2026
+RUSCDAYS|russian supercomputing days supercomputing|Springer|2022|2022
+RUSCDAYS|russian supercomputing days|Springer|2016|2026
+RUSECOCON|russian ecology environmental engineering|IOP|2022|2022
+RUSMETALCON|russian materials science metallurgical technology||2020|2022
+RUSNANOTECH|iv nanotechnology forum||2012|2012
+RUSSIR|russian summer school information retrieval|Springer|2015|2016
+RVITM|confluence advancements robotics vision interdisciplinary technology management ic|IEEE|2023|2023
+RVI|fachtagung rechts und verwaltungsinformatik neue wege der zusammenarbeit und vernetzung fur digitale transformation und verwaltungsmodernisierung||2024|2024
+RVI|gi edition band fachtagung rechts und verwaltungsinformatik||2023|2023
+RVSP|robot vision signal processing|IEEE|2011|2016
+RVW|automotive cae road virtual world||2024|2024
+RWC|using rapids estimate emissions from residential wood combustion wisconsin||1997|1997
+RWIA|robotic welding intelligence automation|Springer|2007|2011
+RWP|russian open radio wave propagation|IEEE|2019|2019
+RWS|radio wireless||2009|2026
+RWS|resilience week|IEEE|2016|2025
+RWW|radio wireless paper digest||2010|2010
+RWW|radio wireless week radio wireless||2011|2024
+RWW|radio wireless week space hardware radio|IEEE|2024|2024
+RWW|radio wireless week topical biomedical wireless technologies networks sensing systems||2011|2011
+RWW|radio wireless week topical meeting silicon monolithic integrated circuits rf systems|IEEE|2024|2024
+RWW|radio wireless week topical power amplifiers wireless radio applications||2011|2011
+RWW|radio wireless week topical rf microwave power amplifiers radio wireless applications|IEEE|2024|2024
+RWW|radio wireless week topical wireless sensors sensor networks|IEEE|2011|2024
+RWW|radio wireless||2012|2020
+RWW|topical biomedical wireless technologies networks sensing systems||2012|2012
+RWW|topical power amplifiers wireless radio applications||2012|2012
+RWW|topical wireless sensors sensor networks||2012|2012
+RYCPS|russian youth physics semiconductors nanostructures opto nanoelectronics|IOP|2020|2022
+RYCPS|xxii russian youth physics semiconductors nanostructures opto nanoelectronics||2021|2021

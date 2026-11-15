@@ -1,0 +1,194 @@
+KABCC|ka broadband communications||2025|2025
+KACSTIT|saudi information technology|IEEE|2016|2016
+KALLM|knowledge graphs large language models||2024|2024
+KAMC|knowledge acquisition from multimedia content||2007|2007
+KAM|knowledge acquisition modeling||2008|2011
+KARS|knowledge aware conversational recommender systems co located information knowledge management||2020|2020
+KARS|knowledge aware conversational recommender systems co located recommender systems recsys2024||2024|2024
+KARS|knowledge aware conversational recommender systems co located recommender systems||2022|2023
+KAR|p place related knowledge acquisition research||2012|2012
+KAZGEO|geosciences kazakhstan where geoscience meets silk road||2010|2010
+KBC|lm lm joint knowledge base construction from pre trained language models challenge language models knowledge base construction co located semantic web||2023|2025
+KBC|lm semantic web challenge knowledge base construction from pre trained language models co located semantic web||2022|2022
+KBEI|knowledge based engineering innovation|IEEE|2015|2019
+KBNETS|kernel bypass networks part|ACM|2017|2017
+KBNETS|kernel bypassing networks part|ACM|2018|2018
+KBSE|knowledge based software engineering|IEEE|1991|1993
+KCAP|knowledge capture|ACM|2011|2011
+KCESS|kuwait e services e systems||2011|2011
+KCIC|electronics knowledge creation intelligent computing ies|IEEE|2017|2018
+KCIC|knowledge creation intelligent computing|IEEE|2016|2016
+KCKS|ifip tc key competencies knowledge society held as part ifip world computer congress|Springer|2010|2010
+KDD|acmkdd knowledge discovery data mining||2008|2008
+KDD|adkdd targetad conjunction sigkdd knowledge discovery data mining|ACM|2017|2017
+KDD|causal discovery cd||2022|2022
+KDD|causal discovery prediction decision||2023|2023
+KDD|converse conversational systems towards mainstream adoption co located knowledge discovery data mining||2020|2020
+KDD|dd tenth sigkdd knowledge discovery data mining||2004|2004
+KDD|di2kg challenges experiences from data integration knowledge graphs co located sigkdd knowledge discovery data mining||2019|2019
+KDD|eighth sigkdd knowledge discovery data mining||2002|2002
+KDD|hi ai human interpretable ai co located sigkdd knowledge discovery data mining||2024|2024
+KDD|human computer interaction knowledge discovery complex unstructured big data third hci held||2013|2013
+KDD|joint ninth webkdd first sna wen mining social network analysis||2007|2007
+KDD|knowledge discovery data mining||1995|1998
+KDD|knowledge discovery from sensor data second sensor revised selected papers|Springer|2010|2010
+KDD|mining complex data multimedia data mining mdm knowledge discovery from multimedia complex data kdmcd|Springer|2003|2003
+KDD|pmml held conjunction||2011|2011
+KDD|sigkdd intelligence security informatics isi||2010|2012
+KDD|sigkdd knowledge discovery data mining v|ACM|2026|2026
+KDD|sigkdd knowledge discovery data mining|ACM|2003|2025
+KDD|sigkdd knowledge discovery data||2010|2010
+KDD|sigkdd knowledge discovery from uncertain data u conjunction||2009|2009
+KDD|social network mining analysis sna|ACM|2009|2013
+KDD|software mining softwaremining held conjunction sigkdd knowledge discovery data mining||2012|2012
+KDD|statistical relational learning bioinformatics||2009|2009
+KDD|thirteenth sigkdd knowledge discovery data mining||2007|2007
+KDD|twelfth sigkdd knowledge discovery data mining||2006|2006
+KDECB|knowledge discovery emergent complexity bioinformatics first revised selected papers||2007|2007
+KDEX|knowledge data engineering exchange|IEEE|1999|1999
+KDH|knowledge discovery healthcare data co located european artificial intelligence||2020|2020
+KDH|knowledge discovery healthcare data co located joint artificial intelligence||2019|2019
+KDID|anniversary knowledge discovery inductive databases co located european machine learning principles practice knowledge discovery databases||2022|2022
+KDID|knowledge discovery inductive databases revised selected invited papers||2006|2007
+KDID|knowledge discovery inductive databases third||2005|2005
+KDIR|ic3k knowledge discovery information retrieval knowledge management information sharing|SciTePress|2013|2013
+KDIR|knowledge discovery information retrieval as part ic3k joint knowledge discovery knowledge engineering knowledge management||2022|2025
+KDIR|knowledge discovery information retrieval||2009|2014
+KDMS|knowledge discovery modeling simulation||2011|2011
+KDPD|declarative programming knowledge management declarative programming days unifying inap wflp wlp revised selected papers|Springer|2014|2014
+KDWEB|web things humans wot4h semantics web transport sem4tra knowledge discovery web co located web engineering|Springer|2020|2020
+KDXD|knowledge discovery from xml documents first||2006|2006
+KECSM|knowledge extraction consolidation from social media conjunction semantic web||2012|2012
+KEER|kansei engineering emotion research|Springer|2018|2024
+KEE|global digital health knowledge exchange empowerment knowledge exchange state art research development digital health technologies enable empower stakeholders engaged enriching enhancing patient healthcare journey gdigihealth|IEEE|2024|2024
+KEIR|knowledge enhanced information retrieval|Springer|2026|2026
+KELSI|knowledge exploration life science informatics|Springer|2004|2004
+KELVAR|virtual reality k embodied learning through virtual augmented reality|IEEE|2016|2017
+KEMCS|key engineering materials computer science||2013|2014
+KEMT|knowledge enhanced machine translation||2024|2024
+KEOD|ic3k knowledge engineering ontology development||2013|2013
+KEOD|knowledge engineering ontology development as part ic3k joint knowledge discovery knowledge engineering knowledge management||2021|2024
+KEOD|knowledge engineering ontology development||2009|2014
+KESE|knowledge engineering software engineering co located german artificial intelligence ki|Springer|2018|2018
+KESE|knowledge engineering software engineering german artificial intelligence ki||2007|2008
+KESE|knowledge engineering software engineering german artificial intelligence||2009|2010
+KESE|knowledge engineering software engineering spanish association artificial intelligence||2011|2011
+KESE|pacific asia knowledge engineering software engineering||2009|2009
+KESIDT|kes intelligent decision technologies|Springer|2023|2023
+KESW|knowledge engineering semantic web|Springer|2013|2017
+KES|know1edge based intelligent information engineering systems|Springer|2003|2003
+KES|knowledge based intelligent engineering systems allied technologies part||2000|2000
+KES|knowledge based intelligent engineering systems allied technologies|IEEE|2000|2000
+KES|knowledge based intelligent information engineering systems xvii italian neural networks||2007|2007
+KES|knowledge based intelligent information engineering systems|Springer|2003|2025
+KES|knowledge based intelligent information engineering sytems|Elsevier|2023|2023
+KES|knowledge engineering machine learning lattice computing applications revised selected papers||2013|2013
+KEYS|keyword search structured data|ACM|2009|2012
+KEYTECH|key enabling technologies|IOP|2019|2024
+KGCW|knowledge graph construction co located extended semantic web||2021|2025
+KGC|kurt g del colloquim computational logic proof theory|Springer|1997|1997
+KGC|kurt godel colloquium computational logic proof theory|Springer|1993|1993
+KGMA|knowledge graph management analysis data science emerging applications held jointly apweb joint web big data apweb|Springer|2019|2019
+KGMA|knowledge graph management applications semi structured big data management applications mobile applications data management artificial intelligence education educational data mining spatio temporal big data management held conjunction apweb|Springer|2025|2025
+KGSUM|ai4legal joint artificial intelligence technologies legal documents knowledge graph summarization co located semantic web||2022|2022
+KGSWC|iberoamerican indo american knowledge graphs semantic web|Springer|2022|2023
+KGSWC|iberoamerican jointly indo american knowledge graphs semantic web|Springer|2020|2020
+KGSWC|iberoamerican knowledge graph semantic web indo american knowledge graphs semantic web|Springer|2021|2021
+KGSWC|iberoamerican knowledge graphs semantic web|Springer|2019|2019
+KGSWC|knowledge graphs semantic web|Springer|2025|2026
+KHPIWEEK|khpi week advanced technology|IEEE|2024|2025
+KIBP|knowledge intensive business processes||2012|2012
+KICG|geological engineering mining exploration central asia source xviii kerulien geology||2013|2013
+KICSS|knowledge information creativity support systems revised selected papers||2011|2011
+KICSS|knowledge information creativity support systems|Springer|2012|2018
+KIC|ifip tc5 wg knowledge intensive computer aided design|Springer|2004|2004
+KIELD|knowledge injection into extraction from linked data||2010|2010
+KIK|dkb dynamics knowledge belief ki kognition co located german artificial intelligence ki||2019|2019
+KIL|knowledge infused learning towards consistent reliable explainable safe llms co located sigkdd knowledge discovery data mining||2024|2024
+KIMAS|integration knowledge intensive multi agent systems||2005|2007
+KIML|knowledge infused mining learning social impact co located knowledge discovery data mining||2020|2020
+KIM|knowledge information management sustainable quality||2013|2013
+KINEMATICS|mechanics rigid bodies materials||2014|2014
+KIPCE|society petroleum engineers kuwait petroleum exhibition meeting energy demand long term economic growth||2009|2009
+KIPCE|society petroleum engineers kuwait petroleum exhibition people innovative technologies unleash challenging hydrocarbon resources||2012|2012
+KISV|kernel isolation safety verification part|ACM|2025|2025
+KISV|kernel isolation safety verification|ACM|2024|2024
+KISV|the1st kernel isolation safety verification|ACM|2023|2023
+KITS|challenge kidney kidney tumor segmentation held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+KITS|challenge kidney kidney tumor segmentation which was held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+KIT|communication information technologies scientific|IEEE|2019|2025
+KIT|computational methods science engineering simlabs||2011|2011
+KIT|scientific communication information technologies|IEEE|2017|2021
+KIVS|communication distributed systems event german informatics society participation information technology society fachtagung kommunikation verteilten systemen eine veranstaltung der gesellschaft fur informatik unter beteiligung der informationstechnischen gesellschaft||2005|2009
+KIVS|communication distributed systems event information technology society participation german informatics society fachtagung kommunikation verteilten systemen eine veranstaltung der informationstechnischen gesellschaft unter beteiligung der gesellschaft fur informatik||2007|2007
+KIVS|communication distributed systems short contributions gi itg kommunikation verteilten systemen kurzbeitrage und der gi itg fachtagung||2005|2005
+KIVS|gi itg communication distributed systems||2011|2011
+KIVS|itg gi communication distributed systems|IEEE|2007|2007
+KJF|korea japan joint forum organic materials electronics photonics||2002|2002
+KJMW|korea japan microwave kjmw2007 technical digest||2007|2007
+KKA|polish control|Springer|2017|2017
+KKIO|practical aspects solutions software engineering advances programming languages held as part|Springer|2024|2024
+KKIO|software engineering software engineering challenges solutions|Springer|2017|2017
+KMGOV|ifip working knowledge management electronic government|Springer|2003|2003
+KMGOV|knowledge management electronic government ifip working rhodes greece may||2003|2003
+KMGOV|knowledge management electronic government ifip working|Springer|2004|2004
+KMIS|knowledge management information sharing||2009|2014
+KMIS|knowledge management information systems as part ic3k joint knowledge discovery knowledge engineering knowledge management||2021|2024
+KMM|current aspects knowledge management medicine organized professional knowledge management||2005|2005
+KMN|knowledge media networking|IEEE|2002|2002
+KMO|knowledge management organisations|Springer|2022|2025
+KMO|knowledge management organizations|Springer|2014|2024
+KNOD|knowledge graphs online discourse analysis co located web||2021|2021
+KNOTH|knowledge ontology theory|IEEE|2021|2021
+KNOWHSEM|ifip tc5 wg5 ifac working knowledge based hybrid systems engineering manufacturing|Elsevier|1994|1994
+KNOWLEDGENLP|knowledge augmented methods nlp||2024|2024
+KNOWLLM|towards knowledgeable language models||2024|2024
+KNOWRSH|knowledge resources socio economic sciences humanities associated||2017|2017
+KNOW|i knowledge management knowledge technologies i semantic systems||2009|2009
+KNOW|knowledge management knowledge technologies i||2011|2013
+KNPMP|konferensi nasional penelitian matematika dan pembelajarannya||2021|2021
+KOD|machine industrial design mechanical engineering|Springer|2022|2025
+KOGS|society petroleum engineers kuwait oil gas show||2013|2026
+KOGS|society petroleum engineers spe kuwait oil gas show||2019|2019
+KOGWIS|biennial german society cognitive science spatial cognition spatial cognition|Springer|2017|2017
+KOMEEO|knowledge organization management domain environment earth observation||2022|2022
+KONGRESSES|surface technology congress surface technology oberflaechentechnik vortraege des surtec||1981|1981
+KONG|autotech hong||1985|1985
+KONVENS|germs detect task germs detect sexism detection german online news fora||2024|2024
+KONVENS|natural language processing die konferenz zur verarbeitung naturlicher sprache||2018|2018
+KONVENS|natural language processing empirical methods natural language processing natural language processing||2012|2012
+KONVENS|natural language processing konferenz zur verarbeitung naturlicher sprache||2006|2006
+KONVENS|natural language processing||2014|2024
+KOPLE|knowledge oriented product line engineering||2010|2010
+KORUS|korea russia science technology|IEEE|2000|2005
+KORUS|russian korean science technology|IEEE|1999|2005
+KPBIMUKO|crimean microwave telecommunication technology||2009|2010
+KPBIMUKO|crimico crimean microwave telecommunication technology||2008|2008
+KPEC|kansas power energy|IEEE|2020|2025
+KPP|knowledge processing data analysis first revised selected papers||2011|2011
+KRAMAS|knowledge representation agents multi agent systems first revised selected papers||2009|2009
+KRAS|research knowledge representation autonomous systems||2005|2005
+KSAE|sae powertrains fuels lubricants meeting||2013|2013
+KSCV|korean several complex variables|Springer|2014|2014
+KSEM|knowledge science engineering management first|Springer|2006|2006
+KSEM|knowledge science engineering management second||2007|2007
+KSEM|knowledge science engineering management third||2009|2009
+KSEM|knowledge science engineering management|Springer|2010|2026
+KSE|knowledge system engineering|IEEE|2024|2024
+KSE|knowledge systems engineering|IEEE|2009|2025
+KSME|asme jsme joint fluids engineering||2011|2019
+KSM|karl schwarzschild meeting gravitational physics|Springer|2013|2013
+KSS|knowledge systems sciences|Springer|2016|2026
+KST|knowledge smart technology crunching information everything|IEEE|2017|2017
+KST|knowledge smart technology cybernetics next decades|IEEE|2018|2018
+KST|knowledge smart technology|IEEE|2012|2026
+KTTI|key trends transportation innovation|EDP|2020|2020
+KTW|knowledge technology third knowledge technology week revised selected papers||2012|2012
+KUI|culture computer science code materiality|ACM|2023|2023
+KUI|culture computer science from humanism digital humanities|ACM|2025|2025
+KUI|culture computer science remixing analog digital|ACM|2025|2025
+KWEPSY|knowledge web phd co located european semantic web||2007|2007
+KWS|society petroleum engineers spe kansas waterflood||1959|1959
+KYOTOCGGT|computational geometry graph theory revised selected papers||2008|2008
+KYOTODL|kyoto digital libraries research practice|IEEE|2000|2000
+KYOTO|prediction simulation methods geohazard mitigation prediction simulation methods geohazard mitigation is||2009|2009

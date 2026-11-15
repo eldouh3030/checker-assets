@@ -1,0 +1,667 @@
+L2S2|gi working group long living software systems design future long living software systems design4future design4future des gi arbeitskreises langlebige softwaresysteme design future langlebige softwaresysteme||2009|2009
+LAAI|low altitude airspace artificial intelligence|IEEE|2025|2025
+LABAT|lead acid batteries|Elsevier|1990|2021
+LABELS|interpretability machine intelligence medical image computing imimic medical image learning less imperfect data mil3id large scale annotation biomedical data expert label synthesis held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+LABELS|large scale annotation biomedical data expert label synthesis deep learning medical image analysis held conjunction medical image computing computer assisted intervention|Springer|2016|2016
+LABELS|large scale annotation biomedical data expert label synthesis hardware aware learning medical imaging computer assisted intervention hal correction brainshift intra operative ultrasound held conjunction medical imaging computer assisted intervention|Springer|2019|2019
+LAB|e learning virtual remote laboratories virtual||2008|2008
+LACAP|latin american antennas propagation|IEEE|2024|2026
+LACAR|latin american congress automation robotics|Springer|2022|2026
+LACATODA|linguistic cognitive approaches dialog agents co located artificial intelligence||2026|2026
+LACATODA|linguistic cognitive approaches dialog agents co located joint artificial intelligence||2021|2021
+LACATODA|linguistic cognitive approaches dialog agents co located pacific rim artificial intelligence||2024|2024
+LACCEI|multi engineering education caribbean engineering technology education research leadership post pandemic engineering resilient inclusive sustainable actions||2022|2022
+LACCEI|multi engineering education caribbean engineering technology engineering integration alliances sustainable development hemispheric cooperation competitiveness prosperity knowledge based economy||2020|2020
+LACCEI|multi engineering education caribbean engineering technology prospective trends technology skills sustainable social development leveraging emerging technologies construct future||2021|2021
+LACCEI|multi engineering education technology engineering artificial intelligence sustainable technologies service society||2025|2025
+LACCEI|multi engineering education technology industry innovation infrastructure sustainable cities communities||2019|2019
+LACCEI|multi engineering education technology leadership education innovation engineering framework global transformations integration alliances integral development||2023|2023
+LACCEI|multi engineering education technology sustainable engineering diverse equitable inclusive future service education research industry society||2024|2024
+LACGEC|society petroleum engineers latin american caribbean gas electricity congress||1997|1997
+LACLO|latin american learning objects technologies|IEEE|2017|2017
+LACLO|latin american learning objects technology|IEEE|2016|2016
+LACLO|latin american learning technologies|IEEE|2018|2022
+LACL|logical aspects computational linguistics|Springer|1997|2016
+LACOMPLING|logic algorithms computational linguistics|Springer|2020|2023
+LACONA|lasers conservation artworks||2024|2024
+LACPEC|society petroleum engineers latin american caribbean petroleum engineering||2010|2010
+LACPEC|society petroleum engineers spe latin american caribbean petroleum engineering||2012|2020
+LACPEC|spe latin american caribbean petroleum engineering x||2007|2007
+LACPEC|spe latin american caribbean petroleum engineering||2009|2009
+LACPS|ccps latin american process safety||2013|2016
+LACPV|logical aspects cryptographic protocol verification connection|Elsevier|2003|2003
+LACSEA|laser applications chemical analysis||1994|1994
+LACSEA|laser applications chemical environmental analysis||2004|2004
+LACSEA|laser applications chemical security environmental analysis optica sensing congress ais sensors qsm part optica sensing congress||2024|2024
+LACSEA|laser applications chemical security environmental analysis||1998|2022
+LAC|advanced solid state lasers laser congress assl||2023|2023
+LAC|laser applications laser congress part laser||2023|2023
+LAC|laser applications laser congress part optica laser congress exhibition||2024|2024
+LAC|laser applications optica advanced photonics congress part laser||2022|2022
+LAC|laser applications||2016|2021
+LADCW|latin american dependable computing workshops||2011|2011
+LADC|dependable computing second latin american||2005|2005
+LADC|dependable computing third latin american||2007|2007
+LADC|latin american dependable computing|IEEE|2003|2021
+LADC|latin american dependable secure computing|ACM|2023|2026
+LADC|latin american symposiumon dependable computing|ACM|2022|2022
+LADIS|large scale distributed systems middleware||2009|2009
+LADIS|sigops large scale distributed systems middleware||2010|2010
+LADS|languages methodologies development tools multi agent systems first revised selected invited papers||2008|2008
+LADS|languages methodologies development tools multi agent systems second revised selected papers||2010|2010
+LADS|languages methodologies development tools multi agent systems third revised selected papers||2011|2011
+LADS|languages methodologies development tools multi agent systems|Springer|2011|2011
+LAD|llm aided design|IEEE|2024|2024
+LAEDC|latin america electron devices|IEEE|2021|2022
+LAEDC|latin american electron devices|IEEE|2019|2025
+LAE|laser applications engineering||1996|1996
+LAGIRS|latin american grss isprs remote sensing|IEEE|2020|2026
+LAGOS|latin american algorithms graphs optimization|Elsevier|2021|2025
+LAHO|society petroleum engineers spe heavy extra heavy oil latin america||2014|2014
+LAK|celebrating years shaping future field learning analytics knowledge|ACM|2020|2020
+LAK|dc predicting performance based analysis reading behavior co located learning analytics knowledge||2022|2022
+LAK|genai la generative ai learning analytics co located learning analytics knowledge||2025|2025
+LAK|impact we make contributions learning analytics learning learning analytics knowledge|ACM|2021|2021
+LAK|learning analytics knowledge|ACM|2011|2026
+LAK|learning analytics transition disruption social change learning analytics knowledge|ACM|2022|2022
+LAK|towards trustworthy learning analytics learning analytics knowledge|ACM|2023|2023
+LAK|ws joint workshops co located learning analytics knowledge||2024|2025
+LALA|latin american learning analytics||2021|2021
+LAMAS|learning adaption multi agent systems first revised selected papers||2006|2006
+LAMC|mtt s latin america microwave|IEEE|2016|2025
+LAMDAMAP|laser metrology machine performance ix exhibition laser metrology machine tool cmm robotic performance||2009|2009
+LAMDAMAP|laser metrology machine performance vii exhibition laser metrology machine tool cmm robotic performance||2005|2005
+LAMDAMAP|laser metrology machine performance viii exhibition laser metrology machine tool cmm robotic performance||2007|2007
+LAMDAMAP|laser metrology machine performance x exhibition laser metrology machine tool cmm robotic performance||2013|2013
+LAMDAMAP|laser metrology machine performance xi exhibition laser metrology machine tool cmm robotic performance||2015|2015
+LAMDAMAP|laser metrology machine performance xii exhibition laser metrology machine tool cmm robotic performance||2017|2017
+LAMDAMAP|laser metrology machine performance xiii exhibition laser metrology machine tool cmm robotic performance||2019|2019
+LAMDAMAP|laser metrology machine performance xiv exhibition laser metrology machine tool cmm robotic performance||2021|2021
+LAMDAMAP|laser metrology machine performance xv exhibition laser metrology machine tool cmm robotic performance||2023|2023
+LAMDA|latest advances machine learning data science|Springer|2018|2018
+LAMILADIS|intl laser microtechnology laser diagnostics surfaces||1992|1992
+LAMOM|laser applications microelectronic optoelectronic manufacturing xix|SPIE|2014|2014
+LAMOM|laser applications microelectronic optoelectronic manufacturing xviii||2013|2013
+LAMOM|laser applications microelectronic optoelectronic manufacturing xvii||2012|2012
+LAMOM|laser applications microelectronic optoelectronic manufacturing xvi||2011|2011
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxiv|SPIE|2019|2019
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxix|SPIE|2024|2024
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxviii|SPIE|2023|2023
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxvii|SPIE|2022|2022
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxvi|SPIE|2021|2021
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxv|SPIE|2020|2020
+LAMOM|laser applications microelectronic optoelectronic manufacturing xxx|SPIE|2025|2025
+LAMPS|large ai systems models privacy safety analysis|ACM|2024|2024
+LAMPS|large ai systems models privacy security analysis|ACM|2025|2025
+LAM|joint int logics agents mobility int petri net based security int||2012|2012
+LAM|ninth laser assisted microtechnology||2001|2001
+LANANO|latin american nanotechnology|IEEE|2025|2025
+LANCOMM|fostering latin american research data communication networks part|ACM|2016|2016
+LANC|latin america networking|ACM|2011|2024
+LANC|latin american networking|ACM|2005|2018
+LANE|cirp photonic technologies|Elsevier|2020|2024
+LANE|laser assisted net shape engineering||2010|2010
+LANGETI|sigsoft languages tools next generation testing co located esec|ACM|2020|2020
+LANMAN|local metropolitan area networks|IEEE|1993|2025
+LANMR|latin american logic languages algorithms new methods reasoning||2012|2020
+LANMR|latin american non monotonic reasoning||2006|2011
+LANOMS|latin american network operations management|IEEE|1999|2019
+LANSEC|local area network security|Springer|1989|1989
+LAN|foc papers presented seventh fiber optic communications local area networks exposition||1983|1983
+LAN|local area networks||1982|1982
+LAN|papers presented eighth fiber optic communications local area networks exposition usa foc||1984|1984
+LAOP|latin america optics photonics optica latin america optics photonics||2024|2024
+LAOP|latin america optics photonics||2012|2022
+LAPAMS|laser plasma applications materials science||2011|2011
+LAPC|loughborough antennas propagation|IEEE|2007|2016
+LAPD|laser aided plasma diagnostics lapd14|IOP|2010|2010
+LAPEC|society petroleum engineers spe latin america petroleum engineering||1990|1990
+LAPEC|society petroleum engineers spe latin american petroleum engineering||1991|1991
+LAPLAS|iv laser plasma research technologies|IOP|2019|2019
+LAPLAS|vi laser plasma researches technologies||2020|2020
+LAPLAS|vii laser plasma research technologies||2021|2021
+LARC|latin american robotics colombian automatic control||2011|2011
+LARC|low code development software architecture|ACM|2026|2026
+LARIM|latin american regional iau meeting||2025|2025
+LARS|brazilian robotics latin american robotics sbr||2012|2012
+LARS|joint robotics latin american robotics brazilian robotics applied robotics automation robocontrol|Springer|2015|2015
+LARS|latin american robotics intelligent robotics meeting||2010|2010
+LARS|latin american robotics|IEEE|2006|2025
+LARS|latin american robotic||2009|2009
+LASCARQS|left atrial scar quantification segmentation challenge held conjunction medical image computing computer assisted intervention|Springer|2023|2023
+LASCAS|latin american circuits systems r9 cass flagship|IEEE|2016|2017
+LASCAS|latin american circuits systems|IEEE|2010|2026
+LASCO|usenix large scale computing||2008|2008
+LASD|lean agile software development multimedia interaction design innovation|Springer|2020|2020
+LASD|lean agile software development|Springer|2021|2022
+LASER|learning from authoritative security experiment results||2012|2013
+LASER|summer schools software engineering|Springer|2015|2015
+LASE|reflective optics|SPIE|1987|1987
+LATAM|gis gis|Springer|2020|2020
+LATAM|latin american geographical information systems gis|Springer|2025|2026
+LATAM|latin american intelligent transportation systems its|IEEE|2017|2019
+LATAM|pes innovative smart grid technologies latin america isgt|IEEE|2015|2015
+LATAM|technology engineering management society temscon|IEEE|2024|2024
+LATAM|temscon technology engineering management society|IEEE|2025|2025
+LATA|language automata theory applications second revised papers||2008|2008
+LATA|language automata theory applications third||2009|2009
+LATA|language automata theory applications|Springer|2010|2021
+LATECHCLFL|joint sighum computational linguistics cultural heritage social sciences humanities literature co located empirical methods natural language processing||2021|2021
+LATECH|language technology cultural heritage data meeting association computational linguistics||2007|2007
+LATECH|language technology cultural heritage social sciences humanities european chapter association computational linguistics||2012|2014
+LATECH|language technology cultural heritage social sciences humanities meeting association computational linguistics human language technologies acl||2011|2011
+LATECH|language technology cultural heritage social sciences humanities||2013|2013
+LATECH|sighum language technology cultural heritage social sciences humanities meeting association computational linguistics||2016|2016
+LATECH|sighum language technology cultural heritage social sciences humanities||2015|2015
+LATE|linking aspect technology evolution held sixth aspect oriented software development||2007|2007
+LATICE|learning teaching computing engineering|IEEE|2013|2018
+LATICE|teaching learning computing engineering||2014|2014
+LATINCLOUD|latin america cloud computing communications||2012|2012
+LATINCLOUD|latin american cloud computing communications||2013|2013
+LATINCOM|latin america communications|IEEE|2012|2014
+LATINCOM|latin american communications|IEEE|2009|2025
+LATINCRYPT|cryptology information security latin america|Springer|2015|2026
+LATINCRYPT|progress cryptology cryptology information security latin america||2012|2012
+LATINCRYPT|progress cryptology first cryptology information security latin america||2010|2010
+LATINDISPLAY|display research||2010|2010
+LATIN|american theoretical informatics|Springer|1992|2024
+LATIN|theoretical informatics american|Springer|2000|2014
+LATS|latin american test|IEEE|2015|2026
+LATTICE|field theory||2018|2024
+LATW|latin american test||2009|2014
+LATW|latw2010 latin american test||2010|2010
+LAT|lasers applications technologies||2011|2011
+LAUR|adoption adaptation pilots learning analytics under represented regions co located european technology enhanced learning||2020|2020
+LAUR|society petroleum engineers spe argentina exploration production unconventional resources||2023|2023
+LAUS|uffc latin america ultrasonics|IEEE|2021|2024
+LAWCC|congress latin american women computing co located latin american computer||2021|2024
+LAWCC|latin american women computing co located latin american computer||2022|2022
+LAWCC|latin american women computing congress co located latin american computer||2020|2020
+LAWCC|xvii congress latin american women computing co located latin american computer||2025|2025
+LAWCN|latin american computational neuroscience|Springer|2017|2026
+LAWNP|latin american nonlinear phenomena|IOP|2010|2010
+LAWNP|vi latin american nonlinear phenomena xii medyfinol statistical physics dynamic complex systems|Elsevier|2000|2000
+LAWOFS|latin american optical fiber sensors|IEEE|2024|2024
+LAWPP|latin american plasma physics|IEEE|2012|2017
+LAWTECH|iasted technology law technplogy||2007|2007
+LAW|cs computer science|ACM|2025|2025
+LAW|id linguistic annotation interoperability discourse||2020|2020
+LAW|linguistic annotation co located||2024|2024
+LAW|linguistic annotation conjunction||2012|2020
+LAW|linguistic annotation held conjuncion||2016|2020
+LAW|linguistic annotation held conjunction language resources evaluation||2022|2022
+LAW|linguistic annotation held conjunction||2008|2008
+LAW|linguistic annotation||2017|2023
+LAYERS|sspa ittc ship boundary||1981|1981
+LBD|literature based discovery data science fake news learning data representation clustering biologically inspired techniques data mining pacific asia game intelligence informatics held conjunction pacific asia knowledge discovery data mining|Springer|2020|2020
+LBIS|label free biomedical imaging sensing|SPIE|2020|2026
+LBM|languages biology medicine||2007|2009
+LBSN|location based social networks held conjunction|ACM|2009|2015
+LBSN|sigspatial location based social networks held conjunction sigspatial|ACM|2010|2014
+LBSN|sigspatial location based social networks|ACM|2016|2016
+LBS|location based services|Springer|2012|2018
+LCA|life cycle assessment pavements pavement||2017|2017
+LCC|logic computational complexity|Springer|1995|1995
+LCDNET|mobicom lowest cost denominator networking universal access||2013|2013
+LCE|cirp life cycle engineering cirp|Elsevier|2014|2014
+LCE|cirp life cycle engineering|Elsevier|2006|2025
+LCG|romania tier federation grid cloud high performance computing science rq||2012|2012
+LCHANGE|computational approaches historical language change||2022|2024
+LCIOT|latin american internet things|IEEE|2025|2025
+LCM|life cycle management|EDP|2022|2022
+LCN|local computer networks anniversary||2005|2005
+LCN|local computer networks||1991|2024
+LCOA|light color open air||1993|1993
+LCPC|languages compilers high performance computing revised selected papers||2005|2005
+LCPC|languages compilers parallel computing revised papers||2005|2007
+LCPC|languages compilers parallel computing revised selected papers||2008|2013
+LCPC|languages compilers parallel computing|Springer|1995|2026
+LCR|languages compilers run time support scalable systems||2004|2004
+LCR|languages compilers run time systems scalable computers selected papers||1998|1998
+LCR|languages compilers run time systems scalable computers|Springer|2000|2000
+LCSD|sigplan library centric software design||2008|2008
+LCST|liquid crystals science technology||2012|2012
+LCTES|signplan languages compilers tools embedded systems||2003|2003
+LCTES|sigplan languages compilers tools embedded systems|ACM|1995|2020
+LCTES|sigplan languages compilers tools theory embedded systems||2011|2011
+LCTES|sigplan sigbed language compilers tools embedded systems||2004|2004
+LCTES|sigplan sigbed languages compilers tools embedded systems co located|ACM|2019|2024
+LCTES|sigplan sigbed languages compilers tools embedded systems|ACM|2005|2023
+LCTES|sigplan sigbed languages compilers tools theory embedded systems||2012|2012
+LCT|learning collaboration technologies designing developing novel learning experiences first held as part hci|Springer|2014|2014
+LCT|learning collaboration technologies held as part hci|Springer|2018|2025
+LCT|learning collaboration technologies held as part human computer interaction hci|Springer|2019|2019
+LCT|learning collaboration technologies held as part human computer interaction|Springer|2020|2024
+LCT|learning collaboration technologies human computer interaction hci|Springer|2016|2016
+LCT|learning collaboration technologies technology rich environments learning collaboration first held as part hci|Springer|2014|2014
+LCT|learning collaboration technologies|Springer|2015|2015
+LCWS|electronic linear collider||2007|2008
+LCWS|future linear colliders||2011|2023
+LCWS|future linear collider||2019|2019
+LCWS|linear collider||2005|2010
+LCW|cirp life cycle engineering|Elsevier|2026|2026
+LCW|lebanon communications||2008|2008
+LDAC|linked data architecture construction co located cib w78 it construction ec3 cib w78||2025|2025
+LDAC|linked data architecture construction co located european semantic web||2022|2022
+LDAC|linked data architecture construction||2020|2024
+LDAV|large data analysis visualization|IEEE|2012|2025
+LDAV|large scale data analysis visualization||2011|2011
+LDCL|landmine detection clearance legislations|IEEE|2017|2017
+LDC|laser display lighting|SPIE|2021|2025
+LDFI|linked data future internet future internet assembly||2010|2010
+LDIA|linear drivers industry applications|IEEE|2023|2025
+LDIA|linear drives industry applications|IEEE|2013|2021
+LDK|language data knowledge|Springer|2017|2021
+LDK|workshops tutorials language data knowledge co located language data knowledge||2021|2021
+LDL|linked data linguistics representing linking lexicons terminologies other language data collocated generative approaches lexicon||2013|2013
+LDL|linked data linguistics resources applications best practices lrec||2024|2024
+LDL|linked data linguistics resources applications collocated meeting association computational linguistics joint natural language processing acl||2015|2015
+LDMTA|large scale data mining theory applications held conjunction||2011|2011
+LDNP|rio de la plata laser dynamics nonlinear photonics||2011|2011
+LDOW|linked data web||2008|2012
+LDQ|mepdaw joint managing evolution preservation data web linked data quality co located european semantic web||2017|2017
+LDSD|low dimensional structures devices|IOP|2014|2014
+LDSS|legal negotiation support systems conjunction artificial intelligence law||2009|2009
+LDTA|language descriptions tools applications||2010|2012
+LDTM|longitudinal disease tracking modeling medical images data multiscale multimodal medical imaging machine learning multimodal sensor healthcare data ml4mhd2024 multimodal learning fusion across scales clinical decision support ml held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+LDT|learning design technology|ACM|2023|2024
+LEADERSHIP|e sustainable e government e business innovations e||2012|2012
+LEAD|leveraging emerging technologies analytics development|Springer|2025|2025
+LEARNING|e e part multi computer science information systems||2015|2015
+LEB|learning enterprise beyond held conjunction european technology enhanced learning||2008|2008
+LECC|electronics lhc future experiments||2005|2007
+LECOSPA|towards ultimate understanding universe||2013|2013
+LEC|biennial lester eastman high performance devices|IEEE|2016|2016
+LEC|language engineering|IEEE|2002|2002
+LEC|lester eastman high performance devices|IEEE|2012|2014
+LEES4|low energy electrodynamics solids||2001|2001
+LEET|usenix large scale exploits emergent threats botnets spyware worms more||2008|2011
+LEET|usenix large scale exploits emergent threats botnets spyware worms new emerging threats more||2012|2012
+LEET|usenix large scale exploits emergent threats||2013|2013
+LEGALAIIA|ai intelligent assistance legal professionals digital workplace artificial intelligence law||2019|2019
+LEGALAIIA|artificial intelligence intelligent assistance legal professionals digital workplace co located artificial intelligence law||2023|2023
+LEGALAIIA|asail joint workshops automated semantic analysis information legal text ai intelligent assistance legal professionals digital workplace held online conjunction artificial intelligence law||2021|2021
+LEGAL|ethical issues human language technologies lrec||2024|2024
+LEIRD|laccei multi entrepreneurship innovation regional development ideas overcome emerge from pandemic crisis||2021|2021
+LEIRD|laccei multiconference entrepreneurship innovation regional development creating solutions sustainable future technology based entrepreneurship||2024|2024
+LEIRD|laccei multiconference entrepreneurship innovation regional development entrepreneurship purpose social technological innovation age ai||2025|2025
+LEIRD|laccei multiconference entrepreneurship innovation regional development exponential technologies global challenges moving toward new culture entrepreneurship innovation sustainable development||2022|2022
+LEIRD|laccei multiconference entrepreneurship innovation regional development igniting spark innovation emerging trends disruptive technologies innovative models business success||2023|2023
+LEITS|logistics engineering intelligent transportation systems leits2010||2010|2010
+LEMCS|logistics engineering management computer science|Atlantis|2014|2014
+LEMEDS|learning from medical data streams conjunction artificial intelligence medicine||2011|2011
+LEM|leading edge manufacturing century||2005|2025
+LEM|leading edge manufacturing technologies century||2021|2021
+LENLS|artificial intelligence supported japanese society artificial intelligence jsai isai logic engineering natural language semantics juris informatics|Springer|2021|2021
+LENLS|logic engineering natural language semantics|Springer|2023|2024
+LENS|lekantara natural science environment|IOP|2022|2022
+LENS|sigspatial analytics local events news|ACM|2017|2019
+LEONET|leo networking communication part|ACM|2024|2024
+LEOSST|leos summer topical meeting digest optical microwave interactions visible semiconductor lasers impact fiber nonlinearities lightwave systems hybrid optoelectronic integration packaging gigabit networks|IEEE|1994|1994
+LEOSST|leos summer topical meeting||2009|2009
+LEOS|lasers electro optics society meeting|IEEE|1992|2007
+LEOS|meeting lasers electro optics society part||1996|1996
+LEOS|meeting lasers electro optics society|IEEE|2003|2008
+LEOS|meeting volume||2004|2004
+LEOS|second meeting lasers electro optics society||1989|1989
+LEOS|summer topical meeting digest broadband analog digital optoelectronics optical multiple access networks integrated optoelectronics smart pixels indium phosphide related materials|IEEE|1992|1992
+LEOS|summer topical meeting digest broadband analog digital optoelectronics optical multiple access networks integrated optoelectronics smart pixels|IEEE|1992|1992
+LEOS|summer topical meeting||1994|1994
+LERI|learning evaluating recommendations impressions co located recommender systems recsys2023||2023|2023
+LESCDT|logistics engineering supply chain digital transformation|IEEE|2025|2025
+LESCOPE|large engineering systems power engineering energy future|IEEE|2002|2003
+LESCOPE|large engineering systems power engineering powering beyond|IEEE|2001|2001
+LESCOPE|large engineering systems power engineering||2007|2007
+LESCOPR|large engineering systems power quality issues||2007|2007
+LESS|lean enterprise software systems first|Springer|2010|2010
+LESS|lean enterprise software systems|Springer|2013|2013
+LFA|european society fuzzy logic technology french days fuzzy logic applications eusflat joint||2005|2005
+LFCS|logical foundations computer science|Springer|1994|2022
+LFC|lfc17 physics prospects linear other future colliders after discovery higgs||2017|2017
+LFC|lfc22 strong interactions from qcd new strong dynamics lhc future colliders||2022|2022
+LFC|strong dynamics physics within beyond standard model lhc future colliders||2017|2017
+LFLAI|linguistic forum language artificial intelligence||2020|2020
+LFMTP|logical frameworks meta languages theory practice held as part vienna summer logic csl|ACM|2014|2014
+LFMTP|logical frameworks meta languages theory practice||2009|2025
+LFMTP|sigplan logical frameworks meta languages theory practice co located||2013|2013
+LFMTP|sigplan logical frameworks meta languages theory practice||2012|2012
+LFNM|laser fiber optical networks modeling thz radiation basic research applications||2010|2010
+LFNM|laser fiber optical networks modeling|IEEE|2000|2016
+LFP|lisp functional programming|ACM|1980|1990
+LHCPP|italian p p physics lhc||2013|2013
+LHCP|large hadron collider physics||2018|2026
+LHC|eucard accnet eurolumi high energy large hadron collider he||2011|2011
+LHC|hera implications hera physics hera||2005|2005
+LHC|hera series implications hera physics hera||2009|2009
+LHC|high pt physics high pt physics||2009|2009
+LHC|high pt physics||2007|2007
+LHMNC|ifac lagrangian hamiltonian methods nonlinear control|Elsevier|2024|2024
+LHMNLC|ifac lagrangian hamiltonian methods non linear control||2012|2012
+LHP|ipm school lepton hadron physics ipm||2006|2006
+LIBS|first laser induced plasma spectroscopy applications||2001|2001
+LIBS|laser induced plasma spectroscopy applications||2002|2002
+LICS|logic computer science|IEEE|1996|2025
+LIC|laser ignition||2015|2017
+LIDTA|learning imbalanced domains theory applications||2018|2023
+LID|logic databases||2011|2011
+LIFELIKE|edition evolution series autonomously learning optimizing systems co located artificial life||2022|2022
+LIFELIKE|joint edition evolution series autonomously learning optimizing systems co located artificial life edition evolution series autonomously learning optimizing systems co located artificial life||2021|2021
+LIFESTYLE|joint proc int recommendation technol lifesytle change int workshops conf||2012|2012
+LIFETECH|global life sciences technologies|IEEE|2019|2022
+LIGHTING|light session commission internationale de l eclairage||1983|1983
+LIGHTSEC|lightweight cryptography security privacy second revised selected papers||2013|2013
+LIGHTSEC|lightweight cryptography security privacy|Springer|2015|2026
+LIGHTSEC|lightweight security privacy devices protocols applications||2011|2011
+LIGHTSEC|onlightweight cryptography security privacy|Springer|2017|2017
+LIGHT|lighting engineering architecture environment light11||2011|2011
+LIG|lignocellulose icon|Springer|2025|2025
+LII|bunsen discussion meeting laser induced incandescence quantitative interpretation modelling application||2005|2005
+LILE|linked learning learning education web data||2012|2012
+LIMIS|laser interaction matter||2013|2013
+LIMIS|seventh laser interaction matter|SPIE|2025|2025
+LIMITS|computing within|ACM|2017|2019
+LIMO|linguistic insights from multimodal language processing||2023|2023
+LIM|london imaging meeting|IOP|2025|2025
+LINAC|linear accelerator||2006|2024
+LINDI|logistics industrial informatics|IEEE|2007|2024
+LINKKDD|link discovery conjunction sigkdd knowledge discovery data mining|ACM|2005|2005
+LION|learning intelligent optimization second ii selected papers||2008|2008
+LION|learning intelligent optimization|Springer|2015|2026
+LIOT|light up iot part|ACM|2020|2020
+LIRAI|legal information retrieval meets artificial intelligence co located hypertext ht||2023|2023
+LISAT|long island systems applications technology|IEEE|2005|2024
+LISAT|sixth lapan ipb satellite|SPIE|2019|2019
+LISA|challenge low field pediatric brain magnetic resonance image segmentation quality assurance held conjunction medical image computing computer assisted intervention|Springer|2025|2026
+LISA|large installation system administration||2004|2015
+LISA|large installation systems administration||2003|2003
+LISA|nlm life science systems applications||2006|2006
+LISA|system administration||1995|1995
+LISA|systems administration||1993|2002
+LISC|linked science conjunction semantic web||2011|2011
+LISSA|nih life science systems applications||2009|2011
+LISS|logistics informatics service sciences|IEEE|2016|2018
+LISS|logistics informatics service science|IEEE|2011|2015
+LIS|acsm asprs fall convention||1991|1991
+LITE|lekantara engineering information technology|IOP|2022|2022
+LIT|market place internet from e learning e payment leipzig informatics days marktplatz internet von e learning bis e payment leipziger informatik tage||2005|2005
+LIVAS|seminar livable space is|EDP|2026|2026
+LIVINGLAB|living labs information retrieval evaluation co located||2013|2013
+LKM|openkg large knowledge enhanced models co locacted joint artificial intelligence||2024|2024
+LKR|large scale knowledge resources construction application third large scale knowledge resources||2008|2008
+LKR|proc int exploiting large knowledge repositories e conj satellite events||2012|2012
+LKTI|traditions innovations linguistic cultural studies|Springer|2018|2018
+LLB|selected papers from role failure fracture mechanics leak before break assessment|Elsevier|1989|1989
+LLC|vii lyotropic liquid crystals nanomaterials||2010|2010
+LLEAHMM|logistics lean engineering advanced healthcare methodologies modelling|Springer|2025|2025
+LLIBTA|aabc asia advanced automotive battery confernce large lithium ion battery technology application||2014|2014
+LLIBTA|large lithium ion battery technology application held||2015|2015
+LLIBTA|large lithium ion battery technology application large ec capacitor technology application held aabc europe||2015|2015
+LLL|learning language logic challenge task extracting relations from bio medical texts||2005|2005
+LLL|learning language logic|Springer|2000|2000
+LLM|ekg enterprise knowledge graphs using large language models co located information knowledge management||2023|2023
+LLM|scale edition scaling behavior large language models||2024|2024
+LLPH|luminescence laser physics xvii luminescence laser physics|IOP|2021|2021
+LLWI|lake louise winter institute celebrating years||2010|2010
+LLWI|lake louise winter institute fundamental interactions||2006|2009
+LLWI|lake louise winter institute||2013|2013
+LMAC|language music computing|Springer|2015|2019
+LMAP|latin meeting analytic philosophy||2007|2007
+LMDE|leading managing digital era|Springer|2024|2024
+LMD|magnesium technology sponsored magnesium committee light metals division tms magnesium association||2005|2005
+LMID|learning longitudinal medical images data|Springer|2026|2026
+LMPC|liquid metal processing casting||2005|2013
+LMPMI|imeko tc14 laser metrology precision measurement inspection industry||2014|2014
+LMP|local mechanical properties||2018|2024
+LMSA|icse leadership management software architecture||2009|2009
+LMT|light metals technology||2013|2015
+LNG|exhibition liquefied natural gas||2016|2019
+LNI|agrarinformatik im spannungsfeldzwischen regionalisierung und globalen wertschopfungsketten referate der gil jahrestagung||2007|2007
+LNI|akwi jahrestagung wissenschaft und praxis gemeinsam die digitale zukunft gestalten||2024|2024
+LNI|anforderungen die agrarinformatik durch globalisierung und klimaveranderung referate der gil jahrestagung||2009|2009
+LNI|automotive safety security sicherheit und zuverlassigkeit fur automobile informationstechnik||2010|2012
+LNI|computer science gdr berlin computer science gdr informatik der ddr tagung berlin tagungsband zum informatik der ddr||2010|2010
+LNI|crypto day matters beitrage vom kryptotag||2018|2019
+LNI|dfg s research training group visualization large unstructured data sets applications geospatial planning modeling engineering||2006|2006
+LNI|dfn communication networks dfn arbeitstagung uber kommunikationsnetze||2001|2001
+LNI|dfn forum communication technologies dfn forum kommunikationstechnologien||2013|2013
+LNI|dfn forum communication technologies distributed systems science dfn forum kommunikationstechnologien beitrage der fachtagung||2013|2013
+LNI|dfn forum communication technologies distributed systems science dfn forum kommunikationstechnologien verteilte systeme im wissenschaftsbereich||2008|2012
+LNI|dfn forum kommunikationstechnologien verteilte systeme im wissenschaftsbereich||2008|2008
+LNI|dfn forum kommunikationstechnologien||2009|2014
+LNI|dw synergien durch integration und informationslogistik||2008|2008
+LNI|e science grid ad hoc netze medienintegration dfn arbeitstagung uber kommunikationsnetze||2004|2004
+LNI|electronic voting europe technology law politics society esf ted programme together gi ocg||2004|2004
+LNI|fm am formal methods agile methods||2010|2010
+LNI|gi im spannungsfeld zwischen tool building und forschung auf augenhohe informatik und die digital humanities inf dh||2018|2018
+LNI|gil jahrestagung fokus digitale marktplatze und plattformen||2018|2018
+LNI|heute schon das morgen sehen dfn arbeitstagung uber kommunikationsnetze||2005|2005
+LNI|human computer usability professionals up mensch und computer usability professionals up||2017|2018
+LNI|informatics gdr fundamentals applications informatik der ddr grundlagen und anwendungen tagungsband zum||2008|2008
+LNI|informatics gdr review symposia thematics informatik der ddr eine bilanz tagungsband zu den symposien thematics||2006|2006
+LNI|informatics meeting german informatics society computer science adapting individuals organizations environment informatik jahrestagung der gesellschaft fur informatik e v informatik angepasst mensch organisation und umwelt||2013|2013
+LNI|informatics meeting german informatics society informatik jahrestagung der gesellschaft fur informatik e v||2012|2012
+LNI|informatik der ddr eine bilanz tagungsband zu den symposien thematics||2006|2006
+LNI|informatik der land forst und ernahrungswirtschaft fokus digitalisierung fur mensch umwelt und tier referate der gil jahrestagung||2020|2020
+LNI|informatik der land forst und ernahrungswirtschaft fokus informations und kommunikationstechnologie kritischen zeiten referate der gil jahrestagung||2021|2021
+LNI|informatik der land forst und ernahrungswirtschaft fokus komplexitat versus bedienbarkeit mensch maschine schnittstellen||2015|2015
+LNI|informatik der land forst und ernahrungswirtschaft fokus kunstliche intelligenz der agrar und ernahrungswirtschaft referate der gil jahrestagung||2022|2022
+LNI|informatik der land forst und ernahrungswirtschaft fokus resiliente agri food systeme referate der gil jahrestagung||2023|2023
+LNI|informatik recht und verwaltung gestern heute morgen ehrenband prof dr herbert fiedler zum achtzigsten geburtstag||2009|2009
+LNI|informationstechnologie fur eine nachhaltige landbewirtschaftung fokus forstwirtschaft referate der gil jahrestagung||2012|2012
+LNI|informationswirtschaft ein sektormit zukunft||2003|2003
+LNI|innovative internet community services i2cs jubilee edition||2010|2010
+LNI|innovative internet community services i2cs||2011|2012
+LNI|innovative internet community systems i2cs||2009|2009
+LNI|integration information logistics architecture dw integration informationslogistik und architektur dw||2006|2006
+LNI|integration und datensicherheit anforderungen konflikte und perspektiven referate der gil jahrestagung||2004|2004
+LNI|jahre informatik der technischen universitat braunschweig zum auf der gi jahrestagung braunschweig||2012|2012
+LNI|keller stack und automatisches gedachtnis eine struktur mit potenzial kolloquium||2014|2014
+LNI|land und ernahrungswirtschaft im wandel aufgaben und herausforderungen fur die agrar und umweltinformatik referate der gil jahrestagung||2006|2006
+LNI|lecture notes informatics series german informatics society lecture notes informatics series gesellschaft fur informatik||2012|2012
+LNI|lecture notes informatics series gesellschaft fur informatik||2004|2024
+LNI|meeting german informatics society informatics jahrestagung der gesellschaft fur informatik informatik||2017|2017
+LNI|mensch und computer usability professionals up||2016|2019
+LNI|mobile collaborative business sub multi business informatics mobile collaborative business zur teilkonferenz der multikonferenz wirtschaftsinformatik||2002|2002
+LNI|mobile computing medicine mobile computing medicine project group mocomed gmds fachbereich medizinische informatik gi fachausschuss||2002|2002
+LNI|modellierung der gesellschaft fur informatik e v||2001|2001
+LNI|modellierung modellierung der praxis modellierung fur die praxis arbeitstagung der gi||2002|2002
+LNI|modellierung zur tagung||2004|2004
+LNI|open identity summit||2019|2025
+LNI|persistence scalability transactions database mechanisms mobile applications gi arbeitskreis mobile datenbanken||2003|2003
+LNI|practical uml based rigorous development methods countering or integrating extremists puml group held together uml||2001|2001
+LNI|precision agriculture reloaded informationsgestutzte landwirtschaft referate der gil jahrestagung||2010|2010
+LNI|process oriented methods tools development information systems promise prozessorientierte methoden und werkzeuge fur die entwicklung von informationssystemen promise||2002|2002
+LNI|professional knowledge management from knowledge action||2011|2011
+LNI|quality efficiency through information based agriculture focus modern viniculture presentations gil qualitat und effizienz durch informationsgestutzte landwirtschaft fokus moderne weinwirtschaft referate der gil jahrestagung||2011|2011
+LNI|rechner und sensorgestutzte chirurgie zum||2001|2001
+LNI|security e learning e services dfn arbeitstagung uber kommunikationsnetze||2003|2003
+LNI|software engineering beitragezu den workshops fachtagung des gi fachbereichs softwaretechnik||2007|2007
+LNI|software engineering fachtagung des gi fachbereichs softwaretechnik||2006|2023
+LNI|software engineering im unterricht der hochschulen||2022|2022
+LNI|software engineering software management||2019|2019
+LNI|software engineering workshopband fachtagung des gi fachbereichs softwaretechnik||2008|2012
+LNI|software engineering workshopband fachtagungdes gi fachbereichs softwaretechnik||2010|2011
+LNI|software engineering||2017|2024
+LNI|software management||2021|2021
+LNI|software product management software product management era data driven products services ecosystems||2023|2023
+LNI|university business uh unternehmen hochschule uh||2001|2001
+LNI|unternehmens it fuhrungsinstrument oder verwaltungsburde referate der gil jahrestagung||2008|2008
+LNI|wm professional knowledge management||2009|2009
+LNI|wm professionelles wissensmanagement erfahrungenund visionen beitrage der konferenz professionelles wissensmanagement||2003|2003
+LNI|wm wissensmanagement digitalen arbeitswelten aktuelle ansatze und perspektiven knowledge management digital work environments state art outlook||2020|2020
+LNI|zukunft der netze die verlezbarkeit meistern dfn arbeitstagung uber kommunikationsnetze||2002|2002
+LNLA|local non local approximation image processing||2009|2009
+LNLS|learning natural language supervision||2022|2022
+LNM|laser fiber optical networks modeling||2008|2008
+LNSAI|logical foundations neuro symbolic ai co located joint artificial intelligence||2024|2024
+LOAIT|legal ontologies artificial intelligence techniques held conjunction semantic processing legal texts||2009|2009
+LOAIT|legal ontologies artificial intelligence techniques||2007|2010
+LOCALPEMA|recsys personalizing local mobile experience|ACM|2012|2012
+LOCALREC|sigspatial location based recommendations geosocial networks geoadvertising|ACM|2019|2025
+LOCALREC|sigspatial recommendations location based services social networks|ACM|2017|2018
+LOCAL|bci balkan informatics||2012|2012
+LOCA|location context awareness first||2005|2005
+LOCA|location context awareness second|Springer|2006|2006
+LOCA|location context awareness third||2007|2007
+LOCA|location context awareness||2009|2009
+LOCWEB|location web conjunction||2008|2008
+LOCWEB|location web|ACM|2009|2010
+LODE|learning object discovery exchange||2007|2007
+LODISA|low cost digital solutions industrial automation||2023|2025
+LOD|know knowledge discovery data mining meets linked open data||2012|2012
+LOD|machine learning optimization data science held conjunction advanced course artificial intelligence neuroscience|Springer|2023|2023
+LOD|machine learning optimization data science|Springer|2019|2026
+LOGISTIQUA|colloquium logistics supply chain management competitiveness innovation automobile aeronautics industries|IEEE|2017|2017
+LOGISTIQUA|colloquium logistics supply chain management|IEEE|2018|2025
+LOGISTIQUA|logistics supply chain management|IEEE|2022|2022
+LOGI|implications crew rostering airline operations|Elsevier|2020|2020
+LOGI|vsi trpro green logistics new trends logistics|Elsevier|2025|2025
+LOG|learning graphs||2022|2024
+LOKMOL|learner oriented knowledge management km oriented e learning||2007|2007
+LOLACOM|logic language computation||2006|2006
+LONDON|iabse selection structural form report||1981|1981
+LONG|biennial electromagnetic field computation papers cefc|IEEE|2022|2022
+LOPET|laser optics optoelectronic technology|SPIE|2021|2025
+LOPSTR|logic based program synthesis transformation revised selected papers||2005|2013
+LOPSTR|logic based program synthesis transformation selected papers||2001|2002
+LOPSTR|logic based program synthesis transformation sysmposium revised selected papers||2009|2009
+LOPSTR|logic based program synthesis transformation|Springer|1998|2026
+LOPSTR|logic program synthesis transformation metaprogramming logic|Springer|1994|1994
+LOPSTR|logic program synthesis transformation|Springer|1995|1997
+LORESLM|language models low resource languages||2025|2026
+LORESMT|technologies machine translation low resource languages computational linguistics||2022|2022
+LORESMT|technologies machine translation low resource languages||2021|2026
+LORI|logic rationality interaction second||2009|2009
+LORI|logic rationality interaction third||2011|2011
+LORI|logic rationality interaction|Springer|2009|2026
+LOTA|laser optical technology applications|SPIE|2025|2025
+LOUHI|health document text mining information analysis||2010|2010
+LOUHI|health text mining information analysis||2022|2022
+LPAR|logic programming artificial intelligence reasoning lpar23||2020|2020
+LPAR|logic programming artificial intelligence reasoning revised selected papers||2010|2010
+LPAR|logic programming artificial intelligence reasoning|Springer|2002|2024
+LPAR|logic programming automated reasoning|Springer|1992|2000
+LPAR|workshops knowledge exchange automated provers proof assistants implementation logics||2008|2008
+LPA|apl array processing languages lore problems applications apl|ACM|2002|2002
+LPBMS|light particle beams materials science|IOP|2014|2014
+LPG|society petroleum engineers spe doe low permeability gas reservoirs||1985|1985
+LPHYS|laser physics|IOP|2014|2025
+LPKM|language processing knowledge management|Springer|2025|2025
+LPKR|logic programming knowledge representation third selected papers||1998|1998
+LPNMR|correspondence equivalence nonmonotonic theories||2007|2007
+LPNMR|datalog resurgence datalog academia industry co located logic programming nonmonotonic reasoning||2022|2024
+LPNMR|log ic logic based interpretation context modelling applications held conjunction logic programming nonmonotonic reasoning||2011|2011
+LPNMR|logic programming non monotonic reasoning|Springer|2025|2025
+LPNMR|logic programming nonmonotonic reasoning|Springer|1995|2022
+LPSS|logic programming summer school|Springer|1992|1992
+LPS|loss prevention topical aiche spring meeting global congress process safety||2015|2019
+LPS|loss prevention topical aiche spring national meeting||2008|2008
+LPVS|ifac linear parameter varying systems|Elsevier|2021|2025
+LRBC|society petroleum engineers spe liquids rich basins north america||2015|2019
+LREC|building using comparable corpora bucc||2018|2018
+LREC|language resources evaluation about language resources ssh cloud lr4sshoc||2020|2020
+LREC|language resources evaluation building using comparable corpora||2022|2022
+LREC|language resources evaluation challenges management large corpora||2022|2022
+LREC|language resources evaluation citizen linguistics language resource development||2020|2020
+LREC|language resources evaluation cross language search summarization text speech||2020|2020
+LREC|language resources evaluation financial narrative processing||2022|2022
+LREC|language resources evaluation globalex linked lexicography||2020|2022
+LREC|language resources evaluation language technologies government public administration lt4gov||2020|2020
+LREC|language resources evaluation language technology platforms||2020|2020
+LREC|language resources evaluation language technology resources fair inclusive safe society||2022|2022
+LREC|language resources evaluation multilingual biomedical text processing multiligualbio||2020|2020
+LREC|language resources evaluation multimodal wordnets||2020|2020
+LREC|language resources evaluation multiword expressions||2022|2022
+LREC|language resources evaluation resources techniques user author profiling abusive language rest up||2020|2020
+LREC|language resources evaluation social threats online conversations understanding management||2020|2020
+LREC|language resources evaluation tools resources empower people reading difficulties||2020|2020
+LREC|language resources evaluation||2000|2022
+LREC|perspectivist approaches disagreement nlp nlperspectives as part language resources evaluation||2022|2022
+LREC|rapid resources processing linguistic para linguistic extra linguistic data from people various forms cognitive psychiatric developmental impairments as part edition language resources evaluation||2022|2022
+LREC|representation processing sign languages multilingual sign language resources sign lang held conjunction language resources evaluation||2022|2022
+LREC|resources processing linguistic para linguistic extra linguistic data from people various forms cognitive psychiatric developmental impairments rapid||2020|2020
+LREC|resources techniques user information abusive language analysis rest up conjunction language resources evaluation||2022|2022
+LREC|terminology century many faces many places term held conjunction language resources evaluation||2022|2022
+LRER|land reclamation ecological restoration||2015|2017
+LRSP|long range sound propagation||2020|2020
+LRT|low radioactivity techniques low radioactivity techniques|IOP|2023|2023
+LSAD|large scale attack defense|ACM|2007|2007
+LSAD|sigcomm large scale attack defense|ACM|2006|2006
+LSAME|leuven applied mechanics engineering||2008|2008
+LSAP|large scale system application performance||2011|2011
+LSAP|proc large scale system application performance lsap2009 co located high performance distributed computing||2009|2009
+LSAT|colloquium european large satellite project||1982|1982
+LSA|lightweight structures architecture first||1986|1986
+LSCM|logistics supply chain management|Springer|2012|2021
+LSC|applications lasers sensing free space communications||2016|2018
+LSC|life sciences|IEEE|2017|2018
+LSC|lifelog search challenge co located|ACM|2018|2018
+LSC|lifelog search challenge|ACM|2019|2025
+LSDSEM|linking models lexical sentential discourse level semantics||2017|2017
+LSDS|energy efficiency large scale distributed systems cost ic0804 european ee revised selected papers||2013|2013
+LSFA|logical semantic frameworks applications horn clauses verification synthesis||2024|2024
+LSFA|logical semantic frameworks applications|Elsevier|2020|2025
+LSGCS|learnersourcing student generated content scale co located learning scale l s||2022|2022
+LSGRID|grid computing life science first life science grid revised selected invited papers||2005|2005
+LSMS|bio inspired computational intelligence applications life system modeling simulation||2007|2007
+LSMS|life system modeling intelligent computing life system modeling simulation intelligent computing sustainable energy environment||2010|2010
+LSMS|life system modeling intelligent computing life system modeling simulation||2010|2010
+LSMS|life system modeling intelligent computing||2010|2010
+LSMS|life system modeling simulation intelligent computing sustainable energy environment|Springer|2017|2025
+LSMS|life system modeling simulation||2007|2007
+LSO|advances learning software organizations|Springer|2001|2001
+LSR|love sex robots|Springer|2017|2018
+LSSC|large scale scientific computations|Springer|2018|2024
+LSSC|large scale scientific computing revised papers||2006|2010
+LSSC|large scale scientific computing revised selected papers|Springer|2012|2014
+LSSC|large scale scientific computing|Springer|2001|2020
+LSS|ifac large scale complex systems theory applications|Elsevier|2013|2025
+LSS|ifac large scale systems theory applications||2010|2010
+LSS|programme ifac ifors imacs ifip large scale complex systems theory applications||2007|2007
+LSTD|linked spatiotemporal data conjunction geographic information science||2010|2010
+LSTF|analysis rosa iv main steam line break test run sb sl using relap5 mod3||1996|1996
+LSVC|large scale video classification challenge co located mm|ACM|2017|2017
+LT22|low temperature physics part|Elsevier|2000|2000
+LTA|aiaa lighter than air systems technology||2013|2013
+LTA|lifelogging tools applications co located mm|ACM|2017|2017
+LTA|lifelogging tools applications co located multimedia|ACM|2016|2016
+LTC|german italian social innovation long term care through digitalization|Springer|2022|2022
+LTC|human language technology challenges computer science linguistics language technology revised selected papers|Springer|2011|2014
+LTC|human language technology challenges information society third language technology revised selected papers||2009|2009
+LTC|language technology challenges computer science linguistics|Springer|2020|2020
+LTC|language technology human language technologies as challenge computer science linguistics|Springer|2018|2018
+LTC|language technology|Springer|2011|2022
+LTD8|low temperature detectors|Elsevier|2000|2000
+LTDH|language technology digital humanities|IEEE|2024|2024
+LTEC|learning technology education challenges|Springer|2017|2025
+LTEC|learning technology education cloud|Springer|2012|2016
+LTEDI|language technology equality diversity inclusion associated recent advances natural language processing||2023|2023
+LTEDI|language technology equality diversity inclusion||2022|2022
+LTO|national laser technology optoelectronics|SPIE|2019|2019
+LTR|structure loop transfer recovery via dual luenberger observer||1996|1996
+LTR|topical low radioactivity techniques||2007|2007
+LTST|laser tera hertz science technology||2012|2012
+LTT|logics type theory||2026|2026
+LUBRICATION|asle solid||1984|1984
+LUCANT|lmfdb computation number theory||2024|2026
+LUMDETR|luminescent detectors transformers ionizing radiation||1993|1993
+LUPAS|linking user profiles applications social semantic web||2010|2010
+LURT|spe aapg seg latin america unconventional resources technology||2020|2020
+LUV|lisp users vendors|ACM|1992|1993
+LUV|papers lisp users vendors|ACM|1994|1994
+LWA|learning knowledge adaptivity lernen wissen adaptivitat||2007|2007
+LWA|learning knowledge adaptivity lernen wissen und adaptivitat||2010|2010
+LWA|lernen wissen adaptivitat||2013|2013
+LWA|technical report lernen wissen adaptivitat learning knowledge adaptivity gi special interest groups kdml ir wm||2011|2011
+LWA|woche lernen wissen adaptivitat learning knowledge adaptivity||2009|2009
+LWA|woche lernen wissen adaptivitat||2008|2008
+LWC|living walking cities||2018|2018
+LWC|new scenarios safe mobility urban areas living walking cities|Elsevier|2022|2022
+LWC|pedestrians urban spaces health living walking cities||2019|2019
+LWDA|lernen wissen daten analysen workshops fgwm fgkd fgdb||2022|2022
+LWDA|lernen wissen daten analysen workshops fgwm kdml fgwi bia fgir||2020|2020
+LWDA|lernen wissen daten analysen||2020|2023
+LWDM|linked web data management||2011|2011
+LWI|living inconsistencies software development co located automated software engineering||2010|2010
+LWMOOCS|learning moocs|IEEE|2018|2023
+LWRT|liquid radioactive waste treatment ukrainian context|Springer|2024|2025

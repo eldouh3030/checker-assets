@@ -1,0 +1,811 @@
+BADGERS|building analysis datasets gathering experience returns security|IEEE|2011|2015
+BADS|bio inspired algorithms distributed systems||2009|2010
+BAFORA|bamboo forestry resources application ic|IOP|2025|2025
+BAIL|boundary interior layers boundary interior layers computational asymptotic methods||2009|2009
+BAIL|boundary interior layers computational asymptotic methods|Springer|2011|2017
+BAIL|boundary interior layers|Springer|2020|2020
+BAIL|internatinal boundary interior layers computational asymptotic methods|Springer|2015|2015
+BAITMP|bioinformatics applied information technologies medical purpose||2025|2025
+BAIT|bioinformatics applied information technologies||2024|2024
+BAI|breakthroughs artificial intelligence|Springer|2026|2026
+BAKS|dl description logics part bratislava knowledge septembe||2021|2021
+BALCOR|balkan operational research|Springer|2013|2023
+BALD|baltic atomic layer deposition|IEEE|2016|2016
+BALKANCOM|balkan communications networking|IEEE|2021|2024
+BALKANLIGHT|balkan lighting|IEEE|2018|2018
+BALTIC|measuring modeling multi scale interactions marine environment oes|IEEE|2014|2014
+BALTIC|ocean past present future oes||2012|2012
+BALTIC|us eu|IEEE|2006|2006
+BALTIC|usa advances marine environmental research monitoring technologies|IEEE|2004|2004
+BALTMATTRIB|daaam baltic baltic||2021|2021
+BALTMATTRIB|engineering materials tribology xxii||2014|2014
+BALTSILICA|baltic silicate materials||2011|2011
+BALTTRIB|dedicated anniversary year tribology scientific||2015|2015
+BALTTRIB|int conf dedicated lithuanian millennium anniversary lithuanian university agriculture anniversary department mechanical engineering proc||2009|2009
+BALTTRIB|scientific dedicated anniversary faculty agricultural engineering||2011|2011
+BALTTRIB|scientific dedicated anniversary restitution lithuania||2017|2017
+BALTTRIB|scientific november lithuanian university agriculture kaunas lithuania||2007|2007
+BAL|aiaa aerodynamic decelerator systems technology co located aiaa balloon systems aiaa lighter than air systems technology||2013|2013
+BAL|aiaa balloon systems||2013|2013
+BAMF|business automated mobility forum||2023|2023
+BANGKOK|tube association latest developments non ferrous wire tube technology non ferrous joint iwma ita seminar wire tube southeast asia||2007|2007
+BASIC|applied sciences interdisciplinary||2021|2021
+BASIC|science environmental science|IOP|2019|2019
+BASIC|science instrumentation measurement|IOP|2019|2019
+BASIC|science materials science|IOP|2019|2019
+BASIC|science mathematics statistics modelling|IOP|2019|2019
+BASIC|science molecular science|IOP|2019|2019
+BASIC|science new renewable energy|IOP|2019|2019
+BASIC|science preface|IOP|2019|2019
+BASNA|business applications social network analysis||2010|2010
+BASS|business aviation safety seminar||2013|2013
+BASS|business aviation safety summit||2014|2019
+BASYS|balanced automation systems future manufacturing networks ifip wg||2010|2010
+BASYS|ifip information technology balanced automation systems|Springer|2008|2008
+BASYS|ifip tc wg ifip information technology balanced automation systems manufacturing services|Springer|2005|2005
+BASYS|ifip wg balanced automation systems future manufacturing networks|Springer|2010|2010
+BAS|building simulation|Springer|2026|2026
+BATH|asme fluid power motion control||2013|2023
+BATS|biomedical applications technologies sensors|IEEE|2023|2025
+BATS|quantum biomedical applications technologies sensors q|IEEE|2024|2024
+BAYSM|bayesian statistics action|Springer|2023|2023
+BAYSM|bayesian young statistician meeting|Springer|2014|2026
+BAYSM|bayesian young statisticians meeting|Springer|2015|2022
+BBFS|bond behaviour frp structures||2005|2005
+BBGI|breaking barriers generative intelligence|Springer|2024|2024
+BCAA|battery applications advances|IEEE|1991|1991
+BCBGC|bioinformatics computational biology genomics chemoinformatics||2008|2010
+BCB|bioinformatics computational biology biomedical informatics||2013|2013
+BCB|bioinformatics computational biology biomedicine||2011|2012
+BCB|bioinformatics computational biology health informatics|ACM|2014|2025
+BCB|bioinformatics computational biology||2010|2010
+BCB|companion bioinformatics computational biology health informatics|ACM|2025|2025
+BCB|optical characterization thin film benzocyclobutene based polymers||1997|1997
+BCCA|blockchain computing applications|IEEE|2020|2025
+BCCM|brazilian composite materials|Elsevier|2019|2019
+BCC|blockchain cryptocurrencies contracts co located asia|ACM|2017|2017
+BCC|blockchains cryptocurrencies contracts co located asia|ACM|2018|2018
+BCC|blockchains cryptocurrencies contracts co located|ACM|2019|2019
+BCD|acis big data cloud computing data science engineering|Springer|2018|2024
+BCD|acis big data cloud computing data science|IEEE|2019|2024
+BCD|applied computing information technology computational science intelligence applied informatics big data cloud computing data science engineering acit csii|IEEE|2016|2017
+BCEE|buildings construction environmental engineering|IOP|2024|2024
+BCFIC|baltic congress future internet communications||2012|2012
+BCGIN|business computing global informatization||2011|2012
+BCHD|biotechnologies context human development|EDP|2023|2023
+BCICTS|bicmos compound semiconductor integrated circuits technology|IEEE|2018|2025
+BCIFORREAL|application oriented approach bci out laboratory co located|ACM|2017|2017
+BCIHT|brain computer interface healthcare technologies icon|IEEE|2024|2024
+BCIMM|brain computer interfaces bci multimedia understanding co located mm|ACM|2024|2024
+BCI|balkan informatics|ACM|2009|2025
+BCI|brain computer interface|IEEE|2018|2026
+BCI|scientific brain computer interfaces ic|Springer|2021|2021
+BCI|scientific brain computer interfaces|Springer|2018|2018
+BCI|winter brain computer interface|IEEE|2013|2025
+BCNC|sigplan beyond code no code co located|ACM|2021|2021
+BCN|broadband convergence networks bcn2006||2006|2006
+BCRRA|bearing capacity roads railways airfields||2017|2022
+BCSS|behavior change support systems co located persuasive technology persuasive||2021|2021
+BCSS|behavior change support systems co located persuasive technology||2026|2026
+BCSS|behavior change support systems co located technology||2025|2025
+BCSS|behavior change support systems organized conjunction persuasive technology persuasive||2020|2020
+BCSS|behavior change support systems||2024|2024
+BCSS|behaviour change support systems||2023|2023
+BCTB|biennial tropical biodiversity|IOP|2025|2025
+BCTM|bipolar bicmos circuits technology meeting|IEEE|1992|2013
+BCTM|special issue high speed circuits gaas ic bipolar bicmos circuits technology meeting||2002|2002
+BCWSP|broadband communications wireless sensors powering|IEEE|2020|2020
+BD&ET|cloud computing big data emerging topics jcc bd et|Springer|2021|2021
+BDACS|big data analysis computer science|IEEE|2021|2021
+BDAIA|big data analytics artificial intelligence application|ACM|2026|2026
+BDAIE|big data artificial intelligence digital economy|ACM|2025|2025
+BDAI|big data artificial intelligence|IEEE|2018|2025
+BDAI|industrial applications big data artificial intelligence||2021|2021
+BDAI|new frontiers big data artificial intelligence||2025|2025
+BDAMEA|big data applications mechatronics engineering automation|IEEE|2025|2025
+BDAS|beyond databases architectures structures held ifip world computer congress|Springer|2018|2018
+BDAS|beyond databases architectures structures|Springer|2014|2019
+BDA|big data analytics first||2012|2012
+BDA|big data analytics second||2013|2013
+BDA|big data analytics|Springer|2014|2026
+BDA|big data artificial intelligence|Springer|2023|2026
+BDA|data management principles technologies applications|Springer|2021|2026
+BDA|ph d ph d big data analytics co located big data analytics summer school||2021|2021
+BDB|deep learning big data blockchain deep|Springer|2022|2022
+BDCAT|big data computing applications technologies co located|ACM|2025|2025
+BDCAT|big data computing applications technologies|ACM|2016|2024
+BDCC|eai big data innovation sustainable cognitive computing|Springer|2021|2026
+BDCIA|second big data computational intelligence applications|SPIE|2025|2025
+BDCIA|third big data computational intelligence applications|SPIE|2026|2026
+BDCLOUD|big data cloud computing social computing networking sustainable computing communications|IEEE|2015|2016
+BDCLOUD|big data cloud computing|IEEE|2015|2024
+BDCPS|big data analytics cyber physical system smart city|Springer|2020|2021
+BDCSINTELL|big data cyber security intelligence||2019|2019
+BDCTA|big data communication technology computer applications|ACM|2025|2026
+BDC|big data computing|IEEE|2014|2015
+BDDM|big data data mining|IEEE|2025|2025
+BDEE|big data engineering education|IEEE|2021|2025
+BDEIM|big data economy information management|ACM|2020|2026
+BDET|big data engineering technology|ACM|2020|2023
+BDE|big data engineering|ACM|2020|2025
+BDIA|big data intelligent algorithms||2021|2021
+BDICN|big data information computer network|IEEE|2022|2026
+BDIDM|big data intelligent decision making|IEEE|2021|2021
+BDIMED|big data intelligent medicine|IEEE|2025|2025
+BDIM|first ifip business driven it management||2006|2006
+BDIM|ifip business driven it management||2008|2008
+BDIM|second ifip business driven it management||2007|2007
+BDIOT|big data cloud internet things|Springer|2022|2023
+BDIOT|big data internet things|ACM|2019|2026
+BDIT|big data internet things intelligent transportation||2025|2025
+BDKCSE|big data knowledge control systems engineering|IEEE|2019|2025
+BDMICS|big data management cloud systems biological knowledge discovery from data technologies information retrieval held database expert systems applications|Springer|2018|2018
+BDMIP|big data mining information processes||2021|2021
+BDMIP|big data mining information processing|ACM|2020|2025
+BDMS|big data management service big data quality management emerging results data science engineering graph data management analysis held conjunction database systems advanced applications|Springer|2025|2025
+BDMS|big data management service semantic computing personalization big data quality management graph data management analysis artificial intelligence data engineering held conjunction database systems advanced applications|Springer|2020|2020
+BDNNDL|big data neural networks deep learning|ACM|2026|2026
+BDO|beam dynamics optimization|IEEE|2014|2014
+BDPC|big data privacy computing|IEEE|2024|2025
+BDRC|buid doctoral research|Springer|2023|2026
+BDSC|china national big data social computing|Springer|2022|2026
+BDSIC|bdsic2023 big data service intelligent computation|ACM|2023|2023
+BDSIC|big data service intelligent computation|ACM|2020|2026
+BDTA|big data technologies applications|Springer|2017|2024
+BDTA|eai big data technologies applications eai wireless internet|Springer|2021|2021
+BDTA|eai big data technologies applications|Springer|2023|2023
+BDTA|national big data technology applications|Springer|2016|2016
+BDTBA|big data technology business analytics|Springer|2025|2025
+BDTSC|building digital twin smart cities|Springer|2026|2026
+BDVA|big data visual analytics|IEEE|2015|2017
+BDVA|big data visual immersive analytics|IEEE|2018|2018
+BEAMS|high power particle|IEEE|1989|2008
+BEAMS|icops plasma science high power particle|IEEE|2015|2015
+BEAMS|surface modification metals ion|Elsevier|1985|1985
+BEAT|bioenergy environmentally sustainable agriculture technology icon|EDP|2021|2025
+BEAT|web services formal methods behavioral types ws fm web services formal methods behavioral types ws fm|Springer|2016|2016
+BEAUTY|b physics frontier machines||2018|2024
+BEAUTY|b physics hadron machines|Elsevier|1996|2011
+BEA|innovative use nlp building educational applications held conjunction european chapter association computational linguistics||2021|2021
+BEA|innovative use nlp building educational applications meeting association computational linguistics human language technologies acl||2011|2011
+BEA|innovative use nlp building educational applications north american chapter association computational linguistics human language technologies naacl||2012|2018
+BEA|innovative use nlp building educational applications||2009|2023
+BEBI|wseas biomedical electronics biomedical informatics||2009|2009
+BECB|biomedical computational biology|Springer|2023|2023
+BECB|biomedical engineering computational biology|ACM|2021|2021
+BECITHCON|biomedical engineering computer information technology health|IEEE|2019|2025
+BECS|big data driven edge cloud services held conjunction web engineering|Springer|2022|2022
+BECS|big data driven edge cloud services semantic web everything co located web engineering|Springer|2026|2026
+BECS|big data driven edge cloud services semantic web everything web applications life sciences held conjunction web engineering|Springer|2023|2023
+BECS|big data driven edge cloud services web applications life sciences held conjunction web engineering|Springer|2025|2025
+BEC|baltic electronics biennial baltic electronics||2006|2006
+BEC|biennial baltic electronics biennial baltic electronics||2008|2010
+BEC|biennial baltic electronics||2012|2024
+BEFIB|rilem fib frc|Springer|2021|2021
+BEHAIV|ai understanding human behavior professional settings co located european artificial intelligence||2025|2025
+BEHAVREC|behavior change persuasive recommender systems co located recommender systems||2023|2023
+BEIAC|business engineering industrial applications colloquium||2012|2013
+BEIJING|icf fracture mechanics||1984|1984
+BELIEF|functions theory applications|Springer|2016|2018
+BELIV|beyond time errors novel evaluation methods information visualization working||2006|2006
+BELIV|beyond time errors novel evaluation methods information visualization||2008|2010
+BELIV|beyond time errors novel evaluation methods visualization||2012|2012
+BELIV|biennial evaluation beyond methodological approaches visualization|IEEE|2018|2018
+BELIV|evaluation beyond methodological approaches visualization|IEEE|2020|2024
+BEMC|british electromagnetic||1996|1996
+BENELEARN|benelux artificial intelligence bnaic|Springer|2022|2022
+BENELEARN|bnaic benelux artificial intelligence belgian dutch machine learning||2019|2019
+BENEVOL|belgium netherlands software evolution||2019|2024
+BENMAS|benjamin franklin microwave antenna subsystems radar telecommunication biomedical applications|IEEE|2014|2014
+BENZO|chromatographic separations alkali alkaline earth anions modified silicas||1986|1986
+BERG|society petroleum engineers spe norway subsurface||2022|2024
+BERLIN|no dig exhibition no dig||2011|2011
+BESC|behavioral economic socio cultural computing|IEEE|2014|2019
+BESC|behavioural social computing|IEEE|2020|2026
+BEST|broad exposure science technology|IOP|2019|2022
+BES|biomedical engineering society||1986|1986
+BETECH|seventh boundary element technology||1992|1992
+BETONTAG|lectures german concrete vortraege auf dem deutschen||1982|1982
+BEWARE|bias ethical ai explainability role logic logic programming co located italian association artificial intelligence ai ia||2022|2022
+BEWARE|bias risk ethical ai explainability role logic logic programming co located italian association artificial intelligence||2024|2024
+BEWEB|business intelligence web||2011|2011
+BEYONDMR|sigmod algorithms systems mapreduce beyond|ACM|2017|2017
+BEYONDMR|th sigmod algorithms systems mapreduce beyond|ACM|2018|2018
+BEYOND|algorithms reclaiming interdisciplinary roots recommender systems co located recommender systems||2025|2025
+BFAL|brain function assessment learning|Springer|2017|2020
+BFS|biotechnology food science|EDP|2023|2023
+BFT|scientific biotechnology food technology|EDP|2020|2025
+BGDDS|big geospatial data data science|IEEE|2018|2018
+BGKEMD|birational geometry kaehler einstein metrics degenerations|Springer|2023|2023
+BGPPM|bragg gratings photosensitivity poling glass waveguides materials||2018|2018
+BGPP|bragg gratings photosensitivity poling glass waveguides advanced photonics congress part optica advanced photonics congress||2024|2024
+BGPP|bragg gratings photosensitivity poling glass waveguides||1999|2016
+BGSIAM|meeting bulgarian section siam|Springer|2017|2017
+BGSIAM|meeting bulgarian section society industrial applied mathematics|Springer|2018|2025
+BGS|congress balkan geophysical society||2015|2021
+BHAAAS|days bosnian herzegovinian american academy arts sciences|Springer|2021|2021
+BHAAAS|sustainable urban development|Springer|2024|2024
+BHAI|biology health artificial intelligence|EDP|2025|2025
+BHARAT|breakthrough heuristics reciprocation advanced technologies|IEEE|2022|2022
+BHI|brain health informatics||2013|2013
+BHI|embs biomedical health informatics global grand challenge health informatics||2012|2012
+BHI|embs biomedical health informatics|IEEE|2014|2025
+BIADS|beam injection assessment defects semiconductors|Elsevier|1994|1996
+BIAS|algorithmic search recommendation held as part european information retrieval|Springer|2020|2023
+BIAS|algorithmic search recommendation information retrieval understudied users ir4u2|Springer|2026|2026
+BIAS|algorithmic search recommendation|Springer|2021|2025
+BIAS|microelectronics technologies systems microelectronics microelectronica tecnologie e sistemi della microelettronica convegno internazionale||1980|1980
+BIA|biomedical innovations applications|IEEE|2019|2021
+BIBE|bio informatics biomedical engineering|IEEE|2000|2000
+BIBE|bioinformatics bioengineering|IEEE|2001|2025
+BIBE|biological information biomedical engineering|ACM|2018|2025
+BIBE|fifth bioinformatics bioengineering||2005|2005
+BIBE|fourth bioinformatics bioengineering||2004|2004
+BIBE|sixth bioinformation bioengineering||2006|2006
+BIBMC|bandung biomolecular medicine conjuction asean congress medical biotechnology molecular biosciences||2017|2017
+BIBMW|bioinformatics biomedicine workshops||2008|2012
+BIBM|bioinformatics biomedicine|IEEE|2007|2025
+BICAME|borneo accelerating innovation research achieving sustainable development goals post pandemic era|IOP|2025|2025
+BICAME|borneo applied mathematics engineering|IEEE|2018|2021
+BICAME|energy transition smart technology global environment sustainable development||2021|2021
+BICA|biologically inspired cognitive architectures meeting|Springer|2024|2024
+BICA|biologically inspired cognitive architectures third meeting society|Springer|2013|2013
+BICA|biologically inspired cognitive architectures|Springer|2019|2026
+BICA|early research career enhancement school biologically inspired cognitive architectures fierces|Springer|2016|2016
+BICA|extended versions selected papers from meeting society||2013|2013
+BICED|bukittinggi education|IOP|2020|2021
+BICE|black issues computing education|IEEE|2024|2025
+BICITS|babylon information technology science|IEEE|2021|2021
+BICOB|bioinformatics computational biology first||2009|2009
+BICOB|bioinformatics computational biology|Springer|2010|2025
+BICOD|british databases|Springer|2015|2021
+BICOP|british irish optics photonics british irish optics photonics||2024|2024
+BICOP|british irish optics photonics|IEEE|2018|2025
+BICS|advances brain inspired cognitive systems||2012|2013
+BICS|brain inspired cognitive systems|Springer|2016|2025
+BICTA|bio inspired computing theories applications||2007|2008
+BICT|bio inspired information communications technologies|Springer|2019|2019
+BICT|eai bio inspired information communications technologies|Springer|2015|2025
+BIC|bioinformatics intelligent computing|ACM|2021|2025
+BIDA|business intelligence data analytics|Springer|2025|2026
+BIDEDE|big data emergent distributed environments conjunction sigmod pods|ACM|2021|2024
+BIDS|biometrics identity security||2009|2009
+BIDU|big social data urban computing|Springer|2019|2019
+BID|benchmarking data center expanding cloud|ACM|2022|2022
+BID|benchmarking datacenter expanding cloud|ACM|2022|2022
+BID|benchmarking datacenter|ACM|2020|2020
+BID|big data iot data science|IEEE|2017|2017
+BIFE|business intelligence financial engineering|IEEE|2009|2014
+BIGCOMP|big data smart computing|IEEE|2014|2026
+BIGCOM|big data computing communications|IEEE|2015|2024
+BIGDACI|big data analytics data mining computational intelligence connected smart cities e health eh part multi computer science information systems||2025|2025
+BIGDACI|big data analytics data mining computational intelligence connected smart cities e health eh||2024|2024
+BIGDAS|big data applications services|Springer|2019|2021
+BIGDATASE|big data science engineering|IEEE|2020|2025
+BIGDATASE|trust security privacy computing communications big data science engineering trustcom|IEEE|2018|2019
+BIGDATA|big data held as part services federation|Springer|2020|2025
+BIGDATA|big data|IEEE|2023|2025
+BIGDATA|ccf academic ccf|Springer|2019|2019
+BIGDATA|ccf big data|Springer|2022|2023
+BIGDATA|china computer federation big data ccf|Springer|2021|2021
+BIGDATA|congress big data held as part services federation|Springer|2018|2019
+BIGDATA|congress big data|Springer|2013|2023
+BIGDATA|global process safety big data bigdata2024||2024|2024
+BIGDIA|big data information analytics theories algorithms applications data science|IEEE|2018|2018
+BIGDIA|big data information analytics|IEEE|2019|2025
+BIGDML|big data machine learning applications|Springer|2021|2024
+BIGDML|first big data machine learning applications|Springer|2020|2020
+BIGDSE|big data software engineering|IEEE|2015|2016
+BIGHPC|special track big data high performance computing co located italian big data data science||2024|2025
+BIGMDE|staf focusing scalability model driven engineering||2013|2013
+BIGMINE|big data iot streams heterogeneous source mining algorithms systems programming models applications||2019|2019
+BIGMINE|big data streams heterogeneous source mining algorithms systems programming models applications held conjunction|ACM|2013|2013
+BIGMINE|int big data streams heterogeneous source mining algorithms systems programming models applications held conjunction sigkdd||2012|2012
+BIGMM|multimedia big data|IEEE|2015|2023
+BIGPICTURE|big picture||2023|2023
+BIGSARDATA|sar big data era models methods applications|IEEE|2017|2017
+BIGSARDATA|sar big data era|IEEE|2019|2023
+BIGSDM|big scientific data management|Springer|2019|2019
+BIGSPATIAL|sigspatial analytics big geospatial data|ACM|2012|2024
+BIGSURV|big data meets survey science|IEEE|2023|2023
+BIGSYSTEM|software defined ecosystems co located|ACM|2014|2014
+BIGSYSTEM|software defined ecosystems part|ACM|2015|2015
+BIH|brain informatics health|Springer|2014|2016
+BIIRRR|barriers interactive ir resources re use co located sigir human information interaction retrieval||2019|2019
+BIIT|business intelligence information technology|Springer|2023|2023
+BIKE|text2kg joint knowledge graph generation from text challenge co located extended semantic||2023|2023
+BIKE|text2kg joint llm integrated knowledge graph generation from text challenge co located extended semantic web||2025|2025
+BIMPS|biologically inspired materials processes systems|SPIE|2025|2026
+BIM|big data iot machine learning|Springer|2024|2026
+BIM|building information modelling design construction operations iv||2021|2021
+BIM|building information modelling design construction operations||2019|2019
+BIM|business intelligence modelling ic|Springer|2021|2024
+BIM|geophysics infrastructure planning monitoring held near surface geoscience exhibition||2025|2025
+BIM|measurement visualisation processing design construction management mvp||2019|2019
+BINDT|british institute non destructive testing||2009|2013
+BIOADIT|biologically inspired approaches advanced information technology second||2006|2006
+BIOADIT|biologically inspired approaches advanced information technology|Springer|2004|2004
+BIOCAS|biomedical circuits systems engineering healthy minds able bodies|IEEE|2015|2015
+BIOCAS|biomedical circuits systems healthcare technology biocas2007||2007|2007
+BIOCAS|biomedical circuits systems intelligent biomedical electronics systems better life better environment publications||2012|2012
+BIOCAS|biomedical circuits systems intelligent biomedical systems better future|IEEE|2022|2022
+BIOCAS|biomedical circuits systems|IEEE|2008|2025
+BIOCERAMICS|ceramics medicine||2001|2001
+BIOCOMP|bioinformatics computational biology||2008|2008
+BIODENTAL|engineering ii engineering||2014|2014
+BIODENTAL|engineering iii engineering||2014|2014
+BIODEVICES|biomedical electronics devices part joint biomedical engineering systems technologies|SciTePress|2014|2021
+BIODEVICES|biomedical electronics devices||2008|2013
+BIOENG|biomedical engineering||2011|2011
+BIOFOR|recent advances digital security biometrics forensics pattern recognition cultural heritage ehealth big data deep learning era e deep understanding shopper behaviors interactions intelligent retail environments industrial session held image analysis processing|Springer|2019|2019
+BIOID|biometrics id management cost european||2011|2011
+BIOID|biometrics identity management first european revisited selected papers||2008|2008
+BIOID|european biometrics identity management|Springer|2011|2011
+BIOIMAGING|part joint biomedical engineering systems technologies|SciTePress|2014|2021
+BIOINFOMED|bioinformatics biomedicine|Springer|2022|2023
+BIOKDD|biological knowledge discovery from data cyber security functional safety cyber physical systems machine learning knowledge graphs artificial intelligence clean affordable reliable energy supply ai time ordered data protime2021 ai system engineering math modelling software aisys2021 held database expert systems applications|Springer|2021|2021
+BIOKDD|biological knowledge discovery from data cyber security functional safety cyber physical systems machine learning knowledge graphs mlkgraphs2019 held database expert systems applications|Springer|2020|2020
+BIOKDD|data mining bioinformatics held conjunction knowledge discovery data mining|ACM|2012|2013
+BIOKDD|data mining bioinformatics held conjunction sigkdd sigkdd knowledge discovery data mining||2011|2011
+BIOKDD|data mining bioinformatics held conjunction sigkdd|ACM|2008|2008
+BIOLOGY|engineering medicine||1984|1984
+BIOMATERIALS|transactions second world congress meeting society sixteenth||1984|1984
+BIOMATERIALS|world congress||1982|1982
+BIOMA|bioinspired optimization methods their applications bioinspired optimization methods their applications||2004|2010
+BIOMA|bioinspired optimization methods their applications|Springer|2012|2022
+BIOMA|student bioinspired optimization methods their applications||2014|2014
+BIOMECHANICS|polish society|Springer|2019|2022
+BIOMECH|fifth iasted biomechanics||2007|2007
+BIOMECH|fourth iasted biomechanics||2006|2006
+BIOMECH|iasted biomechanics||2011|2011
+BIOMEDCOM|ase biomedical computing||2013|2013
+BIOMEDCOM|socialcom passat bigdata econcom||2013|2013
+BIOMED|biomedical optics||2008|2012
+BIOMED|biomedical topical meeting||1999|2004
+BIOMED|frontiers biomedical devices design medical devices||2017|2020
+BIOMED|iasted biomedical engineering|IEEE|2007|2017
+BIOMED|kuala lumpur biomedical engineering|Springer|2011|2022
+BIOMED|modelling medicine biology||2013|2013
+BIOMED|natural language processing biomedical domain||2002|2002
+BIOMED|social robotics icsr|Springer|2025|2026
+BIOMEMS|biomicroelectromechanical systems||2003|2003
+BIOMESIP|bioengineering biomedical signal image processing|Springer|2021|2021
+BIOMET|biomaterials bioengineering biotheranostics|Elsevier|2019|2019
+BIOMIC|bioinformatics biotechnology biomedical engineering bioinformatics biomedical engineering|IEEE|2019|2019
+BIOMIC|bioinformatics biotechnology biomedical engineering|EDP|2018|2023
+BIOMRH|biomechatronics robotics healthcare|Springer|2026|2026
+BIOMS|biometric measurements systems security medical applications|IEEE|2010|2014
+BIOM|cirp biomanufacturing cirp|Elsevier|2020|2020
+BIOM|cirp biomanufacturing|Elsevier|2013|2024
+BIONETICS|bio inspired model network information computing systems icst revised selected papers||2012|2012
+BIONETICS|bio inspired models network information computing systems icst revised selected papers||2012|2012
+BIONETICS|bioinspired models network information computing systems revised selected papers||2010|2010
+BIONETICS|icst bio inspired models network information computing systems|Springer|2008|2014
+BIONLP|biomedical language processing||2021|2022
+BIONLP|biomedical natural language processing companion volume shared task event extraction||2009|2009
+BIONLP|biomedical natural language processing held conjunction north american chapter association computational linguistics human language technologies naacl||2009|2009
+BIONLP|biomedical natural language processing meeting association computational linguistics human language technologies acl||2011|2011
+BIONLP|biomedical natural language processing meeting association computational linguistics||2010|2013
+BIONLP|biomedical natural language processing||2016|2016
+BIONLP|biomedical nlp associated||2017|2017
+BIONLP|current trends biomedical natural language processing||2008|2008
+BIONLP|meeting acl special interest group biomedical natural language processing shared tasks||2024|2024
+BIONLP|sigbiomed biomedical language processing||2020|2020
+BIONLP|sigbiomed biomedical natural language processing shared task||2019|2019
+BIONLP|sigbiomed biomedical natural language processing||2017|2018
+BIOPPN|biological processes petri nets||2011|2011
+BIOPPN|biological processes petri satellite event petri||2012|2012
+BIOROBOTICS|ifac bio robotics ifac||2013|2013
+BIOROB|biennial ras embs biomedical robotics biomechatronics||2008|2008
+BIOROB|first ras embs biomedical robotics biomechatronics||2006|2006
+BIOROB|ras embs biomedical robotics biomechatronics||2010|2024
+BIOSECURE|biosurveillance biosecurity||2008|2008
+BIOSIGNALS|bio inpsired systems signal processing||2010|2010
+BIOSIGNALS|bio inspired systems signal processing part joint biomedical engineering systems technologies|SciTePress|2015|2021
+BIOSIGNALS|bio inspired systems signal processing||2008|2013
+BIOSIGNALS|int bio inspired systems signal processing part int joint biomedical engineering systems technologies|SciTePress|2014|2014
+BIOSIG|biometrics electronic signatures gi working group||2003|2003
+BIOSIG|biometrics special interest group|IEEE|2012|2025
+BIOSIG|special interest group biometrics electronic signatures||2007|2011
+BIOSIM|simulation modelling bioengineering||1996|1996
+BIOSMART|bio engineering smart technologies|IEEE|2016|2025
+BIOSPECTRUM|biotechnology biological sciences||2020|2020
+BIOSTEC|bioinformatics bioinformatics models methods algorithms part joint biomedical engineering systems technologies|SciTePress|2015|2021
+BIOSTEC|bioinformatics int conf bioinformatics models methods algorithms part int joint biomedical engineering systems technologies|SciTePress|2014|2014
+BIOSTEC|biomedical engineering systems technologies joint revised selected papers||2008|2008
+BIOSTEC|biomedical engineering systems technologies third joint revised selected papers||2011|2011
+BIOSTEC|biomedical engineering systems technologies|Springer|2023|2023
+BIOSTEC|joint bio medical engineerings system technologies||2008|2008
+BIOSTEC|joint biomedical engineering systems technologies doctoral consortium|SciTePress|2016|2016
+BIOSTEC|joint biomedical engineering systems technologies|Springer|2011|2026
+BIOSTEC|mobilizing health information support healthcare related knowledge work mobihealthinf conjunction||2009|2009
+BIOTC|blockchain internet things|ACM|2021|2025
+BIOTECHNO|biocomputation bioinformatics biomedical technologies||2008|2008
+BIOTESTA|biological technology sustainable nature ic|EDP|2026|2026
+BIOVIS|biological data visualization||2011|2013
+BIOWIRELESS|topical biomedical wireless technologies networks sensing systems radio wireless week||2013|2013
+BIOWIRELESS|topical biomedical wireless technologies networks sensing systems|IEEE|2014|2016
+BIOWIRE|bio inspired computing communication first bio inspired design networks revised selected papers||2008|2008
+BIO|advances biology bioengineering environment wseas cellular molecular biology biophysics bioengineering wseas environment ecosystems development bioscience bioinformatics||2010|2010
+BIO|mtt s microwave series rf wireless technologies biomedical healthcare applications imws|IEEE|2013|2015
+BIO|nurturing innovative technological trends engineering bioscience nitte|EDP|2025|2025
+BIP|bioinspired processing|IEEE|2021|2025
+BIRDS|bridging gap between information science information retrieval data science co located research development information retrieval||2020|2020
+BIRD|bioinformatics research development first||2007|2007
+BIRD|bioinformatics research development|Springer|2008|2008
+BIRTE|business intelligence real time enterprise enabling real time business intelligence real time business intelligence analytics held conjunction very large data bases|Springer|2019|2019
+BIRTE|business intelligence real time enterprises first revised selected papers||2007|2007
+BIRTE|enabling real time business intelligence held very large databases revised selected papers|Springer|2011|2012
+BIRTE|enabling real time business intelligence held very large databases|Springer|2013|2013
+BIRTE|enabling real time business intelligence third held very large databases revised selected papers|Springer|2010|2010
+BIRTE|workshops business intelligence real time enterprise|Springer|2015|2015
+BIR|bibliometric enhanced information retrieval co located european information retrieval||2015|2023
+BIR|business informatics research|Springer|2005|2024
+BIR|perspectives business informatics research|Springer|2010|2026
+BIR|perspectives business information research||2007|2007
+BIR|workshops business informatics research workshops doctoral consortium revised selected papers|Springer|2012|2012
+BIR|ws joint workshops doctoral consortium co located perspectives business informatics research||2015|2025
+BISEC|business information security||2023|2025
+BIS|biomedical intelligent systems ic|SPIE|2022|2025
+BIS|business industry spring simulation multiconference|ACM|2007|2007
+BIS|business information systems workshops workshops bpsc revised papers|Springer|2011|2011
+BIS|business information systems workshops workshops future internet revised papers|Springer|2012|2012
+BIS|business information systems workshops workshops revised papers|Springer|2010|2010
+BIS|business information systems workshops|Springer|2013|2013
+BIS|business information systems|Springer|2005|2026
+BIS|second biomedical intelligent systems ic|SPIE|2023|2023
+BIS|third biomedical intelligent systems ic|SPIE|2024|2024
+BIS|workshops business information systems|Springer|2015|2015
+BIS|workshops held conjunction business information systems|Springer|2026|2026
+BIS|workshops social aspects web advances accessing deep web e learning business needs||2008|2008
+BITA|business it alignment blockchain smart contract technologies transforming digital customer experience intelligent data analysis integrated social crm icrm quality open data held business information systems|Springer|2020|2020
+BITCOIN|workshops research encrypted computing applied homomorphic cryptography wearable security privacy wearable co hosted financial cryptography fc|Springer|2015|2015
+BITCON|flagship bit next generation applications green energy technology|IEEE|2024|2024
+BITMDM|biologically inspired techniques many criteria decision making|Springer|2022|2022
+BITMET|virtual bridging innovative trends mathematics engineering technology||2021|2021
+BIT|buildintech innovations technologies construction||2020|2020
+BIT|innovations technologies construction buildintech|Springer|2021|2026
+BIT|scientific innovations technologies construction buildintech|Springer|2021|2021
+BIT|selected papers anniversary scientific technical secure information technologies||2019|2019
+BIT|selected papers scientific technical secure information technologies||2021|2021
+BIVPCS|bio imaging visualization patient customized simulations point care ultrasound algorithms hardware applications held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+BIWA|big data iot web intelligence applications|IEEE|2022|2022
+BIW|beam instrumentation||2006|2010
+BIYOMUT|national biomedical engineering meeting biyomut2010||2010|2010
+BIYOMUT|national biomedical engineering meeting|IEEE|2003|2017
+BLACKBOXNLP|analyzing interpreting neural networks nlp||2021|2024
+BLACKSEACOM|black sea communications networking|IEEE|2013|2025
+BLED|econference digital economy society balancing act digital innovation times instability||2023|2023
+BLED|econference digital economy||2016|2016
+BLED|econference digital restructuring human action||2022|2022
+BLED|econference digital support from crisis progressive change||2021|2021
+BLED|econference digital transformation from connecting things transforming our lives||2017|2017
+BLED|econference digital transformation meeting challenges||2018|2018
+BLED|econference enabling technology sustainable society||2020|2020
+BLED|econference humanizing technology sustainable society||2020|2020
+BLED|what comes beyond standard models||2016|2016
+BLENDS|nrcc imri mini series polymer||1984|1984
+BLE|business management entrepreneurship sustainable circular economy|Springer|2026|2026
+BLISS|bio inspired learning intelligent systems security||2009|2009
+BLISS|ecsis bio inspired learning intelligent systems security||2007|2008
+BLOCKCHAIN|congress applications|Springer|2020|2026
+BLOCKNETSYS|blockchain network synergy co located|ACM|2025|2025
+BLOCKSYS|blockchain artificial intelligence trustworthy systems|Springer|2026|2026
+BLOCKSYS|blockchain enabled networked sensor systems part|ACM|2018|2018
+BLOCKSYS|blockchain enabled networked sensor systems|ACM|2019|2023
+BLOCKSYS|blockchain trustworthy systems|Springer|2020|2025
+BLOCKTEA|eai blockchain technology emerging applications|Springer|2024|2026
+BLOCKTEA|eai blockchain technology emerging technologies|Springer|2023|2023
+BLOGTALK|recent trends developments social software social software revised selected papers||2010|2010
+BLOGTALK|social software|Springer|2010|2010
+BLORIN|blockchain renewables integration|IEEE|2022|2022
+BLP|bangla language processing||2023|2023
+BMAS|behavioral modeling simulation||2004|2010
+BMAW|uai bayesian modeling applications uai aw||2011|2011
+BMAW|uai bayesian modelling applications||2008|2008
+BMA|uai bayesian modeling applications uai aw||2007|2007
+BMCV|biologically motivated computer vision|Springer|2000|2002
+BMC|brittle matrix composites brittle matrix composites||2015|2019
+BMC|brittle matrix composites||2006|2012
+BMDE|biomedical data engineering||2005|2005
+BMDID|biomedical data integration discovery co located semantic web||2016|2016
+BMEICON|biomedical engineering|IEEE|2011|2025
+BMEI|biomedical engineering informatics new development future biomedical engineering informatics||2008|2008
+BMEI|biomedical engineering informatics|IEEE|2009|2015
+BMEI|business management electronic information special track supernetworks system management icssm2011||2011|2011
+BMEI|business management electronic information||2011|2011
+BMEI|congress image signal processing biomedical engineering informatics cisp|IEEE|2016|2025
+BME|development biomedical engineering vietnam|Springer|2018|2025
+BME|instrumentation communication information technology biomedical engineering icici||2009|2011
+BME|instrumentation communications information technology biomedical engineering icici|IEEE|2015|2017
+BME|instrumentation communications information technology biomedical engineering science technology improvement health safety environment icici||2013|2013
+BMFA|sigchi behaviour modelling foundations applications||2013|2013
+BMFT|materials research process technology space status seminar german federal ministry research technology werkstofforschung und verfahrenstechnik im weltraum statusseminar des bundesministeriums fuer forschung und technologie||1982|1982
+BMI|behaviour monitoring interpretation studying moving objects three dimensional world||2009|2009
+BMI|behaviour monitoring interpretation||2007|2010
+BMNA|biochemical materials nanotechnology application||2013|2013
+BMSAI|biometrics microelectronic sensors artificial intelligence|SPIE|2022|2022
+BMSB|broadband multimedia systems broadcasting final programme||2010|2010
+BMSB|broadband multimedia systems broadcasting final program||2012|2012
+BMSB|broadband multimedia systems broadcasting multimedia communications future||2023|2023
+BMSB|broadband multimedia systems broadcasting programme||2011|2011
+BMSB|broadband multimedia systems broadcasting||2009|2025
+BMSD|14h business modeling software design|Springer|2024|2024
+BMSD|business modeling software design first revised selected papers|Springer|2012|2012
+BMSD|business modeling software design second revised selected papers|Springer|2013|2013
+BMSD|business modeling software design|Springer|2011|2026
+BMSE|biobase material science engineering||2012|2012
+BMSE|building materials structural engineering bmse2013||2013|2013
+BMSP|vii brazilian meeting simulational physics|IOP|2014|2014
+BMS|ifac biological medical systems|Elsevier|2012|2024
+BMUS|meeting british medical ultrasound society|Elsevier|2000|2000
+BMVC|bmvc91 british machine vision||1991|1991
+BMVC|british machine vision||2005|2024
+BMVC|electronic british machine vision||2012|2013
+BNAIC|belgian dutch artificial intelligence||2007|2007
+BNAIC|belgium dutch artificial intelligence||2008|2008
+BNAIC|belgium netherlands artificial intelligence||2005|2006
+BNAIC|benelux artificial intelligence belgian dutch machine learning|Springer|2020|2020
+BNAIC|benelux artificial intelligence|Springer|2009|2019
+BNCOD|advances databases british national databases revised selected papers||2011|2011
+BNCOD|big data british national databases||2013|2013
+BNCOD|british national databases|Springer|1992|2007
+BNCOD|data management data data everywhere bntish national databases||2007|2007
+BNCOD|data security security data british national databases revised selected papers||2012|2012
+BNCOD|database enterprise skills innovation british national databases||2005|2005
+BNCOD|dataspace final frontier british national databases||2009|2009
+BNCOD|flexible efficient information handling british national databases|Springer|2006|2006
+BNCOD|sharing data information knowledge british national databases||2008|2008
+BNMT|broadband network multimedia technology ic bnmt2009||2009|2009
+BNMT|broadband network multimedia technology ic bnmt2010||2010|2010
+BNMT|broadband network multimedia technology ic||2011|2013
+BNM|bulk nanomaterials from fundamentals innovations|IOP|2019|2019
+BNNIO|biological neural networks intelligent optimization|ACM|2026|2026
+BOATSE|bots agents software engineering|ACM|2026|2026
+BODA|bio optics design application optica biophotonics congress part optica biophotonics congress optics life sciences||2025|2025
+BODA|bio optics design application||2013|2023
+BODYNETS|body area networks|Springer|2012|2020
+BODYNETS|eai body area networks|Springer|2015|2026
+BODYNETS|icst body area networks||2007|2012
+BODYSYS|body centric computing systems|ACM|2021|2024
+BOD|bandwidth demand||2006|2006
+BOF|between ontologies folksonomies tools architectures managing retrieving emerging knowledge communities||2007|2007
+BOKSS|body knowledge software sustainability|IEEE|2021|2021
+BOND|joint nanoscience engineering management bond21||2014|2014
+BOOKSONLINE|online books complementary social media crowdsourcing||2011|2011
+BOOKSONLINE|research advances large digital book repositories co located information knowledge management||2008|2008
+BOOKSONLINE|research advances large digital book repositories complementary media co located information knowledge management||2010|2010
+BOOKSONLINE|research advances large digital book repositories complementary media co located||2012|2012
+BORMIO|winter meeting nuclear physics||2017|2017
+BOSD|biomedical optical spectroscopy diagnostics||1996|2000
+BOSS|behaviour off shore structures||1983|1983
+BOSS|infn laboratori nazionali di frascati black objects supergravity school|Springer|2013|2013
+BOS|national operational systems research intuitionistic fuzzy sets general nets|Springer|2021|2021
+BOS|national operational systems research intuitionistic fuzzy sets generalized nets|Springer|2018|2018
+BOS|national operationaland systems research intuitionistic fuzzy sets generalized nets|Springer|2022|2022
+BOTSE|bots software engineering|IEEE|2019|2025
+BOUCLA|bousfield classes form set memory testusuke ohkawa|Springer|2020|2020
+BPAOSD|best practices applying aspect oriented software development held sixth aspect oriented software development||2007|2007
+BPC|biomedical photonics cross fusion|SPIE|2022|2022
+BPC|biosignal processing classification conjunction||2006|2006
+BPC|fourth biomedical photonics cross fusion|SPIE|2025|2025
+BPC|second biomedical photonics cross fusion|SPIE|2023|2023
+BPC|third biomedical photonics cross fusion|SPIE|2024|2024
+BPI|artificial intelligence business process management ai4bpm business process intelligence governance beyond digitaltransformation business process management routine dynamics rd social human aspects business process management bpms2 declarative decision hybrid approaches processes dec2h business processes meet internet things bp meet security privacy enhanced business process management held business process management|Springer|2022|2022
+BPMDEMOS|business process management demonstration track||2009|2010
+BPMDS|business process life cycle design deployment operation evaluation business process modeling development support held conjunction||2008|2008
+BPMDS|business process modeling development support evaluation modeling methods systems analysis development held advanced information systems engineering|Springer|2017|2018
+BPMDS|business process modeling development support evaluation modeling methods systems analysis development|Springer|2019|2019
+BPMDS|business process modeling development support exploring modeling methods systems analysis design held advanced information systems engineering|Springer|2015|2016
+BPMDS|business process modeling development support exploring modeling methods systems analysis design|Springer|2014|2014
+BPMDS|business process modeling development support exploring modeling methods systems analysis development held advanced information systems engineering|Springer|2020|2020
+BPMDS|business process modeling development support exploring modeling methods systems analysis development held|Springer|2021|2021
+BPMDS|business process modeling development support exploring modeling methods systems analysis development|Springer|2023|2023
+BPMDS|enterprise business process information systems modeling eurosymposium held|Springer|2012|2012
+BPMDS|enterprise business process information systems modeling held|Springer|2010|2013
+BPMDS|enterprise business process information systems modeling|Springer|2009|2009
+BPMDS|joint radar tracks working business process modeling development support working evaluation modeling methods systems analysis development enterprise modeling information systems architectures co located advanced information systems engineering||2017|2017
+BPMDS|working business process modeling development support working exploring modeling methods systems analysis development emm|Springer|2026|2026
+BPMDS|working business process modeling development support working exploring modeling methods systems analysis development|Springer|2024|2025
+BPMD|demo sessions co located business process management||2013|2013
+BPMN|business process model notation third|Springer|2011|2011
+BPMN|business process model notation|Springer|2012|2012
+BPMN|business process modeling notation second|Springer|2010|2010
+BPMT|dissertation award doctoral consortium demonstration track co located business process management||2019|2019
+BPM|asia pacific asia pacific business process management ap|Springer|2015|2015
+BPM|asia pacific business process management ap|Springer|2014|2014
+BPM|blockchain forum central eastern europe forum held business process management|Springer|2019|2019
+BPM|blockchain forum robotic process automation forum central eastern europe forum held as part business process management|Springer|2022|2022
+BPM|blockchain forum robotic process automation rpa forum held as part business process management|Springer|2020|2020
+BPM|business process management workshops workshops bpd bpi enei gpww dpm semantics4ws|Springer|2006|2006
+BPM|business process management workshops workshops bpi bpd cbp prohealth refmod semantics4ws revised selected papers|Springer|2008|2008
+BPM|business process management workshops workshops bpi bpd enei bprm wscobpm bps revised selected papers|Springer|2006|2006
+BPM|business process management workshops workshops education track revised selected papers|Springer|2011|2011
+BPM|business process management workshops workshops revised papers|Springer|2009|2013
+BPM|business process management workshops workshops revised selected papers|Springer|2012|2012
+BPM|business process management|Springer|2003|2026
+BPM|d best dissertation award doctoral consortium demonstration resources forum co located business process management||2023|2024
+BPM|d best dissertation award doctoral consortium demonstration resources track co located business process management||2021|2022
+BPM|d best dissertation award doctoral consortium demonstration resources track co located business processmanagement||2020|2020
+BPM|d joint best dissertation award doctoral consortium demonstration resources forum co located business process management||2025|2025
+BPM|demo session business process management||2006|2006
+BPM|demo track business process management||2011|2011
+BPM|demonstration program business process management||2007|2007
+BPM|dsci best practices meet||2013|2013
+BPM|forum held business process management|Springer|2022|2026
+BPM|i s industry society forum co located business process management||2025|2025
+BPM|if industry forum business process management co located business process management||2019|2019
+BPM|if industry forum co located business process management||2021|2021
+BPM|process support knowledge representation health care joint kr4hc revised selected papers||2013|2013
+BPM|workshops ai4bpm bp meet iot bpi rd bpms2 bpo dec2h nlp4bpm co located business process management|Springer|2023|2023
+BPM|workshops business process management workshops|Springer|2015|2015
+BPM|workshops business process management|Springer|2020|2020
+BPM|workshops held business process management|Springer|2024|2024
+BPOE|big data benchmarks performance optimization emerging hardware|Springer|2016|2016
+BPOE|workshops big data benchmarks performance optimization emerging hardware|Springer|2014|2014
+BPPF|benchmarking past present future||2021|2021
+BPP|scientific practical biological plant protection is basis agroecosystems stabilization|EDP|2020|2020
+BPSC|business process services computing intelligent service management||2009|2009
+BPSC|working business process services computing||2007|2007
+BPS|baltic polymer programme||2019|2019
+BPS|baltic polymer||2015|2015
+BQGT|behavioral quantitative game theory future directions||2010|2010
+BRACIS|brazilian intelligent systems|Springer|2013|2026
+BRAINCOMP|brain inspired computing|Springer|2014|2021
+BRAINLES|brain lesion challenges brain tumor segmentation brats ischemic stroke lesion image segmentation isles mild traumatic brain injury outcome prediction mtop held conjunction medical image computing computer assisted intervention|Springer|2016|2016
+BRAINLES|brain lesion held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+BRAINLES|brain lesion stroke imaging treatment challenges held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+BRAINLES|brainlesion held conjunction medical image computing computer assisted intervention|Springer|2019|2021
+BRAINLES|miccai brainlesion|Springer|2023|2023
+BRAINS|blockchain research applications innovative networks services|IEEE|2020|2025
+BRAIN|bio optics design application biophotonics congress optics life sciences oma ntm boda omp||2023|2023
+BRAIN|iet doctoral forum biomedical engineering healthcare robotics artificial intelligence||2018|2018
+BRAIN|optics n biophotonics congress optics life sciences oma ntm boda omp||2023|2023
+BRAIN|optics optica biophotonics congress biomedical optics translational microscopy oct ots part optica biophotonics congress biomedical optics||2024|2024
+BRAIN|optics optica biophotonics congress part optica biophotonics congress optics life sciences||2025|2025
+BRAKE|colloquium exhibition||2019|2025
+BRAKE|sae colloquium exhibition||2024|2024
+BRAMAT|materials science engineering|Elsevier|2017|2019
+BRASILBRAKE|sae brasil brake motion control colloquium engineering exhibition||2022|2024
+BRASILBRAKE|sae brasil brake motion control colloquium exhibit||2020|2020
+BRASILCOLL|sae brasil colloquium road suspensions implements engineering exhibition||2021|2021
+BRASILCOLL|sae brasil colloquium suspensions road implements engineering exhibition||2023|2025
+BRASILCOLL|sae brasil suspension trailer colloquium engineering exhibition||2014|2014
+BRASILCONG|sae brasil congress display||2013|2013
+BRASILCONG|sae brasil congress exhibition||2020|2021
+BRASILCONG|sae brasil congress||2024|2025
+BRASILCONG|sae brasil mobility technology congress exhibition||2024|2024
+BRASILELECTR|sae brasil electro electronics colloquium||2013|2013
+BRASILOBECE|sae brasil board electronics colloquium exhibit||2020|2020
+BRASIL|sae congress||2021|2021
+BRASIL|sae web forum||2021|2021
+BRATS|brain tumors lighthouse cluster challenges automated identification moderate severe traumatic brain injury lesions challenge aims held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+BRATS|challenge brain tumor segmentation challenge cross modality domain adaptation medical image segmentation held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+BRC|issnip biosignals biorobotics biosignals robotics better safer living||2011|2014
+BREAD|congress flour croatian congress cereal technologists||2005|2017
+BRESIL|design construction large turbines francis turbines tucurui station conception et construction des turbomachines de grandes dimensions les turbines francis de la centrale de tucurui||1982|1982
+BRIDGE|bridging regulatory science medical imaging evaluation distributed collaborative federated learning held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+BRIMS|behavior representation modeling simulation co located cognitive modeling||2013|2013
+BRIMS|behavior representation modeling simulation co located social computing behavioral modeling prediction||2014|2015
+BRIMS|behavior representation modeling simulation||2009|2012
+BRIMS|social computing behavioral cultural modeling prediction behavior representation modeling simulation sbp|Springer|2016|2026
+BRIMS|social computing behavioral cultural modeling prediction behavior representation modeling simulation||2018|2018
+BRIMS|social cultural behavioral modeling sbp|Springer|2017|2021
+BRINES|salts solution mining salts||1985|1985
+BRNS|dae high energy physics dae|Springer|2025|2025
+BROADBANDCOM|selected papers broadband communication information technology biomedical applications||2009|2009
+BROADBAND|exposition fiber optic communications local area networks exposition||1990|1990
+BROADCOM|broadband communications informatics biomedical applications||2008|2008
+BROADNETS|broadband communications networks systems icst revised selected papers||2012|2012
+BROADNETS|broadband communications networks systems|Springer|2006|2022
+BROADNETS|broadband networks||2005|2005
+BROADNETS|eai broadband communications networks systems|Springer|2021|2026
+BROADNETS|first broadband networks||2004|2004
+BRODYN|analysis broad dynamic topics over social media co located european information retrieval||2018|2018
+BROMINE|brawijaya chemical engineering|IOP|2025|2025
+BRWSG|belt road webinar series geotechnics energy environment|Springer|2022|2022
+BSACA|ix bulgarian serbian astronomical astroinformatics||2014|2014
+BSAC|bulgarian serbian astronomical||2018|2018
+BSAC|vii bulgarian serbian astronomical||2010|2010
+BSA|building simulation applications||2025|2025
+BSBT|bio science bio technology held as part future generation information technology||2009|2009
+BSBT|bio science bio technology|IEEE|2015|2015
+BSBT|database theory application bio science bio technology dta held as part future generation information technology conjunction||2011|2011
+BSBT|database theory application bio science bio technology dta held as part future generation information technology||2010|2010
+BSB|advances bioinformatics computational biology brazilian bioinformatics||2005|2013
+BSB|advances bioinformatics computational biology second brazilian bioinformatics||2007|2007
+BSB|advances bioinformatics computational biology third brazilian bioinformatics||2008|2008
+BSB|bioinformatics systems biology|IEEE|2016|2018
+BSB|brazilian bioinformatics advances bioinformatics computational biology|Springer|2022|2022
+BSB|brazilian bioinformatics|Springer|2014|2023
+BSCASS|bulgarian serbian astronomy space science astronomy space science||2006|2006
+BSCI|blockchain secure critical infrastructure co located asia|ACM|2021|2021
+BSCI|blockchain secure critical infrastructure co located|ACM|2019|2020
+BSCI|blockchain secure critical infrastructure|ACM|2022|2026
+BSCVS|congress brazilian society cardiovascular surgery||2014|2014
+BSC|biennial communications|IEEE|2008|2023
+BSDIA|brazilian advances document image analysis|Springer|1997|1997
+BSEC|biomedical science engineering biomedical research analysis neuroscience brain||2010|2010
+BSEC|biomedical sciences engineering image informatics analytics biomedicine||2011|2011
+BSEC|o biomedical sciences engineering ornl biomedical sciences engineering collaborative biomedical innovations multi scale brain spanning molecular cellular systems cognitive behavioral clinical neuroscience|IEEE|2014|2014
+BSEC|ornl biomedical science engineering||2009|2009
+BSEC|ornl biomedical sciences engineering collaborative biomedical innovations||2013|2013
+BSFMEC|building surveying facilities management engineering|EDP|2014|2014
+BSI|behavior social computing int behavior social informatics int behavior social informatics computing revised selected papers|Springer|2013|2013
+BSLAB|business systems laboratory|Springer|2018|2025
+BSM|beyond standard model from theory experiment||2021|2021
+BSNLP|balto slavic natural language processing co located european chapter association computational linguistics||2021|2021
+BSNLP|balto slavic natural language processing european chapter association computational linguistics||2017|2017
+BSNLP|biennial balto slavic natural language processing meeting association computational linguistics||2013|2013
+BSN|bhi embs biomedical health informatics embs wearable implantable body sensor networks|IEEE|2022|2022
+BSN|body sensor networks|IEEE|2010|2025
+BSN|buildsim nordic|EDP|2022|2022
+BSN|wearable implantable body sensor networks conjunction summer school medical devices biosensors||2008|2008
+BSN|wearable implantable body sensor networks|IEEE|2006|2021
+BSS|broadband switching systems||1997|1997
+BTAS|biometrics theory application systems||2008|2008
+BTAS|biometrics theory applications systems|IEEE|2009|2019
+BTAS|biometrics theory applications sytems||2007|2007
+BTCI|ii scientific practical breakthrough technologies communications industry city|IOP|2020|2020
+BTCI|iii scientific practical breakthrough technologies communications industry city|IOP|2021|2021
+BTCS|building technology computer science big data technology||2020|2020
+BTCS|building technology computer science computer technology||2020|2020
+BTCS|building technology computer science information technology||2020|2020
+BTCS|building technology computer science preface||2020|2020
+BTFM|blockchain technology foundation models|IEEE|2026|2026
+BTIW|behavior transformation iot part|ACM|2024|2024
+BTLA|beam technologies laser applications||2021|2021
+BTMIC|biology trunojoyo madura|EDP|2024|2024
+BTSES|business technology sustainable environmental system|EDP|2020|2020
+BTSYM|brazilian technology emerging trends challenges technology|Springer|2024|2024
+BTSYM|brazilian technology|Springer|2019|2025
+BTW|datenbanksysteme business technologie und web fachtagung des gi fachbereichs datenbanken und informationssysteme||2007|2009
+BTW|datenbanksysteme fur business technologie und web fachtagung des gi fachbereichs datenbanken und informationssysteme||2017|2019
+BTW|datenbanksysteme fur business technologie und web tagungsband der konferenz||2003|2003
+BTW|datenbanksysteme fur business technologie und web workshopband||2017|2019
+BTW|datenbanksysteme fur business technologie und web||2021|2025
+BTW|gi xml4bpm xml business process management held business technologie web||2005|2005
+BUCC|building using comparable corpora co located meeting association computational linguistics joint natural language processing acl||2015|2015
+BUCC|building using comparable corpora comparable corpora web meeting association computational linguistics human language technologies acl||2011|2011
+BUCC|building using comparable corpora from parallel non parallel corpora acl||2009|2009
+BUCC|building using comparable corpora lrec||2024|2024
+BUCC|building using comparable corpora meeting association computational linguistics||2013|2017
+BUDS|infn laboratori nazionali di frascati breaking supersymmetry ultraviolet divergences extended supergravity|Springer|2014|2014
+BUILDSEC|building secure empowered cyberspace|IEEE|2024|2025
+BUILDSYS|embedded sensing systems energy efficiency buildings held conjunction|ACM|2009|2011
+BUILDSYS|embedded sensing systems energy efficiency buildings|ACM|2010|2010
+BUILDSYS|embedded systems energy efficiency buildings|ACM|2012|2012
+BUILDSYS|embedded systems energy efficient buildings|ACM|2013|2014
+BUILDSYS|embedded systems energy efficient built|ACM|2015|2015
+BUILDSYS|systems built environments|ACM|2018|2018
+BUILDSYS|systems energy efficient buildings cities transportation|ACM|2019|2025
+BUILDSYS|systems energy efficient built environments|ACM|2016|2021
+BUILDSYS|the10th systems energy efficient buildings cities transportation|ACM|2023|2023
+BUILT|critical thinking sustainable rehabilitation risk management environment crit re|Springer|2021|2021
+BUILT|knowledge transfer sustainable rehabilitation risk management environment know re|Springer|2024|2024
+BUILT|structural monitoring artistic historical building testimonies smart||2014|2014
+BULEF|electrical engineering faculty energetics efficiency|IEEE|2025|2025
+BULEF|electrical engineering faculty|IEEE|2018|2024
+BULTRANS|scientific aeronautics automotive railway engineering technologies|IOP|2019|2025
+BUSCON|east bus board users show||1986|1986
+BUSITAL|business it alignment interoperability advanced information systems engineering||2007|2007
+BUSITAL|business it alignment interoperability held conjunction||2008|2009
+BUSITAL|proc int business it alignment interoperability conjunction int advanced information systems engineering||2010|2010
+BUSSEC|belarusian ural siberian smart energy|IEEE|2023|2023
+BUSTUC|building surveying technology undergraduate|EDP|2014|2014
+BVAI|advances brain vision artificial intelligence second||2007|2007
+BVAI|brain vision artificial intelligence first||2005|2005
+BVM|bildverarbeitung f r die medizin|Springer|2023|2026
+BVM|german medical image computing|Springer|2024|2024
+BVM|image processing medicine algorithms systems applications bildverarbeitung fur die medizin algorithmen systeme anwendungen des workshops||2005|2012
+BVM|image processing medicine algorithms systems applications bildverarbeitung fur die medizin algorithmen systeme anwendungen||2010|2010
+BVM|workshops bildverarbeitung f r die medizin||2013|2014
+BWCCA|broadband wireless computing communication applications held conjunction p2p parallel grid cloud internet computing 3pgcic|Springer|2021|2023
+BWCCA|broadband wireless computing communication applications|IEEE|2010|2015
+BWCCA|p2p parallel grid cloud internet computing 3pgcic held conjunction broadband wireless computing communication applications|Springer|2021|2023
+BWO|natural arsenic groundwater occurrence remediation management pre congress natural arsenic groundwater geological congress||2005|2005
+BWSS|advances social simulation brazilian social simulation co located joint sbia sbrn||2011|2011
+BWSS|brazilian social simulation advances social simulation ii||2012|2012
+BWTAC|blockchain web technology innovation application exchange|Springer|2026|2026
+BWTAC|blockchain web3 technology innovation application|Springer|2025|2025
+BWWQT|modern probabilistic methods analysis telecommunication networks belarusian winter workshops queueing theory|Springer|2013|2013

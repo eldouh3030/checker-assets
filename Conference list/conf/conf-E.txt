@@ -1,0 +1,2587 @@
+E&PDE|ds e pde engineering product design education||2008|2008
+E2S|electrochemical energy summit poster session||2016|2016
+EAAC|european advanced accelerator concepts|IOP|2025|2025
+EAAMO|equity access algorithms mechanisms optimization|ACM|2021|2025
+EAAMO|equity andaccess algorithms mechanisms optimization|ACM|2022|2022
+EAAP|vsi trpro european association aviation psychology|Elsevier|2025|2025
+EAAS|ifac engineering architectures automation systems|Elsevier|2025|2025
+EAA|forum acusticum convention european acoustics association||2023|2023
+EACEF|euro asia civil engineering forum|IOP|2023|2026
+EACL|acl sigsem prepositions||2006|2006
+EACL|cognitive aspects computational language acquisition||2009|2009
+EACL|computational approaches language change||2026|2026
+EACL|computational approaches semitic languages semitic||2009|2009
+EACL|computational linguistic aspects grammatical inference||2009|2009
+EACL|computer internet supported education language speech technology||1999|1999
+EACL|cross cultural considerations nlp||2023|2023
+EACL|cross language knowledge induction held as part european chapter association computational linguistics||2006|2006
+EACL|demonstrations european chapter association computational linguistics||2012|2014
+EACL|dialogue motion dm held european chapter association computational linguistics||2014|2014
+EACL|ethics natural language processing acl||2017|2017
+EACL|european chapter association computational linguistics adaptive text extraction mining||2006|2006
+EACL|european chapter association computational linguistics findings||2023|2026
+EACL|european chapter association computational linguistics humans computer assisted translation||2014|2014
+EACL|european chapter association computational linguistics knowledge reasoning language processing||2006|2006
+EACL|european chapter association computational linguistics learning structured information natural language applications||2006|2006
+EACL|european chapter association computational linguistics making sense sense bringing psycholinguistics computational linguistics together||2006|2006
+EACL|european chapter association computational linguistics multi word expressions multilingual context||2006|2006
+EACL|european chapter association computational linguistics multilingual question answering||2006|2006
+EACL|european chapter association computational linguistics new text wikis blogs other dynamic text sources||2006|2006
+EACL|european chapter association computational linguistics nlp languages using arabic script||2026|2026
+EACL|european chapter association computational linguistics robust methods analysis natural language data||2006|2006
+EACL|european chapter association computational linguistics software demonstrations||2017|2017
+EACL|european chapter association computational linguistics student research||2014|2026
+EACL|european chapter association computational linguistics system demonstrations||2021|2026
+EACL|european chapter association computational linguistics tutorial abstracts||2021|2024
+EACL|european chapter association computational linguistics vol long papers||2026|2026
+EACL|european chapter association computational linguistics volume industry track||2026|2026
+EACL|european chapter association computational linguistics vol||2026|2026
+EACL|european chapter association computational linguistics web as corpus||2006|2006
+EACL|european chapter association computational linguistics||1983|2024
+EACL|european natural language generation european chapter enlg||2003|2003
+EACL|geometrical models natural language semantics||2009|2009
+EACL|hackashop news media content analysis automated report generation hackashop european chapter association computational linguistics||2021|2021
+EACL|health text mining information analysis louhi european chapter association computational linguistics||2014|2014
+EACL|interaction between linguistics computational linguistics virtuous vicious or vacuous||2009|2009
+EACL|joint sighum computational linguistics cultural heritage social sciences humanities literature latech||2023|2023
+EACL|language technologies african languages||2009|2009
+EACL|language technology resources cultural heritage social sciences humanities education latech shelt r||2009|2009
+EACL|linc linguistically interpreted corpora european chapter||2003|2003
+EACL|semantic representation spoken language||2009|2009
+EACL|slavic natural language processing||2023|2023
+EACL|speech language technologies dravidian languages dravidianlangtech european chapter association computational linguistics||2021|2021
+EACL|statistical machine translation theworkshop||2009|2009
+EACL|student research european chapter association computational linguistics||2012|2012
+EACL|ukrainian natural language processing||2023|2023
+EACWE|european african wind engineering||2005|2017
+EAC|edoardo amaldi|Springer|2023|2023
+EADTC|european advances digital transformation european advances digital transformation|Springer|2020|2020
+EAEC|european automotive congress||2005|2005
+EAEEIE|european association education electrical information engineering|IEEE|2013|2025
+EAEFS|ergonomics asia development opportunities challenges selected papers east asian ergonomics federation||2012|2012
+EAFTA|east asia fisheries technologist association|EDP|2025|2025
+EAGT|east asia game theory|Springer|2019|2019
+EAIA|advanced school artificial intelligence|Springer|1991|1991
+EAIA|emerging m s applications industry academia||2010|2012
+EAIC|electrical artificial intelligence|Springer|2025|2026
+EAIC|electronics ai computing innovating sustainable connected future|IEEE|2025|2025
+EAIM|acis emotional artificial intelligence metaverse|Springer|2023|2023
+EAIS|evolving adaptive intelligent systems series computational intelligence||2013|2013
+EAIS|evolving adaptive intelligent systems|IEEE|2012|2024
+EAIT|emerging applications information technology|Springer|2011|2024
+EAI|gi enterprise application integration||2005|2006
+EAME|electrical automation mechanical engineering||2021|2021
+EAMMIS|european asian middle eastern north african management information systems|Springer|2021|2023
+EAMS|electrical automation motor system|IOP|2025|2025
+EAMTA|argentine school micro nanoelectronics technology applications|IEEE|2009|2015
+EAMTA|argentine uruguay school micro nanoelectronics technology applications||2010|2010
+EAMT|european association machine translation||2005|2024
+EAM|experimental applied mechanics||2014|2014
+EANCS|evaluations assessments neural conversation systems||2021|2021
+EANN|artificial intelligence applications innovations inns sig ifip wg||2011|2011
+EANN|engineering applications neural networks inns sig ifip wg||2011|2011
+EANN|engineering applications neural networks workshops selected papers|ACM|2015|2015
+EANN|engineering applications neural networks|Springer|1996|2025
+EANN|inns sig engineering applications neural networks eann2011 ifip wg artificial intelligence applications innovations|Springer|2011|2011
+EANN|inns sig engineering applications neural networks ifip wg artificial intelligence applications innovations|Springer|2011|2011
+EANN|part engineering applications neural networks||2007|2007
+EAN|experimental stress analysis book extended abstracts||2024|2024
+EAN|experimental stress analysis full papers||2024|2025
+EAN|experimental stress analysis scientific||2018|2020
+EAN|experimental stress analysis||2008|2022
+EAN|scientific experimental stress analysis book full papers||2022|2022
+EAN|scientific experimental stress analysis||2010|2014
+EAPAD|electroactive polymer actuators devices xxiii|SPIE|2021|2021
+EAPAD|electroactive polymer actuators devices xxii|SPIE|2020|2020
+EAPAD|electroactive polymer actuators devices xxiv|SPIE|2022|2022
+EAPAD|electroactive polymer actuators devices xxi|SPIE|2019|2019
+EAPAD|electroactive polymer actuators devices xxvi|SPIE|2024|2024
+EAPAD|electroactive polymer actuators devices xxv|SPIE|2023|2023
+EAPAD|electroactive polymer actuators devices|SPIE|2009|2014
+EAPAD|electroactive polymer actuators sensors devices|SPIE|2025|2026
+EAPAD|smart structures materials electroactive polymer actuators devices||2000|2005
+EAPAD|spie electroactive polymer actuators devices||2007|2008
+EAPAD|spie smart structures materials electroactive polymer actuators devices||2003|2006
+EARCOMP|earable computing|ACM|2019|2019
+EARS|easy approach requirements syntax|IEEE|2018|2018
+EARTHQUAKES|mexico factors involved lessons learned||1986|1986
+EARTHSCIENCE|science technology earth science istc chapter||2022|2022
+EARTHSCIENCE|science technology earth science istc preface||2022|2022
+EARTHSENSE|next gen technologies artificial intelligence geoscience remote sensing|IEEE|2025|2025
+EARTH|east asian resources recycling technology||2015|2020
+EARTH|interdisciplinary digital environments education arts heritage|Springer|2019|2019
+EASCON|electronics aerospace exposition technology shaping future||1983|1983
+EASCON|electronics aerospace how will space terrestrial systems share future||1988|1988
+EASCON|electronics aerospace systems national space strategy progress report||1985|1985
+EASCON|electronics aerospace systems technology space leadership||1987|1987
+EASCON|electronics aerospace technology policy systems||1984|1984
+EASCON|record electronics aerospace systems conventions||1981|1981
+EASCON|record electronics aerospace systems||1982|1982
+EASCT|evolutionary algorithms soft computing techniques|IEEE|2023|2023
+EASC|exascale applications software|Springer|2015|2015
+EASEAI|education through advanced software engineering artificial intelligence co located esec|ACM|2021|2022
+EASEAI|sigsoft education through advanced software engineering artificial intelligence co located esec|ACM|2019|2020
+EASEC|east asia pacific structural engineering construction easec12||2011|2011
+EASEC|east asia pacific structural engineering construction supplement||2006|2006
+EASEC|east asia pacific structural engineering construction volume||2006|2006
+EASEC|east asia pacific structural engineering construction|Springer|2008|2025
+EASEC|east asian pacific structural engineering construction|Springer|2023|2023
+EASES|european academic eaf steelmaking|IOP|2025|2025
+EASET|euro asian economic theory|Springer|2023|2025
+EASE|engineering automatic autonomous systems||2008|2008
+EASE|engineering autonomic autonomous systems||2010|2010
+EASE|evaluation assessment software engineering edition|ACM|2025|2025
+EASE|evaluation assessment software engineering|ACM|2006|2024
+EASE|fourth engineering autonomic autonomous systems||2007|2007
+EASE|third engineering autonomic autonomous systems||2006|2006
+EASE|workshops engineering autonomic autonomous systems||2011|2011
+EASN|innovation aviation space satisfaction european citizens||2021|2021
+EASS|energy autonomous sensor systems||2022|2022
+EASS|european aviation safety seminar safety common culture||2005|2005
+EASS|european aviation safety seminar||2009|2012
+EASTCONF|science technology|IEEE|2019|2019
+EASTMAG|euro asian trends magnetism nanomagnetism||2014|2014
+EASTMAG|euro asian trends magnetism||2011|2011
+EAST|evidential assessment software technologies conjunction||2011|2011
+EAST|evidential assessment software technologies|ACM|2012|2014
+EAS|iasted engineering applied science||2012|2012
+EAS|special session hitchhiker s guide astronomy education public outreach communication held as part||2024|2024
+EATIS|euro american telematics information systems euro american telematics information systems||2007|2007
+EATIS|euro american telematics information systems new opportunities increase digital citizenship||2009|2009
+EATIS|euro american telematics information systems|ACM|2008|2025
+EATI|emerging applications technologies industry|Springer|2021|2021
+EATS|aiaa electric aircraft technologies|IEEE|2018|2021
+EATS|aiaa transportation electrification electric aircraft technologies itec|IEEE|2025|2025
+EBBT|electric electronics computer science biomedical engineerings meeting|IEEE|2016|2018
+EBBT|scientific meeting electrical electronics biomedical engineering computer science|IEEE|2019|2019
+EBCCSP|event based control communication signal processing|IEEE|2015|2022
+EBEB|brazilian meeting bayesian statistics|Springer|2015|2015
+EBECEGC|electrical biomedical engineering clean energy green computing|IEEE|2018|2018
+EBEEC|economies balkan eastern european countries changing world|Springer|2018|2020
+EBEEC|economies balkan eastern european countries|Springer|2021|2025
+EBEEC|global regional local perspectives economies southeastern europe economies balkan eastern european countries|Springer|2023|2023
+EBEE|e business e commerce engineering|ACM|2019|2022
+EBEM|ai evaluation beyond metrics co located joint artificial intelligence ijcai||2022|2022
+EBF|eurasian bim forum advances building information modeling|Springer|2022|2022
+EBF|eurasian bim forum|Springer|2020|2020
+EBGBM|ecological building green building material|EDP|2023|2023
+EBIMCS|e business information management computer science|ACM|2019|2025
+EBISS|e business information system security ebiss2010||2010|2010
+EBISS|e business information system security||2009|2009
+EBLDM|energy big data low carbon development management|EDP|2020|2020
+EBME|environmental biotechnology materials engineering||2013|2013
+EBT|electron beam technologies|IOP|2023|2023
+EBT|evolution biosphere technogenesis||2022|2022
+EBWFF|ecological biological well being flora fauna|EDP|2020|2020
+EBWFF|scientific ecological biological well being flora fauna|EDP|2023|2024
+EBW|biannual electron beam welding related technologies|IOP|2020|2020
+EBW|iv biennial electron beam welding related technologies|IOP|2022|2022
+ECAC|electrics communication automatic control|Springer|2012|2012
+ECAI|aai4h aai4h advances artificial intelligence healthcare co located european artificial intelligence||2020|2020
+ECAI|agent theories architectures languages|Springer|1994|1997
+ECAI|ai4hgi artificial intelligence human game interaction first artificial intelligence human game interaction co located european artificial intelligence||2025|2025
+ECAI|ai4ie ai problems approaches intelligent environments conjunction european artificial intelligence||2012|2012
+ECAI|constraint processing held conjunction european artificial intelligence|Springer|1995|1995
+ECAI|contexts ontologies c o collocated european artificial intelligence||2008|2008
+ECAI|distributed artificial intelligence meets machine learning learning multi agent environments ldais liome selected papers||1997|1997
+ECAI|edu4ai education artificial intelligence co located european artificial intelligence||2025|2025
+ECAI|electronics computers artificial intelligence|IEEE|2013|2025
+ECAI|european artificial intelligence dialogue processing spoken language systems|Springer|1996|1996
+ECAI|european artificial intelligence including prestigious applications artificial intelligence||2020|2020
+ECAI|european artificial intelligence including prestigious applications intelligent systems||2006|2025
+ECAI|european artificial intelligence|Springer|1997|2026
+ECAI|fca4ai what can fca do artificial intelligence co located european artificial intelligence||2020|2020
+ECAI|fca4ai what can fca do artificial intelligence co located joint artificial intelligence ijcai||2022|2022
+ECAI|green aware ai green aware artificial intelligence green aware ai co located european artificial intelligence||2025|2025
+ECAI|haii5 embracing human aware ai industry co located european artificial intelligence||2024|2024
+ECAI|hybrid intelligence natural language processing tasks hi4nlp co located european artificial intelligence ecai2020||2020|2020
+ECAI|iarml ijcai interactions between analogical reasoning machine learning joint artificial intelligence european artificial intelligence||2022|2022
+ECAI|int contexts ontologies theory practice applications c o collocated european artificial intelligence||2006|2006
+ECAI|knowledge management health care procedures k4help revised selected papers||2009|2009
+ECAI|knowledge representation health care kr4hc held conjunction european artificial intelligence|Springer|2011|2011
+ECAI|knowledge representation health care kr4hc revised selected papers||2011|2011
+ECAI|kr4l knowledge representation representation learning co located european artificial intelligence||2020|2020
+ECAI|nlperspectives perspectivist approaches nlp co located european artificial intelligence||2023|2023
+ECAI|rda2 rights duties autonomous agents conjunction european artificial intelligence||2012|2012
+ECAI|sem4nbu ijcai semantic techniques narrative based understanding co located joint artificial intelligence european artificial intelligence ijcai||2022|2022
+ECAI|sixth european artificial intelligence||1984|1984
+ECAI|theoretical foundations knowledge representation reasoning held conjunction european artificial intelligence|Springer|1994|1994
+ECAI|trust ai trust ai european trustworthy ai co located european artificial intelligence||2025|2025
+ECAI|what can fca do artificial intelligence fca4ai||2012|2012
+ECAI|workshops european artificial intelligence|Springer|2024|2024
+ECAL|advances artificial life darwin meets von neumann european revised selected papers||2011|2011
+ECAL|advances artificial life european||2005|2007
+ECAL|european artificial life|Springer|1999|2017
+ECAL|european synthesis simulation living systems advances artificial life||2013|2013
+ECAPD|applications ferroelectrics piezoresponse force microscopy european applications polar dielectrics isaf pfm|IEEE|2022|2022
+ECASE|establishing community wide infrastructure architecture based software engineering|IEEE|2017|2019
+ECASIA|european applications surface interface analisys||2000|2000
+ECASIA|european applications surface interface analysis||1988|1988
+ECASIA|surface interface analysis european applications surface interface analysis||1986|1986
+ECA|ethics computer age|ACM|1994|1994
+ECB9|european congress biotechnolgy||2000|2000
+ECBIOS|eurasia biomedical engineering healthcare sustainability|IEEE|2019|2024
+ECBI|electronic commerce business intelligence||2009|2009
+ECBO|european biomedical optics||2003|2025
+ECBS|egineering computer based systems||2006|2006
+ECBS|engineering computer based systems|IEEE|1996|2024
+ECBS|fifteenth workshops engineering computer based systems||2008|2008
+ECBS|workshops engineering computer based systems raising expectations computer based systems||2007|2007
+ECBS|workshops engineering computer based systems||2005|2013
+ECCAI|edge cloud collaboration ai co located|ACM|2025|2025
+ECCBR|advances case based reasoning european|Springer|2006|2008
+ECCBR|european advances case based reasoning|Springer|2004|2004
+ECCBR|european case based reasoning|Springer|2002|2002
+ECCB|annotation interpretation management mutations||2008|2008
+ECCB|linking literature information knowledge biology biolink special interest group ismb revised selected papers|Springer|2010|2010
+ECCE|advances control chemical engineering civil engineering mechanical engineering european chemical engineering european civil engineering european mechanical engineering european control||2010|2010
+ECCE|building bridges hci visual non formal modeling ifip wg workshops human computer interaction visual hciv hciv revised selected papers|Springer|2014|2014
+ECCE|electrical computer communication engineering|IEEE|2017|2025
+ECCE|energy conversion congress exposition energy conversion innovation clean energy future||2011|2011
+ECCE|energy conversion congress exposition|IEEE|2009|2025
+ECCE|european association cognitive ergonomics|ACM|2025|2025
+ECCE|european cognitive ergonomics cognition wild|ACM|2014|2014
+ECCE|european cognitive ergonomics design cognition|ACM|2019|2019
+ECCE|european cognitive ergonomics designing beyond product understanding activity user experience ubiquitous environments||2009|2009
+ECCE|european cognitive ergonomics designing virtual physical interactive systems|ACM|2021|2021
+ECCE|european cognitive ergonomics ergonomics cool interaction||2008|2008
+ECCE|european cognitive ergonomics european association cognitive ergonomics||2010|2012
+ECCE|european cognitive ergonomics evaluating reality virtuality continuum|ACM|2022|2022
+ECCE|european cognitive ergonomics invent explore||2007|2007
+ECCE|european cognitive ergonomics trust control complex socio technical systems||2006|2006
+ECCE|european cognitive ergonomics work education society||2013|2013
+ECCE|european cognitive ergonomics|ACM|2023|2024
+ECCE|scientific environmental challenges civil engineering|Springer|2021|2025
+ECCMR|constitutive models rubber iv european constitutive models rubber||2005|2005
+ECCMR|constitutive models rubber viii european constitutive models rubbers||2013|2013
+ECCMR|european constitutive models rubbers||2015|2015
+ECCMR|european constitutive models rubber||2008|2025
+ECCM|composites venice european composite materials||2012|2012
+ECCM|european composite materials composites meet sustainability||2022|2022
+ECCM|european composite materials||2014|2020
+ECCM|european computational mechanics solids structures coupled problems european computational fluid dynamics||2020|2020
+ECCM|special issue european composite materials||2008|2008
+ECCOMAS|european congress computational methods applied sciences engineering e book full papers||2012|2012
+ECCOMAS|european congress computational methods applied sciences engineering||2000|2024
+ECCOMAS|world congress computational mechanics congress wccm||2021|2021
+ECCP|engineering cosmetics consumer products||2019|2019
+ECCSC|european circuits systems communications||2008|2008
+ECCSC|papers european circuits systems communications||2010|2010
+ECCST|electronic communication computer science technology|IOP|2023|2025
+ECCS|european communication systems|IEEE|2022|2025
+ECCTD|european circuit theory design program||2009|2009
+ECCTD|european circuit theory design|IEEE|1983|2020
+ECCV|biometric authentication|Springer|2002|2004
+ECCV|computer vision european computer vision|Springer|2006|2012
+ECCV|computer vision european|Springer|2014|2014
+ECCV|computer vision human computer interaction hci|Springer|2006|2006
+ECCV|computer vision workshops demonstrations|Springer|2012|2012
+ECCV|european computer vision computer vision human computer interaction|Springer|2004|2004
+ECCV|european computer vision|Springer|1992|2025
+ECCV|trends topics computer vision workshops revised selected papers||2012|2012
+ECCV|workshops computer vision mathematical methods medical biomedical image analysis cvamia|Springer|2004|2004
+ECCV|workshops held european computer vision|Springer|2020|2023
+ECCV|workshops that were held conjunction european computer vision|Springer|2025|2025
+ECCWS|european cyber warfare security||2019|2024
+ECCWS|european cyberwarfare security||2025|2025
+ECC|decision control european control cdc|IEEE|2011|2011
+ECC|decision control european control||2005|2005
+ECC|euro china intelligent data analysis applications|Springer|2014|2026
+ECC|european computing||2010|2011
+ECC|european control|IEEE|1997|2025
+ECC|japan africa electronics communications computations jac|IEEE|2018|2025
+ECC|japan africa electronics communications computers jac|IEEE|2017|2017
+ECC|japan egypt electronic communication computers jec|IEEE|2016|2016
+ECC|japan egypt electronics communications computers jec||2012|2013
+ECDA|european data analysis|Springer|2015|2024
+ECDC|e commerce developing countries focus e business|IEEE|2015|2015
+ECDC|e commerce developing countries focus e tourism|IEEE|2016|2016
+ECDC|e commerce developing countries focus e trust||2014|2014
+ECDC|intenational e commerce developing countries focus e security||2013|2013
+ECDG|european digital government||2017|2019
+ECDL|european digital libraries|Springer|1997|1998
+ECDL|european research advanced technologies digital libraries|Springer|2002|2002
+ECDL|european research advanced technology digital libraries|Springer|1999|2004
+ECDL|research advanced technology digital libraries european|Springer|2005|2010
+ECDL|title european research advanced technology digital libraries|Springer|2001|2001
+ECDM|conceptual modeling er held conjunction evolution change data management er ifip conceptual modelling approaches mobile information systems development conceptual modeling quality joint conceptual modeling approaches e business web service perspective ecomo|Springer|2003|2003
+ECDM|european data mining intelligent systems agents theory practice modern computing part multi computer science information systems||2015|2015
+ECDM|iadis european data mining part iadis multi computer science information systems||2009|2009
+ECDP|european congress digital pathology|Springer|2019|2019
+ECECS|electrical control engineering computer science||2016|2016
+ECEC|european concurrent engineering future business technology||2006|2015
+ECEC|european concurrent engineering||2005|2005
+ECEC|key engineering materials||2008|2008
+ECEEE|summer study energy efficiency agents change||2022|2022
+ECEEE|summer study energy efficiency is efficient sufficient||2019|2019
+ECEEE|summer study energy efficiency new reality||2021|2021
+ECEEE|summer study energy efficiency sustainable safe secure through demand reduction||2024|2024
+ECEE|electrochemical energy environment|IOP|2014|2014
+ECEG|european e government||2013|2016
+ECEG|european egovernment||2005|2012
+ECEH|european ehealth||2006|2007
+ECEI|eurasian educational innovation educational innovations emerging technologies|IEEE|2023|2024
+ECEI|eurasian educational innovation|IEEE|2022|2022
+ECEL|european e learning volume||2011|2011
+ECEL|european e learning||2005|2025
+ECEL|european elearning||2009|2010
+ECEMS|energy climate environment modeling simulation autumn simulation multiconference||2012|2012
+ECEOC|european exhibition optical communication||2012|2012
+ECET|second electronic circuit electronic technology|SPIE|2025|2025
+ECE|electronic computer engineering|IEEE|2023|2025
+ECE|wie electrical computer engineering wiecon|IEEE|2015|2019
+ECE|wiecon wie electrical computer engineering|IEEE|2016|2017
+ECE|women engineering electrical computer engineering wiecon|IEEE|2020|2024
+ECE|women engineering wie electrical computer engineering wiecon|IEEE|2025|2025
+ECE|women institute technology electrical computer engineering witcon|IEEE|2019|2019
+ECE|young engineers forum electrical computer engineering yef|IEEE|2021|2025
+ECE|young engineers forum yef|IEEE|2017|2020
+ECF|european fracture fracture mechanics durability reliability safety||2012|2012
+ECF|european fracture|Elsevier|2022|2025
+ECF|residual stress its effects fatigue fracture special held within european fracture||2006|2006
+ECGBL|european game based learning||2018|2021
+ECGBL|european games based learning||2007|2025
+ECGBL|game based learning||2019|2020
+ECG|electronics goes green joint exhibition||2012|2012
+ECHIC|entrance channel effect reaction mechanism heavy ion collisions|IOP|2014|2014
+ECHT|european hypermedia technology|ACM|1994|1994
+ECIAIR|european impact artificial intelligence robotics||2019|2022
+ECICE|emerging computation information technologies education emerging computation information technologies education||2012|2012
+ECICE|eurasia iot communication engineering|IEEE|2019|2023
+ECIE|electronics circuits information engineering|IEEE|2021|2025
+ECIE|european innovation entrepreneurship||2019|2025
+ECIL|european information literacy workplace|Springer|2018|2018
+ECIL|european information literacy|Springer|2013|2026
+ECIME|european information management evaluation||2007|2014
+ECIO|eindhoven european integrated optics technical exhibition contributed invited papers||2008|2008
+ECIO|eindhoven european integrated optics technical exhibition post deadline papers||2008|2008
+ECIO|european integrated optics|SPIE|1989|2024
+ECIO|integrated optics third european|Springer|1985|1985
+ECIR|advances information retrieval european ir research|Springer|2005|2014
+ECIR|bcs irsg european colloquium information retrieval research|Springer|2002|2002
+ECIR|bir ir4u2 bibliometric enhanced information retrieval information retrieval understudied users co located european information retrieval||2025|2025
+ECIR|european information retrieval research|Springer|2003|2021
+ECIR|european information retrieval|Springer|2004|2026
+ECIR|european ir research|Springer|2020|2020
+ECIR|modeling learning mining cross multilinguality multilingmine co located european information retrieval||2016|2016
+ECIR|qpp qpp query performance prediction its evaluation new tasks co located european information retrieval||2023|2023
+ECIR|s4f searching fun collocated european information retrieval ecir2012||2012|2012
+ECIR|text2story narrative extraction from texts co located european information retrieval||2020|2020
+ECIR|text2story text2story narrative extraction from texts held conjunction european information retrieval||2021|2025
+ECIR|text2story text2story ninth narrative extraction from texts held conjunction european information retrieval||2026|2026
+ECISM|european information systems management||2017|2017
+ECIS|electronics communications intelligent science|IEEE|2024|2025
+ECIS|european colloid interface society||1993|2009
+ECIS|european information systems beyond digitization facets socio technical change||2018|2018
+ECIS|european information systems information systems rapidly changing economy||2005|2005
+ECIS|european information systems information systems sharing society||2020|2020
+ECIS|european information systems||2006|2017
+ECITECH|electrical control information technology|IOP|2022|2025
+ECIT|e commerce internet technology|IEEE|2020|2021
+ECIW|european information warfare security||2005|2013
+ECI|aerodynamics heavy vehicles iii trucks buses trains held engineering|Springer|2016|2016
+ECI|european cooperation informatics|Springer|1976|1976
+ECKM|european knowledge management volume||2014|2017
+ECKM|european knowledge management||2005|2025
+ECLAP|information technologies performing arts media access entertainment second revised selected papers||2013|2013
+ECLA|european laboratory astrophysics|Springer|2023|2023
+ECLC|european liquid crystals part i ii hersonissos crete greece april||2001|2001
+ECLC|european liquid crystals part ii ii hersonissos crete greece april||2001|2001
+ECLIM|european laser interaction mater||1991|1991
+ECLIM|european laser interaction matter||1992|2001
+ECLIM|spie european laser interaction matter||2003|2003
+ECLOUD|icfa advanced beam dynamics electron cloud physics||2013|2013
+ECMAST|european multimedia applications services techniques|Springer|1998|1999
+ECMFAG|elliptic curves modular forms arithmetic geometry celebrating massimo bertolini s birthday|Springer|2026|2026
+ECMFA|behavioural modelling foundations applications bm fa2011 collaboration european modelling foundations applications||2011|2011
+ECMFA|european modelling foundations applications held as part software technologies applications foundations|Springer|2015|2016
+ECMFA|european modelling foundations applications held as part|Springer|2017|2018
+ECMFA|european modelling foundations applications|Springer|2011|2011
+ECMFA|modelling foundations applications european held as part|Springer|2014|2014
+ECMFA|modelling foundations applications european||2010|2013
+ECMLG|european management leadership governance||2018|2025
+ECMLS|emerging computational methods life sciences||2011|2012
+ECML|european machine learning european principles practice knowledge discovery databases approaches applications inductive programming|Springer|2007|2007
+ECML|european machine learning|Springer|1993|2016
+ECML|machine learning european machine learning proceedings1|Springer|2006|2006
+ECML|machine learning european machine learning|Springer|2003|2007
+ECMOR|european mathematics geological reservoirs||2022|2024
+ECMOR|european mathematics oil recovery||2006|2020
+ECMR|european mobile robots|IEEE|2013|2025
+ECMSM|electronics control measurement signals their application mechatronics|IEEE|2015|2021
+ECMSM|informal electronics control measurement signals their application mechatronics||2013|2013
+ECMS|electronics control measurement signals||2011|2011
+ECMS|energy chemical materials science|IOP|2020|2020
+ECMS|european modelling simulation modelling methodologies simulation key technologies academia industry||2006|2006
+ECMS|european modelling simulation simulations united europe||2007|2007
+ECMS|european modelling simulation||2008|2017
+ECMS|modelling simulation||2021|2026
+ECMS|simulation wider europe european modelling simulation||2005|2005
+ECM|european congress mathematics|Springer|2026|2026
+ECNCT|electronics communication network computer technology|IEEE|2021|2025
+ECNCT|third electronics communication network computer technology|SPIE|2022|2022
+ECNLPIR|european natural language processing information retrieval|IEEE|2022|2022
+ECNLP|e commerce nlp lrec||2024|2024
+ECNLP|e commerce nlp||2020|2022
+ECNS|european neutron scattering|Elsevier|2000|2012
+ECOCOMFORT|scientific current issues civil engineering|Springer|2021|2024
+ECOCONGRESS|congress environment protection energy saving sustainable environmental management||2025|2025
+ECOC|european exhibition optical communication final program||2011|2011
+ECOC|european exhibition optical communications||2012|2012
+ECOC|european exhibition optical communication|IEEE|2007|2013
+ECOC|european optical communication amsterdam||1990|1990
+ECOC|european optical communication part||1994|1994
+ECOC|european optical communications|IEEE|2006|2025
+ECOC|european optical communication|IEEE|1990|2022
+ECOC|integrated optics optical fibre communications european optical communications iooc part||1997|1997
+ECOC|iooc integrated optics optical fibre communication european optical communication||1985|1985
+ECOC|optical communication tenth european||1984|1984
+ECOC|optics optical fibre communications european optical communications iooc part||1997|1997
+ECODESIGN|environmentally conscious design inverse manufacturing|IEEE|1999|1999
+ECODESIGN|fourth environmentally conscious design inverse manufacturing||2005|2005
+ECOL|evaluation collaborative information retrieval seeking co located|ACM|2015|2015
+ECOM|ecommerce co located research development information retrieval||2024|2024
+ECONF|e learning best practices management design development e courses standards excellence creativity||2013|2013
+ECONF|e learning|IEEE|2015|2015
+ECONLP|economics natural language processing||2021|2021
+ECONLP|joint financial technology natural language processing knowledge discovery from unstructured data financial services economics natural language processing finnlp kdf lrec||2024|2024
+ECONVN|econometric vietnam|Springer|2022|2022
+ECON|industrial electronics control instrumentation||1988|1988
+ECOOL|electron cooling related topics medium energy electron cooling|Elsevier|2000|2000
+ECOOP|combined object oriented modelling programming languages||2013|2013
+ECOOP|companion issta workshops|ACM|2018|2018
+ECOOP|distributed objects century do21 co located european object oriented programming||2009|2009
+ECOOP|european object oriented programming advances functional size measurement effort estimation||2010|2010
+ECOOP|european object oriented programming context oriented programming||2010|2010
+ECOOP|european object oriented programming formal techniques java like programs||2010|2010
+ECOOP|european object oriented programming held conjunction workshops posters|Springer|2002|2002
+ECOOP|european object oriented programming object oriented programming systems languages applications oopsla|ACM|1990|1990
+ECOOP|european object oriented programming|Springer|1987|2025
+ECOOP|european objectoriented programming||2018|2018
+ECOOP|formal techniques java like programs||2011|2011
+ECOOP|formalization modeling languages||2010|2010
+ECOOP|implementation compilation optimization object oriented languages programs systems||2010|2010
+ECOOP|mechanisms specialization generalization inheritance||2010|2010
+ECOOP|models languages coordination parallelism distribution|Springer|1995|1995
+ECOOP|object based concurrent computing|Springer|1992|1992
+ECOOP|object based concurrent programming oopsla|ACM|1990|1990
+ECOOP|object based distributed programming|Springer|1994|1994
+ECOOP|object oriented programming european|Springer|2001|2014
+ECOOP|object oriented technology reader final reports||2008|2008
+ECOOP|object oriented technology reader workshops final reports||2009|2009
+ECOOP|object oriented technology reader workshops||2004|2007
+ECOOP|objects databases held conjunction european object oriented programming|Springer|2001|2001
+ECOOP|reflection aop meta data software evolution ram se|ACM|2010|2010
+ECOOP|scala sigplan scala part|ACM|2019|2019
+ECOOP|scm system configuration management|Springer|1998|1998
+ECOOP|workshops object oriented technology|Springer|1998|1998
+ECOOP|workshops reader held european object oriented programming|Springer|2004|2004
+ECOOSA|european optics quantum optics||1990|1990
+ECOSS|european surface science|Elsevier|1991|1992
+ECOSUD|ecosystems sustainable development||2009|2009
+ECOSYST|ecosystems without borders opportunities challenges|Springer|2024|2024
+ECOSYST|scientific practical ecosystems without borders|Springer|2025|2025
+ECOS|biomass coal oil gasification acoustics combustion||2000|2000
+ECOS|efficency cost optimization simulation environmental impact energy systems||2021|2021
+ECOS|efficiency cost optimisation simulation environmental impact energy systems||2016|2016
+ECOS|efficiency cost optimization simulation energy conversion systems processes||2010|2012
+ECOS|efficiency cost optimization simulation environmental impact energy systems||2005|2025
+ECOS|from thermo economics sustainability||2000|2000
+ECOS|source title eurotherm seminar process integration||2000|2000
+ECOWS|european web services|Springer|2004|2011
+ECOWS|fourth european web services||2006|2006
+ECOWS|monitoring adaptation beyond mona collocated||2010|2010
+ECOWS|third european web services ecows2005||2005|2005
+ECPA|precision agriculture papers presented european precision agriculture||2007|2019
+ECPA|precision agriculture||2005|2005
+ECPDC|academic edge computing parallel distributed computing|ACM|2024|2024
+ECPDC|edge computing parallel distributed computing|ACM|2025|2025
+ECPLF|precision livestock farming papers presented european precision livestock farming||2011|2022
+ECPPM|european product process modelling ework ebusiness architecture engineering construction||2006|2006
+ECPPM|european product process modelling||2016|2023
+ECPPM|ework ebusiness architecture engineering construction european product process modelling||2012|2015
+ECP|european planning|Springer|2000|2000
+ECP|recent advances ai planning european planning|Springer|1997|1997
+ECP|school electrochemistry conductive polymers|Elsevier|1991|1991
+ECRM|european research methodology business management studies||2020|2025
+ECRS|european cosmic ray||2023|2023
+ECRS|european residual stresses||2006|2014
+ECRTS|euromicro real time systems||1991|2025
+ECRYS|electronic crystals||1993|2005
+ECSAW|european software architecture workshops|ACM|2016|2016
+ECSA|european software architecture companion volume traceability dependencies software architecture software architecture variability||2011|2011
+ECSA|european software architecture companion|ACM|2019|2019
+ECSA|european software architecture doctoral industrial track workshops companion volume||2010|2010
+ECSA|european software architecture|Springer|2015|2026
+ECSA|european software engineering|Springer|2019|2019
+ECSA|joint working ifip software architecture european software architecture wicsa||2009|2009
+ECSA|joint working software architecture european software architecture wicsa||2012|2012
+ECSA|software architecture european|Springer|2010|2014
+ECSA|software architecture first european||2007|2007
+ECSA|software architecture second european||2008|2008
+ECSA|tracks workshops which complemented european software architecture|Springer|2026|2026
+ECSA|workshops tool demos track european software architecture|ACM|2014|2014
+ECSCRM|european silicon carbide related materials||2007|2022
+ECSCRM|silicon carbide related materials||2009|2009
+ECSCW|european computer supported cooperative work doctorial colloquium||2017|2017
+ECSCW|european computer supported cooperative work exploratory papers||2018|2018
+ECSCW|european computer supported cooperative work panels demos posters||2017|2018
+ECSCW|european computer supported cooperative work|Springer|2005|2019
+ECSEE|european software engineering education|ACM|2023|2025
+ECSF|scientific practical engineering construction infrastructure solutions innovative medicine facilities|Springer|2023|2023
+ECSMGE|european soil mechanics geotechnical engineering||2019|2019
+ECSMGE|geotechnical engineering infrastructure development xvi european soil mechanics geotechnical engineering||2015|2015
+ECSM|european social media||2017|2025
+ECSQARU|european symbolic quantitative approaches reasoning uncertainty|Springer|1993|2026
+ECSQARU|symbolic quantitative approaches reasoning uncertainty european aalborg denmark july||2003|2003
+ECSQARU|symbolic quantitative approaches reasoning uncertainty european||2005|2013
+ECSQAU|european symbolic quantitative approaches uncertainty|Springer|1991|1991
+ECSQ|european software quality|Springer|2002|2002
+ECST|european speech technology||1987|1987
+ECS|advances communications computers systems circuits devices european systems european circuits technology devices european communications european computer science||2010|2010
+ECS|second ifip tc entertainment computing|Springer|2010|2010
+ECTA|evolutionary computation theory applications fuzzy computation theory applications||2011|2011
+ECTA|evolutionary computation theory applications||2011|2014
+ECTA|joint computational intelligence||2012|2013
+ECTC|electronic components technology|IEEE|2007|2026
+ECTELDC|doctoral consortium european technology enhanced learning co located european technology enhanced learning||2025|2025
+ECTEL|dc doctoral consortium european technology enhanced learning co located ec||2010|2010
+ECTEL|ec tel practitioner european technology enhanced learning||2019|2019
+ECTEL|european technology enhanced learning|Springer|2023|2026
+ECTEL|la4sle la4sle learning analytics smart learning environments co located european technology enhanced learning||2021|2021
+ECTEL|research european technology enhanced learning sustaining tel||2010|2010
+ECTM|ecuador technical chapters meeting|IEEE|2023|2023
+ECT|electrical control technologies||2006|2014
+ECT|electronics communication technologies|IEEE|2023|2023
+ECT|engineering computational technology||2012|2012
+ECUA|european underwater acoustics||2012|2012
+ECUA|meetings acoustics european underwater acoustics||2012|2012
+ECUMICT|european use modern information communication technologies|Springer|2014|2014
+ECUMN|european universal multiservice networks|IEEE|2000|2004
+ECUMN|fourth european universal multiservice networks||2007|2007
+ECWAC|advanced research electronic commerce web application communication||2011|2011
+ECWC|electronic circuits world convention connecting world||2019|2019
+ECWC|ipc electronic circuits world convention printed circuits expo apex designers summit perfect fit||2005|2005
+ECWIDNA|engaging critical workforce co design assessment|IEEE|2025|2025
+ECWT|european wireless technology ecwt2004||2004|2004
+ECWT|european wireless technology||2007|2007
+EDAC|european design automation|IEEE|1990|1990
+EDAI|economic data analytics artificial intelligence|ACM|2025|2026
+EDALC|frohlich s electrodynamic activity living cells including microtubule coherent modes cancer cell physics||2011|2011
+EDAPS|electrical design advanced packaging systems|IEEE|2008|2025
+EDASS|economic development social sustainability|Springer|2026|2026
+EDA|european electronic design automation||1984|1984
+EDBT|advances database technology extending database technology|ACM|1996|2025
+EDBT|current trends database technology workshops phd datax iidb iiha icsnw qlqp pim parma reactivity web revised selected papers|Springer|2006|2006
+EDBT|extending database technology advances database technology||2009|2009
+EDBT|extending database technology held workshops xmldm mdde yrws|Springer|2002|2002
+EDBT|extending database technology|Springer|1988|2025
+EDBT|post ph d||2008|2008
+EDBT|software engineering tailor made data management||2008|2008
+EDBT|xml based data management multimedia engineering workshops xmldm mdde yrws revised papers||2002|2002
+EDB|emerging databases technologies applications theory|Springer|2018|2018
+EDCAV|electronic design computer networks automated verification|IEEE|2015|2015
+EDCC|dependable computing european dependable computing||2005|2005
+EDCC|european dependable computing held jointly worskhop dynamic risk management autonomous systems dependable solutions intelligent electricity distribution grids software engineering resilient systems|Springer|2021|2021
+EDCC|european dependable computing|IEEE|1996|2025
+EDCC|p2p dependability p2p dep conjunction european dependable computing||2012|2012
+EDCC|sixth european dependable computing||2006|2006
+EDCC|third european dependable computing||1999|1999
+EDCIS|engineering deployment cooperative information systems|Springer|2002|2002
+EDCOMPCON|computers as knowledge delivery systems changing face education||1984|1984
+EDCS|electronic devices control systems|IOP|2021|2022
+EDCS|guangdong hong kong macao greater bay area education digitalization computer science|ACM|2024|2025
+EDCS|scientific electronic devices control systems|IOP|2020|2020
+EDCT|emerging trends electronic devices computational techniques|IEEE|2018|2025
+EDC|characterization emissions dioxins furans from ethylene dichloride vinyl chloride polyvinylchloride facilities united states||1997|1997
+EDEB|energy development environment biomedicine||2009|2009
+EDEB|latest trends energy development environment biomedicine energy development environment biomedicine||2010|2010
+EDEMET|environmental degradation engineering materials materials engineering technologies edemet2011||2012|2012
+EDEMET|environmental degradation engineering materials materials engineering technologies||2012|2012
+EDEM|advancing democracy government governance joint electronic government information systems perspective electronic democracy egovis||2012|2012
+EDEM|technology enabled innovation democracy government governance joint electronic government information systems perspective electronic democracy egovis||2013|2013
+EDEN|european distance e learning network|Springer|2022|2022
+EDEP|energy development environmental protection|EDP|2021|2021
+EDERC|european dsp education research||2010|2012
+EDERC|european embedded design education research|IEEE|2014|2014
+EDEWC|enterprise design engineering working|Springer|2024|2024
+EDFGC|eco dyeing finishing green chemistry||2012|2012
+EDF|european data forum||2012|2012
+EDF|see service experience technological development prospects electricite de france mv distribution cable journees d etudes see experience en service et perspectives d evolution du cable de reseau moyenne tension d electricite de france||1984|1984
+EDGECOM|cyber security cloud computing edge computing scalable cloud cscloud|IEEE|2018|2023
+EDGECOM|edge computing scalable cloud|IEEE|2024|2025
+EDGEFM|edge mobile foundation models|ACM|2024|2025
+EDGESYS|edge systems analytics networking part|ACM|2018|2025
+EDGEWAYS|edge adoption migration engineering service oriented applications cloud services phd eu projects track which took place european service oriented cloud computing|Springer|2021|2021
+EDGE|computing communications|IEEE|2022|2025
+EDGE|computing held as part services federation|Springer|2018|2026
+EDGE|computing part world congress services|IEEE|2018|2019
+EDGE|congress computing held as part services federation|Springer|2025|2025
+EDHPC|european data handling data processing space|IEEE|2023|2025
+EDIF|colloquium electronic design interchange format||1986|1986
+EDIPROD|design methods practice seminar engineering design integrated product development||2006|2006
+EDIS|embedded distributed systems|IEEE|2017|2024
+EDITS|phd colloquium emerging domain innovation technology society phd|IEEE|2022|2025
+EDITS|phd colloquium ethically driven innovation technology society phd|IEEE|2019|2021
+EDI|ambient systems networks technologies networks ant emerging data industry edi40|Elsevier|2026|2026
+EDI|engineering deans institute engineering transcending boundaries||2012|2012
+EDI|engineering deans institute||2013|2017
+EDI|lt language technology equality diversity inclusion||2024|2024
+EDKCON|electron device kolkata|IEEE|2018|2018
+EDKCON|electron devices society kolkata chapter|IEEE|2022|2024
+EDMCC|european distributed memory computing|Springer|1991|1991
+EDML|evaluation experimental design data mining machine learning co located siam data mining||2019|2019
+EDMONTON|numerical methods geomechanics fourth volume||1982|1982
+EDMONTON|numerical methods geomechanics volumes||1982|1982
+EDMO|electron devices microwave optoelectronic applications||2004|2004
+EDMO|high performance electron devices microwave optoelectronics applications||1995|1995
+EDMSET|environmental design material science engineering technologies|Springer|2025|2026
+EDMS|electron devices materials|IEEE|1994|1994
+EDM|educational data mining educational data mining||2009|2009
+EDM|educational data mining||2011|2025
+EDM|hexed l3mnget joint human centric explainable ai education leveraging large language models next generation educational technologies workshops co located educational data mining||2024|2024
+EDM|seminar micro nanotechnologies electron devices||2009|2011
+EDM|seminar young specialists micro nanotechnologies electron devices||2012|2012
+EDM|siberian electron devices materials||2004|2004
+EDM|siberian russian student workshops electron devices materials|IEEE|2000|2000
+EDM|siberian tutorials electron devices materials||2005|2005
+EDM|tutorials electron devices materials||2007|2007
+EDM|workshops joint workshops educational data mining co located educational data mining||2020|2020
+EDM|ws joint workshops educational data mining co located educational data mining||2021|2021
+EDM|young professionals electron devices materials||2021|2025
+EDM|young specialists micro nanotechnologies electron devices||2013|2019
+EDOCW|edoc enterprise distributed object computing||2007|2007
+EDOCW|edoc workshops||2011|2011
+EDOCW|enterprise distributed object computing workshops demonstrations|IEEE|2015|2015
+EDOCW|enterprise distributed object computing workshops edocw2006||2006|2006
+EDOCW|enterprise distributed object computing workshops|IEEE|2008|2021
+EDOCW|enterprise distributed object computing|IEEE|2019|2020
+EDOC|eighth enterprise distributed object computing||2004|2004
+EDOC|empirical methodologies research enterprise architecture service oriented computing iresearch modelling implementation digital twins complex systems midas4cs doctoral consortium joint cbi forum other joint cbi events held conjunction enterprise design operations computing|Springer|2025|2025
+EDOC|enterprise design operations computing|Springer|2022|2026
+EDOC|enterprise distributed object computing workshops edocw workshops short papers||2009|2009
+EDOC|enterprise distributed object computing|IEEE|2006|2021
+EDOC|several workshops forum demonstrations doctoral consortium track which were held conjunction enterprise design operations computing|Springer|2024|2024
+EDOC|workshops idams soea4ee tear forum demonstration doctoral consortium track held enterprise design operations computing|Springer|2023|2023
+EDO|engineering distributed objects|Springer|2001|2001
+EDPC|electric drives production|IEEE|2012|2024
+EDPEE|electrical drives power electronics engineering|IEEE|2024|2025
+EDPE|electrical drives power electronics joint croatia slovakia|IEEE|2025|2025
+EDPE|electrical drives power electronics joint slovakian croatian||2019|2019
+EDPE|electrical drives power electronics|IEEE|2015|2023
+EDPE|power electronics electrical drives||2021|2021
+EDRIVE|electrified drive||2020|2020
+EDRIVE|vdi congress electrified drive||2018|2018
+EDSER|economics driven software engineering research software engineering|ACM|2005|2005
+EDSMLS|engineering dependable secure machine learning systems|Springer|2020|2020
+EDSSC|electron devices solid state circuits|IEEE|2003|2025
+EDSSC|electron devices solid state circuit||2012|2012
+EDSS|european design science|Springer|2013|2014
+EDSS|practical aspects design science european design science revised selected papers||2012|2012
+EDST|electron devices semiconductor technology||2007|2007
+EDST|smart electric distribution systems technologies|IEEE|2015|2015
+EDSU|world summit exploring dark side universe||2018|2018
+EDS|elastic diffractive scattering forward physics qcd||2007|2007
+EDS|elastic diffractive scattering frontiers qcd from puzzles discoveries||2011|2011
+EDS|elastic diffractive scattering towards high energy frontiers||2005|2005
+EDS|elastic diffractive scattering||2010|2010
+EDS|extended defects semiconductors|IOP|2009|2011
+EDS|papers presented extended defects semiconductors||2007|2007
+EDTC|european design test|ACM|1995|1997
+EDTM|electron devices technology manufacturing emerging semiconductor devices manufacturing technologies|IEEE|2026|2026
+EDTM|electron devices technology manufacturing shaping future innovations devices manufacturing|IEEE|2025|2025
+EDTM|electron devices technology manufacturing strengthen global semiconductor research collaboration after covid pandemic|IEEE|2023|2023
+EDTM|electron devices technology manufacturing strengthening globalization semiconductors|IEEE|2024|2024
+EDTM|electron devices technology manufacturing|IEEE|2017|2022
+EDT|e health networking digital ecosystems technologies||2010|2010
+EDT|ifac engineering diabetes technologies|Elsevier|2025|2025
+EDT|ipt immersive projection technologies emerging display technologies||2008|2008
+EDUARCHSIA|environmental design urbanism architecture asia|IOP|2023|2023
+EDUCATION|engineering whither engineering preprints papers||1982|1982
+EDUCATION|latest trends engineering wseas engineering educational technologies||2010|2010
+EDUCATION|recent researches educational technologies wseas engineering educational technologies world||2011|2011
+EDUCATION|technology enhanced learning quality teaching educational reform first tech||2010|2010
+EDUCHI|hci education|ACM|2023|2026
+EDUCON|education engineering||2010|2010
+EDUCON|global engineering education engineering education towards openness sustainability||2014|2014
+EDUCON|global engineering education||2011|2025
+EDUHPC|education high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2014|2022
+EDUNINE|engineering education world education age generative ai embracing digital transformation|IEEE|2025|2025
+EDUNINE|world engineering education challenges education engineering computing technology without exclusions innovation era industrial revolution|IEEE|2020|2020
+EDUNINE|world engineering education empowering engineering education breaking barriers through research innovation|IEEE|2024|2024
+EDUNINE|world engineering education engineering education balancing generalist specialist formation technological carriers current challenge|IEEE|2017|2017
+EDUNINE|world engineering education future engineering education current challenges opportunities|IEEE|2021|2021
+EDUNINE|world engineering education modern educational paradigms computer engineering career|IEEE|2019|2019
+EDUNINE|world engineering education reimaging engineering toward next generation engineering education merging technologies connected world|IEEE|2023|2023
+EDUNINE|world engineering education rethinking engineering education after path new normal|IEEE|2022|2022
+EDUNINE|world engineering education role engineering computer technology as artificial intelligence turns into reality challenge professional education|IEEE|2026|2026
+EDUNINE|world engineering education role professional associations contemporaneous engineer careers|IEEE|2018|2018
+EDUREX|software engineering education based real world experiences||2012|2012
+EDUROBOTICS|educational robotics maker era|Springer|2021|2021
+EDUROBOTICS|educational robotics makers era|Springer|2020|2020
+EDUROBOTICS|educational robotics|Springer|2017|2017
+EDUROBOTX|eatel exploring educational robots robotics learning development co located european technology enhanced learning||2025|2025
+EDUTECH|ifip tc10 wg10|Springer|2004|2004
+EDUTECH|ifip tc10 working|Springer|2005|2005
+EDUTE|recent researches educational technologies wseas iasme educational technologies||2011|2011
+EDUVIS|vis visualization education literacy activities|IEEE|2023|2025
+EDU|eai application big data blockchain internet things education informatization bigiot|Springer|2021|2026
+EDU|selected topics education educational technology wseas education educational technology||2010|2010
+EDU|technology innovation learning teaching education tech|Springer|2019|2025
+EDU|wseas education educational technology||2009|2009
+EDWAP|computer science engineering effects digital world after pandemic ic2se|IEEE|2021|2021
+EEACS|seminar electrical engineering automation control systems theory practical applications|IEEE|2023|2023
+EEAIS|electrical engineering automation information science|IEEE|2025|2025
+EEAPHS|environmental engineering agricultural pollution hydraulical studies|EDP|2021|2021
+EEA|iii scientific practical technologies materials science engineering|IOP|2024|2024
+EEA|scientific practical energy ecology technology agriculture|IOP|2022|2024
+EEBDA|electrical engineering big data algorithms|IEEE|2022|2024
+EECCIS|electrical power electronics communications control informatics seminar|IEEE|2022|2022
+EECCIS|electrical power electronics communications controls informatics seminar|IEEE|2018|2024
+EECCIS|electrical power electronics communicatons control informatics seminar conjuction joint ub uthm|IEEE|2014|2014
+EECEA|electrical electronics computer engineering their applications|IEEE|2016|2016
+EECE|scientific energy environmental construction engineering|EDP|2019|2021
+EECM|advances electronic engineering communication management vol electronic engineering communication management||2012|2012
+EECON|electrical engineering|IEEE|2016|2024
+EECR|electrical engineering control robotics|IEEE|2019|2026
+EECSI|electrical engineering computer science informatics|IEEE|2016|2025
+EECSS|world congress electrical engineering computer systems sciences||2023|2024
+EECSS|world congress electrical engineering computer systems science||2021|2025
+EECS|european electrical engineering computer science|IEEE|2017|2019
+EECS|second electronics electrical control system|SPIE|2025|2025
+EECT|advances electrical electronics computing technology|IEEE|2025|2026
+EECT|electrical electronics computing technology|IOP|2021|2023
+EEC|spe ukooa european environment april aberdeen united kingdom||1997|1997
+EEC|spe ukooa european environmental||1997|1997
+EEDSCC|energy environment devices systems communications computers||2011|2011
+EEEAC|electronic electrical engineering automatic control|IEEE|2025|2025
+EEEE|e learning e business enterprise information systems e government||2009|2009
+EEEIC|environment electrical engineering|IEEE|2010|2016
+EEEP|energy engineering environmental protection|IOP|2025|2026
+EEESD|selected topics energy environment sustainable development landscaping wseas energy environment ecosystems sustainable development wseas landscape architecture la||2010|2010
+EEESTS|energy efficiency energy saving technical systems|EDP|2019|2021
+EEESYM|electrical electronics engineering||2012|2012
+EEETE|energy environment technologies equipment||2010|2010
+EEET|electronics electrical engineering technology biomedical engineering bioinformatics|ACM|2019|2019
+EEET|electronics electrical engineering technology|IEEE|2020|2024
+EEET|environmental engineering education training||1996|1996
+EEEU|entrepreneurship economy era uncertainty|Springer|2024|2026
+EEEU|global entrepreneurship economy era uncertainty|Springer|2025|2025
+EEE|e commerce e business e service e commerce e business e service||2014|2014
+EEE|e commerce technology enterprise computing e commerce e services||2007|2007
+EEE|e learning e business enterprise information systems e government||2008|2008
+EEE|e technology e commerce e service||2004|2005
+EEE|energy electrical engineering|IEEE|2024|2025
+EEGBM|energy environment green building materials||2015|2015
+EEGD|energy environment green development|EDP|2023|2023
+EEHPDC|energy efficient high performance parallel distributed computing||2013|2013
+EEICAI|electrical engineering intelligent control artificial intelligence|IEEE|2026|2026
+EEICE|electrical electronic information communication engineering|IEEE|2021|2025
+EEICT|student electrical engineering information science communication technologies||2021|2025
+EEIC|communication systems information technology selected papers from electric electronics||2011|2011
+EEIC|electric electronics|Springer|2011|2011
+EEIC|electrical engineering control selected papers from electric electronics||2011|2011
+EEIC|electrical engineering intelligent control||2024|2024
+EEIC|electrical insulation electrical manufacturing coil winding|IEEE|1999|1999
+EEIC|electrical insulation electrical manufacturing expo||2007|2007
+EEIC|electrical power systems computers selected papers from electric electronics||2011|2011
+EEIC|electronics signal processing selected papers from electric electronics||2011|2011
+EEIE|electrical electronics information engineering|IOP|2022|2022
+EEIE|fourth electrical electronics information engineering|SPIE|2026|2026
+EEIE|second electrical electronics information engineering|SPIE|2024|2024
+EEIE|third electrical electronics information engineering|SPIE|2025|2025
+EEISS|electronic engineering information systems|IEEE|2024|2025
+EEIS|convention electrical electronics engineers israel|IEEE|1991|1991
+EEIS|electrical electronics engineers israel|IEEE|1989|1989
+EEITE|electronic engineering information technology education|IEEE|2024|2024
+EEITE|electronic engineering information technology|IEEE|2025|2025
+EEIT|engineering education information technology|IEEE|2022|2023
+EEI|electrical engineering informatics toward most efficient way making dealing future electrical power system big data analysis icon|IEEE|2018|2018
+EEI|electronic engineering informatics electronic engineering informatics||2024|2024
+EEI|electronic engineering informatics|IEEE|2019|2025
+EEI|icon electrical engineering informatics smart technology towards global energy revolution|IEEE|2024|2024
+EEI|icon electrical engineering informatics sustainable engineering industrial revolution|IEEE|2022|2022
+EEKE|extraction evaluation knowledge entities from scientific documents co located joint digital libraries||2020|2020
+EEKE|extraction evaluation knowledge entities from scientific documents co located||2021|2022
+EEKM|enterprise engineering knowledge management||2021|2021
+EELC|symbol grounding beyond third emergence evolution linguistic communication|Springer|2006|2006
+EEMLPEED|selected papers monitoring modeling management emergent economy experimental economics machine learning prediction emergent economy dynamics m3e2||2019|2019
+EEML|experimental economics machine learning co located applied research economics icare7||2019|2019
+EEML|experimental economics machine learning conjunction formal concept analysis||2012|2012
+EEMMAS|engineering environment mediated multi agent systems selected revised invited papers||2008|2008
+EEMS|energy environment materials science|EDP|2016|2024
+EEMTIC|digest electrical electronic measurement test instrument exposition||1981|1981
+EEM|environmental engineering management|EDP|2021|2021
+EEM|european electricity market||2008|2008
+EEM|european energy market energy future||2014|2014
+EEM|european energy market||2009|2025
+EENES|electrical electronic networked energy systems|Springer|2025|2026
+EENM|electrical electronics new materials|IOP|2025|2025
+EENVIRO|eu conexus research sustainable solutions energy environment|EDP|2025|2025
+EENVIRO|sustainable solutions energy environment|IOP|2023|2023
+EEPES|electronics engineering physics earth science|EDP|2022|2025
+EEPS|energy engineering power systems|IEEE|2023|2025
+EEPT|emobility electrical power train||2010|2010
+EERC|eastern european regional engineering computer based systems ecbs|IEEE|2011|2015
+EERC|ecbs eastern european regional engineering computer based systems setting new ecbs frontiers||2009|2009
+EESAT|electrical energy storage application technologies|IEEE|2022|2024
+EESAT|electrical energy storage applications technologies|IEEE|2025|2026
+EESCO|electrical electronics signals communication optimization|IEEE|2015|2015
+EESC|society petroleum engineers spe eastern europe subsurface||2021|2021
+EESD|energy environment sustainable development|IOP|2013|2019
+EESE|environmental engineering sustainable energy|IOP|2025|2025
+EESG|electrical engineering smart grid|SPIE|2025|2025
+EESMS|environmental energy structural monitoring systems|IEEE|2009|2018
+EESMS|worskshop environmental energy structural monitoring systems||2010|2010
+EESPE|electronics energy systems power engineering|IEEE|2025|2025
+EESP|electronic engineering signal processing|IOP|2023|2024
+EESR|end end sense respond systems applications services held conjunction||2005|2005
+EESSMOD|experiences empirical studies software modelling||2011|2012
+EESTE|improving energy efficiency environmental safety sustainable development agriculture|EDP|2023|2025
+EESTE|scientific practical improving energy efficiency environmental safety sustainable development agriculture||2022|2022
+EETA|emerging engineering technologies applications ic|IEEE|2025|2025
+EETR|scientific electrical engineering techniques research|IOP|2023|2024
+EET|scientific energy efficiency transport||2021|2021
+EEUPD|environment engineering urban planning design|EDP|2025|2026
+EEWC|advances enterprise engineering v first enterprise engineering working|Springer|2011|2011
+EEWC|advances enterprise engineering vi second enterprise engineering working|Springer|2012|2012
+EEWC|ciao dc ciao doctoral consortium enterprise engineering working forum co located enterprise engineering working||2020|2022
+EEWC|enterprise engineering working|Springer|2013|2023
+EEXPOLYTECH|electrical engineering photonics|IEEE|2018|2025
+EFC|european fuel cell piero lunghi exhibition||2011|2011
+EFC|european fuel cell piero lunghi||2013|2017
+EFC|european fuel cell technology applications efc2005 book abstracts||2005|2005
+EFC|european fuel cells hydrogen piero lunghi|EDP|2022|2022
+EFC|piero lunghi european fuel cell technology applications||2009|2009
+EFDC|spe european formation damage||2005|2005
+EFEA|environment friendly energies applications renewable sustainable energy systems hybrid transportation systems energy transition energy security|IEEE|2022|2022
+EFEA|environment friendly energies applications|IEEE|2012|2025
+EFEPLE|exploring fitness evolvability personal learning environments||2011|2011
+EFIMMS|iftomm emerging fields mechanism machine science|Springer|2026|2026
+EFMI|integrated citizen centered digital health social care citizens as data producers service co creators special topic||2020|2020
+EFM|energy fluid mechanics|EDP|2026|2026
+EFM|experimental fluid mechanics|EDP|2024|2024
+EFOC|fiber optics communications papers presented european fiber optics communications exposition||1981|1981
+EFRE|congress energy fluxes radiation effects|IEEE|2020|2020
+EFS|evolving fuzzy systems||2006|2006
+EFTF|edition european frequency time forum|IEEE|2024|2024
+EFTF|european frequency time forum|IEEE|2004|2018
+EFTF|ifcs joint frequency control european frequency time forum|IEEE|2019|2019
+EFTF|joint frequency control european frequency time forum ifcs||2011|2011
+EFTP|society petroleum engineers energy finance taxation policies||1986|1988
+EFTS|engineering fault tolerant systems||2007|2007
+EFT|effective field theories from pion upsilon||2009|2009
+EFV|environmentally friendly vehicle||2013|2013
+EGC|16eme internationale francophone sur i extraction et la gestion des connaissances french speaking knowledge extraction management|Springer|2018|2018
+EGC|advances grid computing european grid revised selected papers||2005|2005
+EGC|computational geometry xiv spanish meeting dedicated ferran hurtado occasion his birthday revised selected papers||2012|2012
+EGC|embracing global computing emerging economies|Springer|2015|2015
+EGC|extraction et gestion des connaissances||2017|2021
+EGC|french speaking advances knowledge discovery management|Springer|2022|2022
+EGC|french speaking knowledge discovery management extraction et gestion des connaissances actes||2013|2013
+EGC|french speaking knowledge discovery management extraction et gestion des connaissances||2012|2012
+EGES|joint ifip tc tc e government e services global information systems processes held as part ifip world computer congress|Springer|2010|2010
+EGETC|electronic governance emerging technologies|Springer|2022|2026
+EGGH|eurographics graphics hardware||1992|1996
+EGG|electronics goes green from silicon sustainability|IEEE|2024|2024
+EGG|electronics goes green|IEEE|2016|2016
+EGMM|eg multimedia||2001|2001
+EGNCA|ifac embedded guidance navigation control aerospace||2012|2012
+EGOSE|electronic governance open society challenges eurasia|Springer|2015|2022
+EGOVIS|electronic government information systems perspective collocated database expert systems applications|Springer|2022|2022
+EGOVIS|electronic government information systems perspective first||2010|2010
+EGOVIS|electronic government information systems perspective second||2011|2011
+EGOVIS|electronic government information systems perspective third|Springer|2014|2014
+EGOVIS|electronic government information systems perspective|Springer|2011|2026
+EGOV|electronic government ifip wg|Springer|2010|2014
+EGOV|electronic governments||2007|2007
+EGOV|electronic government|Springer|2002|2009
+EGOV|ifip wg electronic government held conjunction ifip wg electronic participation epart e democracy open government|Springer|2020|2021
+EGOV|ifip wg electronic government|Springer|2010|2026
+EGOV|ifip wg electronic participation epart held conjunction ifip wg electronic government e democracy open government|Springer|2020|2020
+EGRAPHS|sigplan e graph research applications practices human factors co located|ACM|2022|2022
+EGRWSE|environmental geotechnology recycled waste materials sustainable engineering|Springer|2020|2026
+EGTET|emerging global trends engineering technology|Springer|2021|2021
+EGTET|emerging trends engineering technology|Springer|2024|2024
+EGUK|eurographics uk|IEEE|2002|2002
+EGVE|artificial reality telexistence eurographics virtual environments icat posters demos||2014|2019
+EGVE|artificial reality telexistence eurographics virtual environments icat||2015|2019
+EGVE|eurographics virtual environments posters||2008|2008
+EGVE|eurographics virtual environments short papers posters||2007|2007
+EGVE|eurographics virtual environments||2002|2020
+EGVE|icat artificial reality telexistence eurographics virtual environments posters demos||2016|2018
+EGVE|icat artificial reality telexistence eurographics virtual environments||2018|2019
+EGVE|immersive projection technology eurographics virtual environments ipt||2005|2005
+EGVE|ipt eurographics virtual environments immersive projection technology||2007|2007
+EGVE|joint virtual reality eurographics virtual environments virtual efficiency congress||2010|2010
+EGVE|joint virtual reality eurographics virtual environments||2011|2011
+EGVE|virtual environments||2003|2003
+EHAC|recent researches communications automation signal processing nanotechnology astronomy nuclear physics wseas electronics hardware wireless optical communications wseas signal processing robotics automation wseas nanotechnology nanotechnology||2011|2011
+EHAWC|ergonomics health aspects work computers held as part hci||2007|2011
+EHAWC|ergonomics health aspects work computers held as part human computer interaction hci|Springer|2011|2011
+EHB|e health bioengineering|IEEE|2011|2026
+EHCI|ifip engineering human computer interaction|Springer|2001|2001
+EHR|impact environmental factors health ehr11||2011|2011
+EHR|impact environmental factors health||2013|2013
+EHST|e health services technologies conjunction||2008|2008
+EI85|electronic imaging||1986|1986
+EIBDCT|electronic information engineering big data computer technology|SPIE|2022|2025
+EIBDCT|second electronic information engineering big data computer technology|SPIE|2023|2023
+EIBDCT|third electronic information engineering big data computer technology|SPIE|2024|2024
+EICARS|electronic information computer aerospace remote sensing|IEEE|2025|2025
+EICCCC|eic climate change technology||2007|2007
+EICCT|electronics integrated circuits communication technology|IEEE|2025|2025
+EICC|european interdisciplinary cybersecurity|ACM|2020|2027
+EICEEAI|engineering electrical energy artificial intelligence|IEEE|2022|2023
+EICE|electronic information communication engineering|IOP|2023|2025
+EICONCIT|east indonesia computer information technology internet things industry|IEEE|2018|2018
+EICONCIT|east indonesia computer information technology|IEEE|2021|2021
+EICONRUSNW|north west russia section young researchers electrical electronic engineering|IEEE|2016|2016
+EICONRUS|russian young researchers electrical electronic engineering|IEEE|2020|2020
+EICSE|epi science engineering|IOP|2020|2025
+EICS|companion companion sigchi engineering interactive computing systems|ACM|2023|2025
+EICS|companion sigchi engineering interactive computing systems|ACM|2021|2022
+EICS|engineering interactive computing systems medicine health care eics4med co located sigchi engineering interactive computing systems||2011|2011
+EICS|sig chi engineering interactive computing systems|ACM|2020|2020
+EICS|sigchi engineering interactive computing systems|ACM|2009|2026
+EICS|workshops organized conjunction sigchi engineering interactive computing systems|Springer|2025|2025
+EICT|electrical information communication technologies|IEEE|2015|2015
+EICT|electrical information communication technology|IEEE|2013|2025
+EICT|electronics integrated circuit technology|IOP|2023|2023
+EIC|ei electrical insulation materials application|IEEE|1962|1963
+EIC|electrical electronics insulation|IEEE|1977|1979
+EIC|electrical insulation|IEEE|1965|2025
+EIC|engineering achieving sustainability through digital transformation technology development|EDP|2025|2025
+EIC|engineering applied green technology environment conservation through continous engineering|IOP|2023|2023
+EIC|engineering conjunction engineering science technology|IOP|2024|2024
+EIC|engineering sustainable development through green engineering technology|EDP|2024|2024
+EIC|second electronic information engineering intelligent communication|SPIE|2026|2026
+EIDT|explainable intelligence digital twins|Springer|2026|2026
+EIDWT|emerging intelligent data web technologies||2011|2013
+EIEAI|electronic information engineering artificial intelligence|SPIE|2026|2026
+EIECC|electronic information engineering computer communication|IEEE|2022|2025
+EIECC|second electronic information engineering computer communication|SPIE|2023|2023
+EIECS|electronic information engineering computer science|IEEE|2021|2025
+EIECT|electronic information engineering computer technology|IEEE|2021|2025
+EIECT|electronic information engineering computer|IEEE|2023|2023
+EIEDP|electronic information engineering data processing|SPIE|2023|2023
+EIEDP|fifth electronic information engineering data processing|SPIE|2026|2026
+EIEDP|fourth electronic information engineering data processing|SPIE|2025|2025
+EIEDP|third electronic information engineering data processing|SPIE|2024|2024
+EIED|european immersive education summit|Springer|2014|2014
+EIEIT|energy internet energy interactive technology|IOP|2023|2023
+EIEM|electrical information engineering mechatronics electrical information engineering mechatronics||2012|2012
+EIER|energy infrastructure environmental research|EDP|2024|2025
+EIFS|exterior insulation finish systems materials properties performance||1996|1996
+EIFS|exterior insulation finish systems||1995|1995
+EIG|meeting information technology management actas 2do encuentro informatica y gestion||2009|2009
+EIG|meeting information technology management internacional actas 3er encuentro informatica y gestion||2009|2009
+EIIS|electronics instrumentation information systems|IEEE|2017|2017
+EILCD|economic innovation low carbon carbon development|EDP|2021|2021
+EILM|embodied intelligence large models|ACM|2026|2026
+EIMEE|electrical insulating materials electrical engineering||2012|2012
+EIMM|electronic information mechanical manufacturing|IOP|2023|2023
+EIMM|events multimedia co located multimedia mm||2009|2009
+EIMM|events multimedia co located multimedia||2010|2010
+EIMSS|education information management service science|IEEE|2021|2021
+EIOGI|environmental impacts oil gas industries kurdistan region iraq as case study|IEEE|2017|2017
+EIPT|emerging interfaces physical sciences technology|IOP|2020|2020
+EIRCON|engineering research|IEEE|2020|2022
+EIR|f environment concerns its remediation f|Springer|2022|2022
+EISA|emerging information security applications|Springer|2022|2026
+EISE|embodied interaction smart environments|ACM|2016|2016
+EISIC|european intelligence security informatics|IEEE|2011|2019
+EISIC|excellence services|Springer|2024|2025
+EISMC|european information security multi||2013|2013
+EISTA|education information systems technologies applications jointly social organizational informatics cybernetics politics information systems technologies applications||2006|2006
+EISTA|education information systems technologies applications||2005|2005
+EISWT|enterprise information systems web technologies||2007|2010
+EIS|embrio ocean future integrating marine biodiversity sustainability resilience|EDP|2026|2026
+EIS|embrio ocean prosperity sustainably use ocean resources economic growth improvement livelihoods preserve its ocean ecosystem health|EDP|2024|2024
+EIS|engineering interactive systems joint working dsv is selected papers||2008|2008
+EIS|measurement fatigue||1986|1986
+EIS|siks benais enterprise information systems||2010|2010
+EIS|siks enterprise information systems||2011|2011
+EITCE|electronic information technology computer engineering|ACM|2019|2025
+EITEC|emerging ideas trends engineering cyber physical systems|IEEE|2016|2018
+EITES|emerging information technology engineering solutions|IEEE|2015|2025
+EITRT|electrical engineering information technologies rail transportation|Springer|2022|2024
+EITRT|electrical information technologies rail transportation eitrt2013|Springer|2014|2014
+EITRT|electrical information technologies rail transportation|Springer|2014|2020
+EITT|educational innovation through technology|IEEE|2014|2026
+EIT|electrical bioimpedance biomedical applications electrical impedance tomography icebi|IOP|2010|2010
+EIT|electro information technology eit2010||2010|2010
+EIT|electro information technology||2007|2021
+EIT|electronic information technology|IEEE|2022|2025
+EIT|electronics information technology|IEEE|2016|2024
+EIT|second electronic information technology|SPIE|2023|2023
+EIWAC|air traffic management systems selected papers enri atm cns|Springer|2014|2014
+EIWAC|enri air traffic management communication navigation surveillance atm cns eiwac2019|Springer|2021|2021
+EIWAC|enri atm cns|Springer|2017|2019
+EJC|european japanese information modelling knowledge bases||2010|2010
+EKAW|engineering knowledge age semantic web|Springer|2004|2004
+EKAW|european knowledge acquisition modeling management|Springer|1997|1999
+EKAW|european knowledge acquisition|Springer|1992|1996
+EKAW|knowledge engineering knowledge management|Springer|2000|2025
+EKAW|knowledge engineering practice patterns|Springer|2008|2008
+EKAW|managing knowledge world networks|Springer|2006|2006
+EKAW|pd posters demonstrations session co located knowledge engineering knowledge management||2020|2020
+EKAW|poster demo track||2010|2010
+EKAW|ws6 reuse adaptation ontologies terminologies||2010|2010
+EKC|eu korea science technology|Springer|2008|2011
+EKI|educational knowledge informatization|ACM|2023|2025
+EKOVARNA|technical scientific transport ecology sustainable development||2020|2020
+EKSIG|alive active adaptive experiential knowledge emerging materials||2017|2017
+EKSIG|experiential knowledge method methodology drs special interest group experiential knowledge||2009|2009
+EKSIG|knowing inside out experiential knowledge expertise connoisseurship design research society special interest group experiential knowledge||2020|2020
+EKSIG|skindeep experiential knowledge multi sensory communication drs special interest group experiential knowledge||2011|2011
+EKSIG|tangible means experiential knowledge through materials design research society special interest group experiential knowledge||2015|2015
+ELAMI|emerging llm lmm applications medical imaging held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+ELA|information technology enhance e learning other application it|IEEE|2020|2022
+ELBRUS|xxxv equations state matter||2021|2021
+ELCONRUSNW|north west russia section young researchers electrical electronic engineering|IEEE|2015|2015
+ELCONRUSNW|north west russia young researchers electrical electronic engineering||2014|2014
+ELCONRUS|russia section young researchers electrical electronic engineering|IEEE|2017|2017
+ELCONRUS|russian young researchers electrical electronic engineering|IEEE|2018|2022
+ELCON|young researchers electrical electronic engineering|IEEE|2024|2024
+ELDL|e learning digital learning sustainability technology education part multi computer science information sytems||2025|2025
+ELDL|e learning digital learning sustainability technology education||2023|2024
+ELEARNING|isprs commissions vi vi within acrs october taipei taiwan||2011|2011
+ELECENG|global congress electrical engineering gc|IEEE|2021|2021
+ELECENG|global mosharaka congress electrical engineering gc|IEEE|2020|2020
+ELECOM|electrical electronic communications engineering|Springer|2017|2017
+ELECOM|emerging trends electrical electronic communications engineering|IEEE|2019|2024
+ELECO|electrical electronics biomedical engineering|IEEE|2024|2024
+ELECO|electrical electronics engineering|IEEE|2009|2025
+ELECO|national electrical electronics biomedical engineering|IEEE|2016|2016
+ELECO|national electrical electronics computer engineering||2010|2010
+ELECRIS|electrical robotics intelligent systems|IOP|2025|2025
+ELECS|european electrical engineering computer science|IEEE|2022|2022
+ELECTRIMACS|imacs tc1 committee|Springer|2020|2024
+ELECTRIMACS|tc committee|Springer|2025|2025
+ELECTRONICA|national participation|IEEE|2018|2024
+ELECTRONICS|agricultural beyond national agricultural applications||1984|1984
+ELECTROSOFT|software electrical engineering analysis design||1996|1996
+ELECTRO|emerging trends electronic photonic devices systems||2009|2009
+ELECTRO|professional program|IEEE|1996|1996
+ELECTRO|wseas applied electromagnetics wireless optical communications||2010|2010
+ELECTR|electro record|IEEE|1991|1991
+ELEC|european lean educator|Springer|2020|2026
+ELEC|ifip wg european lean educator challenging future lean|Springer|2024|2024
+ELEC|ifip wg european lean educator|Springer|2023|2023
+ELEGI|european learning grid infrastructure advanced technology enhanced learning||2005|2005
+ELELTECH|national e learning e learning technologies|IEEE|2017|2017
+ELETE|advanced industrial telecommunications service assurance partial intermittent resources e learning telecommunications aict sapir||2005|2005
+ELEVCON|elevator technology||1986|1986
+ELEXCOM|electrical electronics communication computers|IEEE|2023|2025
+ELINVO|electrical electronics informatics vocational education ice||2021|2021
+ELINVO|ice digital solutions sustainable green development|IOP|2025|2025
+ELIT|electronics information technologies|IEEE|2021|2023
+ELIT|scientific practical electronics information technologies|IEEE|2019|2019
+ELIV|congress electronics vehicles||2017|2019
+ELMAR|focused mobile multimedia||2007|2007
+ELMAR|focused multimedia signal processing communications||2006|2006
+ELMAR|focused multimedia systems applications||2005|2005
+ELMA|electrical machines drives power systems|IEEE|2017|2025
+ELNANO|electronics nanotechnology|IEEE|2015|2024
+ELNANO|scientific electronics nanotechnology||2013|2014
+ELORMA|electronics organic materials||1988|1989
+ELPUB|academic publishing digital bibliodiversity 23d electronic publishing||2019|2019
+ELPUB|charting futures digital publishing||2020|2020
+ELPUB|digital publishing mobile technologies electronic publishing||2011|2011
+ELPUB|digital spectrum integrating technology culture electronic publishing||2006|2006
+ELPUB|dopenness digital publishing awareness discovery access electronic publishing||2007|2007
+ELPUB|electronic publishing connecting knowledge commons from projects sustainable infrastructure||2020|2020
+ELPUB|from author reader challenges digital content chain iccc electronic publishing||2005|2005
+ELPUB|let s put data use digital scholarship next generation electronic publishing||2014|2014
+ELPUB|mining digital information networks electronic publishing||2013|2013
+ELPUB|open scholarship authority community sustainability age web electronic publishing||2008|2008
+ELPUB|positioning power academic publishing players agents agendas electronic publishing||2016|2016
+ELPUB|publishing networked world transforming nature communication electronic publishing||2010|2010
+ELPUB|rethinking electronic publishing innovation communication paradigms technologies electronic publishing||2009|2009
+ELPUB|social shaping digital publishing exploring interplay between culture technology electronic publishing||2012|2012
+ELP|extensions logic programming|Springer|1992|1996
+ELROMA|seminar electrical rotating machines technical papers||1988|1988
+ELS|environmental life sciences aic|IOP|2022|2025
+ELTICOM|electrical telecommunication computer engineering nurturing advancements engineering modern applications humanity|IEEE|2025|2025
+ELTICOM|electrical telecommunication computer engineering sustainable resilient communities smart technologies|IEEE|2023|2023
+ELTICOM|electrical telecommunication computer engineering tech driven innovations global organizational resilience|IEEE|2024|2024
+ELTICOM|electrical telecommunication computer engineering|IEEE|2019|2022
+ELT|ao adaptive optics extremely large telescopes||2011|2011
+ELW|european lisp european object oriented programming||2009|2009
+EMAG|electron microscopy analysis group|IOP|2010|2014
+EMAP|electronic materials packaging|IEEE|2000|2018
+EMAP|electronics materials packaging||2005|2005
+EMASC|emerging multimedia applications services smart cities mm|ACM|2014|2014
+EMAS|engineering multi agent systems first revised selected papers||2013|2013
+EMAS|engineering multi agent systems|Springer|2014|2026
+EMAS|engineeringmulti agent systems|Springer|2023|2023
+EMAS|european modern developments applications microbeam analysis|EDP|2014|2026
+EMAS|european modern developments microbeam analysis|IOP|2012|2012
+EMAT|engineering management applied technology|IEEE|2001|2001
+EMBC|embs engineering medicine biology society||2007|2007
+EMBC|engineering medicine biology society enabling innovative technologies global healthcare|IEEE|2020|2020
+EMBC|engineering medicine biology society engineering future biomedicine||2009|2009
+EMBC|engineering medicine biology society personalized healthcare through technology||2008|2008
+EMBC|engineering medicine biology society volume iii||2004|2004
+EMBC|engineering medicine biology society volume ii||2004|2004
+EMBC|engineering medicine biology society volume iv||2004|2004
+EMBC|engineering medicine biology society volume i||2004|2004
+EMBC|engineering medicine biology society volume vii||2004|2004
+EMBC|engineering medicine biology society volume vi||2004|2004
+EMBC|engineering medicine biology society volume v||2004|2004
+EMBC|engineering medicine biology society|IEEE|2010|2025
+EMBC|engineering medicine biology|IEEE|2023|2023
+EMBEC|european medical biological engineering|Springer|2021|2024
+EMBEC|joint european medical biological engineering nordic baltic biomedical engineering medical physics nbc|Springer|2017|2017
+EMBEDDEDCOM|scalable computing communications embedded computing scalcom||2009|2009
+EMBE|advances energy research material science built environment|Springer|2025|2025
+EMBS|engineering medicine biology society|IEEE|1992|2011
+EMCAS|engineering management computer applications supply chain|SPIE|2026|2026
+EMCA|emerging materials characterization application|Elsevier|2019|2019
+EMCCOMPO|electromagnetic compatibility integrated circuits|IEEE|2017|2017
+EMCECO|electromagnetic compatibility electromagnetic ecology||2007|2007
+EMCEI|euro mediterranean environmental integration|Springer|2021|2024
+EMCEM|energy material chemical engineering mining engineering||2012|2014
+EMCIS|european mediterranean information systems||2005|2009
+EMCIS|european mediterranean middle eastern information systems global information systems challenges management||2010|2010
+EMCIS|european mediterranean middle eastern information systems informing responsible management sustainability emerging economies||2011|2011
+EMCIS|european mediterranean middle eastern information systems|Springer|2012|2026
+EMCIS|european mediterranean middle eastern information system|Springer|2020|2020
+EMCIS|european mediterranean middle eastern|Springer|2024|2024
+EMCLR|efficient multimedia computing under limited resources co located mm|ACM|2024|2024
+EMCMRE|euro mediterranean materials renewable energies|Elsevier|2019|2019
+EMCR|electrochemical methods corrosion research part||1995|1995
+EMCSA|electromagnetic compatibility adelaide||2009|2009
+EMCSA|electromagnetic compatibility exhibition||2011|2011
+EMCSI|electromagnetic compatibility signal integrity|IEEE|2015|2015
+EMCSI|electromagnetic compatibility signal power integrity|IEEE|2020|2022
+EMCTECH|engineering management communication technology|IEEE|2020|2025
+EMC|advanced technologies embedded multimedia human centric computing humancom||2014|2014
+EMC|colloquium santa clara valley colloquium exhibition||1986|1986
+EMC|electromagnetic compalibility volume||2004|2004
+EMC|electromagnetic compatibility final program||2010|2012
+EMC|electromagnetic compatibility volume||2004|2005
+EMC|electromagnetic compatibility|IEEE|1989|2013
+EMC|embedded multimedia computing technology service||2012|2012
+EMC|embedded multimedia computing||2010|2010
+EMC|esa aerospace aerospace|IEEE|2016|2025
+EMC|esa aerospace||2012|2012
+EMC|european metallurgical||2005|2023
+EMC|human centric computing embedded multimedia computing humancom||2011|2011
+EMC|roma electromagnetic compatibility|IEEE|1994|1998
+EMC|santa clara valley product compliance understanding fundamentals scv colloquium exhibition|IEEE|1994|1994
+EMC|technical exhibition electromagnetic compatibility montreux|IEEE|1975|1977
+EMC|technical exhibition electromagnetic compatibility rotterdam|IEEE|1979|1979
+EMC|technical exhibition electromagnetic compatibility zurich|IEEE|1981|1985
+EMC|trade fair electromagnetic compatibility||2006|2006
+EMC|ut engineering management managing future||2004|2004
+EMC|ut engineering management role technology our economy||2006|2006
+EMC|west coast energy management congress||2005|2017
+EMC|wroclaw electromagnetic compatibility|IEEE|1976|1990
+EMC|wroclaw exhibition electromagnetic compatibility|IEEE|1992|2006
+EMC|zurich electromagnetic compatibility|IEEE|2005|2005
+EMC|zurich technical exhibition electromagnetic compatibility|IEEE|1987|2022
+EMDL|deep learning mobile systems applications co located|ACM|2017|2019
+EMDL|embedded mobile deep learning part|ACM|2020|2022
+EMDL|embedded mobile deep learning|ACM|2018|2018
+EMD|electromagnetic disturbances||2004|2004
+EMEA|essence mathematics engineering applications|IOP|2021|2021
+EMECC|engineering materials electronics communication construction||2013|2013
+EMECS|global congress icm lessons learned address new challenges joint||2013|2013
+EMEIT|electronic mechanical engineering information technology||2011|2012
+EMEM|environment materials environment management||2011|2012
+EMERGING|network intelligence includes european universal multiservice networks||2009|2009
+EMERGIN|emerging technologies innovation sustainability|IEEE|2024|2025
+EMERGITECH|emerging technologies innovative business practices transformation societies|IEEE|2016|2016
+EMERQUM|emergent quantum mechanics||2012|2012
+EMER|environmental monitoring ecological restoration|EDP|2025|2025
+EMESEG|latest trends engineering mechanics structures engineering geology wseas engineering mechanics structures engineering geology geography geology||2010|2010
+EMESEG|recent researches geography geology energy environment biomedicine proc wseas int conf int conf world int conf||2011|2011
+EMESEG|wseas engineering mechanics structures engineering geology||2009|2009
+EMES|engineering modern electric systems|IEEE|2015|2025
+EMET|energy material energy technology|IOP|2023|2023
+EME|environmental materials engineering||2013|2013
+EME|iasted environmental management engineering||2009|2014
+EMF|european meeting ferroelectricity emf12||2012|2012
+EMF|european meeting ferroelectricity||2008|2008
+EMGEEE|engineering materials geotechnical engineering environmental engineering||2013|2013
+EMIE|electronic materials information engineering|IEEE|2021|2025
+EMIE|engineering management industrial engineering||2015|2015
+EMIP|eye movements programming|IEEE|2018|2022
+EMISA|enterprise modeling information systems architectures||2020|2023
+EMISA|enterprise modeling information systems architecture||2024|2024
+EMISA|enterprise modelling information systems architectures concepts applications||2007|2007
+EMISA|enterprise modelling information systems architectures||2005|2011
+EMISA|informationssysteme im e business und e government beitrage des workshops der gi fachgruppe||2004|2004
+EMIS|electromagnetic isotope separators techniques related their applications|Elsevier|1997|1997
+EMI|coastal hazards selected papers from||2013|2013
+EMLC|european mask lithography|SPIE|2019|2025
+EMLC|spie european mask lithography||2005|2008
+EML|electromagnetic launch technology|IEEE|2012|2014
+EML|euro asian pulsed power high power particle beams electromagnetic launch technology eappc beams|IEEE|2024|2024
+EML|selected papers from electromagnetic launch technology renaissance parc hotel san francisco california april||2001|2001
+EML|selected papers from electromagnetic launch technonology renaissance parc hotel san francisco california april||2001|2001
+EMMA|energy materials material application||2012|2014
+EMMA|european magnetic materials applications|Elsevier|1988|1996
+EMMCVPR|energy minimazation methods computer vision pattern recognition||2011|2011
+EMMCVPR|energy minimization methods computer vision pattern recognition|Springer|1997|2015
+EMME|multimedia mm educational multimedia multimedia education||2007|2007
+EMMFT|scientific energy management municipal facilities environmental technologies|EDP|2023|2024
+EMMFT|scientific energy management municipal facilities sustainable energy technologies|Springer|2019|2021
+EMMFT|scientific energy management municipal transportation facilities transport|Springer|2018|2018
+EMMSAD|exploring modeling methods systems analysis design held conjunction advanced information systems||2005|2005
+EMMSAD|exploring modeling methods systems analysis design held conjunction||2008|2008
+EMMSAD|proc int exploring modeling methods systems analysis design held conjunction advanced information systems||2006|2007
+EMMS|engineering methodologies medicine sports|Springer|2024|2024
+EMMVCPR|energy minimization methods computer vision pattern recognition|Springer|2018|2018
+EMNETS|embedded networked sensors||2007|2007
+EMNLP|abusive language online co located||2018|2018
+EMNLP|argument mining||2017|2023
+EMNLP|blackboxnlp analyzing interpreting neural networks nlp||2018|2018
+EMNLP|computational approaches code switching cs||2016|2016
+EMNLP|computational approaches code switching switching empirical methods natural language processing||2014|2014
+EMNLP|computational approaches subjectivity sentiment social media analysis||2017|2017
+EMNLP|computational models reference anaphora coreference||2023|2023
+EMNLP|discourse machine translation discomt||2019|2019
+EMNLP|empirical methods natural language processing demonstrations session||2022|2022
+EMNLP|empirical methods natural language processing findings||2024|2025
+EMNLP|empirical methods natural language processing industry track||2022|2025
+EMNLP|empirical methods natural language processing meeting sigdat special interest group acl held conjunction acl||2009|2009
+EMNLP|empirical methods natural language processing meeting sigdat special interest group acl||2008|2008
+EMNLP|empirical methods natural language processing meeting sigdat special interest group held conjunction||2004|2004
+EMNLP|empirical methods natural language processing natural language processing social media||2016|2016
+EMNLP|empirical methods natural language processing structured prediction||2017|2017
+EMNLP|empirical methods natural language processing system demonstrations||2017|2025
+EMNLP|empirical methods natural language processing systems demonstrations||2020|2020
+EMNLP|empirical methods natural language processing tutorial abstracts||2020|2024
+EMNLP|empirical methods natural language processing vision language vl vision language meet cognitive systems||2015|2015
+EMNLP|empirical methods natural language processing||1996|2025
+EMNLP|findings association computational linguistics findings acl||2020|2021
+EMNLP|findings association computational linguistics||2022|2023
+EMNLP|health text mining information analysis||2015|2020
+EMNLP|hlt human language technology empirical methods natural language processing||2005|2005
+EMNLP|hlt interactive demonstrations||2005|2005
+EMNLP|innovative use nlp building educational applications||2017|2017
+EMNLP|joint sigdat empirical methods natural language processing very large corpora sigdat held conjunction meeting association computational linguistics||2000|2000
+EMNLP|joint sigdat empirical methods natural language processing very large corpora||1999|1999
+EMNLP|linking models lexical sentential discourse level semantics||2015|2015
+EMNLP|louhi health text mining information analysis||2019|2019
+EMNLP|machine reading question answering mrqa||2019|2019
+EMNLP|natural language processing meets journalism||2017|2017
+EMNLP|new frontiers summarization||2017|2017
+EMNLP|noisy user generated text w nut||2019|2019
+EMNLP|shared task multilingual coreference resolution computational models reference anaphora coreference||2023|2023
+EMNLP|speech centric natural language processing||2017|2017
+EMNLP|subword character level models nlp||2017|2017
+EMNLP|textgraphs graph based methods natural language processing||2013|2014
+EMNLP|universal dependencies||2018|2018
+EMNLP|unsupervised learning nlp empirical methods natural language processing||2011|2011
+EMOB|e mobility power system integration||2021|2026
+EMODE|sigspatial methods enriched mobility data emerging issues ethical perspectives|ACM|2023|2023
+EMOOCS|european massive open online courses|Springer|2019|2019
+EMOOCS|european moocs stakeholders summit|Springer|2017|2026
+EMOSS|emerging open storage systems solutions data intensive computing co located|ACM|2022|2022
+EMOTIW|emotion recognition wild challenge co located|ACM|2013|2013
+EMO|evolutionary multi criterion optimization third||2005|2005
+EMO|evolutionary multi criterion optimization|Springer|2001|2025
+EMPATHICH|empathy centric design collocated chi human factors computing systems|ACM|2023|2023
+EMPATHICH|empathy centric design scrutinizing empathy beyond individual co located chi human factors computing systems|ACM|2024|2024
+EMPATHY|empowering people dealing internet things ecosystems co located advanced visual interfaces||2020|2022
+EMPATHY|empowering people dealing internet things ecosystems co located||2021|2021
+EMPC|european microelectronics packaging exhibition enabling technologies better life future|IEEE|2015|2015
+EMPC|european microelectronics packaging exhibition programme||2005|2005
+EMPC|european microelectronics packaging exhibition|IEEE|2007|2025
+EMPC|european microelectronics packaging winding roads electronics packaging||2013|2013
+EMPC|european microelectronics packaging|IEEE|2009|2023
+EMPD|energy management power delivery part||1995|1995
+EMPIRE|empirical requirements engineering|IEEE|2011|2018
+EMPORIA|joint enhanced material part optimization process intensification|Springer|2021|2021
+EMP|colloquium protective devices n||1982|1982
+EMP|energy materials photonics|IEEE|2023|2025
+EMQM|emergent quantum mechanics|IOP|2014|2014
+EMRS|european material research society advanced materials education|Elsevier|1995|1995
+EMRS|european materials research society fall meeting high temperature superconductors|Elsevier|1993|1993
+EMRS|european materials research society spring meeting high tc superconductor materials|Elsevier|1990|1990
+EMRS|fall meeting b material under extreme conditions|Elsevier|1993|1993
+EMRS|metal oxide oxyhydride based nanomaterials energy environment related applications|Elsevier|2019|2019
+EMRS|spring meeting g alternative approaches sic related wide bandgap materials light emitting solar cell applications|IOP|2014|2014
+EMR|environmental multimedia retrieval|ACM|2015|2015
+EMSEE|empirical modeling semantic equivalence entailment||2005|2005
+EMSME|energy material sciences mechanical engineering|Springer|2020|2022
+EMSOFT|embedded software co located esweek||2012|2012
+EMSOFT|embedded software companion|ACM|2017|2019
+EMSOFT|embedded software|IEEE|2001|2025
+EMSOFT|embedded systems week compilers architecture synthesis embedded systems||2010|2010
+EMSOFT|embedded systems week embedded software||2009|2009
+EMSOFT|fourth embedded software||2004|2004
+EMSOFT|seventh embedded software||2007|2007
+EMSS|european modeling simulation held multidisciplinary modeling simulation multiconference i3m||2017|2017
+EMSS|european modeling simulation||2008|2024
+EMSS|mediterranean modeling multiconference i3m european modeling simulation||2005|2005
+EMS|emerging multimedia systems|ACM|2023|2025
+EMS|engineering management society|IEEE|2000|2000
+EMS|european modelling uksim european computer modelling simulation||2008|2008
+EMS|iasted environmental modelling simulation||2008|2008
+EMS|second iasted environmental modelling simulation||2006|2006
+EMS|sigcomm emerging multimedia systems|ACM|2024|2024
+EMS|third iasted environmental modelling simulation||2007|2007
+EMS|uksim amss european modelling computer modelling simulation|IEEE|2013|2017
+EMS|uksim amss european modelling||2012|2012
+EMS|uksim european modelling computer modelling simulation ems2010||2010|2010
+EMS|uksim european modelling computer modelling simulation||2009|2011
+EMTBO|austin engineering management technology based organizations|IEEE|2000|2000
+EMTC|euro med telco from network infrastructures network fabric revolution edges|IEEE|2014|2014
+EMTS|digest ursi electromagnetic theory||2010|2010
+EMTS|electromagnetic theory||2013|2013
+EMTS|ursi electromagnetic theory|IEEE|2016|2025
+EMTV|energy mobility technology systems value chain expo||2023|2023
+EMUS|european multifunctional structures||2019|2020
+EMV|electromagnetic compatibility specialized fair congress electromagnetic compatibility elektromagnetische vertraglichkeit internationale fachmesse und kongress fur elektromagnetische vertraglichkeit||2012|2012
+EMV|gmm fachtagung elektromagnetische vertraeglichkeit der kfz technik||2017|2017
+EMV|internationale fachmesse und kongress fur elektromagnetische vertraglichkeit||2016|2018
+EMV|trade fair congress electromagnetic compatibility internationale fachmesse und kongress fur elektromagnetische vertraglichkeit||2008|2020
+ENAA|past meets present astronomy astrophysics portuguese national meeting||2006|2006
+ENASE|evaluation novel approaches software engineering revised selected papers||2010|2010
+ENASE|evaluation novel approaches software engineering|Springer|2007|2026
+ENASE|evaluation novel software approaches software engineering|SciTePress|2016|2016
+ENASE|software data technologies evaluation novel approaches software engineering csoft||2008|2008
+ENASE|software data technologies second icsoft revised selected papers||2008|2008
+ENBENG|portuguese bioengineering meeting book||2013|2013
+ENBENG|portuguese meeting bioengineering|IEEE|2012|2025
+ENBENG|portuguese meeting biomedical engineering||2011|2011
+ENCLOSURES|natural convection||1983|1983
+ENCON|unimas engineering advanced materials||2020|2020
+ENCON|unimas engineering|IEEE|2020|2021
+ENCON|unimas stem engineering|IEEE|2019|2019
+ENCP|emerging network computing paradigms part|ACM|2020|2020
+ENCYCRIS|engineering cybersecurity critical systems|IEEE|2021|2026
+ENCY|european biomedical engineering young investigators|Springer|2015|2015
+ENC|european navigation|IEEE|2016|2020
+ENC|fifth mexican computer science||2004|2004
+ENC|mexican computer science|IEEE|2008|2025
+ENC|seventh mexican computer science||2006|2006
+ENC|sixth mexican computer science||2005|2005
+ENDOCV|challenge computer vision endoscopy co located biomedical imaging||2021|2022
+ENDOCV|challenge computer vision endoscopy conjunction biomedical imaging||2020|2020
+ENEFM|congress energy efficiency energy related materials|Springer|2014|2014
+ENERGEX|forum energy self reliance conservation production consumption||1982|1982
+ENERGYCON|energy exhibition||2010|2012
+ENERGYVIS|energy data visualization|IEEE|2023|2024
+ENERGY|e future sustainable systems|ACM|2025|2025
+ENERGY|sustainable development smart management|EDP|2020|2020
+ENERGY|technical economics synfuels coal||1987|1987
+ENERGY|towards policy australia position papers||1983|1983
+ENGAGE|empowering novel geometric algebra graphics engineering held conjunction computer graphics|Springer|2023|2023
+ENGAGE|empowering novel geometric algebra graphics engineering|Springer|2026|2026
+ENGINEERING|agricultural agricultural innovation||1984|1984
+ENGINEERING|australian coastal ocean offshore structures||1981|1981
+ENGINEERING|computers advanced automation beyond computers exhibit||1984|1984
+ENGINEERING|computers asme computers exhibition||1986|1987
+ENGINEERING|computers civil||1982|1983
+ENGINEERING|computers computers exhibit||1983|1983
+ENGINEERING|computers offshore arctic||1987|1987
+ENGINEERING|computers preprints papers||1983|1983
+ENGINEERING|computers real time applications computers preprints papers||1985|1985
+ENGINEERING|control merging technology theory solve industrial automation problems||1982|1982
+ENGINEERING|current practices new technology ocean||1987|1988
+ENGINEERING|hydraulics civil preprints papers||1981|1981
+ENGINEERING|microcircuit microlithography||1985|1988
+ENGINEERING|microlithography microcircuit colloque sur la microlithographie microcircuit||1982|1982
+ENGINEERING|railway electrification railways preprints papers||1985|1985
+ENGINEERING|solar asme jsme jses solar energy||1987|1987
+ENGINEERING|solar asme solar energy division||1983|1984
+ENGINEERING|solar joint asme ases solar energy||1985|1985
+ENGINEERING|solar tenth asme solar energy||1988|1988
+ENGINEERING|third control towards more competitive industry preprints papers||1986|1986
+ENGINEERS|american institute chemical meeting||1986|1986
+ENGINEERS|american institute chemical spring national meeting petro||1986|1986
+ENGINEERS|american institute chemical summer national meeting||1983|1986
+ENGINES|basic processes internal combustion presented eleventh energy sources technology exhibition||1988|1988
+ENGINES|basic processes internal combustion||1987|1987
+ENGOPT|engineering optimization||2015|2015
+ENGSOFT|exhibition engineering software||1983|1983
+ENG|interdisciplinarity engineering inter|Springer|2020|2026
+ENICS|advances electronics micro electronics||2008|2008
+ENIC|energy nanotechnology enic2007||2007|2007
+ENIC|energy nanotechnology||2009|2009
+ENIC|european network intelligence|IEEE|2014|2016
+ENIGMA|ai driven heterogeneous data management completing merging handling inconsistencies query answering co located principles knowledge representation reasoning kr||2023|2023
+ENLG|european natural language generation||2005|2015
+ENO|xvi national meeting optics vii andean caribbean optics its applications|IOP|2020|2020
+ENSEMBLE|sigsoft based so ftware engineering co located|ACM|2018|2018
+ENSEMBLE|sigsoft based software engineering modern computing platforms co located esec|ACM|2019|2019
+ENSFN|exotic nuclear structure from nucleons|IOP|2013|2013
+ENSSYS|energy harvesting energy neutral sensing systems co located|ACM|2015|2015
+ENSSYS|energy harvesting energy neutral sensing systems cyber physical systems internet things week cps iot week workshops part|ACM|2025|2025
+ENSSYS|energy harvesting energy neutral sensing systems part|ACM|2017|2024
+ENSSYS|energy harvesting energy neutral sensing systems|ACM|2019|2026
+ENSSYS|energy harvesting energy neutral systems|ACM|2016|2016
+ENSSYS|energy neutral sensing systems|ACM|2013|2014
+ENSURES|environmental sustainability resource security ic shaping future empowering good environmental social governance practices|IOP|2025|2025
+ENTFT|emerging nanomaterials towards future technology|IOP|2026|2026
+ENT|engineering technologies computer science innovation application|IEEE|2019|2025
+ENT|engineering technologies computer science|IEEE|2017|2021
+ENT|engineering telecommunication|IEEE|2015|2019
+ENT|interdisciplinary energy nanotechnology internet things|IOP|2024|2024
+ENUMATH|european numerical mathematics advanced applications|Springer|2016|2025
+ENVDEG|environmental degradation materials nuclear power systems water reactors||2019|2019
+ENVIBUILD|buildings environment||2014|2014
+ENVIMEKO|environmental instrumentation measurements||2022|2022
+ENVIMEKO|imeko tc19 environmental instrumentation measurements||2017|2017
+ENVIROINFO|envip environmental information systems services infrastructures platforms||2010|2010
+ENVIROINFO|short work progress papers||2022|2022
+ENVIRONMEET|geo climate change sustainability resilience selected papers from geo||2025|2025
+ENVIRONMEET|geo geoenvironmental contamination waste containment selected papers from geo||2025|2025
+ENVIRONMEET|geo innovative developments toward sustainability selected papers from geo||2025|2025
+ENVIRONMEET|geoenvironmental engineering honoring craig h benson selected papers from geo||2025|2025
+ENVIRONMEET|geoenvironmental engineering honoring rudolph bonaparte selected papers from geo||2026|2026
+ENVIRONMRNT|internatioanl environmental problems coastal regions coastal||1998|1998
+ENVIRORISKS|environmental protection disaster risks coe crisis management disaster response|Springer|2025|2025
+ENVIRORISKS|environmental protection disaster risks held conjunction cmdr coe crisis management disaster response cm dr|Springer|2023|2023
+ENVIROSOFT|development application computer techniques environmental studies||1996|1996
+ENVIRVIS|visualisation environmental sciences||2013|2025
+ENVRISK|energy risk||1984|1984
+ENVSYS|advances environmental sensing systems smart cities|ACM|2023|2025
+ENVTOX|national environmental toxicology impact human health|Elsevier|2022|2022
+ENV|iasted unconventional oils environment||2011|2011
+ENV|society petroleum engineers spe environmental conservation||1972|1972
+EOD|rcra closure explosive ordnance disposal range wright patterson air force base ohio circumstances leading risk based approach||1997|1997
+EOGC|earth observation global changes|Springer|2013|2013
+EOMAS|enterprise organizational modeling simulation held advanced information engineering systems|Springer|2018|2018
+EOMAS|enterprise organizational modeling simulation held conjunction advanced information systems engineering|Springer|2013|2017
+EOMAS|enterprise organizational modeling simulation held conjunction||2008|2009
+EOMAS|enterprise organizational modeling simulation held selected papers|Springer|2011|2011
+EOMAS|enterprise organizational modeling simulation held|Springer|2015|2015
+EOMAS|enterprise organizational modeling simulation selected papers|Springer|2010|2010
+EOMAS|enterprise organizational modeling simulation|Springer|2016|2019
+EOMAS|proc int enterprise organizational modeling simulation conjunction int conf advanced information systems engineering||2010|2010
+EON|evaluation ontologies ontology based tools co located||2007|2007
+EON|evaluation ontologies web co located||2006|2006
+EON|evaluation ontologies web located world wide web||2006|2006
+EOOLT|equation based object oriented languages tools conjunction||2007|2008
+EOOLT|equation based object oriented modeling languages tools conjunction||2010|2010
+EOOLT|equation based object oriented modeling languages tools|ACM|2011|2020
+EORC|society petroleum engineers spe asia pacific enhanced oil recovery||2015|2015
+EORC|society petroleum engineers spe enhanced oil recovery delivering promise now||2013|2013
+EORC|society petroleum engineers spe enhanced oil recovery||2011|2011
+EOROMICRO|sixteenth euromicro microprocessing microprogramming|Elsevier|1990|1990
+EORSA|earth observation remote sensing applications|IEEE|2012|2018
+EOR|society petroleum engineers spe doe enhanced oil recovery||1980|1981
+EOSAM|eos meeting|EDP|2024|2025
+EOSD|eurasian opensees days|Springer|2023|2025
+EPASA|internationalworkshop eigenvalue problems algorithms software applications petascale computing|Springer|2017|2017
+EPATS|energy power advanced thermodynamic systems|IOP|2022|2025
+EPCC|society petroleum engineers european petroleum computer||1994|1994
+EPCE|asia electrical power computer engineering|ACM|2022|2023
+EPCE|engineering psychology cognitive ergonomics applications services held as part hci||2013|2013
+EPCE|engineering psychology cognitive ergonomics held as part hci|Springer|2007|2025
+EPCE|engineering psychology cognitive ergonomics held as part human computer interaction hci|Springer|2011|2019
+EPCE|engineering psychology cognitive ergonomics held as part human computer interaction|Springer|2017|2023
+EPCE|engineering psychology cognitive ergonomics understanding human cognition held as part hci||2013|2013
+EPCE|engineering psychology cognitive ergonomics|Springer|2016|2026
+EPCGI|encontro portugues de computacao grafica e interacao|IEEE|2016|2017
+EPC|canada electrical power||2007|2007
+EPDC|electric power distribution network||2013|2013
+EPDC|electrical power distribution networks|IEEE|2014|2017
+EPDC|electrical power distribution network|IEEE|2016|2016
+EPDC|electrical power distribution|IEEE|2011|2025
+EPDE|engineering product design education design education future wellbeing||2012|2012
+EPDE|engineering product design education design education growing our future||2013|2013
+EPDMC|electronics packaging design manufacturing bridging skills innovation india s industry|IEEE|2026|2026
+EPD|rina royal institution naval architects education professional development engineers maritime industry||2016|2016
+EPECE|energy power engineering control engineering|IEEE|2024|2024
+EPECS|electric power energy conversion systems|IEEE|2009|2024
+EPEC|ecological protection environmental chemistry|EDP|2024|2024
+EPEC|electric power energy|IEEE|2020|2020
+EPEC|electrical power energy smarter resilient power systems|IEEE|2015|2015
+EPEC|electrical power energy sustainable energy intelligent grid||2010|2010
+EPEC|electrical power energy|IEEE|2009|2025
+EPEC|girep icpe|IOP|2019|2019
+EPEC|group physics teaching girep|Springer|2017|2017
+EPEC|society petroleum engineers spe epa doe exploration production environmental||2001|2003
+EPEC|society petroleum engineers spe epa exploration production environmental||1997|1997
+EPEE|energy power electrical engineering|IEEE|2021|2025
+EPEI|expositions electric power engineering|IEEE|2024|2024
+EPEMR|eco environmental protection environmental monitoring remediation|EDP|2025|2025
+EPEPS|electrical performance electronic packaging systems|IEEE|2009|2025
+EPEP|electrical performance electronic packaging|IEEE|1992|2008
+EPEP|topical meeting electrical performance electronic packaging|IEEE|1993|1993
+EPESE|wseas energy planning energy saving environmental education renewable energy sources waste management||2009|2009
+EPESE|wseas energy planning energy saving environmental education wseas renewable energy sources||2010|2010
+EPES|fifth frontiers electrical power energy systems|SPIE|2026|2026
+EPES|frontiers electrical power energy systems|IOP|2022|2025
+EPEW|computer performance engineering european performance engineering||2008|2011
+EPEW|computer performance engineering european revised selected papers||2013|2013
+EPEW|computer performance engineering european|Springer|2013|2014
+EPEW|european computer performance engineering|Springer|2015|2026
+EPEW|european performance engineering analytical stochastic modelling techniques applications|Springer|2021|2023
+EPEW|european performance engineering|Springer|2018|2018
+EPEW|formal methods stochastic models performance evaluation fourth european performance engineering||2007|2007
+EPEW|formal methods stochastic models performance evaluation third european performance engineering|Springer|2006|2006
+EPEW|formal techniques computer systems business processes european performance engineering web services formal methods ws fm||2005|2005
+EPE|cando obuda electrical power engineering|IEEE|2018|2024
+EPE|energy power engineering|IOP|2023|2025
+EPE|european power electronics applications ecce europe|IEEE|2015|2023
+EPE|european power electronics applications||2009|2013
+EPE|exposition electrical power engineering|IEEE|2012|2022
+EPE|expositions electrical power engineering|IEEE|2018|2018
+EPE|scientific electric power engineering|IEEE|2006|2026
+EPFS|scientific practical food environmental security modern geopolitical conditions problems solutions|IOP|2023|2023
+EPIA|artificial intelligence|Springer|2017|2026
+EPIA|portuguese artificial intelligence|Springer|1989|2015
+EPIA|progress artificial intelligence knowledge extraction multi agent systems logic programming constraint solving portuguese artificial intelligence proc||2001|2001
+EPIA|progress artificial intelligence portuguese aritficial intelligence workshops gaiw aiasts alea amita baosw bi cmbsb irobot masta stcs tema||2007|2007
+EPIA|progress artificial intelligence portuguese artificial intelligence||2005|2013
+EPIC|engineering physics|IOP|2023|2023
+EPIIC|electronic physics informatics|IOP|2024|2024
+EPIMI|ethical philosophical issues medical imaging worksethical philosophical issues medical imaginghop multimodal learning fusion across scales clinical decision support ml topological data analysis biomedical imaging tda4biomedicalimaging held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+EPIM|power instrumentation measurement meeting|IEEE|2018|2018
+EPIM|power instrumentation measurement||2006|2006
+EPIQ|evolution performance interoperability quic part|ACM|2018|2021
+EPIQ|evolution performance interoperability quic|ACM|2020|2020
+EPIROB|icdl development learning epigenetic robotics|IEEE|2020|2020
+EPIROB|icdl joint development learning epigenetic robotics|IEEE|2014|2014
+EPIROB|joint development learning epigenetic robotics icdl|IEEE|2015|2019
+EPITAXY|molecular beam fourth||1987|1987
+EPITS|electronic packaging interconnect technology||2018|2018
+EPITS|green materials electronic packaging interconnect technology|Springer|2023|2025
+EPMCCS|electrotechnology processes models control computer science|IEEE|2018|2018
+EPME|energy power mechanical engineering|IOP|2020|2020
+EPM|energy production management century v quest sustainable energy||2022|2022
+EPNET|electric power networks|IEEE|2016|2016
+EPN|xvii encuentro de fisica|IOP|2022|2022
+EPN|xviii encuentro de fisica physics|IOP|2024|2024
+EPPCT|environmental prevention pollution control technologies|EDP|2023|2025
+EPPC|environmental protection pollution control|Springer|2025|2026
+EPPH|environmental pollution public health||2015|2019
+EPPM|engineering project production management|Springer|2020|2024
+EPPS|numerical methods solving problems theory elasticity plasticity|IOP|2021|2021
+EPQU|electrical power quality utilisation||2009|2011
+EPQU|exhibition electrical power quality utilisation||2020|2020
+EPREC|electric power renewable energy|Springer|2021|2026
+EPRI|advances materials manufacturing repair power plants from||2024|2024
+EPSA|power system automation chinese universities cus|Springer|2023|2023
+EPSCICON|power signals control computations|IEEE|2014|2014
+EPSCICON|power signals control computation|IEEE|2018|2018
+EPSCICON|power signals controls computation||2012|2012
+EPSD|ecological paradigms sustainable development political economic technological dimension biosphere problems|EDP|2021|2021
+EPSED|environmental protection sustainable ecological development||2015|2015
+EPSIC|electrical power systems intelligent control|IEEE|2024|2025
+EPSSGT|energy power system smart grid technologies|IOP|2026|2026
+EPS|beyond einstein physics century||2006|2006
+EPS|european physical society plasma physics||2015|2016
+EPS|iasted energy power systems||2005|2005
+EPS|plasma physics congress plasma physics||2012|2012
+EPS|plasma physics europhysics abstracts||2006|2011
+EPS|plasma physics held fast ignition fusion targets europhysics abstracts||2005|2005
+EPS|plasma physics||2010|2025
+EPTCS|proofs programs revised selected papers||2011|2011
+EPTC|electronic packaging technology||2005|2009
+EPTC|electronics packaging technology|IEEE|2002|2025
+EPTS|production technologies systems e mobility|IEEE|2024|2025
+EPTT|spring school transition turbulence|Springer|2023|2023
+EQC|society petroleum engineers aime environmental quality extractive industries||1971|1971
+EQEC|cleo europe european lasers electro optics european quantum electronics||2009|2009
+EQEC|european lasers electro optics cleo europe||2015|2015
+EQEC|european lasers electro optics lasers electro optics europe cleo europe european quantum electronics||2025|2025
+EQEC|european quantum electronics lasers electro optics europe cleo europe european quantum electronics part lasers electro optics europe cleo europe european quantum electroni||2023|2023
+EQEC|european quantum electronics lasers electro optics europe cleo europe european quantum electronics||2025|2025
+EQEC|european quantum electronics|IEEE|1996|2021
+EQEC|lasers electro optics europe european quantum electronics cleo europe|IEEE|2011|2025
+EQUAL|advanced technologies enhanced quality life||2009|2009
+EQUIPMENT|cryogenic processes||1983|1984
+EQUIPMENT|heat transfer electronic||1983|1986
+EQUITY|exploring quantifiable it yields||2007|2007
+ERAS|engineering reliable autonomous systems|IEEE|2025|2025
+ERAS|self biennial educational research association singapore||2014|2014
+ERCAM|emerging research civil aeronautical mechanical engineering|IOP|2020|2023
+ERCICAM|emerging research computing information communication artificial intelligence machine learning|Springer|2025|2025
+ERCICA|emerging research computing information communication applications|Springer|2019|2025
+ERCOFTAC|unsteady separation fluid structure interaction|Springer|2016|2016
+ERC|asee engineering research council||2012|2020
+ERDEV|scientific engineering rural development||2024|2025
+ERD|entity recognition disambiguation co located|ACM|2014|2014
+ERD|scientific engineering rural development||2021|2022
+EREE|environment resources energy engineering|EDP|2022|2023
+EREGCE|environment renewable energy green chemical engineering|EDP|2022|2022
+ERES|earthquake resistant engineering structures||1995|1995
+ERES|world earthquake resistant engineering structures eres11||2011|2011
+ERES|world earthquake resistant engineering structures||2005|2013
+ERE|century relativity physics xxviii spanish relativity meeting||2006|2006
+ERE|spanish relativity meeting gravity as crossroad physics||2011|2011
+ERE|spanish relativity meeting|IOP|2010|2014
+ERF|european robotics forum|Springer|2024|2025
+ERF|european rotorcraft forum erf33||2007|2007
+ERF|european rotorcraft forum erf34||2008|2008
+ERF|european rotorcraft forum||2009|2025
+ERF|national aerospace laboratory nlr european rotorcraft forum||2007|2007
+ERIS|education research information society||2021|2022
+ERL|advanced icfa beam dynamics energy recovery linacs||2007|2007
+ERL|icfa advanced beam dynamics energy recovery linacs||2013|2019
+ERMR|electrorheological fluids magnetorheological suspensions|IOP|2013|2013
+ERM|society petroleum engineers spe eastern regional meeting||2019|2024
+EROW|emerging research opportunities web data management collocated database theory||2007|2007
+ERPE|energy research power engineering||2013|2014
+ERPOS8|electrical related properties organic solids|Elsevier|2000|2000
+ERSA|engineering reconfigurable systems algorithms||2003|2008
+ERSBD|environmental remote sensing big data|SPIE|2021|2021
+ERSGIT|fourth environmental remote sensing geographic information technology|SPIE|2026|2026
+ERSGIT|second environmental remote sensing geographic information technology|SPIE|2024|2024
+ERSGIT|third environmental remote sensing geographic information technology|SPIE|2025|2025
+ERSME|scientific practical environmental risks safety mechanical engineering|EDP|2020|2023
+ERTEP|appropriate technologies environmental protection developing world selected papers from||2009|2009
+ERVR|is t electronic imaging engineering reality virtual reality||2026|2026
+ERZR|electromechanics robotics zavalishin s readings|Springer|2021|2022
+ESAASA|emerging software as service analytics conjuction cloud computing services science|SciTePress|2015|2015
+ESAASA|emerging software as service analytics conjunction|SciTePress|2014|2014
+ESAES|energy systems alternative energy sources|IOP|2025|2025
+ESAET|environment science advanced energy technologies applied materials|IOP|2020|2020
+ESAET|environment science advanced energy technologies environment science|IOP|2020|2020
+ESAET|environment science advanced energy technologies power engineering|IOP|2020|2020
+ESAET|environment science advanced energy technologies preface|IOP|2020|2020
+ESAET|environment science advanced energy technologies resource utilization|IOP|2020|2020
+ESAFORM|material forming|IOP|2012|2025
+ESAIC|engineering simulation intelligent control|IEEE|2018|2018
+ESAIM|european artificial intelligence manufacturing|Springer|2024|2025
+ESAIR|exploiting semantic annotations information retrieval co located information knowledge management||2010|2010
+ESAIR|exploiting semantic annotations information retrieval co located|ACM|2012|2015
+ESAI|embedded systems artificial intelligence|IEEE|2020|2025
+ESAL|sustainable leadership entrepreneurs academics|Springer|2019|2019
+ESANN|32ndeuropean artificial neural networks computational intelligence machine learning||2024|2024
+ESANN|european artificial neural networks advances computational intelligence learning||2008|2009
+ESANN|european artificial neural networks computational intelligence machine learning||2010|2023
+ESANN|european artificial neural networks||1993|2016
+ESARLT|empirically successful automated reasoning large theories||2007|2007
+ESARM|cicm empirically successful automated reasoning mathematics||2008|2008
+ESARS|electrical systems aircraft railway ship propulsion||2010|2012
+ESAR|c computer electronics security application rendezvous automation cybersecurity co located european cyber week||2021|2021
+ESAR|c computer electronics security application rendezvous co located european cyber week||2022|2025
+ESAR|c computer electronics security application rendezvous cybersecurity smart peripheral devices co located european cyber week||2023|2023
+ESAS|security ad hoc sensor networks first european||2005|2005
+ESAS|security privacy ad hoc sensor networks european proceedinds||2007|2007
+ESAS|security privacy ad hoc sensor networks second european revised selected papers||2005|2005
+ESAS|security privacy ad hoc sensor networks third european revised selected papers||2006|2006
+ESAT|energy science applied technology|EDP|2016|2024
+ESAT|engineering sciences technologies||2015|2019
+ESAV|tyrrhenian digital communications enhanced surveillance aircraft vehicles tiwdc|IEEE|2008|2014
+ESAV|tyrrhenian digital communications enhanced surveillance aircraft vehicles||2011|2011
+ESAW|engineering societies agents world first revised papers|Springer|2000|2000
+ESAW|engineering societies agents world ix revised selected papers||2009|2009
+ESAW|engineering societies agents world vi revised selected invited papers|Springer|2006|2006
+ESAW|engineering societies agents world viii revised selected papers||2008|2008
+ESAW|engineering societies agents world vii||2007|2007
+ESAW|engineering societies agents world v||2005|2005
+ESAW|engineering societies agents world x||2009|2009
+ESAW|engineering societies agents world|Springer|2001|2004
+ESA|algorithms european|Springer|1998|2014
+ESA|embedded systems applications||2003|2008
+ESA|european algorithms|Springer|1993|2025
+ESA|i workshops interoperability enterprise systems applications workshops co located interoperability enterprise systems applications i||2020|2022
+ESA|i ws joint interoperability enterprise systems applications workshops i ws co located interoperability enterprise systems applications i||2024|2024
+ESA|internet services doctoral interoperability enterprise systems applications i||2008|2008
+ESA|interoperability enterprise systems applications i esa2020|Springer|2023|2023
+ESA|interoperability enterprise systems applications i|Springer|2008|2025
+ESA|joint electrostatics|IEEE|2025|2025
+ESBE|enabling service business ecosystems co located mediterranean information systems||2009|2009
+ESB|european biomaterials european society biomaterials||2011|2011
+ESCAPE|combinatorics algorithms probabilistic experimental methodologies first revised selected papers||2007|2007
+ESCA|national high voltage energy storage capacitors applications hv|Springer|2024|2024
+ESCC|european computer communications|ACM|2021|2021
+ESCE|environmental science civil engineering|IOP|2019|2019
+ESCHE|energy security chemical engineering congress towards net zero pathways sustainability|EDP|2025|2025
+ESCHE|energy security chemical engineering congress|IOP|2022|2025
+ESCIM|european computational intelligence mathematics|Springer|2022|2022
+ESCINANO|enabling science nanotechnology enabling science nanotechnology escinano2010||2011|2011
+ESCINANO|enabling science nanotechnology||2010|2012
+ESCI|emerging smart computing informatics|IEEE|2020|2026
+ESCI|viii scientific technical solving environmental problems construction industry|IOP|2023|2023
+ESCM|scientific practical forum environmental aspects sustainability construction management urban real estate|EDP|2024|2024
+ESCM|xiii scientific practical forum environmental aspects sustainability construction management urban real estate|IOP|2025|2025
+ESCOR|empirically successful computerized reasoning||2006|2006
+ESCP|scientific practical forum environmentally sustainable cities settlements problems solutions|EDP|2023|2023
+ESC|energy storage||2023|2023
+ESC|energy sustainability|EDP|2025|2025
+ESC|european simulation congress|Springer|1983|1983
+ESC|first economics software computation||2007|2007
+ESC|ifac energy saving control plants buildings preprints||2006|2006
+ESDA|biennial asme conferrence engineering systems design analysis||2006|2006
+ESDA|biennial engineering systems design analysis||2004|2009
+ESDA|energy systems drives automations|Springer|2020|2024
+ESDCA|ensuring sustainable development context agriculture energy ecology earth science|EDP|2024|2024
+ESDCA|scientific practical ensuring sustainable development context agriculture energy ecology earth science|EDP|2025|2025
+ESDC|electronic systems devices computing|IEEE|2023|2023
+ESDIS|evolving self developing intelligent systems||2009|2009
+ESD|electrical overstress electrostatic discharge eos|IEEE|2004|2024
+ESD|electricals overstress electrostatic discharge eos||2008|2008
+ESD|energy sustainable development issues strategies||2010|2010
+ESD|environment sustainable development|IOP|2025|2025
+ESEC|european software engineering|Springer|1987|1995
+ESEC|joint european software engineering sigsoft foundations software engineering||2001|2001
+ESEI|energy systems environmental impacts|EDP|2020|2021
+ESEM|empirical software engineering measurement||2007|2025
+ESEP|eighth energy system electricity power|SPIE|2024|2024
+ESEP|ninth energy system electricity power|SPIE|2025|2025
+ESEP|tenth energy systems electricity power|SPIE|2026|2026
+ESET|e society e education e technology|ACM|2023|2025
+ESE|energy science engineering is|IOP|2025|2025
+ESFOR|empirically successful first order reasoning held joint automated reasoning|Springer|2013|2013
+ESFSS|european fire safety science|IOP|2025|2025
+ESGCO|european study group cardiovascular oscillations computation modelling physiology new challenges opportunities|IEEE|2020|2020
+ESGCO|european study group cardiovascular oscillations physiologically guided signal processing cardiovascular cerebrovascular oscillations|IEEE|2024|2024
+ESGCO|european study group cardiovascular oscillations|IEEE|2014|2022
+ESGMFM|efficiency security generalization multimedia foundation models co located mm|ACM|2024|2024
+ESG|scientific sustainable development|Springer|2023|2025
+ESHEP|european school high energy physics||2006|2018
+ESHP2|explosion shock wave hypervelocity phenomena materials ii selected peer reviewed papers from explosion shock wave hypervelocity phenomena||2008|2008
+ESHP|explosion shock wave high energy reaction phenomena||2011|2011
+ESHP|explosion shock wave high strain rate phenomena||2017|2017
+ESHP|explosion shock waves high strain rate phenomena||2019|2019
+ESHS|european society history science|Springer|2013|2013
+ESIAM|european structural integrity additively manufactured materials|Elsevier|2021|2021
+ESIAM|european structural integrity additively manufactures materials|Elsevier|2024|2024
+ESIAT|environmental science information application technology||2009|2015
+ESICC|energy efficiency structural integrity historical modern buildings facing climate change circularity|Elsevier|2024|2024
+ESIC|electronic systems intelligent computing|Springer|2020|2022
+ESIC|emerging systems intelligent computing|IEEE|2024|2026
+ESIC|engineering sciences|IOP|2025|2026
+ESIDA|exploratory search interactive data analytics co located|ACM|2017|2017
+ESIRMT|joint exploiting synergies between information retrieval machine translation hybrid approaches machine translation european chapter association computational linguistics||2012|2012
+ESITECH|sustainable future environmental science||2022|2022
+ESIT|earth space from infrared terahertz|SPIE|2023|2023
+ESIT|engineering science innovative technology|IEEE|2018|2018
+ESIT|engineering sciences information technology|IOP|2024|2024
+ESI|ichce hydraulic structures dams selected papers from hydraulic civil engineering engineering safety intelligence forum||2026|2026
+ESI|ichce safety monitoring risk assessment selected papers from hydraulic civil engineering engineering safety intelligence forum||2026|2026
+ESI|ichce structural engineering materials selected papers from hydraulic civil engineering engineering safety intelligence forum||2026|2026
+ESLSYN|electronic system level synthesis co located dac||2014|2014
+ESLSYN|electronic system level synthesis||2011|2013
+ESMAC|emerging smart materials applied chemistry|IOP|2023|2023
+ESMATS|european space mechanisms tribology||2005|2007
+ESMA|environmental science material application|IOP|2020|2022
+ESMA|european society mathematics arts|Springer|2012|2012
+ESMDE|empirical studies model driven engineering||2008|2008
+ESME|environmental science material application||2014|2014
+ESMGT|environmental sustainability management green technologies|EDP|2021|2023
+ESMOC|engineering software modern challenges|Springer|2022|2022
+ESMO|confernce trasmission distribution construction operation live line maintenance||2000|2000
+ESMO|pes transmission distribution construction operation live line maintenance||2006|2011
+ESMO|transmission distribution construction operation live line maintenance||2003|2003
+ESM|european simulation modelling modelling simulation||2006|2012
+ESM|european simulation modelling||2005|2021
+ESM|modelling simulation european simulation modelling||2013|2025
+ESOA|engineering self organising systems third revised selected papers||2006|2006
+ESOCC|european service oriented cloud computing|Springer|2013|2022
+ESOCC|ifip wg european service oriented cloud computing|Springer|2016|2025
+ESOCC|service oriented cloud computing first european||2012|2012
+ESOCC|service oriented cloud computing second european||2013|2013
+ESOCC|service oriented cloud computing third european|Springer|2014|2014
+ESOCC|workshops european service oriented cloud computing|Springer|2015|2015
+ESOE|emergent semantics ontology evolution co located||2007|2007
+ESOLEC|language engineering|IEEE|2022|2022
+ESOMAT|european martensitic transformations||2013|2013
+ESOMAT|european martensitic transformation|Elsevier|2025|2025
+ESOP|european programming held as part european joint theory practice software|Springer|2015|2024
+ESOP|european programming held as part joint european theory practice software|Springer|1998|2006
+ESOP|european programming held as part joint theory practice software|Springer|2026|2026
+ESOP|european programming held jointly colloquium trees algebra programming|Springer|1992|1992
+ESOP|european programming programming languages systems|Springer|2000|2000
+ESOP|european programming which was held as part joint theory practice software|Springer|2025|2025
+ESOP|european programming|Springer|1986|1996
+ESOP|programming languages systems european programming held as part european joint theory practice software|Springer|2012|2014
+ESOP|programming languages systems european programming held as part joint european theory practice software||2005|2011
+ESOP|programming languages systems european programming held as part joint european theory practics software||2007|2007
+ESORICS|computer security european research computer security|Springer|2005|2014
+ESORICS|cyber physical security critical infrastructures protection cps4cip conjunction european research computer security|Springer|2021|2021
+ESORICS|european computer security|Springer|2004|2004
+ESORICS|european research computer security|Springer|1992|2026
+ESORICS|workshops which were held conjunction european research computer security|Springer|2023|2024
+ESOS|embedded self organizing systems||2013|2013
+ESPA|emerging signal processing applications||2012|2012
+ESPC|european space power|IEEE|2019|2023
+ESPERA|economic scientific research theoretical empirical practical approaches|Springer|2023|2024
+ESPM|engineering physical sciences medicine||1985|1985
+ESPM|engineering science production management||2015|2015
+ESPRE|evolving security privacy requirements engineering|IEEE|2014|2020
+ESPRIT|status report ongoing work||1985|1985
+ESPT|extreme scale programming tools held conjunction sc high performance computing networking storage analysis|ACM|2015|2016
+ESPT|extreme scale programming tools visual performance analysis extreme scale programming tools visual performance analysis|Springer|2019|2019
+ESP|papers presented empirical studies programmers|ACM|1997|1997
+ESP|society petroleum engineers spe gulf coast section electric submersible pumps||2019|2025
+ESP|society petroleum engineers spe gulf coast section electric submersible pump||2003|2021
+ESREF|european reliability electron devices failure physics analysis|Elsevier|1994|1996
+ESREF|fifth quality electronic components conjunction second european reliability electronic devices||1992|1992
+ESREL|advances safety reliability european safety reliability||2005|2005
+ESREL|advances safety reliability risk management european safety reliability||2012|2012
+ESREL|european safety reliability estoril portugal september safety reliability managing risk||2006|2006
+ESREL|european safety reliability probabilistic safety assessment management psam15||2020|2020
+ESREL|european safety reliability risk reliability societal safety||2007|2007
+ESREL|european safety reliability stavanger norway june risk reliability societal safety||2007|2007
+ESREL|european safety reliability||2015|2022
+ESREL|safety reliability managing risk european safety reliability||2006|2006
+ESREL|safety reliability methodology applications european safety reliability||2015|2015
+ESREL|safety reliability risk analysis beyond horizon european safety reliability||2014|2014
+ESRE|environmental sciences renewable energy|EDP|2023|2025
+ESR|energy systems research|EDP|2023|2023
+ESR|society petroleum engineers spe evangeline section regional meeting||1970|1970
+ESR|young scientists energy systems research|EDP|2019|2021
+ESSA|advances social simulation european social simulation association|Springer|2014|2014
+ESSA|european social simulation association|Springer|2009|2025
+ESSA|title european social simulation association||2007|2007
+ESSCIRC|european solid state circuits challenges next millennium||1998|1998
+ESSCIRC|european solid state circuits|IEEE|1976|2023
+ESSCIRC|european solid state device research||2004|2004
+ESSCIRC|nd european solid state circuits||2006|2006
+ESSCIRC|twelfth european solid state circuits||1986|1986
+ESSCI|spring technical meeting eastern states section combustion institute||2016|2018
+ESSDERC|european solid state device research solid state device technology||1981|1981
+ESSDERC|european solid state device research|Elsevier|1991|2022
+ESSDERC|procceedings european solid state device research|Elsevier|1992|1992
+ESSDERC|satellite aggregation phenomena point defects silicon||1983|1983
+ESSDERC|satellite berlin analytical techniques semiconductor materials process characterization||1990|1990
+ESSENA|european summer school experimental nuclear astrophysics|EDP|2025|2025
+ESSERC|european solid state electronics research||2024|2025
+ESSE|european software engineering|ACM|2020|2023
+ESSLLI|european summer school logic language information|Springer|1999|2024
+ESSLLI|interfaces explorations logic language computation student sessions selected papers||2010|2010
+ESSLLI|lectures logic computation selected lecture notes||2012|2012
+ESSLLI|logic cognition||2012|2012
+ESSLLI|new directions logic language computation student sessions selected papers||2012|2012
+ESSLLI|pristine perspectives logic language computation student sessions selected papers|Springer|2014|2014
+ESSOS|engineering secure software systems first||2009|2009
+ESSOS|engineering secure software systems second||2010|2010
+ESSOS|engineering secure software systems third||2011|2011
+ESSOS|engineering secure software systems|Springer|2011|2018
+ESSPE|engineering software services pervasive environments conjunctions esec fsejoint meeting||2007|2007
+ESS|energy smart systems|IEEE|2019|2026
+ESTAL|advances natural language processing|Springer|2004|2004
+ESTC|electronic system integration technology|IEEE|2012|2018
+ESTC|electronics system integration technology|IEEE|2010|2024
+ESTC|electronics systemintegration technology||2007|2008
+ESTC|national embedded system technology|Springer|2015|2015
+ESTC|national embedded systems technology|Springer|2018|2018
+ESTECH|iest s technical meeting exposition||2018|2018
+ESTECH|technical meeting exposition iest||2017|2017
+ESTECH|technical meeting exposition institute environmental science technology||2003|2003
+ESTECH|technical meeting exposition institute environmental sciences technology||2016|2019
+ESTECH|technical meeting exposition phoenix arizona april||2001|2001
+ESTECH|technical meeting institute environmental sciences technology technical presentations||2015|2015
+ESTECH|technical meeting institute environmental sciences technology volume||2007|2011
+ESTECH|technical meeting institute environmental sciences technology||2005|2014
+ESTEEM|emergent semantics cooperation open systems||2008|2008
+ESTEL|aess european satellite telecommunications||2012|2012
+ESTEMIC|education science technology engineering mathematics stem education current future post pandemic era|IOP|2023|2023
+ESTIC|engineering science technology applied technology sustainable development|IOP|2023|2026
+ESTIMATION|identification system parameter ifac||1983|1983
+ESTIMATION|identification system parameter seventh ifac ifors||1985|1985
+ESTIMEDIA|embedded systems real time multimedia|IEEE|2010|2017
+ESTIMEDIA|ifip embedded systems real time multimedia||2006|2009
+ESTORM|review electrochemical storage materials technology freiberg electrochemical storage materials|IOP|2014|2014
+ESTS|electric ship technologies|IEEE|2007|2025
+EST|education science technology icon|IOP|2019|2019
+EST|emerging security technologies robots security lab rs learning adaptive behavior robotic systems||2010|2010
+EST|emerging security technologies|IEEE|2012|2019
+ESUCB|european ultrasonic characterization bone|IEEE|2015|2015
+ESWC|d2r2 linked data driven resilience research co located european semantic web||2024|2024
+ESWC|d2r2 linked data driven resilience research co located extended semantic web||2023|2023
+ESWC|dl4kg deep learning knowledge graphs co located extended semantic web||2020|2020
+ESWC|european semantic web satellite events|Springer|2014|2014
+ESWC|european semantic web|Springer|2015|2026
+ESWC|extended semantic web|Springer|2015|2023
+ESWC|how business application challenges semantic web research industry forum||2006|2006
+ESWC|iot4safe iot infrastructures safety pervasive environments co located extended semantic web||2020|2020
+ESWC|jp joint workshops tutorials co located european semantic web||2023|2024
+ESWC|jp joint workshops tutorials co located extended semantic web||2025|2025
+ESWC|kg4s knowledge graphs sustainability co located extended semantic web||2025|2025
+ESWC|kg4s knowledge graphs sustainability colocated extended semantic web||2024|2024
+ESWC|linked learning elearning approaches linked data age co located extended semantic web||2011|2011
+ESWC|ph d||2008|2008
+ESWC|poster phd||2010|2010
+ESWC|poster track european semantic web||2008|2008
+ESWC|satellite events held european semantic web|Springer|2026|2026
+ESWC|semantic web challenges|Springer|2016|2016
+ESWC|semantic web research applications european semantic web|Springer|2006|2009
+ESWC|semantic web research applications extended semantic web|Springer|2010|2012
+ESWC|semantic web research applications second european semantic web|Springer|2005|2005
+ESWC|semantic web satellite events revised selected papers|Springer|2013|2013
+ESWC|semantic web semantics big data||2013|2013
+ESWC|semantic web trends challenges|Springer|2014|2014
+ESWC|semantic web workshops revised selected papers||2012|2012
+ESWC|semantic web|Springer|2015|2023
+ESWC|semtech4stld semantic technologies deep learning models scientific technical legal data co located extended semantic web||2024|2025
+ESWC|text2kg mk knowledge graph generation from text modular knowledge co located extended semantic||2022|2022
+ESWC|text2sparql first text2sparql challenge first text2sparql challenge co located text2kg eswc25||2025|2025
+ESWC|trust privacy social semantic web||2009|2009
+ESWEEK|embedded systems week compilers architectures synthesis embedded systems||2011|2011
+ESWEEK|embedded systems week embedded software||2011|2011
+ESWEEK|embedded systems week embedded systems security||2009|2009
+ESWEEK|embedded systems week ifip hardware software codesign system synthesis codes||2011|2011
+ESWN|efficiency as source wealth nations|Springer|2016|2018
+ESWS|european semantic web|Springer|2004|2004
+ESW|ias electrical safety||2018|2025
+ESW|record ias electrical safety||2010|2014
+ETAACT|emerging trends advancements applications computational intelligence techniques|IEEE|2026|2026
+ETAAV|emerging technologies autonomous aerial vehicles|IEEE|2025|2025
+ETAA|emerging technologies authorization authentication co located european research computer security|Springer|2023|2023
+ETAA|emerging technologies authorization authentication|Springer|2018|2020
+ETAA|internationalworkshop emerging technologies authorization authentication co located european research computer security|Springer|2021|2021
+ETACP|emerging trends applied computational physics|IOP|2019|2019
+ETAEERE|emerging trends advances electrical engineering renewable energy|Springer|2018|2021
+ETAE|electrical technology automation engineering|IEEE|2025|2026
+ETAIC|educational technology artificial intelligence|ACM|2025|2025
+ETAI|electronics technology artificial intelligence|IOP|2022|2026
+ETAI|emerging topics artificial intelligence|SPIE|2021|2025
+ETAI|fourth electronics technology artificial intelligence|SPIE|2025|2025
+ETAI|third electronics technology artificial intelligence|SPIE|2024|2024
+ETAMM|emerging trends applied mathematics mechanics|Springer|2017|2017
+ETAPS|23rd foundations software science computational structures fossacs held as part european joint theory practice software|Springer|2020|2020
+ETAPS|cc held as part joint european theory practice software|Springer|1998|1998
+ETAPS|compiler construction cc held as part european joint theory practice software|Springer|2012|2015
+ETAPS|compiler construction cc held as part joint european theory practice software|Springer|2001|2011
+ETAPS|european joint theory practice software associated advanced communication services visualization issues formal methods advanced intelligent networks|Springer|1998|1998
+ETA|electronics engineering technology applications ies|IEEE|2018|2018
+ETA|ies electronics engineering technology applications|IEEE|2017|2017
+ETBS|emergent converging technologies biomedical systems select|Springer|2023|2023
+ETBS|emergent converging technologies biomedical systems|Springer|2022|2026
+ETCCE|emerging technology computing communication electronics|IEEE|2020|2021
+ETCCS|emerging technologies computing communications smart cities|Springer|2022|2022
+ETCCS|evolving technologies computing communication smart world|Springer|2021|2021
+ETCC|emerging technologies computing communication|IEEE|2025|2025
+ETCC|emerging trends computing communication|Springer|2014|2014
+ETCD|emerging technologies software defined reconfigurable hardware accelerated cloud datacenters held conjunction|ACM|2017|2017
+ETCEA|emerging trends computing engineering applications|IEEE|2022|2022
+ETCE|energy sources technology exhibition||1982|1982
+ETCE|engineering technology conferene energy part||2001|2001
+ETCE|engineering technology energy etce2002||2002|2002
+ETCE|proceddings engineering technology energy part b||2001|2001
+ETCHB|emerging techniques challenges hand based biometrics||2010|2010
+ETCMP|emerging trends complex systems advanced materials photonics ic|Springer|2026|2026
+ETCM|ecuador technical chapters meeting|IEEE|2016|2025
+ETCOM|emerging trends computing communication|IEEE|2025|2025
+ETCS|education technology computer science||2009|2010
+ETCT|emerging trends communication technologies|IEEE|2016|2016
+ETC|euromech european turbulence etc12|Springer|2009|2009
+ETC|european turbomachinery fluid dynamics thermodynamics||2007|2025
+ETC|european turbomachinery turbomachinery fluid dynamics thermodynamics||2019|2019
+ETC|european turbulence etc13 convection rotation stratification buoyancy effects||2011|2011
+ETC|european turbulence etc13 geophysical magnetohydrodynamic turbulence||2011|2011
+ETC|european turbulence etc13 instability transition grid turbulence jets||2011|2011
+ETC|european turbulence etc13 invited papers||2011|2011
+ETC|european turbulence etc13 particles turbulence transport processes mixing||2011|2011
+ETC|european turbulence etc13 reacting compressible multi phase cryogenic flows||2011|2011
+ETC|european turbulence etc13 statistical aspects modelling simulations turbulence||2011|2011
+ETC|european turbulence etc13 vorticity dynamics||2011|2011
+ETC|european turbulence etc13 wall bounded flows control turbulence||2011|2011
+ETC|european turbulence||2015|2020
+ETC|facing complexity transport models innovative developments sustainable mobility selected european transport|Elsevier|2020|2020
+ETC|modeling assessing future mobility scenarios selected european transport|Elsevier|2019|2019
+ETC|turbomachinery fluid dynamics thermodynamics||2005|2005
+ETDMMT|virtual emerging trends design manufacturing materials thermal sciences|Springer|2021|2021
+ETD|electronic technology directions year|IEEE|1995|1995
+ETECOM|emerging trends engineering computing|IEEE|2025|2025
+ETECTE|emerging trends electrical control telecommunication engineering|IEEE|2022|2024
+ETEEEM|engineering technology engineering education engineering management||2015|2015
+ETEE|energy technology electrical engineering|IEEE|2025|2025
+ETELT|integration emerging technologies into education training under frame methodologies intelligent systems technology enhanced learning mis4tel|Springer|2025|2025
+ETEM|energy technology engineering management||2021|2021
+ETEP|energy technology electrical power|IEEE|2025|2025
+ETERNALS|eternal systems first revised selected papers||2012|2012
+ETERNALS|trustworthy eternal systems via evolving software data knowledge|Springer|2013|2013
+ETES|electronic technology energy systems|SPIE|2026|2026
+ETFA|emerging technologies factory automation part||1996|1996
+ETFA|emerging technologies factory automation technology intelligent factory|IEEE|1992|1992
+ETFA|emerging technologies factory automation|IEEE|2005|2025
+ETFG|energy technologies future grids|IEEE|2023|2025
+ETFI|emerging technologies future innovations|IEEE|2026|2026
+ETHAICS|ethics trust human ai collaboration socio technical approaches co located joint artificial intelligence||2022|2022
+ETHICOMP|ethical social impacts ict|Springer|2026|2026
+ETHICS|engineering science technology emerging technologies social justice|IEEE|2025|2025
+ETHICS|engineering science technology engineering corporate social responsibility|IEEE|2021|2021
+ETHICS|engineering science technology global innovation helix|IEEE|2023|2023
+ETHICS|engineering science technology|IEEE|2016|2016
+ETHICS|science technology engineering|IEEE|2014|2014
+ETHNLP|acl ethics natural language processing north american chapter association computational linguistics human language technologies naacl||2018|2018
+ETICS|ifip tc economics technologies inter carrier services hetsnets future heterogeneous networks compnets computing networks|Springer|2012|2012
+ETIC|engineering technology|Elsevier|2022|2023
+ETIS|emerging technologies intelligent systems|IEEE|2025|2025
+ETIS|european tangible interaction studio||2020|2020
+ETIS|short paper european tangible interaction studio||2022|2022
+ETITE|emerging trends information technology engineering ic|IEEE|2020|2024
+ETLI|engineering technology leaders institute looking towards future next years||2018|2018
+ETLI|engineering technology leaders institute||2016|2019
+ETLTC|series ict entertainment technologies intelligent information management education industry|IOP|2024|2024
+ETLTC|series technology smart society|IOP|2026|2026
+ETMCIS|emerging trends microelectronics communication intelligent systems|Springer|2025|2025
+ETMC|environmental technology management conjunction aun seed net regional environmental engineering rc|EDP|2020|2020
+ETMC|environmental technology management|EDP|2024|2024
+ETMN|emerging technologies micro nano|IOP|2021|2025
+ETMN|emerging technology micro nano|IOP|2023|2023
+ETMS|education training modeling simulation autumn simulation multiconference||2012|2012
+ETM|incentives overlays economic traffic control third||2010|2010
+ETNCC|emerging trends networks computer communications|IEEE|2011|2025
+ETNDT|emerging technologies non destructive testing vi emerging technologies nondestructive testing||2016|2016
+ETOPIM5|electrical transport optical properties inhomogeneous media|Elsevier|2000|2000
+ETOP|education training optics photonics education training optics photonics||2023|2023
+ETOP|education training optics photonics|IEEE|2003|2025
+ETOP|fifteenth education training optics photonics|SPIE|2019|2019
+ETOP|seventeenth education training optics photonics|SPIE|2023|2023
+ETP|sigmm experiential telepresence||2003|2003
+ETRA|adjunct eye tracking research applications|ACM|2020|2020
+ETRA|eye tracking research applications adjunct|ACM|2021|2021
+ETRA|eye tracking research applications full papers|ACM|2021|2021
+ETRA|eye tracking research applications short papers|ACM|2021|2021
+ETRA|eye tracking research applications|ACM|2002|2025
+ETRA|eye tracking research application|ACM|2004|2004
+ETRA|full papers eye tracking research applications|ACM|2020|2020
+ETRA|short papers eye tracking research applications|ACM|2020|2020
+ETRICS|emerging trends information communication security|Springer|2006|2006
+ETRICS|workshops security autonomous systems long lasting security emerging trends computer security||2007|2007
+ETR|environment technology resources scientific practical||2021|2025
+ETSAIC|scientific practical ensuring technological sovereignty agro industrial complex approaches problems solutions|EDP|2023|2023
+ETSAIDE|engineering technology sustainable architectural interior design environments|IEEE|2022|2022
+ETSAP|extraction transport storage processing hydrocarbons materials||2020|2020
+ETSA|eye tracking south africa||2013|2013
+ETSECIOT|emerging technologies security iot|IEEE|2020|2020
+ETSE|end end test script engineering||2011|2011
+ETSE|pak turk emerging technologies field sciences engineering||2020|2020
+ETSIOT|enabling technologies smartphone internet things||2012|2012
+ETS|eleventh european test||2006|2006
+ETS|emerging technologies broadband communications internet era digest|IEEE|2001|2001
+ETS|european test|IEEE|2005|2025
+ETS|ninth european test||2004|2004
+ETS|society petroleum engineers spe energy transition||2023|2025
+ETTIS|emerging trends technologies intelligent systems|Springer|2023|2026
+ETTLIS|emerging trends technologies libraries information services|IEEE|2015|2018
+ETT|education technology training||2009|2009
+ETUDES|mechanical engineering agriculture biotechnology journees d mecanique agriculture et biotechnologie||1986|1986
+ETUDE|journees d les films supraconducteurs haute temperature critique||1988|1988
+ETUDE|meeting mining ore treatment sections journees d des sections mine et mineralurgie comptes rendus des seances||1982|1982
+ETUDE|meeting mining section report thursday s session may journees d de la section mine compte rendu de la seance du mai||1984|1984
+ETUDE|meeting ore treatment mining section journees d des sections mineralurgie et mine comptes rendus des seances||1982|1982
+ETUDE|meeting ore treatment mining sections journees d de la section mineralurgie et compte rendu de la seances||1982|1982
+ETUDE|society mineral industry aix les bains may friday may morning session journees d de la societe de l industrie minerale compte rendu de la seance du mai||1985|1985
+ETVC|emerging trends visual computing lix fall colloquium revised invited papers||2009|2009
+ETVIS|eye tracking visualization|Springer|2016|2018
+ETWCS|emerging technologies wireless communications systems|IEEE|1999|1999
+ETW|emerging technologies circuits systems 4g mobile wireless communications||2005|2005
+ETW|european test|IEEE|1999|1999
+ETX|eclipse technology exchange|ACM|2015|2015
+ETX|oopsla eclipse technology exchange||2006|2006
+ETX|sigplan eclipse technology exchange part|ACM|2014|2014
+EUBCE|european biomass exhibition e||2020|2020
+EUBCE|european biomass exhibition||2019|2025
+EUCAP|european antennas propagation|IEEE|2006|2025
+EUCAS|european applied superconductivity electronics|IOP|2014|2014
+EUCAS|european applied superconductivity large scale|IOP|2014|2014
+EUCAS|european applied superconductivity materials|IOP|2014|2014
+EUCAS|european applied superconductivity wires tapes conductors|IOP|2014|2014
+EUCAS|european applied superconductivity|IOP|2000|2020
+EUCEET|civil engineering education challenges third millennium||2018|2018
+EUCNC|european networks communications|IEEE|2014|2020
+EUCOCC3|third european computational chemistry||2001|2001
+EUCOMES|european mechanism science|Springer|2006|2024
+EUC|computational science engineering embedded ubiquitous computing cse|IEEE|2019|2019
+EUC|computational science engineering ifip embedded ubiquitous computing cse|IEEE|2017|2017
+EUC|embedded ubiquitous computing workshops uisw ncus secubiq usn taues||2005|2005
+EUC|embedded ubiquitous computing|IEEE|2005|2025
+EUC|emerging direction embedded ubiquitous computing workshops trust wsoc ncus uuwsn usn esq secubiq||2007|2007
+EUC|emerging directions embedded ubiquitous computing workshops ncus secubiq usn trust eso msa|Springer|2006|2006
+EUC|ifip embedded ubiquitous computing|IEEE|2010|2015
+EUC|workshops ubiquitous intelligence smart worlds ifip network centric ubiquitous systems security ubiquitous computing systems rfid ubiquitous sensor networks trusted autonomic ubiquitous embedded systems held conjunction ifip embedded ubiquitous computing|Springer|2005|2005
+EUD|end user development is|Springer|2009|2025
+EUD|end user development third is||2011|2011
+EUD|wwdd is joint workshops work progress demos doctoral consortium is co located end user development is||2023|2025
+EUEC|electric utilities environmental joint epa doe eei epri air quality global climate change renewable energy||2006|2006
+EUMAS|european multi agent systems agreement technologies|Springer|2016|2020
+EUMAS|european multi agent systems|Springer|2006|2025
+EUMAS|multi agent systems european revised selected papers||2012|2012
+EUMA|european microwave|IEEE|1969|1994
+EUMCE|european microwave central europe|IEEE|2019|2019
+EUMC|european microwave|IEEE|1996|2025
+EUMIC|european microwave integrated circuits|IEEE|2007|2025
+EUMIC|european microwave integrated circuit||2008|2008
+EUMIC|european microwave week connecting world||2010|2010
+EUMIC|european microwave week||2007|2007
+EUMW|european microwave week connecting future european microwave integrated circuits|IEEE|2014|2014
+EUMW|european microwave week connecting future european microwave|IEEE|2014|2014
+EUMW|european microwave week connecting future european radar|IEEE|2014|2014
+EUMW|european microwave week eumw2010 connecting world european microwave||2010|2010
+EUMW|european microwave week eumw2010 connecting world european radar||2010|2010
+EUMW|european microwave week eumw2010 connecting world european wireless technology||2010|2010
+EUMW|european microwave week european microwave integrated circuits||2013|2013
+EUMW|european microwave week european microwave||2013|2013
+EUMW|european microwave week european radar||2013|2013
+EUMW|european microwave week freedom through microwaves european microwave eumc|IEEE|2015|2015
+EUMW|european microwave week freedom through microwaves european microwave integrated circuits eumic|IEEE|2015|2015
+EUMW|european microwave week microwaves everywhere european microwave|IEEE|2016|2016
+EUMW|european microwave week prime year prime event european microwave|IEEE|2017|2017
+EUMW|european microwave week science progress quality radiofrequencies european microwave integrated circuits||2009|2009
+EUMW|european microwave week science progress quality radiofrequencies european microwave||2009|2009
+EUMW|european microwave week science progress quality radiofrequencies european radar||2009|2009
+EUMW|european microwave week space microwaves european microwave integrated circuits||2012|2012
+EUMW|european microwave week space microwaves european microwave||2012|2012
+EUMW|european microwave week space microwaves european radar||2012|2012
+EUMW|european microwave week wave future european microwave integrated circuit||2011|2011
+EUMW|european microwave week wave future european microwave||2011|2011
+EUMW|european microwave week wave future european radar||2011|2011
+EUMW|european microwave week||2007|2007
+EUNICE|dependable adaptable networks services open european summer school ifip tc6||2007|2007
+EUNICE|energy aware communications||2011|2011
+EUNICE|ifip networked applications|Springer|2006|2006
+EUNICE|ifip wg european network universities companies information communication technology|Springer|2010|2010
+EUNICE|information communication technologies ifip wg||2012|2012
+EUNICE|internet future open european summer school ifip tc6||2009|2009
+EUNICE|networked services applications engineering control management ifip wg||2010|2010
+EUNICE|open european summer school ifip tc6 european network universities companies information communication engineering|Springer|2007|2007
+EUNICE|open european summer school ifip tc6|Springer|2009|2009
+EUNIS|changing universities role technology european university information systems||2002|2002
+EUNIS|congress european university information systems||2022|2022
+EUNIS|european university information systems congress||2023|2023
+EUNIS|european university information systems||2021|2021
+EUNSAT|european unsaturated soils biotechnology applied geotechnical engineering eunsat2025 bge|EDP|2025|2025
+EURAD|european radar|IEEE|2005|2025
+EURALEX|congress european association lexicography||2020|2021
+EURALI|resources technologies indigenous endangered lesser resourced languages eurasia lrec||2024|2024
+EURASC|kepler prize european academy sciences|Springer|2014|2014
+EURASIA|ifip tc information communication technology ict ifip wg working research practical issues enterprise information systems held conjunction ifip world computer congress|Springer|2015|2015
+EURASIA|information communication technology ict||2013|2013
+EURASIA|information communication technology second ifip tc5 ict|Springer|2014|2014
+EURECA|engineering computing research|IOP|2021|2024
+EURECA|engineering research|IOP|2019|2024
+EURFID|eurasip rfid technology|IEEE|2015|2018
+EUROBOT|euromicro advanced mobile robots|IEEE|1996|1996
+EUROBOT|research education robotics revised selected papers||2009|2011
+EUROBOT|research education robotics||2011|2011
+EUROCAL|computer algebra|Springer|1989|1989
+EUROCAL|european computer algebra|Springer|1983|1985
+EUROCAM|computer algebra european computer algebra|Springer|1982|1982
+EUROCAM|european computer algebra|Springer|1982|1982
+EUROCARTO|ica european cartography||2016|2016
+EUROCAST|computer aided systems theory computer aided systems theory revised selected papers||2005|2005
+EUROCAST|computer aided systems theory computer aided systems theory||2007|2007
+EUROCAST|computer aided systems theory revised selected papers||2009|2013
+EUROCAST|computer aided systems theory|Springer|1990|2025
+EUROCAST|european computer aided systems theory|Springer|1990|1990
+EUROCAST|second computer aided systems theory||1992|1992
+EUROCAST|selection papers from computer aided systems theory revised papers||2001|2001
+EUROCAT|european context awareness trust combining context trust security privacy conjunction||2009|2009
+EUROCHEM|chemical engineering today challenge change||1983|1983
+EUROCK|european rock mechanics||2018|2018
+EUROCK|isrm european rock mechanics||2024|2024
+EUROCK|isrm regional||2015|2015
+EUROCK|rock engineering difficult ground conditions soft rocks karst regional society rock mechanics||2010|2010
+EUROCK|rock engineering rock mechanics structures rock masses isrm european regional||2014|2014
+EUROCK|rock mechanics civil environmental engineering european rock mechanics||2010|2010
+EUROCLAY|selection papers presented sixth meeting european clay groups|Elsevier|1989|1989
+EUROCODE|coding theory applications|Springer|1991|1991
+EUROCOLT|european computational learning theory|Springer|1997|1999
+EUROCOMM|afcea information systems enhanced public safety security|IEEE|2000|2000
+EUROCON|computer as tool joint conftele||2011|2011
+EUROCON|computer as tool||2005|2007
+EUROCON|european electrotechnics advanced technologies processes communication power systems||1986|1986
+EUROCON|european electrotechnics area communication||1988|1988
+EUROCON|european electrotechnics computers communication control||1986|1986
+EUROCON|region computer as tool|IEEE|2003|2003
+EUROCON|reliability electrical electronic components systems european electrotechnics preprints||1982|1982
+EUROCON|smart technologies|IEEE|2017|2025
+EUROCON|trends communications|IEEE|2001|2001
+EUROCORR|congress european federation corrosion corrosion congress process safety congress||2017|2017
+EUROCORR|european corrosion congress||2015|2018
+EUROCORR|european corrosion long term prediction modelling corrosion||2004|2004
+EUROCORR|event european federation corrosion||1982|1982
+EUROCOW|european calibration orientation remote sensing||2025|2025
+EUROCRYPT|advances cryptology theory application cryptographic techniques|Springer|1988|1990
+EUROCRYPT|advances cryptology theory applications cryptographic techniques barcelona||2007|2007
+EUROCRYPT|advances cryptology theory applications cryptographic techniques|Springer|2005|2014
+EUROCRYPT|theory application cryptographic techniques|Springer|1985|2001
+EUROCRYPT|theory applications cryptographic techniques|Springer|1986|2026
+EUROCVD|ecs transactions||2009|2009
+EUROCVD|european chemical vapour deposition|EDP|2000|2000
+EUROCVD|fifteenth european chemical vapor deposition||2005|2005
+EUROCYBERSEC|security computer information sciences|Springer|2022|2022
+EURODIM|europhysical defects insulating materials||1995|1995
+EURODIM|papers presented europhysical defects insulating materials||2007|2007
+EURODISPLAY|display research||2005|2013
+EURODISPLAY|papers from display research volume ii||1985|1985
+EURODISPLAY|papers from display research volume||1985|1985
+EURODISPLAY|twenty fifth display research||2005|2005
+EURODYMAT|mechanical physical behaviour materials under dyanmic loading||2006|2006
+EURODYN|european structural dynamics||2008|2008
+EURODYN|structural dynamics||2011|2020
+EUROGEO|european geosynthetics|EDP|2025|2025
+EUROGP|european genetic programming held as part|Springer|2019|2026
+EUROGP|european genetic programming|Springer|1998|2021
+EUROGP|genetic programming european||2005|2013
+EUROGRAPHICS|european association computer graphics education papers||2015|2019
+EUROGRAPHICS|european association computer graphics full papers||2016|2016
+EUROGRAPHICS|european association computer graphics posters||2016|2019
+EUROGRAPHICS|european association computer graphics short papers||2017|2020
+EUROGRAPHICS|european association computer graphics||2005|2012
+EUROGRAPHICS|european computer graphics exhibition computer interface||1986|1986
+EUROGRAPHICS|european computer graphics||2007|2007
+EUROGRAPHICS|european graphics exhibition||1984|1985
+EUROGRAPHICS|exhibition european association computer graphics||1996|1996
+EUROHAPTICS|haptics generating perceiving tangible sensations||2010|2010
+EUROHAPTICS|haptics neuroscience devices modeling applications|Springer|2014|2014
+EUROHAPTICS|haptics perception devices control applications|Springer|2016|2016
+EUROHAPTICS|haptics perception devices mobility communication||2012|2012
+EUROHAPTICS|haptics perception devices scenarios||2008|2008
+EUROHAPTICS|haptics science technology applications|Springer|2018|2018
+EUROHAPTICS|human haptic sensing touch enabled computer applications|Springer|2020|2025
+EUROHCIR|european human computer interaction information retrieval||2011|2012
+EUROIMSA|iasted european internet multimedia systems applications||2007|2009
+EUROIMSA|iasted internet multimedia systems applications||2005|2005
+EUROINVENT|innovative research icir|IOP|2019|2021
+EUROISI|intelligence security informatics first european esbjerg denmark december||2008|2008
+EUROITV|european european interactive television||2009|2009
+EUROITV|european interactive tv video||2012|2013
+EUROITV|european interactive tv||2011|2011
+EUROITV|interactive tv shared experience european||2007|2007
+EUROITV|interactive tv video||2010|2010
+EUROLAN|summer school linguistic linked open data social media web linked data|Springer|2016|2016
+EUROMAT|photonics photoactive materials european congress exhibition advanced materials processes||2020|2020
+EUROMECH|similarity symmetry group theoretical methods mechanics|Springer|2014|2014
+EUROMEDIA|delft netherlands april||2007|2007
+EUROMEDIA|scientific web technology new media communications telematics theory methods tools applications medical imaging d tv||2008|2008
+EUROMEDIA|scientific web technology new media communications telematics theory methods tools applications||2005|2012
+EUROMED|digital heritage third||2010|2010
+EUROMED|digital heritage|Springer|2018|2018
+EUROMED|euro mediterranean cultural heritage|Springer|2016|2016
+EUROMED|euro mediterranean digital heritage|Springer|2016|2016
+EUROMED|european mediterranean digital heritage|Springer|2010|2016
+EUROMED|european mediterranean|Springer|2021|2021
+EUROMED|progress cultural heritage preservation||2012|2012
+EUROMICRO|euromicro2009 software engineering advanced applications||2009|2009
+EUROMICRO|fifteenth microprocessing microprogramming|Elsevier|1989|1989
+EUROMICRO|informatics theory practice new millennium||1999|1999
+EUROMICRO|microprocessing microprogramming|Elsevier|1992|1992
+EUROMICRO|net odyssey||2001|2001
+EUROMICRO|new frontiers information technology||1997|1997
+EUROMICRO|real time||1990|1990
+EUROMICRO|seventeenth microprocessing microprogramming|Elsevier|1991|1991
+EUROMICRO|short notes microcomputers usage methods structures||1987|1987
+EUROMICRO|short notes microcomputers usage methods structure||1988|1988
+EUROMICRO|short notes||1985|1987
+EUROMICRO|software engineering advanced applications||2007|2008
+EUROMICRO|supercomputers technology applications fourteenth microprocessing microprogramming|Elsevier|1988|1988
+EUROMICRO|system architecture integration||1994|1994
+EUROMLSYS|european machine learning systems|ACM|2022|2026
+EUROMLSYS|machine learning systems|ACM|2021|2025
+EUROMPI|european mpi users group meeting|ACM|2011|2026
+EUROMPI|recent advances message passing interface european mpi users group meeting||2010|2012
+EURONOISE|european noise control advanced solutions noise control||2006|2006
+EURONOISE|european noise control institute acoustics||2009|2009
+EURONOISE|european noise control||2008|2012
+EUROPAR|european parallel distributed computing|Springer|2020|2020
+EUROPECOMM|communications infrastructure systems applications europe first icst revised selected papers||2009|2009
+EUROPEC|eage exhibition incorporating spe||2012|2013
+EUROPEC|european association geoscientists engineers eage conferene exibition incorporating spe extend abstract||2005|2005
+EUROPEC|european association geoscientists engineers exhibition balancing global resources incorporating spe||2009|2009
+EUROPEC|european association geoscientists engineers exhibition experience energy incorporating spe||2014|2014
+EUROPEC|european association geoscientists engineers exhibition incorporating spe changing frontiers||2013|2013
+EUROPEC|european association geoscientists engineers exhibition incorporating spe responsibly securing natural resources||2012|2012
+EUROPEC|european association geoscientists engineers exhibition incorporating spe workshops||2010|2011
+EUROPEC|european association geoscientists engineers exhibition new spring geoscience incorporating spe||2010|2010
+EUROPEC|european association geoscientists engineers exhibition opportunities mature areas incorporating spe||2006|2006
+EUROPEC|european association geoscientists engineers exhibition securing future incorporating spe||2007|2007
+EUROPEC|european petroleum||2000|2000
+EUROPEC|society petroleum engineers european association geoscientists engineers exhibition incorporating spe||2008|2011
+EUROPES|iasted european power energy systems||2009|2009
+EUROPES|iasted power energy systems||2005|2012
+EUROPES|sixth iasted european power energy systems||2006|2006
+EUROPE|electromagnetic compatibility emc emc|IEEE|2017|2020
+EUROPE|emc electromagnetic compatibility||2012|2012
+EUROPE|exhibition high performance computing networking hpcn|Springer|1996|1996
+EUROPE|information theory cleo||1998|1998
+EUROPE|lasers electro optics cleo||2003|2003
+EUROPE|objects components models patterns tools|Springer|2008|2008
+EUROPE|offshore papers||1981|1981
+EUROPE|pcic petroleum chemical industry committee electrical automation knowledge sharing event||2019|2019
+EUROPE|pcic petroleum chemical industry electrical instrumentation applications||2009|2009
+EUROPE|pcic record pcic||2010|2010
+EUROPE|pes innovative smart grid technologies isgt|IEEE|2023|2024
+EUROPE|petroleum chemical industry pcic||2012|2012
+EUROPE|record pcic pcic||2013|2013
+EUROPE|sigsand ais sigsand european analysis design use societal impact information systems||2008|2008
+EUROPE|technology engineering management societal challenges technology transitions resilience virtual temscon|IEEE|2022|2022
+EUROPHOTON|eps qeod solid state fibre waveguide coherent light sources|EDP|2024|2024
+EUROPIA|cyber design media communication design practice||2001|2001
+EUROPKI|european public key infrastructures services applications|Springer|2010|2014
+EUROPKI|public key infrastructure european pki theory practice||2007|2007
+EUROPKI|public key infrastructure european pki workship theory practice||2008|2008
+EUROPKI|public key infrastructure second european pki research applications revised selected papers||2005|2005
+EUROPKI|public key infrastructure third european pki theory practice|Springer|2006|2006
+EUROPKI|public key infrastructures services applications european revised selected papers||2010|2013
+EUROPLEX|european network particle physics lattice field theory extreme computing||2024|2024
+EUROPLOP|european pattern languages programming||2008|2009
+EUROPLOP|european pattern languages programs invited post||2012|2012
+EUROPLOP|european pattern languages programs people practices|Springer|2024|2026
+EUROPLOP|european pattern languages programs preliminary||2005|2005
+EUROPLOP|european pattern languages programs|ACM|2006|2023
+EUROPLOP|invited european pattern languages programs|ACM|2012|2012
+EUROPT|euro mini continuous optimization knowledge based technologies||2008|2008
+EUROPT|mini euro continuous optimization information based technologies financial sector mec||2010|2010
+EUROPVM|european parallel virtual machine|Springer|1996|1996
+EUROSAM|symbolic algebraic manipulation|Springer|1979|1979
+EUROSEC|european system security eurosec08|ACM|2008|2008
+EUROSEC|european system security|ACM|2009|2023
+EUROSEC|european systems security co located european computer systems|ACM|2017|2017
+EUROSEC|european systems security part|ACM|2024|2026
+EUROSEC|european systems security|ACM|2018|2022
+EUROSEC|european systems|ACM|2021|2021
+EUROSENSORS|transducers solid state sensors actuators microsystems||2007|2007
+EUROSENSORS|transducers xxvii solid state sensors actuators microsystems transducers||2013|2013
+EUROSIME|intl conf thermal mechanical multi physics simulation experiments microelectronics microsystems||2011|2011
+EUROSIME|thermal mechanical multi physics simulation experiments micro electronics micro systems||2005|2005
+EUROSIME|thermal mechanical multi physics simulation experiments microelectronics micro systems||2007|2008
+EUROSIME|thermal mechanical multi physics simulation experiments microelectronics microsystems|IEEE|2009|2026
+EUROSIME|thermal mechanical multiphysics simulation experiments micro electronics micro systems||2006|2006
+EUROSIME|thermal mechanical simulation experiments microelectronics microsystems||2004|2004
+EUROSIM|congress modelling simulation|IEEE|2015|2015
+EUROSIM|congress simulation sustainable future|Springer|2024|2024
+EUROSPEECH|european speech communication technology||1989|2003
+EUROSPEECH|scandinavia european speech communication technology||2001|2001
+EUROSPF|european superplastic forming||2020|2020
+EUROSPI|european software process improvement|Springer|2004|2008
+EUROSPI|european system software process improvement|Springer|2011|2013
+EUROSPI|european systems software services process improvement innovation|Springer|2014|2014
+EUROSPI|european systems software services process improvement|Springer|2015|2026
+EUROSPI|software process improvement european|Springer|2005|2007
+EUROSPI|systems software services process improvement european||2010|2012
+EUROSSC|european smart sensing context|Springer|2008|2010
+EUROSSC|smart sensing context european||2009|2010
+EUROSSC|smart sensing context first european|Springer|2006|2006
+EUROSSC|smart sensing context second european||2007|2007
+EUROSTRUCT|european association quality control bridges structures|Springer|2022|2022
+EUROSYS|european computer systems|ACM|2009|2026
+EUROSYS|minema co located|ACM|2008|2008
+EUROSYS|privacy design distributed systems p2ds co located european computer systems|ACM|2015|2015
+EUROSYS|security dependability multi domain infrastructures xdom0 co located european computer systems|ACM|2017|2017
+EUROTECH|society plastics engineers||2013|2013
+EUROTEC|society plastics engineers||2011|2011
+EUROTHERM|european thermal sciences||2021|2021
+EUROTRIB|congress tribology|Elsevier|1990|1990
+EUROTRIB|tribology congress|Elsevier|1982|1982
+EUROUSEC|european usable security|ACM|2021|2025
+EUROVA|eurovis visual analytics||2015|2025
+EUROVA|visual analytics||2011|2014
+EUROVIS|eurographics vgtc visualization posters||2016|2016
+EUROVIS|eurographics visualization short papers||2014|2015
+EUROVIS|molecular graphics visual analysis molecular data molva||2019|2019
+EUROVIS|visual analytics science technology eurovast||2010|2010
+EUROVIS|visual analytics using multidimensional projections vamp||2013|2013
+EUROVR|exhibition european association virtual reality augmented reality||2014|2014
+EUROVR|joint virtual reality egve eurographics virtual environments icat||2009|2009
+EUROVR|joint virtual reality egve||2013|2013
+EUROVR|virtual reality augmented reality|Springer|2017|2020
+EUROXR|virtual reality mixed reality|Springer|2021|2026
+EURO|society petroleum engineers spe europe energy exhibition||2024|2025
+EURO|society petroleum engineers spe europec europe energy featured eage exhibition||2022|2023
+EURO|society petroleum engineers spe europec featured eage exhibition||2021|2021
+EUR|society petroleum engineers european petroleum||1982|1984
+EUR|society petroleum engineers spe european meeting||1973|1973
+EUR|society petroleum engineers spe european regional meeting||1968|1968
+EUR|technology engineering management europe temscon|IEEE|2021|2021
+EUSAI|european ambient intelligence|Springer|2003|2004
+EUSAI|european union ambient intelligence||2004|2004
+EUSAI|joint smart objects ambient intelligence innovative context aware services usages technologies soc||2005|2005
+EUSAR|european synthetic aperture radar|IEEE|2008|2024
+EUSC|esa theory applications knowledge driven image information mining focus earth observation||2004|2004
+EUSFLAT|european society fuzzy logic technology advances intelligent systems research||2013|2013
+EUSFLAT|european society fuzzy logic technology french days fuzzy logic applications||2011|2011
+EUSFLAT|european society fuzzy logic technology intuitionistic fuzzy sets generalized nets|Springer|2018|2018
+EUSFLAT|european society fuzzy logic technology|Springer|2020|2025
+EUSFLAT|fuzzy logic technology aggregation operators european society fuzzy logic technology summer school aggregation operators|Springer|2023|2023
+EUSFLAT|fuzzy systems association world congress european society fuzzy logic technology ifsa||2009|2009
+EUSFLAT|new dimensions fuzzy logic related technologies||2007|2007
+EUSIPCO|european signal processing|IEEE|1996|2025
+EUSPEN|anniversary european society precision engineering nanotechnology||2008|2008
+EUSPEN|european society precision engineering nanotechnology exhibition||2018|2023
+EUSPEN|european society precision engineering nanotechnology||2005|2021
+EUSPN|emerging ubiquitous systems pervasive networks current future trends information communication technologies healthcare affiliated workshops|Elsevier|2019|2019
+EUSPN|emerging ubiquitous systems pervasive networks current future trends information communication technologies healthcare|Elsevier|2021|2025
+EUS|congress european union systemics ues|Springer|2026|2026
+EUS|model driven information systems engineering enterprise user system models modise held conjunction||2008|2008
+EUVIP|european visual information processing euvip2010||2010|2010
+EUVIP|european visual information processing final program||2011|2011
+EUVIP|european visual information processing|IEEE|2013|2025
+EUVXRAY|compact euv x ray light sources high brightness sources light driven interactions congress part optica high brightness sources light driven interactions congress||2024|2024
+EUVXRAY|compact euv x ray light sources||2016|2022
+EUV|extreme ultraviolet lithography iii||2012|2012
+EUV|extreme ultraviolet lithography ii||2011|2011
+EUV|extreme ultraviolet lithography iv||2013|2013
+EUV|extreme ultraviolet lithography v|SPIE|2014|2014
+EUV|extreme ultraviolet lithography xii|SPIE|2021|2021
+EUV|extreme ultraviolet lithography xi|SPIE|2020|2020
+EUV|extreme ultraviolet lithography||2010|2010
+EUWIT|european microwave week science progress quality radiofrequencies european wireless technology||2009|2009
+EUWIT|european wireless technology||2008|2008
+EVAAL|competitions final|Springer|2013|2013
+EVAAL|evaluating aal systems through competitive benchmarking competitions final revised selected papers|Springer|2013|2013
+EVAAL|evaluating aal systems through competitive benchmarking indoor localization tracking competition final revised selected papers||2012|2012
+EVACES|experimental vibration analysis civil engineering structures volume|Springer|2023|2023
+EVACES|experimental vibration analysis civil engineering structures|Springer|2023|2025
+EVALITA|evaluation campaign natural language processing speech tools italian final||2020|2026
+EVALITA|evaluation natural language speech tools italian revised selected papers||2013|2013
+EVALLAC|automated evaluation learning assessment content co located artificial intelligence education||2024|2025
+EVALMG|evaluation multi modal generation||2025|2025
+EVALRS|rounded evaluation recommender systems co located knowledge discovery data mining||2023|2023
+EVCOP|evolutionary computation combinatorial optimization european preceedings||2008|2008
+EVCS|eelco visser commemorative||2023|2023
+EVC|electric vehicle|Elsevier|2023|2023
+EVENTSTORY|events stories news||2017|2018
+EVENTS|definition detection coreference representation meeting association computational linguistics||2014|2014
+EVENTS|definition detection coreference representation north american chapter association computational linguistics human language technologies naacl||2013|2016
+EVENTS|recognising tracking web real life located hellenic artificial intelligence||2010|2010
+EVENT|detection recognition events video|IEEE|2001|2001
+EVER|ecological vehicles renewable energies|IEEE|2014|2021
+EVER|exhibition ecological vehicles renewable energies||2013|2013
+EVF|energy city future|EDP|2022|2022
+EVI|charging ahead||2023|2023
+EVM|sae aabc ev mobility||2024|2024
+EVN|european vlbi network mini users meeting||2021|2021
+EVOBIO|evolutionary computation machine learning data mining bioinformatics european||2007|2013
+EVOCOP|european evolutionary computation combinatorial optimisation held as part|Springer|2023|2023
+EVOCOP|european evolutionary computation combinatorial optimisation|Springer|2022|2022
+EVOCOP|european evolutionary computation combinatorial optimization held as part evostar|Springer|2020|2020
+EVOCOP|european evolutionary computation combinatorial optimization held as part|Springer|2019|2026
+EVOCOP|european evolutionary computation combinatorial optimization|Springer|2001|2018
+EVOCOP|evolutionary computation combinatorial optimization european||2005|2013
+EVODYN|joint knowledge evolution ontology dynamics conjunction semantic web||2011|2012
+EVOIASP|european workshops evolutionary image analysis signal processing telecommunications|Springer|1999|1999
+EVOLVE|evolutionary computation held conjuction summer school evolutionary computing optimization data mining|Springer|2018|2018
+EVOLVE|evolutionary computation v|Springer|2014|2014
+EVOL|iwpse principles software evolution||2011|2011
+EVOL|joint ercim software evolution principles software evolution held conjunction automated software engineering||2010|2010
+EVOMUSART|artificial intelligence music sound art design held as part|Springer|2021|2025
+EVOMUSART|computational intelligence music sound art design held as part|Springer|2019|2019
+EVOMUSART|computational intelligence music sound art design|Springer|2017|2018
+EVOMUSART|european artificial intelligence music sound art design held as part|Springer|2020|2023
+EVOMUSART|evolutionary biologically inspired music sound art design first||2012|2012
+EVOMUSART|evolutionary biologically inspired music sound art design second||2013|2013
+EVOMUSART|evolutionary biologically inspired music sound art design third revised selected papers|Springer|2014|2014
+EVOMUSART|evolutionary biologically inspired music sound art design|Springer|2015|2016
+EVONLP|ever evolving nlp||2022|2022
+EVOROBOT|european evolutionary robotics|Springer|1998|1998
+EVOSTAR|applications evolutionary computation evoapplications held as part|Springer|2019|2023
+EVOSTAR|european applications evolutionary computation evoapplications held as part|Springer|2020|2026
+EVOSTOC|european applications evolutionary computation evoapplications evocomplex evogames evoiasp evointelligence evonum|Springer|2011|2011
+EVOTE|electronic voting evote08||2008|2008
+EVOTE|electronic voting verifying vote|IEEE|2015|2015
+EVOTE|electronic voting||2010|2012
+EVOWORKSHOPS|application evolutionary computing evocomnet evofin evohot evolasp evomusart evonum evostoc evotranslog||2008|2008
+EVOWORKSHOPS|applications evolutionary computing evobio evocomnet evohot evoiasp evointeraction evomusart evostoc||2006|2006
+EVOWORKSHOPS|applications evolutionary computing evocop evoiasp evostim evoplan||2002|2002
+EVOWORKSHOPS|european applications evolutionary computation evobio evocomnet evohot evoiasp evomusart evostoc|Springer|2004|2004
+EVOWORKSHOPS|european evolutionary computation image analysis signal processing european evolutionary computation systems control drives industry evo european evolutionary telecommunications european evolutionary scheduling timetabling european evolutionary robotics european evolutionary aeronautics held conjunction european genetic programming evolvable systems|Springer|2000|2000
+EVOWORKSHOPS|european workshops applications evolutionary computating evocop evoiasp evostim evoplan|Springer|2002|2002
+EVOWORKSHOPS|european workshops applications evolutionary computing evobio evocop evoiasp evomusart evorob evostim|Springer|2003|2003
+EVS9|electric vehicle||1989|1989
+EVS|battery hybrid fuel cell electric vehicle exhibition||2005|2009
+EVS|battery hybrid fuel cell electric vehicle exposition||2006|2006
+EVS|electric drive transportation association electric vehicle exposition sustainability future transportation||2007|2007
+EVS|electric drive transportation association int electric vehicle exposition conf proc sustainability future transportation||2007|2007
+EVS|electric vehicle exhibition electric vehicle technology||2018|2018
+EVS|electric vehicle exhibition||2015|2017
+EVS|electric vehicle||2012|2016
+EVS|sustainable mobility revolution world battery hybrid fuel cell electric vehicle exhibition||2010|2010
+EVS|world electric vehicle exhibition|IEEE|2014|2014
+EVT|usenix accurate electronic voting technology||2006|2008
+EWAC|energy water automation||2021|2021
+EWAED|egyptian advancements electronic devices|IEEE|2002|2002
+EWAF|european algorithmic fairness||2023|2025
+EWASS|special session stellar multiplicity gaia era where do we stand||2019|2019
+EWCBR|european advances case based reasoning|Springer|2000|2000
+EWCBR|european case based reasoning|Springer|1994|1998
+EWCIS|emerging wireless communication technologies information security|Springer|2021|2021
+EWDCC|european dependable cloud computing||2012|2012
+EWDC|dependable computing european||2013|2013
+EWDC|proc european dependable computing||2011|2011
+EWDOS|european distributed object security|Springer|1999|1999
+EWDTS|east west design test|IEEE|2008|2025
+EWEA|european wind energy association exhibition scientific||2015|2015
+EWEA|european wind energy association exhibition||2014|2014
+EWEC|european wind energy exhibition||2006|2013
+EWEC|exhibition european wind energy association|Elsevier|1992|1992
+EWGAE|acoustic emission testing european acoustic emission testing||2006|2006
+EWGT|euro working group transportation meeting|Elsevier|2020|2024
+EWGT|euro working group transportation|Elsevier|2026|2026
+EWGT|meeting euro working group transportation||2014|2014
+EWHCI|human computer interaction|Springer|1993|1995
+EWIMT|european integration knowledge semantics digital media technology||2005|2005
+EWME|european microelectronics education|IEEE|2014|2018
+EWMF|semantics web mining joint workshops revised selected papers||2006|2006
+EWMF|web mining from web semantic web first european web mining forum|Springer|2004|2004
+EWNLG|european natural language generation|Springer|1993|1993
+EWOFS|european optical fibre sensors|SPIE|2023|2023
+EWOFS|processings second european optical fibre sensors||2004|2004
+EWOFS|spie third european optical fibre sensors||2007|2007
+EWOMP|european openmp||2000|2000
+EWRE|environment water resources engineering|EDP|2020|2020
+EWRL|recent advances reinforcement learinig european revised selected papers||2008|2008
+EWRL|recent advances reinforcement learning european revised selected papers||2012|2012
+EWR|arid land hydrogeology search solution threatened resource uae japan sustainable gcc environment water resources||2006|2006
+EWR|reclaiming desert towards sustainable environment arid lands uae japan sustainable gcc environment water resources||2006|2006
+EWSA|european software architecture|Springer|2004|2006
+EWSA|software architecture european||2005|2005
+EWSDN|european software defined networks|IEEE|2012|2014
+EWSHM|european structural health monitoring european prognostics health management society||2014|2014
+EWSHM|european structural health monitoring|Springer|2012|2024
+EWSL|european working session learning|Springer|1991|1991
+EWSN|embedded wireless systems networks|ACM|2016|2025
+EWSN|european wireless sensor networks|Springer|2004|2015
+EWSN|second european wireless sensor networks||2005|2005
+EWSN|wireless sensor networks european|Springer|2007|2014
+EWSN|wireless sensor networks third european||2006|2006
+EWSPT|european software process technology|Springer|1992|2001
+EWSP|european planning|Springer|1991|1991
+EWTEC|european wave tidal energy||2021|2023
+EWT|scientific practical efficient waste treatment||2021|2021
+EXACOMM|workshops high performance computing isc high performance communication architectures extreme scale exascale multi many core computing systems e hpc i o data center hpc application performance intel xeon phi being prepared knl beyond openpower hpc performance portable programming models accelerators p 3ma virtualization high performance cloud computing performance scalability storage systems|Springer|2016|2016
+EXACT|explanation aware computing held conjunction european artificial intelligence||2008|2010
+EXACT|explanation aware computing||2020|2020
+EXAG|experimental artificial intelligence games co located aaai artificial intelligence interactive digital entertainment||2023|2024
+EXAMPI|exascale held conjunction sc high performance computing networking storage analysis|IEEE|2014|2014
+EXAMPI|exascale mpi held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+EXCHANGE|adsorption ion||1983|1983
+EXCON|excitonic photonic processes condensed matter nano materials|IOP|2019|2019
+EXCON|physica status solidi c current topics solid state physics papers presented excitonic processes condensed matter||2006|2006
+EXEN|explainability engineering|ACM|2024|2024
+EXHET|extreme heterogeneity solutions|ACM|2022|2025
+EXHIBITION|automatic testing test measurement||1983|1985
+EXHIBITION|sampe materials sciences future||1986|1986
+EXLING|isca tutorial research experimental linguistics||2010|2011
+EXLING|itrw experimental linguistics||2006|2008
+EXMATEC|expert evaluation control compound semiconductor materials technologies|Elsevier|1997|2003
+EXMATEC|papers presented expert evaluation control compound semiconductor materials technologies||2007|2007
+EXPLAI|advanced ai explainability ethics sustainable development goals||2025|2025
+EXPLIMED|explainable artificial intelligence medical domain co located european artificial intelligence||2024|2025
+EXPLORATION|geochemical geochemical||1983|1983
+EXPLORATION|geochemical selected papers geochemical methods geochemical prospecting||1984|1984
+EXPLOREDB|exploratory search databases web|ACM|2016|2016
+EXPLO|blasting controlled productivity||2011|2011
+EXPLO|blasting techniques technology||2007|2007
+EXPLO|explosives time rapid change||2004|2004
+EXPONENTIAL|association unmanned vehicle systems trade show auvsi||2021|2021
+EXPOSITION|electronic production efficiency||1985|1985
+EXPO|american institute chemical engineers spring national meeting petro||1983|1983
+EXPO|asme turbo volume||2003|2003
+EXPO|circuit west||1986|1986
+EXPO|coil winding electrical manufacturing||1982|1982
+EXPO|defence electronics||1982|1982
+EXPO|inafor forest products adopting renewable bioenergy waste utilization support circular economy sustainable environment|IOP|2020|2020
+EXPO|inafor managing forest genetic resources changing environment landscapes|IOP|2020|2020
+EXPO|inafor translating science into climate policy action|IOP|2020|2020
+EXPO|ipc apex exhibition apex||2013|2013
+EXPO|ipc apex||2012|2014
+EXPO|isa technical emerging technologies technical papers collection||2004|2004
+EXPO|spring national meeting petro american institute chemical engineers||1985|1985
+EXPO|wind energy national american wind energy association||1985|1985
+EXPRES|exploitation renewable energy sources||2011|2011
+EXPRO|extra propositional aspects meaning computational linguistics meeting association computational linguistics||2012|2012
+EXTRAAMAS|explainable transparent ai multi agent systems|Springer|2021|2024
+EXTRAAMAS|explainable transparent autonomous agents multi agent systems held conjunction autonomous agents multi agent systems|Springer|2019|2019
+EXTRAAMAS|explainable transparent autonomous agents multi agent systems|Springer|2020|2026
+EXTRACTION|liquid liquid science||1984|1984
+EXTREMECOM|extreme communication amazon expedition||2011|2011
+EYRE|entity retrieval co located information knowledge management||2019|2019

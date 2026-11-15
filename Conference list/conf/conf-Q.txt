@@ -1,0 +1,138 @@
+QAI|quantum artificial intelligence|IEEE|2025|2025
+QALD|scholarly joint scholarly challenge semantic answer type relation entity prediction tasks challenge co located semantic web||2023|2023
+QANSWER|short papers quantum software engineering programming||2020|2020
+QAPL|quantitative aspects programming languages systems||2020|2020
+QASBA|quality assurance service based applications co located||2011|2011
+QASBA|quality assurance service based applications conjunction||2013|2013
+QAW|quality assessment web||2009|2009
+QBSC|biennial communications||2010|2014
+QCCC|quantum classical cooperative computing|ACM|2023|2023
+QCDEX|qcd extremes||2026|2026
+QCD|continuous advances||2007|2008
+QCD|extreme xqcd|IOP|2013|2013
+QCD|quantum chromodynamics|Elsevier|2003|2015
+QCD|t opical||2011|2011
+QCE|quantum computing engineering|IEEE|2020|2023
+QCE|quantum week|IEEE|2024|2025
+QCHSC|quark confinement hadron spectrum||2025|2025
+QCMC|quantum communication measurement computing tenth||2011|2011
+QCNC|quantum communications networking computing|IEEE|2024|2026
+QCQC|nasa quantum computing quantum communications|Springer|1999|1999
+QCS|quantum computing software held conjunction sc high performance computing networking storage analysis|IEEE|2021|2022
+QDE|quenching distortion engineering||2025|2025
+QELS|cleo fundamental science cleo||2014|2021
+QELS|cleo fundamental science||2016|2022
+QELS|lasers electro optics quantum electronics laser science cleo||2006|2009
+QELS|lasers electro optics quantum electronics laser science laser science photonic applications cleo||2010|2010
+QELS|quantum electronics laser science lasers electro optics||2008|2008
+QELS|quantum electronics laser science technical digest series|IEEE|2003|2007
+QELS|quantum electronics laser science volume||2005|2005
+QELS|quantum electronics laser science vol||2005|2005
+QELS|quantum electronics laser science||1989|2005
+QELS|technical digest summaries papers presented quantum electronics laser science|IEEE|2001|2001
+QENS|quasielastic neutron scattering|Elsevier|1996|1996
+QEST|first quantitative evaluation systems||2004|2004
+QEST|quantitative evaluation systems|Springer|2007|2023
+QEST|second quantitative evaluation systems||2005|2005
+QEST|third quantitative evaluation systems||2006|2006
+QET|quantum engineering technology||2023|2023
+QFLM|school physics enrico fermi course quantum fluids light matter||2025|2025
+QFS|quantum fluids solids part||1998|1998
+QFS|quantum fluids solids qfs2000||2000|2000
+QFS|quantum fluids solids||1998|1998
+QFTHEP|high energy physics quantum field theory||2010|2015
+QICAR|artificial intelligence robotics|IEEE|2024|2024
+QIM|quantum information measurement||2014|2017
+QIR|advanced materials research||2011|2011
+QIR|conjunction asian material processing saving energy refrigeration air conditioning|IEEE|2015|2015
+QIR|quality research conjunction civic space||2013|2013
+QIR|quality research conjunction itrec caic siud|IOP|2024|2024
+QIR|quality research electrical computer engineering|IEEE|2017|2021
+QIR|quality research|IOP|2013|2024
+QKG|quality knowledge graphs co located european semantic web||2026|2026
+QLES|meeting quality reliability large eddy simulation|Springer|2008|2008
+QLES|quality reliability large eddy simulations|Springer|2011|2011
+QLSC|quantitative logic soft computing|Springer|2017|2017
+QNDE|review progress quantitative nondestructive evaluation||2021|2024
+QNLPAI|quantum ai nlp|Springer|2026|2026
+QNP|quarks nuclear physics||2012|2025
+QOEVMA|quality experience visual multimedia applications|ACM|2020|2024
+QOE|internet based analysis management data communication networks part|ACM|2016|2017
+QOE|internet internet based analysis management data communication networks co located|ACM|2019|2019
+QOE|quantum optoelectronics||1999|1999
+QOFIS|cost quality future internet services|Springer|2001|2003
+QOFIS|first cost quality future internet services|Springer|2000|2000
+QOFIS|quality future internet services quality service routing internet charging qos technology|Springer|2004|2004
+QOMEX|quality multimedia experience|IEEE|2009|2025
+QOP|quality protection co located computer communications security||2006|2008
+QOP|quality protection||2007|2007
+QOSA|architectures adaptive software systems quality software architectures||2009|2009
+QOSA|quality software architectures models architectures quality software architectures||2008|2008
+QOSA|quality software architectures second quality software architectures revised papers||2006|2006
+QOSA|quality software architectures software quality first quality software architectures second software quality||2005|2005
+QOSA|research into practice reality gaps quality software architectures||2010|2010
+QOSA|sigsoft quality software architectures part|ACM|2015|2015
+QOSA|sigsoft quality software architectures|IEEE|2012|2016
+QOSA|software architectures components applications third quality software architectures revised selected papers||2007|2007
+QOS|architectures quality service internet art|Springer|2003|2003
+QOS|telecommunications quality service business success||2004|2004
+QPAIN|quantum photonics artificial intelligence networking|IEEE|2025|2026
+QPI|quality production improvement system safety||2023|2023
+QPL|quantum physics logic||2020|2025
+QRASA|qualitative reasoning about software architectures|IEEE|2016|2016
+QRM|quality reliability maintence||2004|2004
+QRSEC|css quantum resistant cryptography security|ACM|2026|2026
+QRS|software quality reliability security|IEEE|2015|2025
+QRTS|quality reliability technical connecting innovation application next gen design||2015|2015
+QSA4|quantitative surface analysis||1986|1988
+QSA5|quantitative surface analysis||1989|1989
+QSEC|quantum security privacy|ACM|2025|2025
+QSHINE|eai heterogeneous networking quality reliability security robustness|Springer|2015|2024
+QSHINE|eai quality reliability security robustness heterogeneous networks|Springer|2021|2021
+QSHINE|first quality service heterogeneous wired wireless networks||2004|2004
+QSHINE|heterogeneous networking quality reliability security robustness dedicated short range communicationsworkshop||2012|2012
+QSHINE|heterogeneous networking quality reliability security robustness workshops||2007|2007
+QSHINE|heterogeneous networking quality reliability security robustness|Springer|2014|2018
+QSHINE|icst heterogeneous networking quality reliability security robustness||2008|2008
+QSHINE|int l conf quality service heterogeneous wired wireless networks||2005|2005
+QSHINE|quality reliability security robustness heterogeneous networks|Springer|2013|2013
+QSHINE|quality service heterogeneous networks icst heterogeneous networking quality reliability security robustness advanced architectures algorithms internet delivery applications aaa||2009|2009
+QSHINE|satellite terrestrial interworking||2007|2007
+QSIC|fifth quality software||2005|2005
+QSIC|fourth quality software||2004|2004
+QSIC|quality software||2007|2013
+QSIC|sixth quality software||2006|2006
+QSM|quantum sensing metrology optica sensing congress ais lacsea sensors part optica sensing congress||2024|2024
+QSPA|quantum structures photonic applications||1997|1997
+QSQW|quantum simulation quantum walks||2020|2020
+QSW|quantum software|IEEE|2022|2025
+QTAMS|quantum tunnelling atoms molecules solids|Elsevier|1996|1996
+QTNA|queueing theory network applications|Springer|2009|2019
+QTOP|quantum technology optimization problems was held conjunction networked systems|Springer|2019|2019
+QTS|quantum theory symmetries lie theory its applications physics lt|Springer|2018|2018
+QTS|quantum theory symmetries|IOP|2013|2014
+QTS|xii quantum theory symmetries|IOP|2023|2023
+QUACON|quality context first revised papers||2009|2009
+QUALITA|system service quality co located modelling simulation||2025|2025
+QUALIT|qualitative research from margins mainstream||2007|2007
+QUALIT|qualitative research it it qualitative research challenges qualitative research||2005|2005
+QUALIT|qualitative research it it qualitative research||2010|2010
+QUALIT|quality impact qualitative research qualitative research it it qualitative research||2006|2006
+QUANTUMCOMM|quantum communication quantum networking first revised selected papers||2010|2010
+QUARAP|quality requirements agile projects|IEEE|2018|2018
+QUASAR|quantum search information retrieval part high performance parallel distributed computing|ACM|2024|2024
+QUASOQ|iwesq joint experience square series its future direction quantitative approaches software quality co located asia pacific software engineering||2023|2023
+QUASOQ|quantitative approaches software quality co located asia pacific software engineering apsec2020||2020|2020
+QUASOQ|quantitative approaches software quality co located asia pacific software engineering||2019|2024
+QUASOSS|quality service oriented software systems||2009|2010
+QUATIC|quality information communications technology|Springer|2007|2024
+QUAT|data quality trust big data held conjunction web information systems engineering|Springer|2019|2019
+QUDOS|quality aware devops co located|ACM|2016|2016
+QUDOS|quality aware devops|ACM|2015|2015
+QUEST|sigspatial querying mining uncertain spatio temporal data||2011|2012
+QUGOMS|quality geodetic observation monitoring systems|Springer|2015|2015
+QUNET|quantum networks distributed quantum computing part|ACM|2025|2025
+QUNET|quantum networks distributed quantum computing|ACM|2023|2023
+QUOVADIS|quantitative stochastic models verification design software systems conjunction int conf software engineering||2010|2010
+QUWEDA|querying benchmarking web data co located semantic web||2019|2019
+QUWEDA|storing querying benchmarking knowledge graphs co located semantic web||2022|2022

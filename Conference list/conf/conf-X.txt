@@ -1,0 +1,48 @@
+XAFS|x ray absorption fine structure xafs12||2005|2005
+XAFS|x ray absorption fine structure|IOP|2013|2013
+XAILA|explainable ai law co located legal knowledge information systems||2019|2021
+XAI|dao data meets applied ontologies explainable ai part bratislava knowledge||2021|2021
+XAI|dao data meets ontologies explainable ai co located european artificial intelligence||2024|2024
+XAI|krkg ucex joint workshops explainable ai knowledge representation knowledge graphs krkg user centered explanations ucex co located european artificial intelligence||2026|2026
+XAI|mai multimodal affective interactive explainable ai co located european artificial intelligence october||2025|2025
+XAI|mai xai24 multimodal affective interactive explainable ai co located european artificial intelligence||2024|2024
+XAI|sicsa sicsa explainable artifical intelligence||2021|2021
+XCR|xchange reality||2020|2020
+XIII|design quality biomedical technologies|SPIE|2020|2020
+XII|computational methods water resources cmwr part||1998|1998
+XII|quantum theory symmetries qts x lie theory its applications physics lt|Springer|2018|2018
+XIV|hot topics networks hotnets|ACM|2015|2015
+XIV|sensing agriculture food quality safety|SPIE|2022|2022
+XIX|advanced biomedical clinical diagnostic surgical guidance systems|SPIE|2021|2021
+XLI|central america panama convention concapan|IEEE|2023|2023
+XLOOP|extreme scale experiment loop computing held conjunction sc high performance computing networking storage analysis|IEEE|2020|2022
+XLOOP|large scale experiment loop computing held conjunction sc high performance computing networking storage analysis|IEEE|2019|2019
+XMIDX|xml technologies fur middleware middleware fur xml anwendungen zum||2003|2003
+XPONENTIAL|auvsi all things unmanned||2019|2019
+XPONENTIAL|auvsi experience||2016|2016
+XPOTRON|control dynamical aerospace systems|IEEE|2019|2019
+XPS|knowledge based systems survey future directions biannual german knowledge based systems|Springer|1999|1999
+XRM|x ray microscopy|IOP|2013|2023
+XSEDE|engaging communities|ACM|2014|2014
+XSEDE|gateway discovery||2013|2013
+XSEDE|xsede12 bridging from extreme campus beyond||2012|2012
+XSW|extreme scaling||2014|2014
+XSW|xml technologien fur das semantic web zum||2002|2002
+XSYM|database xml technologies third xml database||2005|2005
+XSYM|database xml technologies xml database|Springer|2006|2010
+XSYM|xml database|Springer|2003|2010
+XTACH|use x ray techniques arts cultural heritage||2012|2012
+XVIII|security protocols|Springer|2014|2014
+XVII|siguccs user services||1989|1989
+XVI|all russian school young scientists participation actual problems thermal physics physical hydrodynamics aptph||2021|2021
+XVI|nuclei cosmos nic|EDP|2022|2022
+XXIII|electromagnetic non destructive evaluation||2020|2020
+XXII|smart photonic optoelectronic integrated circuits|SPIE|2020|2020
+XXIV|electromagnetic non destructive evaluation||2023|2023
+XXIV|multiphoton microscopy biomedical sciences|SPIE|2024|2024
+XXIV|unmanned systems technology|SPIE|2022|2022
+XXIV|vertical cavity surface emitting lasers|SPIE|2020|2020
+XXIX|algorithms synthetic aperture radar imagery|SPIE|2022|2022
+XXI|sport healthy lifestyle culture century sport life|EDP|2021|2022
+XXVIII|algorithms technologies applications multispectral hyperspectral imaging|SPIE|2022|2022
+XXXII|automatic target recognition|SPIE|2022|2022

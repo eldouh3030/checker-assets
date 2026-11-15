@@ -1,0 +1,2414 @@
+MAAMAW|european modelling autonomous agents multi agent world|Springer|1994|1999
+MAASC|middleware architectures autonomic sustainable computing held collocation new technologies distributed systems||2011|2011
+MAA|mathematical analysis applications|Springer|2021|2021
+MABS|multi agent based simulation collocated autonomous agents multi agent systems|Springer|2023|2023
+MABS|multi agent based simulation conjunction autonomous agents multi agent systems|Springer|2024|2024
+MABS|multi agent based simulation iii||2004|2004
+MABS|multi agent based simulation ix revised selected papers||2009|2009
+MABS|multi agent based simulation vi revised invited papers||2006|2006
+MABS|multi agent based simulation vii revised invited papers||2007|2007
+MABS|multi agent based simulation viii internationalworkshop honolulu hi usa may revised invited papers||2008|2008
+MABS|multi agent based simulation x revised selected papers||2010|2010
+MABS|multi agent based simulation xi revised selected papers||2011|2011
+MABS|multi agent based simulation xii revised selected papers||2012|2012
+MABS|multi agent based simulation xiii revised selected papers||2013|2013
+MABS|multi agent based simulation xiv revised selected papers|Springer|2014|2014
+MABS|multi agent based simulation|Springer|2003|2026
+MABS|multi agent multi agent based simulation joint revised selected papers||2005|2005
+MAB|media architecture biennale participation||2012|2012
+MAB|media architecture biennale|ACM|2021|2023
+MACE|colloquium advances engineering technology ic|IOP|2024|2024
+MACE|innovation mechanical civil engineering i|IOP|2024|2024
+MACE|mechanic automation control engineering mace2010||2010|2010
+MACE|mechanic automation control engineering||2011|2011
+MACE|mechanical automation computer engineering computer technology||2021|2021
+MACE|mechanical automation computer engineering mechanical automation||2021|2021
+MACE|mechanical automation computer engineering||2021|2021
+MACE|modeling autonomic communication environments|Springer|2010|2010
+MACE|modelling autonomic communication environments||2010|2010
+MACE|modelling autonomic communications environments fourth||2009|2009
+MACE|modelling autonomic communications environments third mace2008||2008|2008
+MACHINERY|small hydro power fluid||1984|1984
+MACIFIC|maritime continent fulcrum|EDP|2021|2025
+MACISE|mathematics computers science engineering|IEEE|2019|2020
+MACIS|mathematical aspects computer information sciences|Springer|2016|2020
+MACLEAN|machine learning earth observation co located european machine learning principles practice knowledge discovery databases ecml||2021|2022
+MACLEAN|machine learning earth observation co located european machine learning principlesand practice knowledge discovery databases ecml||2020|2020
+MACMESE|advances mathematical computational methods wseas mathematical computational methods science engineering||2010|2010
+MACMESE|wseas mathematical computational methods science engineering||2009|2009
+MACOM|multiple access communications third||2010|2010
+MACOM|multiple access communications|Springer|2011|2016
+MACRO|joint computational intelligence informatics recent achievements mechatronics automation computer science robotics cinti|IEEE|2022|2022
+MACRO|joint computational intelligence informatics recent achievements mechatronics automation computer sciences robotics cinti|IEEE|2019|2019
+MACSPRO|modeling analysis complex systems processes||2020|2020
+MACS|mathematics actuarial science computer science statistics|IEEE|2018|2025
+MACS|modeling analysis concerns software|ACM|2005|2005
+MAC|cosmic ray studies multi messenger astroparticle cris|IOP|2025|2025
+MAC|materials austceram||2008|2008
+MAC|microwave antenna communication|IEEE|2023|2025
+MADAI|media arts design artificial intelligence|Springer|2022|2022
+MADE|future technologies manufacturing automation design energy icoft||2023|2023
+MADE|medication adverse drug event detection||2018|2018
+MADIMA|multimedia assisted dietary management co located mm|ACM|2019|2023
+MADIMA|multimedia assisted dietary management co located multimedia|ACM|2016|2016
+MADIMA|multimedia assisted dietary management|ACM|2022|2022
+MADNES|secure mobile ad hoc networks sensors first revised selected papers|Springer|2006|2006
+MADS|multiple attribute decision system systems approach solid waste management planning||1997|1997
+MAD|high energy physics hep||2007|2011
+MAD|managing systems automatically dynamically||2012|2012
+MAD|medical applications disentanglements held conjunction|Springer|2023|2023
+MAD|multimedia ai against disinformation|ACM|2022|2024
+MAED|multimedia analysis ecological data co located multimedia||2012|2012
+MAED|multimedia analysis ecological data|ACM|2013|2013
+MAED|regular data challenge multimedia analysis ecological data|ACM|2014|2014
+MAEE|insulating materials material application electrical engineering||2013|2014
+MAEE|mechanical automation engineering||2013|2013
+MAEIE|mechanical automation electronic information engineering|IOP|2021|2025
+MAEM|mechanical automation engineering materials|IOP|2023|2023
+MAENS|modern approaches engineering natural sciences|IOP|2023|2023
+MAES|mechanical aerospace electronic systems|IOP|2024|2025
+MAFELAP|mathematics finite elements applications v||1985|1985
+MAFOC|many faces consistency cross platform design||2006|2006
+MAGESYS|mobile airground edge computing systems networks applications part|ACM|2019|2019
+MAHCI|multimedia accessible human computer interface co located mm|ACM|2018|2018
+MAHCI|multimedia accessible human computer interfaces co located mm|ACM|2019|2019
+MAIA|mid atlantic integrated assessment program||2000|2000
+MAICS|joint isase affective science engineering modern artificial intelligence cognitive science||2020|2020
+MAICS|midwest artificial intelligence cognitive science||2006|2013
+MAICS|modern artificial intelligence cognitive science||2017|2017
+MAICT|imam al kadhum modern applications information communication technology|IOP|2020|2020
+MAIC|mechatronics automation intelligent control|IOP|2022|2025
+MAIED|multimodal artificial intelligence education artificial intelligence education||2021|2021
+MAIM|mechanical automation intelligent manufacturing|IEEE|2025|2025
+MAINT|mining analyzing interaction histories|IEEE|2018|2019
+MAIOT|middleware autonomous aiot systems computing continuum|ACM|2025|2025
+MAIREPAV|maintenance rehabilitation pavements mairepav10|Springer|2024|2024
+MAIREPAV|maintenance rehabilitation pavements technological control||2005|2012
+MAIREPAV|maintenance rehabilitation pavements||2016|2016
+MAISP|security privacy mobile ai|ACM|2021|2021
+MAIS|mechatronics adaptive intelligent systems|IEEE|2016|2016
+MAITRI|machine intelligence research innovations summit|Springer|2026|2026
+MAITRI|machine intelligence research innovations|Springer|2024|2024
+MAITRI|modern automotive industry transport road infrastructure|IOP|2025|2025
+MAI|disccotec middleware application interaction||2007|2007
+MAI|machine vision augmented intelligence|Springer|2021|2025
+MAI|mechatronics artificial intelligence|SPIE|2025|2025
+MAI|middleware application interaction affiliated discotec federated||2008|2008
+MAI|middleware application interaction conjunction|ACM|2007|2007
+MAI|multi scale artificial intelligence drive innovation multi scale ai|IEEE|2026|2026
+MAJICC|mohammad ali jinnah university computing|IEEE|2021|2022
+MAKE|cross domain machine learning knowledge extraction cd|Springer|2018|2018
+MAKE|ifip cross domain machine learning knowledge extraction cd|Springer|2019|2019
+MAKE|ifip tc tc wg wg wg cross domain machine learning knowledge extraction cd held conjunction availability reliability security|Springer|2022|2022
+MAKE|ifip tc tc wg wg wg cross domain machine learning knowledge extraction cd|Springer|2020|2021
+MAKE|ifip tc wg cross domain machine learning knowledge extraction cd|Springer|2017|2017
+MAKE|machine learning knowledge extraction ifip tc tc wg wg wg cross domain cd|Springer|2023|2023
+MAKE|spring challenges requiring combination machine learning knowledge engineering||2023|2023
+MAKE|spring combining machine learning knowledge engineering practice volume i||2020|2020
+MAKE|spring combining machine learning knowledge engineering||2021|2021
+MAKE|spring machine learning knowledge engineering hybrid intelligence||2022|2022
+MALCON|malicious unwanted software|IEEE|2014|2014
+MALDI|plasma modelling matrix assisted uv laser desorption ionization||1997|1997
+MALETS|machine learning technologies software engineering associated automated software engineering||2011|2011
+MALLOW|multi agent logics languages organisations federated workshops||2009|2010
+MALSIP|machine learning signal processing|Springer|2016|2016
+MALTESQUE|machine learning techniques software quality evaluation co located esec|ACM|2022|2022
+MALTESQUE|machine learning techniques software quality evaluation co located|IEEE|2017|2017
+MALTESQUE|machine learning techniques software quality evaluation|IEEE|2018|2018
+MALTESQUE|machine learning techniques software quality evolution co located esec|ACM|2021|2021
+MALTESQUE|sigsoft machine learning techniques software quality evaluation co located esec|ACM|2019|2020
+MALWARE|malicious unwanted software americas||2013|2013
+MALWARE|malicious unwanted software|IEEE|2008|2018
+MAMAA|moroccan andalusian meeting algebras their applications|Springer|2020|2020
+MAMA|special issue mathematical performance modeling analysis|ACM|2009|2019
+MAMECTIS|recent researches computational techniques non linear systems proc wseas int conf mathematical methods computational techniques intelligent systems proc wseas int conf non linear analysis non linear systems chaos proc wseas int conf dynamical systems||2011|2011
+MAMECTIS|wseas mathematical methods computational techniques intelligent systems proc wseas proc wseas||2009|2009
+MAMECTIS|wseas mathematical methods computational techniques intelligent systems||2010|2010
+MAMEE|mechatronics applied mechanics energy engineering||2013|2013
+MAMIP|postgraduate materials minerals polymer|IOP|2020|2020
+MAMI|man machine interfacing|IEEE|2015|2015
+MAMM|microactuators micromechanisms|Springer|2012|2017
+MAMM|microactuators microsensors micromechanisms|Springer|2023|2025
+MAMNA|spring from lab life field based applications mems nems||2014|2014
+MAMNA|spring microsystems measurement instrumentation||2012|2012
+MAMNA|spring microsystems technology fulfilling promise||2013|2013
+MAMT|numbers intelligence manufacturing technology machinery automation||2012|2012
+MAMUS|multi agent mass user support|Springer|2004|2004
+MAM|eropean materials advanced metallization|Elsevier|2000|2000
+MAM|interconnect technology materials advanced metallization iitc|IEEE|2011|2023
+MAM|mechanics applied mathematics|IOP|2023|2023
+MAM|mtt s microwave acoustics mechanics ic|IEEE|2022|2024
+MANAGEMENT|engineering engineering australia world competitiveness preprints papers||1985|1985
+MANAGEMENT|waste waste isolation u s elsewhere technical programs public communications||1982|1982
+MANAGEMENT|waste waste isolation u s technical programs public education||1983|1985
+MANAGEMENT|waste waste isolation us technical programs public education||1984|1986
+MANAGEMENT|waste waste waste isolation u s technical programs public education||1983|1983
+MANCS|mathematics its applications new computer systems|Springer|2022|2022
+MANER|mainz darmstadt||2025|2025
+MANTECH|compound semiconductor manufacturing technology cs||2007|2022
+MANTECH|cs compound semiconductor manufacturing technology digest papers||2019|2021
+MANTECH|cs compound semiconductor manufacturing technology||2014|2025
+MANULIGHT|manufacturing lightweight components|Elsevier|2014|2014
+MANYVAL|algebraic logical foundations many valued reasoning honour daniele mundici occasion his birthday|Springer|2007|2007
+MAN|ro robot human interactive communication human robot co existence adaptive interfaces systems daily life therapy assistance socially engaging interactions|IEEE|2014|2014
+MAN|ro robot human interactive communication social asocial antisocial robots|IEEE|2022|2022
+MAN|ro robot human interactive communication|IEEE|2003|2018
+MAN|ro robot human interactive||2009|2009
+MAN|robot human communication ro|IEEE|1993|1997
+MAN|robot human interaction ro||1999|1999
+MAN|robot human interactive communication living together enjoying together working together robots ro||2013|2013
+MAN|robot human interactive communication ro|IEEE|2000|2025
+MAPCON|microwaves antennas propagation|IEEE|2022|2025
+MAPC|multi agent programming contest|Springer|2019|2021
+MAPE|microwave antenna propagation emc technologies wierless communications||2005|2005
+MAPE|microwave antenna propagation emc technologies wireless communications|IEEE|2005|2024
+MAPE|microwave antenna propagation emc technologies|IEEE|2015|2017
+MAPINTERACT|sigspatial mapinteraction|ACM|2013|2014
+MAPLE|proc model driven approaches software product line engineering collocated software product line||2009|2009
+MAPL|sigplan machine learning programming languages co located|ACM|2017|2020
+MAPREDUCE|its applications||2011|2012
+MAPR|multimedia analysis pattern recognition|IEEE|2018|2025
+MAPS|sigplan machine programming co located|ACM|2021|2021
+MAPTRAITS|audio video mapping personality traits challenge co located|ACM|2014|2014
+MARAMI|modeles analyse des reseaux approches mathematiques informatiques network modeling analysis||2020|2020
+MARAS|mobile adaptable rapidly assembled structures||2014|2014
+MARBIOUTICOM|seminar marine biodiversity utilization conservation management|IOP|2023|2023
+MARBLE|mathematical research blockchain economy|Springer|2020|2020
+MARCH|decision making software architecture|IEEE|2016|2016
+MARC|machine learning advances computing renewable energy communication|Springer|2022|2024
+MARC|manufacturing advanced computing renewable energy communication|Springer|2019|2019
+MARC|many core applications research community rwth aachen university||2012|2012
+MARC|many core applications research community||2011|2012
+MARDIH|active noise vibration control methods||2016|2016
+MAREC|marine renewable energy||2002|2002
+MAREW|radioelektronika radioelektronika microwave radio electronics week|IEEE|2019|2019
+MARHY|rina royal institution naval architects computational experimental marine hydrodynamics||2014|2014
+MARICHEM|marichem83 marine transportation handling storage bulk chemicals||1984|1984
+MARICHEM|papers exhibition marine transportation handling storage bulk chemicals||1982|1982
+MARINE|computational methods engineering iv||2011|2011
+MARINE|computational methods engineering v computational methods engineering||2013|2013
+MARINE|computational methods engineering vi||2015|2015
+MARINE|computational methods engineering||2017|2019
+MARIS|maritime informatics robotics|IEEE|2025|2025
+MARK|managing requirements knowledge part requirements engineering re||2011|2011
+MARK|managing requirements knowledge|IEEE|1979|2010
+MARMI|multimedia analysis retrieval multimodal interaction co located|ACM|2016|2016
+MARSIM|marine simulation volume||1981|1981
+MARSIM|marine simulation||1981|1981
+MARSS|manipulation automation robotics small scales|IEEE|2016|2025
+MARSTRUCT|advancements marine structures marine structures||2007|2007
+MARSTRUCT|advances marine structures marine structures||2011|2011
+MARSTRUCT|analysis design marine structures marine structures||2013|2013
+MARSTRUCT|marine structures analysis design marine structures||2009|2009
+MARSTRUCT|marine structures||2015|2023
+MARS|models formal analysis real systems||2020|2026
+MARS|multi agent robotic systems conjunction||2006|2006
+MARTECH|maritime technology engineering||2012|2024
+MASCON|madras section|IEEE|2021|2021
+MASCOTS|computer society s modeling analysis simulation computer telecommunications systems||2004|2004
+MASCOTS|modeling analysis simulation computer telecommunication systems|IEEE|1997|2025
+MASCOTS|modeling analysis simulation computer telecommunication||2013|2013
+MASCOTS|modelling analysis simulation computer telecommunication systems|Springer|2021|2021
+MASEIS|mathematics science education seminar||2021|2021
+MASES|machine learning software engineering symbiosis co located|ACM|2018|2018
+MASE|voip management security||2006|2006
+MASPEGHI|mechanisms specialization generalization inheritance conjunction colocated ecoop ecmfa|ACM|2013|2013
+MASPEGHI|mechanisms specialization generalization inheritance conjunction|ACM|2015|2015
+MASR|medical applications synchrotron radiation masr2010||2010|2010
+MASSW|mobile ad hoc smart systems workshops|IEEE|2019|2019
+MASS|management service science||2009|2011
+MASS|mobile ad hoc sensor systems|IEEE|2005|2018
+MASS|mobile ad hoc smart systems|IEEE|2019|2025
+MASS|mobile adhoc sensor systems||2009|2010
+MASTED|mathematics science technology education icon|IOP|2022|2022
+MASTED|ste m yurii ramskyi ste m co located mathematics science technology education icon||2025|2025
+MASTED|xii mathematics science technology education icon||2021|2021
+MASTED|xiii mathematics science technology education icon||2021|2021
+MASTED|xv mathematics science technology education icon|IOP|2023|2023
+MASTED|xvi mathematics science technology education icon|IOP|2024|2024
+MASTED|xvii mathematics science technology education icon|IOP|2025|2025
+MASTER|multiple aspect analysis semantic trajectories held conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2020|2020
+MASTIC|maritime safety|IOP|2020|2024
+MAST|atqam joint aesthetic technical quality assessment multimedia media analytics societal trends|ACM|2020|2020
+MAST|materials applications sensors transducers ic||2019|2019
+MAST|materials applications sensors transducers||2012|2012
+MAS|modeling applied simulation held mediterranean latin american modeling multiconference i3m||2009|2011
+MAS|modeling applied simulation held mediterranean modeling multiconference i3m||2008|2008
+MAS|modeling applied simulation held mediterranean modeling multiconference||2005|2005
+MAS|modeling applied simulation held multidisciplinary modeling simulation multiconference i3m||2012|2017
+MAS|modeling applied simulation||2014|2023
+MAS|modeling simulation|IEEE|2015|2015
+MAS|modelling applied simulation||2024|2024
+MATA|mobile agents telecommunication applications|Springer|2000|2003
+MATA|mobility aware technologies applications second||2005|2005
+MATA|mobility aware technologies applications|Springer|2004|2004
+MATEHN|materials technologies materials manufacturing technologies||2007|2007
+MATERIALS|congress graphene 2d applications 2d|IOP|2021|2021
+MATERIALS|emergent phenomena quantum e|IOP|2023|2023
+MATERIALS|formability metallic d||1982|1982
+MATERIALS|mechanics composite||1983|1983
+MATERIALS|wear presented||1983|1983
+MATES|german multiagent system technologies co located net objectdays|Springer|2003|2003
+MATES|german multiagent system technologies|Springer|2010|2017
+MATES|materials science innovation sustainable society eco materials eco innovation global sustainability eco|IOP|2012|2012
+MATES|mobility analytics spatiotemporal social data|Springer|2018|2018
+MATES|multiagent system technologies german|Springer|2006|2013
+MATES|multiagent system technologies second german||2004|2004
+MATES|multiagent system technologies third german||2005|2005
+MATES|multiagent systems technologies first german||2003|2003
+MATHMOD|vienna mathematical modelling|Elsevier|2022|2025
+MATHNLP|mathematical natural language processing lrec||2024|2024
+MATHNLP|mathematical natural language processing||2022|2022
+MATHSEE|applications mathematical sciences|Springer|2026|2026
+MATHTECH|mathematical sciences technology innovative technologies mathematics mathematics technological innovation|IOP|2019|2019
+MATHTECH|mathematical sciences technology navigating everchanging norm mathematics technology|IOP|2024|2024
+MATHTECH|mathematical sciences technology sustainable development mathematics mathematics sustainability revolution|IOP|2021|2021
+MATHTECH|mathematical sciences technology|IOP|2026|2026
+MATHUI|joint openmath mathematical user interfaces work progress intelligent computer mathematics||2012|2012
+MATHWIKIS|mathematical wikis||2011|2011
+MATH|applications mathematics computer engineering american applied mathematics american wseas computer engineering applications||2011|2011
+MATH|mathematics imaging||2016|2018
+MATH|recent researches applied mathematics wseas applied mathematics||2010|2010
+MATMA|mechanical aerospace technology materials application|IOP|2022|2025
+MATRE|modernizing academic teaching research business economics|Springer|2017|2017
+MATTER|shock compression condensed american physical society topical group shock compression condensed||2006|2006
+MATZONE|material science|Springer|2025|2025
+MAT|yagoslavian advanced materials yu adva||1996|1996
+MAVEBA|models analysis vocal emissions biomedical applications||1999|2019
+MAVEBA|report models analysis vocal emissions biomedical applications||2013|2017
+MAVT|second working meeting meris aatsr calibration geophysical validation||2006|2006
+MAW|combined workshops unconventional high performance computing plus memory access uchpc co located computing frontiers cf||2009|2009
+MAW|computing frontiers memory access future processors solved problem||2008|2008
+MAW|consulting software development models methods best practices gi expert committee management application development maintenance division business informatics wi beratung der softwareentwicklung modelle methoden best practices fachtagung des gi fachausschusses management der anwendungsentwicklung und wartung im fachbereich wirtschaftsinformatik wi||2006|2006
+MAW|consulting software development models methods best practices gi expert committee management application development maintenance field business informatics wi beratung der softwareentwicklung modelle methoden best practices fachtagung des gi fachausschusses management der anwendungsentwicklung und wartung im fachbereich wirtschaftsinformatik wi||2006|2006
+MAW|from project product gi expert committee management application development maintenance division business informatics wi vom projekt zum produkt fachtagung des gi fachausschusses management der anwendungsentwicklung und wartung im fachbereich wirtschaftsinformatik wi||2010|2010
+MAW|industrialisierung des software managements fachtagung des gi fachausschusses management der anwendungsentwicklung und wartung im fachbereich wirtschaftsinformatik wi||2008|2008
+MAXENT|bayesian inference maximum entropy methods science engineering bayesian inference maximum entropy methods science engineering||2012|2012
+MAXENT|bayesian inference maximum entropy methods science engineering|Springer|2018|2018
+MAYORANA|edition multi aspect young oriented advanced neutrino academy school||2024|2024
+MBAI|multimodal brain image analysis mathematical foundations computational anatomy held conjunction medical imaging computer assisted intervention|Springer|2019|2019
+MBAL|aiaa balloon systems||2015|2015
+MBC|many body correlations from dilute dense nuclear systems||2011|2011
+MBDAS|modeling big data analytics simulation||2021|2022
+MBDS|management big data systems co located|ACM|2012|2012
+MBD|museum big data||2024|2024
+MBEC|european federation medical biological engineering|Springer|2015|2015
+MBEES|dagstuhl model based development embedded systems ii tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme ii||2006|2006
+MBEES|dagstuhl model based development embedded systems iv tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme iv||2008|2008
+MBEES|dagstuhl model based development embedded systems tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme||2005|2005
+MBEES|dagstuhl model based development embedded systems v tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme v||2009|2009
+MBEES|dagstuhl model based development embedded systems vii tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme vii||2011|2011
+MBEES|model based development embedded systems vi tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme vi||2010|2010
+MBEES|model based development embedded systems viii tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme viii||2012|2012
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme iii tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme iii||2007|2007
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme ix||2013|2013
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme xiii||2019|2019
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme xii||2016|2016
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme xiv||2018|2018
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme xi||2015|2015
+MBEES|tagungsband dagstuhl modellbasierte entwicklung eingebetteter systeme x||2014|2014
+MBENCT|scientific practical machine building energy new concepts technologies||2024|2024
+MBEXI|molecular beam epitaxy||2001|2001
+MBE|molecular beam epitaxy|IEEE|2002|2002
+MBFA|scientific practical medico biological pedagogical foundations adaptation sports activities healthy lifestyle|EDP|2024|2024
+MBIA|multimodal brain image analysis first held conjunction||2011|2011
+MBIA|multimodal brain image analysis second held conjunction||2012|2012
+MBIA|multimodal brain image analysis third held conjunction||2013|2013
+MBIE|future medicine biological information engineering|SPIE|2024|2024
+MBIE|second future medicine biological information engineering|SPIE|2025|2025
+MBLC|mountains biodiversity landscapes cultures|EDP|2025|2025
+MBMST|scientific modern building materials structures techniques|Springer|2024|2024
+MBMST|selected papers modern building materials structures techniques||2019|2019
+MBMTS|modern building materials technologies structures|IOP|2026|2026
+MBMV|methoden und beschreibungssprachen zur modellierung und verifikation von schaltungen und systemen gmm itg gi||2020|2020
+MBMV|methoden und beschreibungssprachen zur modellierung und verifikation von schaltungen und systemen||2019|2025
+MBR|model based reasoning science technology theoretical cognitive issues|Springer|2014|2014
+MBSE|model based systems engineering||2009|2009
+MBSM|mechanics biological systems materials||2014|2014
+MBSW|midwest biopharmaceutical statistics|Springer|2019|2019
+MBT|model based testing||2015|2015
+MBT|recent progress many body theories|IOP|2014|2014
+MCAI|measurement control instrumentation|IOP|2022|2025
+MCAM|multimedia content analysis mining||2007|2007
+MCAS|makassar applied sciences|IOP|2025|2025
+MCBE|proc wseas int conf mathematics computers business economics proc wseas int conf mathematics computers biology chemistry||2010|2010
+MCBMS|ifac modeling control biomedical systems including biological systems||2009|2009
+MCBMS|ifac modeling control biomedical systems||2006|2006
+MCCA|multimedia communication computing application||2014|2014
+MCCE|iutam motile cells complex environments||2018|2018
+MCCM|material chemistry composite materials|IOP|2023|2025
+MCCP|multiconference control problems||2021|2021
+MCCQG|mediterranean classical quantum gravity|IOP|2010|2010
+MCCSIS|e learning el held multi computer science information systems||2021|2021
+MCCSIS|e learning el part multi computer science information systems||2022|2022
+MCCSIS|e learning part multi computer science information systems||2014|2014
+MCCSIS|european data mining intelligent systems agents theory practice modern computing part multi computer science information systems||2014|2014
+MCCSIS|iadis collaborative technologies iadis web based communities part iadis multi computer science information systems||2010|2010
+MCCSIS|iadis computer graphics visualization computer vision image processing part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis e commerce iadis e democracy equity social justice part iadis multi computer science information systems||2010|2010
+MCCSIS|iadis e commerce part iadis multi computer science information systems||2009|2011
+MCCSIS|iadis e health eh part iadis multi computer science information systems||2010|2013
+MCCSIS|iadis e health eh part multi computer science information systems||2020|2020
+MCCSIS|iadis e health part iadis multi computer science information systems||2009|2011
+MCCSIS|iadis e learning el part iadis multi computer science information systems||2007|2007
+MCCSIS|iadis e learning el part multi computer science information systems||2020|2020
+MCCSIS|iadis e learning part iadis multi computer science information systems||2009|2011
+MCCSIS|iadis e society es part iadis multi computer science information systems||2007|2007
+MCCSIS|iadis european data mining part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis game entertainment technologies part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis ict society human beings iadis e democracy equity social justice part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis ict society human beings part iadis multi computer science information systems||2010|2010
+MCCSIS|iadis informatics part iadis multi computer science information systems||2009|2009
+MCCSIS|iadis informatics wireless applications computing telecommunications networks systems part iadis multi computer science information systems||2010|2011
+MCCSIS|iadis intelligent systems agents iadis european data mining part iadis multi computer science information systems||2010|2010
+MCCSIS|iadis intelligent systems agents part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis interfaces human computer interaction ihci iadis game entertainment technologies part iadis multi computer science information systems||2010|2010
+MCCSIS|iadis interfaces human computer interaction part iadis multi computer science information systems||2011|2011
+MCCSIS|iadis mobile learning ml part iadis multi computer science information systems||2007|2007
+MCCSIS|iadis multi computer science information systems computer graphics visualization gaming design engaging experience social interaction||2008|2008
+MCCSIS|iadis multi computer science information systems e commerce||2008|2008
+MCCSIS|iadis multi computer science information systems e learning||2008|2008
+MCCSIS|iadis multi computer science information systems ict society human beings||2008|2008
+MCCSIS|iadis multi computer science information systems informatics data mining||2008|2008
+MCCSIS|iadis multi computer science information systems intelligent systems agents interfaces human computer interaction computer graphics visualization||2007|2007
+MCCSIS|iadis multi computer science information systems intelligent systems agents||2008|2008
+MCCSIS|iadis multi computer science information systems interfaces human computer interaction||2008|2008
+MCCSIS|iadis multi computer science information systems wireless applications computing telecommunications networks systems data mining||2020|2020
+MCCSIS|iadis multi computer science information systems wireless applications computing telecommunications networks systems||2008|2008
+MCCSIS|iadis web based communities social media social media internet applications research part iadis||2011|2011
+MCCSIS|ict society human beings web based communities social media e commerce information systems post implementation change management e health part multi computer science information systems||2014|2014
+MCCSIS|interfaces human computer interaction game entertainment technologies computer graphics visualization computer vision image processing part multi computer science information systems||2014|2014
+MCCSIS|multi computer science information systems big data analytics data mining computational intelligence theory practice modern computing connected smart cities||2018|2018
+MCCSIS|multi computer science information systems big data analytics data mining computational intelligence theory practice modern computing||2019|2019
+MCCSIS|multi computer science information systems e health ict society human beings web based communities social media||2018|2018
+MCCSIS|multi computer science information systems e health||2019|2019
+MCCSIS|multi computer science information systems e learning||2018|2019
+MCCSIS|multi computer science information systems ict society human beings connected smart cities web based communities social media||2019|2019
+MCCSIS|multi computer science information systems interfaces human computer interaction game entertainment technologies computer graphics visualization computer vision image processing||2018|2019
+MCCS|microelectronics computing communication systems|Springer|2018|2021
+MCC|military communications information systems||2012|2013
+MCC|mobile cloud computing|ACM|2012|2012
+MCC|sigcomm mobile cloud computing|ACM|2013|2013
+MCDM|computaitoal intelligence multi criteria decision making||2009|2009
+MCDM|computational intelligence multi criteria decision making series computational intelligence||2013|2013
+MCDM|computational intelligence multicriteria decision making||2007|2007
+MCEET|materials computer engineering education technology||2021|2021
+MCEE|materials chemistry environmental engineering conf|IOP|2022|2026
+MCETECH|e technologies transformation connected world revised selected papers|Springer|2011|2011
+MCETECH|e technologies|Springer|2008|2017
+MCETECH|lecture notes business information processing e technologies innovation open world intenational ottawa canada may|Springer|2009|2009
+MCFR|multimedia computing towards fashion recommendation|ACM|2022|2022
+MCGE|multimedia content generation evaluation new methods practice co located mm|ACM|2024|2025
+MCHM|multimedia computing forhealth medicine|ACM|2024|2024
+MCHPC|memory centric high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+MCHPC|memory centric programming hpc held conjunction sc high performance computing networking storage analysis|ACM|2017|2017
+MCII|multidisciplinary computational intelligence incubators|IEEE|2025|2025
+MCIS|knowledge technologies innovative information systems mediterranean information systems|Springer|2012|2012
+MCIT|multimedia computing information technology||2010|2010
+MCIT|scientific technical modern challenges telecommunications|Springer|2023|2023
+MCLP|ifac management control production logistics||2010|2010
+MCMC|ifac manoeuvring control marine craft||2009|2012
+MCMC|mobile cloud media computing co located multimedia||2010|2010
+MCMC|multi chip module|IEEE|1992|1992
+MCMD|maintenance condition monitoring diagnostics|Springer|2023|2023
+MCMD|precision embedded thin film resistors multichip modules||1997|1997
+MCMI|microelectronics communication systems machine learning internet things|Springer|2023|2023
+MCMP|managing context information mobile pervasive environments||2005|2005
+MCMR|vls very large scale multimedia corpus mining retrieval co located multimedia||2010|2010
+MCM|biennial mathematics computation music|Springer|2022|2026
+MCM|imacs seminar monte carlo methods||2003|2003
+MCM|mathematics computation music first revised selected papers||2009|2009
+MCM|mathematics computation music third||2011|2011
+MCM|mathematics computation music|Springer|2009|2024
+MCM|multichip modules|IEEE|1994|1994
+MCM|world congress mechanical chemical material engineering||2015|2025
+MCNA|modern computing networking applications|IEEE|2025|2025
+MCNA|multimedia computing networking applications|IEEE|2020|2024
+MCNU|integrated experimental computational modeling advanced materials|Elsevier|1998|1998
+MCOS|society petroleum engineers spe mid continent operations||1999|1999
+MCO|modelling computation optimization information systems management sciences|Springer|2008|2026
+MCO|modelling computation optimization||2008|2008
+MCPC|world mass customization personalization co creation|Springer|2017|2017
+MCPC|world mass customization personalization|Springer|2018|2018
+MCPL|ifac management control production logistics||2013|2013
+MCPMD|modeling cognitive processes from multimodal data|ACM|2018|2018
+MCPR|advances pattern recognition second mexican pattern recognition||2010|2010
+MCPR|mexican onpattern recognition|Springer|2014|2014
+MCPR|mexican pattern recognition|Springer|2010|2026
+MCPR|pattern recognition mexican|Springer|2012|2014
+MCPR|pattern recognition third mexican||2011|2011
+MCPS|medical cyber physical systems internet medical things|ACM|2021|2021
+MCPS|medical cyber physical systems||2014|2014
+MCPS|multimedia contents protection security||2006|2006
+MCP|national telecommunication technologies malaysia photonics nctt||2008|2008
+MCQMC|monte carlo quasi monte carlo methods scientific computing|Springer|2012|2026
+MCSI|mathematics computers sciences industry|IEEE|2014|2024
+MCSOC|embedded multicore many core systems chip|IEEE|2016|2025
+MCSOC|embedded multicore manycore socs|IEEE|2014|2015
+MCSOC|embedded multicore manycore system chip||2013|2013
+MCSOC|embedded multicore socs||2012|2012
+MCSS|mobile systems computational social science co located|ACM|2019|2019
+MCSS|mobile systems computational social science|ACM|2012|2012
+MCSS|multimedia communications services security|Springer|2011|2022
+MCSUL|southern computational modeling||2009|2009
+MCS|mediterranean combustion||2000|2000
+MCS|mediterranian combustion|Elsevier|2000|2000
+MCS|middleware cloud enabled sensing co located ifip usenix middleware middleware|ACM|2013|2013
+MCS|mobile cloud computing services co located|ACM|2014|2015
+MCS|mobile cloud computing services social networks beyond co located|ACM|2010|2010
+MCS|mobile cloud computing services|ACM|2012|2013
+MCS|monte carlo search held conjunction|Springer|2021|2021
+MCS|multiple classifier systems first|Springer|2000|2000
+MCS|multiple classifier systems|Springer|2000|2015
+MCTA|mobile commerce technologies applications mobile business processes platforms payments zur konferenz mobile commerce technologien und anwendungen||2005|2005
+MCTE|embs special topic molecular cellular tissue engineering|IEEE|2002|2002
+MCTE|fifth mechatronics computer technology engineering|SPIE|2022|2022
+MCTE|mechatronics computer technology engineering|IEEE|2021|2025
+MCT|scientific technical modern challenges telecommunications|Springer|2025|2025
+MCU|machines computations universality third|Springer|2001|2001
+MCU|machines computations universality|Springer|2001|2025
+MCVR|measurement communication virtual reality|SPIE|2025|2025
+MCVR|second measurement communication virtual reality|SPIE|2026|2026
+MCV|medical computer vision bayesian graphical models biomedical imaging held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+MCV|medical computer vision held conjunction medical image computing computer assisted intervention|Springer|2011|2016
+MCV|medical computer vision large data medical imaging third miccai revised selected papers|Springer|2014|2014
+MCV|medical computer vision recognition techniques applications medical imaging miccai revised selected papers||2011|2011
+MCV|medical computer vision recognition techniques applications medical imaging second miccai revised selected papers||2013|2013
+MCWASP|modelling casting welding advanced solidification processes|IOP|2020|2020
+MCWC|mobile computing wireless communications||2006|2006
+MDABIZ|business support mda co located tools||2008|2008
+MDAC|massive data analytics cloud association world wide web www2010||2010|2010
+MDAFA|model driven architecture european mda workshops foundations applications twente netherlands june linkoping sweden june revised selected papers||2005|2005
+MDAI|modeling decisions artificial intelligence second||2005|2005
+MDAI|modeling decisions artificial intelligence third||2006|2006
+MDAI|modeling decisions artificial intelligence|Springer|2004|2026
+MDA|advances mass data analysis images signals applications medicine r g b biotechnology food industries dietetics biometry security agriculture drug discover system biology medicine biotechnology chemistry food industry||2019|2019
+MDA|advances mass data analysis images signals applications medicine r g b biotechnology food industries dietetics biometry security agriculture drug discover system biology||2018|2018
+MDA|advances mass data analysis images signals artificial intelligence pattern recognition applications medicine r g b biotechnology food industries dietetics biometry security agriculture drug discover system biology medicine biotechnology chemistry food industry||2020|2020
+MDA|advances mass data analysis images signals medicine biotechnology chemistry food industry||2011|2016
+MDA|advances mass data analysis signals images medicine biotechnology chemistry selected papers||2007|2007
+MDA|behaviour modelling model driven architecture bm||2009|2009
+MDA|materials design applications|Springer|2017|2017
+MDA|mobile data access|Springer|1999|1999
+MDBS|embs summer school medical devices biosensors isss from terahertz imaging telehealth technologies||2007|2007
+MDBS|embs summer school medical devices biosensors isss||2006|2006
+MDBS|embs summer school medical devices biosensors||2004|2004
+MDCM|west germany mtt ap joint chapter measurement techniques microwave device characterization modelling digest papers|IEEE|1990|1990
+MDCWC|machine learning deep learning computational intelligence wireless communication|Springer|2021|2021
+MDDAUI|model driven development advanced user interfaces bridging between user experience ui engineering||2010|2010
+MDDAUI|model driven development advanced user interfaces||2005|2009
+MDEIS|model driven enterprise information systems conjunction||2007|2007
+MDG|mapping different geographies|Springer|2010|2010
+MDHPCL|model driven engineering high performance cloud computing satellite event||2012|2012
+MDIC|multimedia databases image communication second||2001|2001
+MDIC|multimedia databases image communication|Springer|2001|2001
+MDISIS|model driven interoperability sustainable information systems held conjunction||2008|2008
+MDIS|modelling development intelligent systems|Springer|2020|2025
+MDI|model driven interoperability conjunction||2010|2010
+MDMC|joint asia pacific communications multi dimensional mobile communications apcc volume||2004|2004
+MDMC|joint asia pacific communications multi dimensional mobile communications apcc||2004|2004
+MDMKDD|multimedia data mining held conjunction|ACM|2011|2013
+MDMKDD|multimedia data mining||2010|2010
+MDMW|mobile data management workshops||2009|2009
+MDM|japan mobile data management||2006|2006
+MDM|mdm2010 mobile data management||2010|2010
+MDM|mobile data management systems services middleware||2009|2009
+MDM|mobile data management workshops seminars||2011|2011
+MDM|mobile data management|IEEE|2001|2025
+MDM|multimedia data mining held conjunction||2008|2008
+MDM|multimedia data mining mining integrated media complex data||2005|2005
+MDM|multimedia data mining||2007|2007
+MDM|sixth mobile data management||2005|2005
+MDOA|multidisciplinary design optimization applications|EDP|2025|2025
+MDPLE|model driven product line engineering||2010|2010
+MDPNP|joint high confidence medical devices software systems medical device plug play interoperability hcmdss||2007|2007
+MDP|seminar microelectronics dielectrics plasmas theory practical applications|IEEE|2023|2023
+MDSD|model driven architecture modeling driven software development mda conjunction||2011|2011
+MDSEC|model driven security||2012|2012
+MDSME|mechanics dynamic systems material engineering||2013|2014
+MDSM|joint model driven software migration software quality maintainability workshops european software maintenance reengineering||2011|2011
+MDS|mechanical design simulation|Springer|2022|2026
+MDS|middleware doctoral co located ifip usenix middleware middleware|ACM|2013|2013
+MDS|middleware doctoral co located ifip usenix middleware|ACM|2009|2014
+MDS|middleware doctoral co located middleware||2008|2008
+MDS|middleware doctoral ifip usenix middleware||2011|2011
+MDS|middleware doctoral||2007|2010
+MDS|mining data semantics||2012|2012
+MDS|series proc int middleware doctoral symp held ifip usenix int middleware||2006|2006
+MDS|third mechanical design simulation|SPIE|2023|2023
+MDTS|microelectronics design test|IEEE|2021|2025
+MDTT|multilingual digital terminology today||2023|2025
+MDTT|multilingual terminology today||2022|2022
+MDWE|model driven web engineering||2007|2009
+MEAAC|mechanics electronics automation automatic control|IOP|2023|2026
+MEACM|mechanical engineering applied composite materials|IOP|2020|2025
+MEACS|mechanical engineering automation control systems|IEEE|2014|2021
+MEAE|asia mechanical engineering aerospace engineering|IEEE|2022|2024
+MEAE|mechanical engineering aerospace engineering|IEEE|2025|2025
+MEAI|mechatronic engineering artificial intelligence|SPIE|2024|2025
+MEAI|mechatronics engineering artificial intelligence|SPIE|2023|2023
+MEAL|society petroleum engineers spe middle east artificial lift exhibition||2018|2024
+MEAMIT|mechanical engineering advanced manufacturing intelligent technology|IOP|2025|2025
+MEAM|mechanical engineering applied mechanics||2014|2014
+MEASUREMENTS|mass flow||1984|1984
+MEATCON|meat industry|IOP|2019|2019
+MEAT|metallurgical engineering automation technology|IOP|2022|2022
+MEA|materials engineering aeronautics||2021|2021
+MEA|mechanical engineering automation|IOP|2023|2026
+MEBSE|mechanical electronic biosystem engineering|IOP|2019|2019
+MECAMAT|euromech european mechanics materials adaptive systems materials constitutive materials hybrid structures||2004|2004
+MECAMAT|european mechanics materials local approach fracture euromech||1996|1996
+MECAMAT|european mechanics materials mechanics materials intrinsic length scale physics experiments modelling applications euromech|EDP|1998|1998
+MECAMAT|european mechanics materials scale transitions from atomistics continuum plasticity euromech||2001|2001
+MECAP|middle east antennas propagation|IEEE|2010|2016
+MECATRONICS|france japan congress europe asia congress|IEEE|2014|2014
+MECATRONICS|france japan europe asia congress mechatronics research education mechatronics|IEEE|2012|2025
+MECBME|middle east africa biomedical engineering||2020|2020
+MECBME|middle east biomedical engineering||2011|2014
+MECB|advanced research material engineering chemistry bioinformatics||2011|2011
+MECB|material engineering chemistry bioinformatics||2012|2014
+MECC|metaos cloud edge iot continuum part asplos|ACM|2025|2025
+MECC|metaos cloud edge iot continuum part|ACM|2024|2024
+MECC|middleware edge clouds cloudlets part middleware|ACM|2018|2019
+MECC|middleware edge clouds cloudlets|ACM|2016|2017
+MECC|modeling estimation control|Elsevier|2021|2025
+MECEM|mechanical engineering civil engineering material engineering||2014|2014
+MECE|material engineering chemistry environment||2013|2013
+MECHANICS|advances ice||1987|1987
+MECHANICS|optical measurements fluid vi photon correlation other techniques fluid||1985|1985
+MECHANICS|recent researches transportation culture wseas applied theoretical automotive transportation systems arts culture||2010|2010
+MECHANICS|research structural solid||1982|1982
+MECHATRONICS|ifac mechatronic systems|Elsevier|2010|2025
+MECH|ifac mechatronic systems||2013|2013
+MECNIT|mechanical electronics computer industrial technology|IEEE|2020|2020
+MECOMM|mobile edge communications part|ACM|2017|2018
+MECOM|middle east communications networking|IEEE|2024|2025
+MECON|mobile embedded technology|IEEE|2022|2022
+MECON|multimedia university engineering|IEEE|2024|2025
+MECO|mediterranean embedded computing including bioeng student challenge|IEEE|2016|2016
+MECO|mediterranean embedded computing including student challenge|IEEE|2015|2015
+MECO|mediterranean embedded computing including|IEEE|2014|2018
+MECO|mediterranean embedded computing|IEEE|2012|2025
+MECSOL|solid mechanics|Springer|2024|2024
+MECS|perspectives model engineering complex systems||2008|2008
+MEC|mechatronic science electric engineering computer||2011|2011
+MEC|mechatronic sciences electric engineering computer|IEEE|2013|2013
+MEC|mineral engineering|IOP|2019|2019
+MEDAGI|foundation models medical artificial general intelligence held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+MEDAI|medical artificial intelligence|IEEE|2023|2025
+MEDALG|mediterranean algorithms|Springer|2012|2012
+MEDCOAST|congress coastal marine sciences engineering management conservation||2017|2019
+MEDCOAST|mediterranean coastal environment||2005|2015
+MEDCOMM|medical communication systems|ACM|2012|2012
+MEDCOMNET|mediterranean communication computer networking|IEEE|2020|2025
+MEDCOMP|computer society medical computer science computational medicine||1982|1982
+MEDCOM|medical imaging m health emerging communication systems|IEEE|2015|2015
+MEDCOM|modern electronics devices communication systems|Springer|2023|2023
+MEDCOM|modern electronics devices intelligent communication systems|IEEE|2025|2025
+MEDCOM|smart communication imaging systems|Springer|2021|2021
+MEDCT|mediterranean information communication technologies|Springer|2016|2016
+MEDEA|memory performance dealing applications systems architecture held conjunction||2007|2009
+MEDEA|memory performance dealing applications systems architectures||2006|2006
+MEDEA|memory performance dealing applications systems architecture|ACM|2003|2005
+MEDER|iftomm mechanism design robotics|Springer|2015|2024
+MEDES|management computational collective intelligence digital ecosystems|ACM|2015|2015
+MEDES|management digital ecosystems|ACM|2016|2026
+MEDES|management digital|Springer|2024|2024
+MEDES|management emergent digital ecosystems|ACM|2009|2014
+MEDEX|calculation double beta decay matrix elements|IOP|2009|2025
+MEDEX|matrix elements double beta decay experiments||2025|2025
+MEDEX|using web data medical domain web science information exchange medical web||2010|2010
+MEDFRACT|mediterranean fracture structural integrity|Elsevier|2020|2020
+MEDGO|mediterranean gas oil|IEEE|2015|2015
+MEDGREEN|impact integrated clean energy future mediterranean environment lb||2011|2011
+MEDGU|mediterranean geosciences union|Springer|2023|2026
+MEDHOCNET|mediterranean ad hoc networking med hoc net ifip|IEEE|2016|2016
+MEDIAEVAL|benchmarking initiative multimedia evaluation multi multimedia speech audio visual content tags users context working notes||2010|2010
+MEDIAEVAL|multimedia benchmark working notes||2011|2012
+MEDIAEVAL|working notes||2019|2024
+MEDIATE|mediation semantic web services||2005|2005
+MEDIA|ubi computing workshops u|IEEE|2014|2014
+MEDICINE|application optical instrumentation|SPIE|1983|1983
+MEDICON|mediterranean medical biological engineering computing medical biological engineering|Springer|2024|2024
+MEDICON|mediterranean medical biological engineering computing|Springer|2007|2020
+MEDICON|xii mediterranean medical biological engineering computing||2010|2010
+MEDINFO|future is accessible world congress medical health informatics||2024|2024
+MEDINFO|healthcare smart x medicine deep world congress medical health informatics||2025|2025
+MEDINFO|one world one health global partnership digital innovation world congress medical health informatics||2022|2022
+MEDINFO|world congress medical informatics||2004|2004
+MEDITCOM|mediterranean communications networking|IEEE|2021|2025
+MEDITECH|advancements medicine health care through technology|Springer|2014|2025
+MEDITEC|medical engineering health informatics technology|IEEE|2016|2016
+MEDIVIS|bio medical visualization information visualization medical biomedical informatics||2008|2008
+MEDIVIS|medical information visualisation biomedical visualisation||2006|2006
+MEDIVIS|third medical information visualisation biomedical visualisation||2005|2005
+MEDIVIZ|medical information visualisation biomedical visualisation||2007|2007
+MEDI|held model data engineering|Springer|2024|2024
+MEDI|model data engineering first||2011|2011
+MEDI|model data engineering modeling verification testing dependable critical systems model data engineering social good medi4sg cybersecurity functional safety cyber physical systems formal model mastering multifaceted systems|Springer|2018|2018
+MEDI|model data engineering third|Springer|2013|2013
+MEDI|model data engineering|Springer|2012|2026
+MEDI|new trends model data engineering held modeling verification testing dependable critical systems intelligent autonomous systems control software methods models languages blockchain inter organizational collaboration health data|Springer|2021|2021
+MEDI|new trends model data engineering|Springer|2019|2019
+MEDO|multidisciplinary engineering design optimization|IEEE|2016|2016
+MEDPOWER|mediterranean exhibition power generation transmission distribution energy conversion||2010|2010
+MEDPOWER|mediterranean power generation transmission distribution energy conversion||2012|2024
+MEDPRAI|mediterranean pattern recognition artificial intelligence|Springer|2020|2026
+MEDSIP|iet advances medical signal information processing||2008|2008
+MEDSIP|interantional advances medical signal information processing||2000|2000
+MEDTECH|iet medical electrical devices technology||2007|2007
+MEDTECH|medical imaging||1990|1990
+MEDT|society petroleum engineers spe iadc middle east drilling technology exhibition delivering future energy through people technology standards||2013|2013
+MEDT|society petroleum engineers spe iadc middle east drilling technology exhibition||2011|2025
+MEDT|spe iadc middle east drilling technology exhibition||2021|2021
+MED|energy transition mediterranean area synergy|IEEE|2024|2024
+MED|kr formal biomedical knowledge representation semantic applications life sciences hosted bio ontologies||2010|2010
+MED|kr knowledge representation medicine representing sharing knowledge using snomed||2008|2008
+MED|mediterranean control automation|IEEE|2006|2025
+MED|proc int formal biomedical knowledge representation biomedical ontology action kr collocated int conf formal ontology information systems||2006|2006
+MED|synergy energy transition mediterranean area|IEEE|2019|2022
+MEEE|manufacture engineering environment engineering||2014|2014
+MEEE|mechatronics electrical engineering|IEEE|2023|2023
+MEEGET|mechanical electrical engineering green energy technologies|IEEE|2025|2025
+MEES|modern electrical energy systems|IEEE|2017|2021
+MEES|modern electrical energy system|IEEE|2022|2024
+MEETING|agma papers presented fall technical||1982|1982
+MEETING|asme winter||1982|1982
+MEETING|electron devices iedm technical digest||1986|1986
+MEETING|electron devices technical digest||1985|1985
+MEETING|seas anniversary distributed intelligence||1984|1984
+MEETING|seas anniversity||1986|1986
+MEETING|seas spring processing statistical information||1984|1984
+MEETING|technical digest electron devices||1982|1987
+MEETING|technical papers american society photogrammetry asp acsm convention||1981|1981
+MEETING|technical recovery fine particles||1982|1982
+MEETING|water urban areas technical||1985|1985
+MEET|mechanical engineering emerging technologies||2022|2022
+MEET|meta networking|IEEE|2025|2025
+MEE|intelligent materials mechanical engineering||2013|2014
+MEFDATA|mediterranean forum data science|Springer|2021|2021
+MEFNM|imeko tc24 metrology environmental food nutritional measurements together imeko tc19 environmental measurements imeko tc23 food nutritional measurements||2008|2008
+MEFORM|metal forming||2019|2019
+MEFORM|new developments wire production processing||2017|2017
+MEFORM|production further processing flat products||2016|2016
+MEGAGAUSS|magnetic field generation related topics|IEEE|2012|2018
+MEGA|air waste management association power plant pollutant control||2016|2016
+MEGA|power plant pollutant control||2013|2014
+MEGA|power plant pollutant effluent control best practices future trends||2018|2018
+MEGM|mechanical engineering green manufacturing ii||2012|2012
+MEGM|mechanical engineering green manufacturing||2013|2013
+MEG|agricultural engineering land technik landtechnik regional und vdi||2008|2008
+MEHSE|society petroleum engineers spe middle east health safety environment sustainable development exhibition||2014|2014
+MEIC|mechatronics electronic industrial control engineering|Atlantis|2014|2014
+MEIEI|mechanical engineering industrial electronics informatization||2013|2013
+MEIE|mechanical electric industrial engineering|IOP|2021|2025
+MEIME|mechanical engineering industry manufacturing engineering||2013|2014
+MEIMM|fifth mechanical engineering intelligent manufacturing mechatronics|SPIE|2024|2024
+MEIMM|sixth mechanical engineering intelligent manufacturing mechatronics|SPIE|2025|2025
+MEIS|joint technologies collaborative business processes management enterprise information systems tcob conjunction||2008|2008
+MELBOURNE|electronics convention exhibition institution radio electronics engineers australia digest papers||1985|1985
+MELECON|electrotechnology development mediterranean electrotechnical||1981|1981
+MELECON|mediterranean electrochemical||1985|1985
+MELECON|mediterranean electrotechnical book abstracts||2010|2010
+MELECON|mediterranean electrotechnical congress electronics joint||1987|1987
+MELECON|mediterranean electrotechnical intelligent efficient technologies services citizen|IEEE|2016|2016
+MELECON|mediterranean electrotechnical part||1996|1996
+MELECON|mediterranean electrotechnical volume iii||2004|2004
+MELECON|mediterranean electrotechnical volume||2004|2004
+MELECON|mediterranean electrotechnical|IEEE|1983|2026
+MELECON|mediterranean eletrotechnical|IEEE|2018|2018
+MELECON|melecon2006 mediterranean electrotechnical||2006|2006
+MELT|mobile entity localization tracking gps less environments second||2009|2009
+MELT|mobile entity localization tracking gps less environments|ACM|2015|2015
+MEMAT|fourth mechanical engineering intelligent manufacturing automation technology|SPIE|2024|2024
+MEMAT|mechanical engineering intelligent manufacturing automation technology|IEEE|2021|2026
+MEMA|materials engineering mechanical automation||2014|2014
+MEMA|mechanical electrical material application|IOP|2020|2025
+MEMA|tms middle east mediterranean materials congress energy infrastructure systems||2015|2015
+MEMBRANES|structural textile composites inflatable structures||2021|2021
+MEMBRANES|textile composites inflatable structures structural||2015|2018
+MEMC|engineering materials energy management control memc2014||2014|2014
+MEMC|engineering materials energy management control||2013|2013
+MEMEA|edition medical measurements applications|IEEE|2025|2025
+MEMEA|medical measurement applications||2006|2007
+MEMEA|medical measurements applications|IEEE|2008|2026
+MEME|frontiers mechanical engineering materials engineering||2012|2014
+MEME|future mechanical engineering materials engineering||2014|2014
+MEMIA|microwave electronics measurements identification application|IEEE|2001|2001
+MEMIA|russia microwave electronics measurements identification applications|IEEE|2003|2005
+MEMICS|doctoral mathematical engineering methods computer science|Springer|2009|2016
+MEMICS|mathematical engineering methods computer science doctoral revised selected papers||2012|2013
+MEMM|baltic materials engineering modern manufacturing||2023|2023
+MEMM|materials engineering modern manufacturing||2021|2021
+MEMOCODE|fifth formal methods models co design||2007|2007
+MEMOCODE|formal methods models co design|IEEE|2003|2009
+MEMOCODE|formal methods models codesign|IEEE|2010|2015
+MEMOCODE|formal methods models system design|IEEE|2016|2025
+MEMOCODE|fourth formal methods models co design||2006|2006
+MEMOCODE|methods models system design|IEEE|2014|2014
+MEMOCODE|third formal methods models co design||2005|2005
+MEMRISYS|memristive systems|IEEE|2015|2015
+MEMSM|mems mechanics||2013|2013
+MEMSTECH|perspective technologies methods mems design ivth young scientists||2008|2008
+MEMSTECH|perspective technologies methods mems design young scientists||2007|2007
+MEMSTECH|perspective technologies methods mems design|IEEE|2009|2024
+MEMSTECH|young scientists perspective technologies methods mems design||2007|2007
+MEMSYS|memory systems|ACM|2019|2026
+MEMS|fifteenth micro electro mechanical systems||2002|2002
+MEMS|leos optical optical their applications||2005|2005
+MEMS|materials science microelectromechanical systems devices iii||2001|2001
+MEMS|materials science microelectromechanical systems devices ii||2000|2000
+MEMS|materials science microelectromechanical systems devices iv||2002|2002
+MEMS|micro electro mechanical systems maastricht technical digest||2004|2004
+MEMS|micro electro mechanical systems miami technical digest||2005|2005
+MEMS|micro electro mechanical systems technical digest||2010|2010
+MEMS|micro electro mechanical systems|IEEE|1996|2026
+MEMS|micro electro mechanical system|Elsevier|1996|2003
+MEMS|microelectromechanical systems|IEEE|2002|2002
+MEMS|sixteenth micro electro mechanical systems||2003|2003
+MEMS|spie micro nanotechnologies defense security||2007|2007
+MEMS|spie micro nanotechnologies space applications||2006|2006
+MEMS|spie micro nanotechnologies space defense security ii||2008|2008
+MEMT|mechanical engineering modern technologies|IOP|2020|2020
+MEMT|mining engineering metallurgical technology||2011|2011
+MEMU|5g 5g beyond network measurements modeling use cases co located|ACM|2024|2024
+MEMU|5g 5g beyond network measurements modeling use cases part|ACM|2022|2022
+MEMU|5g 5g measurements modeling use cases part|ACM|2021|2021
+MEMU|5g acmworkshop 5g beyond network measurements modeling use cases part|ACM|2023|2023
+MENACOMM|middle east north africa communications breaking boundaries pioneering next era communication|IEEE|2025|2025
+MENACOMM|middle east north africa communications|IEEE|2018|2026
+MENDEL|soft computing evolutionary computation genetic programming fuzzy logic rough sets neural networks fractals bayesian methods||2008|2008
+MENDEL|soft computing|Springer|2017|2019
+MENSURA|iwsm joint software measurement onsoftware process product measurement||2022|2022
+MENSURA|iwsm joint software measurement software process product measurement||2023|2024
+MENSURA|joint int software measurement int conf software process product measurement iwsm||2012|2012
+MENSURA|joint software measurement software process product measurement iwsm||2013|2013
+MENU|meson nucleon physics structure nucleon|EDP|2024|2024
+MEOS|middle east oil gas show||2009|2009
+MEOS|society petroleum engineers middle east oil gas geosciences show||2023|2025
+MEOS|society petroleum engineers middle east oil gas show transforming energy future||2013|2013
+MEOS|society petroleum engineers middle east oil gas show||2011|2011
+MEOS|society petroleum engineers spe middle east oil gas show||2021|2021
+MEOS|spe middle east oil gas show||2005|2007
+MEPCON|middle east power systems|IEEE|2006|2025
+MEPCON|middle east power system|IEEE|2008|2024
+MEPDAW|managing evolution preservation data web co located semantic web||2020|2022
+MEPDAW|quweda joint quweda storing querying benchmarking knowledge graphs managing evolution preservation data web co located semantic web||2023|2023
+MEPEA|materials environmental protection energy application||2012|2012
+MEPE|mechanical engineering power engineering|IEEE|2022|2025
+MEPHOCO|mediterranean photonics||2014|2014
+MEPS|modern electric power systems|IEEE|2010|2019
+MEP|materials science energy technology power engineering iii|IOP|2019|2019
+MEP|materials science energy technology power engineering iv|IOP|2022|2022
+MEQAPS|manufacturing engineering quality production systems||2009|2009
+MEQAPS|recent advances manufacturing engineering manufacturing engineering quality production systems||2011|2011
+MERCON|moratuwa engineering research multidisciplinary engineering research|IEEE|2024|2025
+MERCON|moratuwa engineering research|IEEE|2015|2023
+MERCON|multidisciplinary moratuwa engineering research|IEEE|2018|2021
+MERE|first multimedia requirements enineering||2006|2006
+MERE|multimedia enjoyable requirements engineering beyond descriptions more fun games co located requirements engineering re||2011|2011
+MERE|multimedia enjoyable requirements engineering||2008|2008
+MERIT|multidisciplinary approach embrace complexity sustainability megaprojects|Springer|2023|2026
+MERLIN|sigplan mechanized reasoning about languages variable binding|ACM|2003|2003
+MERLIN|third sigplan mechanized reasoning about languages variable binding|ACM|2005|2005
+MERS|spwla middle east regional||2007|2007
+MER|society petroleum engineers spe middle east regional meeting||1961|1961
+MESAQIN|measurement audio video quality networks||2006|2009
+MESAQIN|measurement speech audio quality networks||2005|2005
+MESAQIN|measurement speech audio video quality networks line||2010|2010
+MESAQIN|measurement speech audio video quality networks||2008|2008
+MESAS|modelling simulation autonomous systems|Springer|2014|2026
+MESA|asme mechatronic embedded systems applications|IEEE|2010|2022
+MESA|asme mechatronic mbedded systems applications||2007|2007
+MESA|asme mechatronics embedded systems applications||2008|2008
+MESA|mechatronic embedded systems applications|IEEE|2024|2025
+MESE|modern engineering science education|Springer|2015|2016
+MESH|advances networks||2009|2013
+MESIC|advances manufacturing systems||2014|2014
+MESIC|manufacturing engineering society|Elsevier|2012|2023
+MESIC|third manufacturing engineering society||2009|2009
+MESIICON|interdisciplinary mathematics engineering science|IEEE|2022|2022
+MESM|middle eastern simulation modelling multiconference gameon gameon||2011|2015
+MESM|middle eastern simulation modelling||2020|2025
+MESM|middle eastern simulation multiconference gameon gameon||2010|2010
+MESM|middle eastern simulation multiconference||2005|2009
+MESOCA|maintenance evolution service oriented cloud based environments|IEEE|2016|2016
+MESOCA|maintenance evolution service oriented cloud based systems|IEEE|2011|2014
+MESOCA|maintenance evolution service oriented systems cloud based environments|IEEE|2015|2015
+MESO|physical mesomechanics condensed matter physical principles multiscale structure formation mechanisms nonlinear behavior|IOP|2023|2023
+MESROB|medical service robotics||2016|2016
+MESROB|medical service robots|Springer|2014|2018
+MESROB|new trends medical service robotics|Springer|2022|2022
+MESROB|new trends medical service robots|Springer|2023|2025
+MESS|metaheuristics summer school|Springer|2021|2021
+MESS|microelectronic systems|IEEE|2015|2015
+MEST|ifac advanced maintenance engineering services technology||2010|2012
+MES|congress mexican society electrochemistry meeting ecs mexican section||2013|2013
+MES|ecs transactions electrochemistry nanotechnology biomaterials meeting||2008|2008
+MES|electrochemical applications biology nanotechnology environmental engineering materials||2009|2009
+MES|electrochemistry alternative energy sources environmental improvement||2010|2010
+MES|electrochemistry as tool sustainable development||2011|2011
+MES|many core embedded systems conjunction computer architecture|ACM|2013|2014
+MES|mechanical engineering solutions design simulation testing manufacturing|Springer|2026|2026
+MES|mineral exploration||2020|2020
+METACOM|metaverse computing networking applications|IEEE|2023|2025
+METALS|advanced materials research development transport light||1985|1985
+METALS|advanced materials research developments transport light||1985|1985
+METALS|art cutting years later tribute f w taylor||1982|1982
+METALS|light technical sessions aime meeting||1982|1982
+METALS|light technical sessions tms meeting||1987|1987
+METALS|precious eleventh precious institute||1987|1987
+METALS|precious ninth precious institute||1986|1986
+METALS|superconductivity d f band||1982|1982
+METAL|anniversary metallurgy materials||2016|2021
+METAL|metallurgical materials||2007|2008
+METAL|metallurgy materials||2009|2025
+METANANO|metamaterials nanophotonics|IOP|2020|2021
+METASEL|meta learning algorithm selection co located european machine learning principles practice knowledge discovery databases||2015|2015
+METASOFT|metaheuristics engineering its applications metasoft2024|IOP|2026|2026
+METASYS|metaverse systems applications part|ACM|2023|2023
+METAVERSE|held as part services federation|Springer|2022|2026
+META|meta08 metamaterials||2008|2008
+META|metaheuristics nature inspired computing|Springer|2022|2024
+META|metamaterials photonic crystals plasmonics||2019|2025
+META|programming logic|Springer|1992|1992
+META|sigplan programming techniques reflection co located|ACM|2018|2019
+METC|all russian participation mountain ecosystems their components dedicated year science technology russian federation|EDP|2021|2021
+METEC|steel non ferrous metals section||1984|1984
+METFOAM|fifth porous metals metalic foams septemeber montreal canada||2008|2008
+METFOAM|porous metals metallic foams|Springer|2018|2023
+METMBS|mathematics engineering techniques medicine biological sciences||2003|2005
+METMG|manufacturing engineering technology manufacturing growth||2013|2014
+METMS|fourth mechanical electronics electrical automation control|SPIE|2024|2024
+METMS|mechanical electronics electrical automation control|IEEE|2022|2025
+METMS|third mechanical electronics electrical automation control|SPIE|2023|2023
+METPLANT|metallurgical plant design operating strategies||2008|2011
+METRAPP|iftomm mechanisms transmissions applications|Springer|2023|2026
+METRAPP|mechanisms transmissions applications|Springer|2012|2018
+METRICON|security metrics||2008|2008
+METRIC|software metrics|IEEE|1993|1993
+METRISEC|security measurements metrics||2010|2012
+METROAGRIFOR|metrology agriculture forestry|IEEE|2019|2025
+METROARCHAEO|imeko metrology archaeology cultural heritage||2019|2019
+METROARCHAEO|imeko tc metrology archaeology cultural heritage||2022|2022
+METROARCHAEO|imeko tc4 metrology archaeology cultural heritage||2019|2019
+METROARCHAEO|metrology archaeology cultural heritage|IEEE|2018|2022
+METROARCHAEO|metrology archaeology||2015|2015
+METROARCHEO|imeko metrology archeology cultural heritage||2016|2016
+METROCAD|connected autonomous driving|IEEE|2020|2022
+METROGREENST|metrology green technologies renewable energy ecological sustainability|IEEE|2025|2025
+METROLIVENV|metrology living environment|IEEE|2023|2025
+METROLIVEN|metrology living environment|IEEE|2022|2022
+METROSEA|imeko tc19 metrology sea learning measure sea health parameters||2017|2020
+METROSEA|metrology sea learning measure sea health parameters|IEEE|2018|2025
+METROSEA|metrology sea|IEEE|2024|2024
+METROSEA|tc19 metrology sea||2020|2020
+METROXRAINE|metrology extended reality artificial intelligence neural engineering|IEEE|2022|2025
+METWASTE|management recycling metallurgical wastes|Elsevier|2021|2021
+MET|advances mechanical engineering trends|Elsevier|2022|2022
+MET|efficient building design materials hvac equipment technologies icebd||2014|2014
+MET|innovations applied research mechanical engineering technology||2001|2003
+MET|marine navigation safety sea transportation stcw maritime education training human resources crew manning maritime policy logistics economic matters||2013|2013
+MET|metamorphic testing co located|ACM|2024|2024
+MET|metamorphic testing|IEEE|2017|2023
+MEW|machine ethics from formal methods emergent machine ethics co located artificial intelligence||2026|2026
+MEXIHC|mexican human computer interaction|ACM|2012|2022
+MFCS|mathematical foundations computer science|Springer|1975|2025
+MFCS|selected papers mathematical foundations computer science|Elsevier|1991|1991
+MFDBS|mathematical fundamentals database systems|Springer|1988|1989
+MFIIS|michael faraday iet summit||2020|2020
+MFI|multisensor fusion integration intelligent systems|IEEE|2010|2025
+MFI|multisensor integration fusion|Springer|2018|2018
+MFI|processing multisensor fusion information integration intelligent systems|IEEE|2014|2014
+MFI|sensor data fusion multisensor fusion integration sdf|IEEE|2023|2023
+MFMEL|indo korean multi functional materials extreme loading|Springer|2022|2022
+MFMS|multi functional materials structures||2013|2013
+MFMS|multi functional materials structure||2014|2014
+MFPS|mathematical foundations programming semantics||2021|2021
+MFPS|meeting mathematical foundations programming semantics part|Elsevier|1994|1994
+MFPT|condition monitoring machinery failure prevention technologies cm||2010|2018
+MFPT|intelligent technologies equipment human performance monitoring||2018|2018
+MFPT|joint isa s instrumentation technology evolution sensors systems failure prevention||2015|2015
+MFPT|joint s instrumentation sensors systems reliability safety affordability||2013|2013
+MFPT|meeting society machinery failure prevention technology||2020|2023
+MFPT|technical program prognostics health management solutions phm driving efficient operations maintenance||2012|2012
+MFPT|technical program transition from r d product||2010|2010
+MFPT|technology solutions affordable sustainment||2014|2014
+MFPT|where theory meets practice||2019|2019
+MFPT|years failure prevention technology innovation||2017|2017
+MFSEC|multimedia forensics security co located|ACM|2017|2017
+MFT|aiaa flight testing||2015|2015
+MGC|middleware grid computing held ifip usenix middleware||2005|2008
+MGC|middleware grid computing||2004|2004
+MGC|middleware grids clouds e science co located ifip usenix middleware||2011|2012
+MGC|middleware grids clouds e science held ifip usenix middleware|ACM|2009|2010
+MGC|series middleware grid computing held ifip usenix middleware||2006|2006
+MGDETE|meeting growing demand engineers their educators summit||2007|2007
+MGEIS|materials genetic engineering information science||2021|2021
+MGNC|aiaa guidance navigation control||2015|2015
+MGS|society petroleum engineers spe midwest gas storage production||1977|1977
+MGS|society petroleum engineers spe midwest oil gas industry||1971|1974
+MHC|multimedia human communication from capture convey co located multimedia|ACM|2005|2005
+MHDW|mining humanistic data 5g putting intelligence network edge 5g ai applications achieving green deal targets ai4gd held as parallel events ifip wg workshops artificial intelligence applications innovations|Springer|2024|2024
+MHDW|mining humanistic data 5g putting intelligence network edge 5g ai energy building micro grids special session machine learning big data health care ml hc artificial intelligence biomedical engineering informatics held as parallel events ifip wg artificial intelligence applications innovations|Springer|2022|2022
+MHDW|mining humanistic data 5g putting intelligence network edge 5g held as parallel events ifip wg artificial intelligence applications innovations|Springer|2020|2020
+MHDW|mining humanistic data b5g putting intelligence network edge bg5 ai applications achieving green deal targets ai4gd empowering future ageing through advanced ai based technologies ai ethics held as parallel events ifip wg artificial intelligence applications innovations|Springer|2025|2025
+MHD|computational problems calculation magnetohydrodynamic equilibria second||1984|1984
+MHD|magnetohydrodynamics power generation||1991|1991
+MHD|magnetohydrodynamics power plant retrofit program||1990|1990
+MHFI|multi sensorial approaches human food interaction|ACM|2016|2016
+MHFI|multisensory approaches human food interaction|ACM|2018|2018
+MHFI|sigchi multisensory approaches human food interaction co located|ACM|2017|2017
+MHMEE|multifunctional hybrid materials energy environment|Elsevier|2020|2020
+MHMT|world congress momentum heat mass transfer||2023|2025
+MHS|anniversary micro nano global micro nanomechatronics human science||2009|2009
+MHS|micro machine human science||1996|1996
+MHS|micro nanomechatronics human science coe education research micro nano mechatronics system cell engineering multi scale manipulation next generation actuators leading breakthroughs||2008|2008
+MHS|micro nanomechatronics human science fourth micro nanomechatronics information based society century coe program nagoya university||2004|2004
+MHS|micro nanomechatronics human science from micro nano scale systems robotics mechatronics systems coe education research micro nano mechatronics micro nano system cell engineering multi scale manipulation bio manipulation||2010|2010
+MHS|micro nanomechatronics human science|IEEE|2012|2023
+MHS|micro nanomehatronics human science|IEEE|2024|2024
+MHS|micromechatronics human science|IEEE|1997|2003
+MHTC|mexican humanitarian technology|IEEE|2017|2025
+MHVR|multimedia hypermedia virtual reality|Springer|1996|1996
+MHV|mile high video|ACM|2022|2026
+MIAA|multimodal interfaces automotive applications conjunction intelligent user interfaces||2010|2010
+MIAA|multimodal interfaces automotive applications|ACM|2010|2010
+MIACA|medical image analysis clinical application||2010|2010
+MIAD|medical image analysis description diagnosis systems conjunction||2009|2011
+MIAR|augmented reality environments medical imaging computer assisted interventions int int ae held conjunction proc||2013|2013
+MIAR|medical imaging augmented reality|Springer|2001|2016
+MIA|multilingual information access||2022|2022
+MICAD|medical imaging computer aided diagnosis|Springer|2020|2025
+MICAI|advances artificial intelligence its applications mexican artificial intelligence||2013|2013
+MICAI|advances artificial intelligence mexican artificial intelligence revised selected papers||2013|2013
+MICAI|advances artificial intelligence mexican artificial intelligence||2000|2011
+MICAI|advances artificial intelligence third mexican artificial intelligence||2004|2004
+MICAI|advances artificial intelligence||2008|2008
+MICAI|advances soft computing its applications mexican artificial intelligence||2013|2013
+MICAI|advances soft computing mexican artificial intelligence||2010|2011
+MICAI|fifth mexican artificial intelligence||2006|2006
+MICAI|mexican artificial intelligence advances artificial intelligence applications special session||2011|2011
+MICAI|mexican artificial intelligence advances artificial intelligence|IEEE|2015|2015
+MICAI|mexican artificial intelligence special session||2008|2009
+MICAI|mexican artificial intelligence|Springer|2002|2026
+MICAI|posters track mexican artificial intelligence|Springer|2025|2025
+MICAI|several workshops which were held conjunction mexican artificial intelligence|Springer|2026|2026
+MICAI|sixth mexican artificial intelligence||2008|2008
+MICAI|special session mexican artificial intelligence advances artificial intelligence applications||2010|2010
+MICAI|special session mexican artificial intelligence advances artificial intelligence|IEEE|2014|2017
+MICAI|special session mexican artificial intelligence|IEEE|2018|2018
+MICAI|special session revised papers mexican artificial intelligence advances artificial intelligence applications||2012|2012
+MICAI|workshops advances computational intelligence|Springer|2026|2026
+MICA|advanced communications machine intelligence|Springer|2024|2026
+MICCAI|abdominal imaging computation clinical applications held conjunction||2013|2013
+MICCAI|abdominal imaging computational clinical applications held conjunction||2012|2012
+MICCAI|abdominal imaging computational clinical applications third held conjunction revised selected papers||2012|2012
+MICCAI|bonbid hie lesion segmentation challenge trauma thompson challenge held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+MICCAI|brainlesion brainles held conjunction medical image computing computer assisted intervention|Springer|2018|2018
+MICCAI|challenge adolescent brain cognitive development neurocognitive prediction abcd np held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+MICCAI|challenge segmentation aorta seg which was held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+MICCAI|challenge ultra widefield fundus imaging diabetic retinopathy uwf4dr held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+MICCAI|deep breast artificial intelligence imaging diagnostic treatment challenges breast care deep breath held conjunction medical imaging computer assisted intervention|Springer|2026|2026
+MICCAI|deep generative models medical image computing computer assisted intervention dgm4miccai held conjunction medical image computing computer assisted intervention|Springer|2022|2026
+MICCAI|digital twin healthcare dt4h held conjunction medical image computing computer assisted intervention|Springer|2026|2026
+MICCAI|efficient medical artificial intelligence ema4miccai held conjunction|Springer|2026|2026
+MICCAI|glioma multiple sclerosis stroke traumatic brain injuries brainles held conjunction|Springer|2016|2016
+MICCAI|interpretability machine intelligence medical image computing imimic held conjunction medical imaging computer assisted intervention|Springer|2022|2026
+MICCAI|interpretability machine intelligence medical image computing imimic topological data analysis its applications medical data tda4medicaldata held conjunction medical image computing computer assisted intervention|Springer|2021|2021
+MICCAI|medical image computing computer assisted intervention miccai2004 part ii||2004|2004
+MICCAI|medical image computing computer assisted intervention miccai2007||2007|2007
+MICCAI|medical image computing computer assisted intervention miccai2009||2009|2009
+MICCAI|medical image computing computer assisted intervention miccai2010||2010|2010
+MICCAI|medical image computing computer assisted intervention part i||2003|2004
+MICCAI|medical image computing computer assisted intervention part||2003|2003
+MICCAI|medical image computing computer assisted intervention|Springer|1998|2026
+MICCAI|mesh processing medical image analysis||2012|2012
+MICCAI|ophthalmic medical image analysis omia xi was held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+MICCAI|patch based techniques medical imaging patch mi held conjunction medical image computing computer assisted intervention|Springer|2015|2018
+MICCAI|prostate cancer imaging computer aided diagnosis prognosis intervention held conjunction||2010|2010
+MICCAI|prostate cancer imaging image analysis image guided interventions held conjunction||2011|2011
+MICCAI|radiomics radiogenomics neuro oncology rno ai held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+MICCAI|topology graph informed imaging informatics tgi3 held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+MICCAI|virtual colonoscopy abdominal imaging computational challenges clinical opportunities second held conjunction revised selected papers||2011|2011
+MICCIS|mobile internet cloud computing information security|IEEE|2023|2025
+MICC|malaysia communication emerging technologies ioe 5g|IEEE|2019|2019
+MICC|malaysia communication smart digital communication humanity|IEEE|2023|2023
+MICC|malaysia communications emerging technologies iot 5g|IEEE|2021|2021
+MICC|malaysia communications special digital tv contents||2009|2009
+MICC|malaysia communications|IEEE|2011|2017
+MICC|malaysia communication|IEEE|2025|2025
+MICC|telecommunications malaysia communications ict||2007|2007
+MICEEI|makassar electrical engineering informatics|IEEE|2014|2014
+MICEST|al muthanna engineering science technology|IEEE|2022|2022
+MICE|materials civil engineering||2021|2021
+MICML|mathematics intelligent computing machine learning|ACM|2023|2023
+MICNET|mobile internet through cellular networks co located mobile computing networking||2009|2009
+MICNON|ifac modelling identification control nonlinear systems|Elsevier|2024|2024
+MICONEX|microelectronics technical||1987|1987
+MICONEX|multi national instrumentation||1983|1983
+MICON|advances video technology microstructural control||1991|1991
+MICON|optimization processing properties service performance through microstructural control||1983|1988
+MICRADS|multidisciplinary research applied defense security|Springer|2018|2026
+MICROBIOLOGY|health related water||1986|1986
+MICROCOM|microelectronics computing communication|IEEE|2016|2016
+MICRONANO|asme integration commercialization micro nanosystems||2008|2008
+MICRONEURO|microelectronics neural fuzzy bio inspired systems|IEEE|1999|1999
+MICRORAD|specialist meeting microwave radiometry remote sensing applications||2006|2006
+MICRORAD|specialist meeting microwave radiometry remote sensing environment|IEEE|2010|2020
+MICROSCOPY|histopathology analytics||2018|2018
+MICROTAS|micro total analysis systems miniaturized systems chemistry life sciences||2005|2006
+MICROTAS|miniaturized systems chemistry life sciences||2008|2022
+MICROTHERM|microtechnology thermal problems electronics|IOP|2014|2020
+MICROWAVE|recent advances theory applications||2008|2008
+MICROW|microarchitecture workshops||2012|2012
+MICRO|microprogramming microarchitecture||1988|1988
+MICRO|mini record||1982|1982
+MICRO|seventeenth microprogramming||1984|1984
+MICSECS|majorov software engineering computer systems||2020|2020
+MICSSH|makassar sports science health|EDP|2026|2026
+MICS|mid infrared coherence sources||2016|2016
+MICS|mid infrared coherent sources high brightness sources light driven interactions congress part optica high brightness sources light driven interactions congress||2024|2024
+MICS|mid infrared coherent sources||2016|2022
+MIC|chemical mechanical planarization ulsi multilevel interconnection cmp||2005|2008
+MIC|fifth mechatronics intelligent control|SPIE|2026|2026
+MIC|fourth mechatronics intelligent control|SPIE|2025|2025
+MIC|iasted modelling identification control||2005|2014
+MIC|iasted multiconferences iasted modelling identification control||2013|2013
+MIC|machining innovations aerospace industry|Elsevier|2019|2019
+MIC|majan promoting entrepreneurship technological skills national needs global trends|IEEE|2018|2018
+MIC|measurement information control||2012|2012
+MIC|midwest industry|IEEE|2020|2020
+MIC|nuclear science medical imaging nss|IEEE|2012|2020
+MIC|nuclear science medical imaging record nss room temperature semiconductor detectors|IEEE|2021|2021
+MIC|nuclear science medical imaging record nss||2012|2012
+MIC|nuclear science medical imaging||1993|1993
+MIC|nuclear science record nss||2008|2009
+MIC|nuclear science symposuim medical imaging nss||2010|2010
+MIC|selected papers from medical imaging seattle washington october||2001|2001
+MIDAS|connecting academia industry modern integrated database ai systems|ACM|2025|2025
+MIDAS|mining data financial applications held conjunction ecml|Springer|2021|2021
+MIDAS|mining data financial applications held conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2020|2020
+MIDAS|mining data financial applications personal analytics privacy held european machine learning knowledge discovery databases ecml|Springer|2019|2019
+MIDA|machine intelligence digital applications|ACM|2024|2026
+MIDDLEWARE|demos posters doctoral part|ACM|2024|2024
+MIDDLEWARE|doctoral ifip usenix||2012|2012
+MIDDLEWARE|industrial track ifip usenix||2012|2012
+MIDDLEWARE|mid4cc computing continuum part|ACM|2025|2025
+MIDDLEWARE|midd4dt digital twin part|ACM|2023|2023
+MIDDLEWARE|midd4dt digital twins part|ACM|2024|2024
+MIDDLEWARE|posters demos posters demos session|ACM|2015|2015
+MIDDLEWEDGE|middleware edge part ifip middleware|ACM|2023|2023
+MIDDLEWEDGE|middleware edge part middleware|ACM|2022|2022
+MIDI|machine intelligence digital interaction|Springer|2022|2026
+MIDI|multimedia interaction design innovation||2013|2013
+MIDL|medical imaging deep learning||2019|2026
+MIDSEC|middleware security|ACM|2008|2008
+MIDSENS|middleware sensor networks co located ifip usenix middleware|ACM|2008|2008
+MIDSENS|middleware tools services run time support networked embedded systems co located ifip usenix middleware middleware||2011|2011
+MIDSENS|middleware tools services run time support sensor networks co located ifip usenix middleware|ACM|2009|2012
+MIDSENS|series middleware sensor networks co located middleware||2006|2006
+MID|congress mechatronic integration discourse|IEEE|2023|2023
+MID|congress molded interconnect devices scientific|IEEE|2016|2016
+MID|congress molded interconnect devices|IEEE|2014|2021
+MID|range computing s||1985|1985
+MIEE|management information educational engineering||2015|2015
+MIEITS|medical imaging electronic imaging information technologies sensors|SPIE|2024|2025
+MIEL|microelectronics part||1997|2004
+MIEL|microelectronics volume||2004|2004
+MIES|manufacturing industrial engineering innovative applications industry|IEEE|2016|2016
+MIET|machine intelligence emerging technologies|Springer|2023|2025
+MIE|caring is sharing exploiting value data health innovation||2023|2023
+MIE|challenges trustable ai added value health||2022|2022
+MIE|digital health informatics innovations sustainable health care systems||2024|2024
+MIE|ehealth beyond horizon get it there congress european federation medical informatics||2008|2008
+MIE|intelligent health systems from technology data knowledge||2025|2025
+MIE|opening personal gate between technology health care||2026|2026
+MIE|sigchi multimodal interaction education co located|ACM|2017|2017
+MIFI|mining future internet||2010|2010
+MIFOR|mm multimedia co located workshops multimedia forensics intelligence||2011|2011
+MIFOR|multimedia forensics co located multimedia mm||2009|2009
+MIFOR|multimedia forensics security intelligence co located multimedia||2010|2010
+MIGARS|machine intelligence geoanalytics remote sensing|IEEE|2023|2025
+MIGA|challenge micro gesture analysis hidden emotion understanding co located joint artificial intelligence||2023|2024
+MIGA|ijcai challenge human behavior analysis emotion understanding ijcai miga2025||2025|2025
+MIGS|malaysia indonesia geopolymer||2015|2015
+MIG|motion games first revised papers||2008|2008
+MIG|motion games motion games|ACM|2016|2016
+MIG|motion games second||2009|2009
+MIG|motion games third||2010|2010
+MIG|motion games|ACM|2010|2017
+MIG|motion interaction games|ACM|2019|2025
+MIG|siggraph motion games|ACM|2015|2015
+MIG|siggraph motion interaction games|ACM|2018|2024
+MIIRH|multimedia indexing information retrieval heathcare co located multimedia||2013|2013
+MIIT|model inference testing held conjunction sigsoft software testing analysis||2010|2010
+MII|mechanical engineering industrial materials industrial electronics||2013|2013
+MIKE|mining intelligence knowledge exploration first||2013|2013
+MIKE|mining intelligence knowledge exploration|Springer|2014|2023
+MIKON|microwave radar wireless communications|IEEE|2016|2016
+MIKON|microwave radar|IEEE|2018|2024
+MIKON|microwaves radar wireless communications volume||2004|2004
+MIKON|microwaves radar wireless communications|IEEE|2000|2014
+MIKON|microwaves radar|IEEE|1998|1998
+MILCIS|military communications information systems|IEEE|2011|2020
+MILCOM|century military communications what s possible||1988|1988
+MILCOM|military communications assuring mission success||2008|2008
+MILCOM|military communications communications supporting military operations contested environment|IEEE|2023|2023
+MILCOM|military communications part military communications part military communications part||1989|1989
+MILCOM|military communications part||1995|1996
+MILCOM|military communications progress satellite communications||1984|1984
+MILCOM|military communications progress spread spectrum communications||1982|1982
+MILCOM|military communications record communications computers teamed s||1986|1986
+MILCOM|military communications record||1987|1987
+MILCOM|military communications volume ii||2003|2003
+MILCOM|military communications volume||2003|2004
+MILCOM|military communications vol||2004|2004
+MILCOM|military communications|IEEE|1990|2025
+MILES|multimodal immersive learning systems european technology enhanced learning ec||2022|2023
+MILES|multimodal immersive learning systems european technology enhanced learning technology enhanced learning free safe sustainable world ec||2021|2021
+MILLAND|medical image learning limited noisy data held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+MILLAND|medical image learning noisy limited data|Springer|2023|2023
+MIMA|meets africa student board empowering medical information computing research through early career expertise held conjunction|Springer|2025|2025
+MIMEC|materials industrial manufacturing engineering||2014|2014
+MIMI|medical imaging informatics||2008|2008
+MIMT|mechanical industrial manufacturing technologies||2010|2014
+MIM|ifac manufacturing modelling management control|Elsevier|2013|2025
+MIM|mechatronics intelligent materials||2013|2014
+MINAR|iapr multimedia information analysis retrieval|Springer|1998|1998
+MINDCARE|computing paradigms mental health conjunction||2012|2012
+MINDCARE|pervasive computing paradigms mental health|Springer|2014|2019
+MINDS|machine learning network data security|IOP|2023|2023
+MINDTREK|academic academic|ACM|2024|2025
+MINDTREK|academic envisioning future media environments||2010|2012
+MINDTREK|academic everyday life ubiquitous era||2009|2009
+MINDTREK|academic making sense converging media||2013|2013
+MINDTREK|academic media business management content services|ACM|2014|2014
+MINDTREK|entertainment media ubiquitous era||2008|2008
+MINDTRICK|academic academic mindtrek|ACM|2023|2023
+MIND|machine intelligence nature inspired computing|IEEE|2025|2025
+MIND|machine learning image processing network security data sciences|Springer|2020|2026
+MIND|next gen middleware mlops distributed systems|ACM|2025|2025
+MINENET|sigcomm mining network data|ACM|2006|2006
+MINENET|third mining network data||2007|2007
+MINES|multimedia information networking security||2009|2011
+MINES|multimedia security||2012|2012
+MINEXCHANGE|sme expo cma national western mining||2025|2025
+MINEXCHANGE|sme expo||2024|2024
+MINEXHANGE|sme expo||2026|2026
+MINING|gold first||1987|1987
+MINING|strip metres beyond||1981|1981
+MINITEC|society plastics engineers spe medical plastics technology advances plastic materials processing medical devices||2013|2013
+MINO|wseas microelectronics nanoelectronics optoelectronics||2010|2010
+MINSK|seventh all union heat mass transfer||1985|1985
+MINSK|translations papers from all union heat mass transfer||1981|1981
+MINSK|translations papers from seventh all union heat mass transfer||1986|1987
+MINTEK|mineral science technology||1985|1985
+MIPAC|management information processes cooperation|Springer|2017|2017
+MIPPR|automatic target recognition image analysis||2009|2011
+MIPPR|automatic target recognition navigation|SPIE|2013|2024
+MIPPR|geospatial information data mining applications||2005|2005
+MIPPR|medical imaging parallel processing images optimization techniques||2009|2009
+MIPPR|multispectral image acquisition processing analysis|SPIE|2011|2024
+MIPPR|multispectral image acquisition processing||2009|2009
+MIPPR|parallel processing images optimization medical imaging processing||2011|2013
+MIPPR|parallel processing images optimization techniques medical imaging|SPIE|2020|2024
+MIPPR|pattern recognition computer vision|SPIE|2009|2024
+MIPPR|remote sensing gis data processing other applications||2009|2009
+MIPPR|remote sensing image processing geographic information systems other applications|SPIE|2011|2024
+MIPPR|spie automatic target recognition image analysis multispectral image acquisition||2007|2007
+MIPPR|spie geospatial information data mining applications||2005|2005
+MIPPR|spie image analysis techniques||2005|2005
+MIPPR|spie medical imaging parallel processing images optimization techniques||2007|2007
+MIPPR|spie multispectral image processing||2007|2007
+MIPPR|spie pattern recognition computer vision||2007|2007
+MIPPR|spie remote sensing gis data processing applications innovative multispectral technology applications||2007|2007
+MIPPR|spie sar multispectral image processing||2005|2005
+MIPRO|convention business intelligence systems digital economy e business aladin information systems security||2005|2005
+MIPRO|convention computers education ce||2006|2006
+MIPRO|convention computers education||2005|2009
+MIPRO|convention computers technical systems intelligent systems cts cis||2006|2006
+MIPRO|convention computers technical systems intelligent systems||2005|2009
+MIPRO|convention digital economy aladin information systems security business intelligence systems local government student papers||2008|2009
+MIPRO|convention digital economy aladin information systems security business intelligence systems||2006|2006
+MIPRO|convention information communication electronic technology|IEEE|2020|2021
+MIPRO|convention information communication technology electronics microelectronics|IEEE|2010|2019
+MIPRO|convention microelectronics electronics electronic technologies meet hypermedia grid systems hgs 2oo5||2005|2005
+MIPRO|convention microelectronics electronics electronic technologies meet hypermedia grid systems hgs||2006|2006
+MIPRO|convention microelectronics electronics electronic technology meet grid visualizations systems gvs||2009|2009
+MIPRO|convention telecommunications information cti||2006|2006
+MIPRO|convention telecommunications information||2005|2009
+MIPRO|ict electronics convention|IEEE|2023|2025
+MIPRO|jubilee convention computers education||2007|2007
+MIPRO|jubilee convention computers technical systems intelligent systems||2007|2007
+MIPRO|jubilee convention digital economy aladin information systems security business intelligence systems||2007|2007
+MIPRO|jubilee convention information communication electronic technology|IEEE|2022|2022
+MIPRO|jubilee convention microelectronics electronics electronic technologies hypermedia grid systems meet hgs||2007|2007
+MIPRO|jubilee convention telecommunications information||2007|2007
+MIPR|multimedia information processing retrieval|IEEE|2018|2025
+MIPS|multimedia interactive protocols systems|Springer|2003|2004
+MIPT|engineering telecommunication ent|IEEE|2018|2018
+MIRAGE|computer vision computer graphics collaboration techniques applications||2013|2013
+MIRAGE|computer vision computer graphics collaboration techniques third||2007|2007
+MIRAGE|computer vision computer graphics collaboration techniques||2009|2011
+MIRASOL|medical image computing resource constrained settings knowledge interchange held conjunction|Springer|2026|2026
+MIREL|mining reasoning legal texts co located legal knowledge information systems||2020|2020
+MIRUM|mm multimedia co located workshops||2011|2011
+MIRUM|music information retrieval user centered multimodal strategies co located multimedia||2012|2012
+MIR|multimedia information retrieval mir2008 co located multimedia mm|ACM|2008|2008
+MIR|multimedia mm sig multimedia multimedia information retrieval||2007|2007
+MIR|multimedia multimedia information retrieval||2006|2006
+MIR|sigmm multimedia information retrieval|ACM|2003|2010
+MIR|tera nato advanced research terahertz mid infrared radiation basic research practical applications||2009|2009
+MISC|modeling implementation complex systems|Springer|2023|2023
+MISC|modelling implementation complex systems|Springer|2025|2025
+MISDOOM|multidisciplinary disinformation open online media|Springer|2020|2024
+MISEIC|mathematics informatics science education|IOP|2019|2021
+MISENET|mission oriented wireless sensor networking||2012|2013
+MISE|middleware lightweight spontaneous environments part middleware|ACM|2019|2019
+MISE|modeling software engineering|ACM|2012|2016
+MISE|modelling software engineering|IEEE|2017|2019
+MISE|software engineering icse workshops icse modeling software engineering||2009|2009
+MISINFO|misinformation integrity social networks co located web||2021|2021
+MISINFO|nlp nlp applied misinformation co located spanish society natural language processing||2023|2023
+MISI|mathematics intelligent systems industry|Springer|2026|2026
+MISM|forth moscow magnetism||2009|2009
+MISM|moscow magnetism||2012|2015
+MISNC|multidisciplinary social networks economics management technology|ACM|2020|2020
+MISNC|multidisciplinary social networks research|Springer|2015|2019
+MISNC|multidisciplinary social networks|ACM|2022|2026
+MISPAC|municipal information systems pacific area community seminar||1986|1986
+MISP|machine intelligence signal processing|Springer|2019|2023
+MISSF|multidisciplinary innovations smart sustainable future innovations driving sustainable intelligent future|IEEE|2026|2026
+MISSI|multimedia network information systems|Springer|2017|2019
+MISS|machine intelligence smart systems|Springer|2025|2025
+MISS|modularity systems software||2011|2013
+MISTOBUD|urban infrastructure sustainable development renovation|IOP|2025|2025
+MIST|managing insider security threats co located|ACM|2015|2017
+MIST|managing insider security threats conjunction||2009|2009
+MIST|modeling innovation systems technologies|Springer|2018|2018
+MIS|advances multimedia information systems||2005|2005
+MIS|management intelligent systems is|Springer|2013|2013
+MIS|metainformatics revised selected papers||2005|2005
+MIS|multimedia information systems|Springer|1998|1998
+MIS|multimedia multi modal misinformation governance era foundation models|ACM|2024|2024
+MIS|symposia metainformatics||2005|2005
+MITAB|applied energy mit b||2025|2025
+MITA|machine intelligence theory applications|IEEE|2024|2025
+MITA|multimedia information technology applications|Springer|2026|2026
+MITCSA|al sadiq multidisciplinary it communication science applications aic|IEEE|2017|2017
+MITCSA|al sadiq multidisciplinary it communication techniques science applications aic|IEEE|2016|2016
+MITC|malaysian tribology|Springer|2022|2022
+MITEL|innovative materials technologies electrical engineering i|IEEE|2018|2018
+MITE|mooc innovation technology education||2013|2013
+MITE|moocs innovation technology education|IEEE|2015|2018
+MITICON|management innovation technology|IEEE|2016|2016
+MITOTI|middleware it ot integration part middleware|ACM|2025|2025
+MIUA|medical image understanding analysis|Springer|2017|2026
+MIUCC|mobile intelligent ubiquitous computing|IEEE|2021|2025
+MIWAI|multi disciplinary artificial intelligence|Springer|2016|2022
+MIWAI|multi disciplinary trends artificial intelligence|Springer|2011|2026
+MIXDES|mixed design integrated circuits systems|IEEE|2006|2021
+MIXDES|mixed design integrated circuits system|IEEE|2022|2025
+MIXR|ghitaly joint games human interaction multi party interaction extended reality conjunction biannual italian sigchi chapter||2021|2021
+MJJIC|malaysia japan joint|IOP|2023|2023
+MJMP|recent advances materials joining manufacturing processes||2025|2025
+MJWRT|malaysia japan radio technology|IOP|2024|2024
+MKM|intelligent computer mathematics calculemus held as part||2009|2009
+MKM|intelligent computer mathematics calculemus||2011|2011
+MKM|mathematical knowledge management revised selected papers||2006|2006
+MKM|mathematical knowledge management|Springer|2004|2006
+MKM|towards mechanized mathematical assistants calculemus||2007|2007
+MKWI|multiconference business information systems multikonferenz wirtschaftsinformatik tagungsband der||2012|2012
+MKWI|multiconference business information systems multikonferenz wirtschaftsinformatik||2010|2010
+MKWI|multikonferenz wirtschaftsinformatik||2016|2018
+MKWI|tagungsband multikonferenz wirtschaftsinformatik||2014|2014
+MLAIA|machine learning artificial intelligence applications|SPIE|2026|2026
+MLA|multimodal learning analytics grand challenge co located|ACM|2014|2014
+MLA|multimodal learning analytics||2012|2012
+MLBDBI|machine learning big data business intelligence|IEEE|2019|2025
+MLBS|mobile location based service||2011|2011
+MLCAD|machine learning cad|IEEE|2019|2025
+MLCB|machine learning computational biology meeting||2021|2024
+MLCB|machine learning computational biology||2025|2025
+MLCCIM|machine learning cloud computing intelligent mining|Springer|2022|2026
+MLCIPR|machine learning computational intelligence pattern recognition|IEEE|2025|2025
+MLCN|context aware surgical theaters or machine learning clinical neuroimaging held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+MLCN|machine learning clinical neuroimaging deep learning fails interpretability machine intelligence medical image computing imimic held conjunction medical imaging computer assisted intervention|Springer|2018|2018
+MLCN|machine learning clinical neuroimaging held conjunction medical image computing computer assisted intervention|Springer|2022|2025
+MLCN|machine learning clinical neuroimaging held conjunction medical imaging computing computer assisted intervention|Springer|2021|2021
+MLCN|machine learning clinical neuroimaging radiogenomics neuro oncology rno ai held conjunction|Springer|2020|2020
+MLCN|machine learning clinical neuroimaging|Springer|2023|2023
+MLCR|machine learning control robotics|IEEE|2022|2023
+MLCSB|molecular logic computational synthetic biology|Springer|2019|2019
+MLCSS|machine learning computer systems security|IEEE|2022|2022
+MLCS|machine learning computing systems conjunction hpdc|ACM|2018|2018
+MLCW|machine learning challenges evaluating predictive uncertainty visual object classification recognizing textual entailment first pascal machine learning challenges revised selected papers|Springer|2006|2006
+MLDM|machine learning data mining pattern recognition second|Springer|2001|2001
+MLDM|machine learning data mining pattern recognition third leipzig germany july||2003|2003
+MLDM|machine learning data mining pattern recognition|Springer|2001|2018
+MLDS|machine learning data science|IEEE|2017|2017
+MLG|mining learning graphs||2010|2010
+MLHAT|deployable machine learning security defense co located sigkdd knowledge discovery data mining|Springer|2021|2021
+MLHAT|deployable machine learning security defense collocated sigkdd knowledge discovery data mining|Springer|2020|2020
+MLHC|machine learning healthcare||2018|2025
+MLHMI|machine learning human computer interaction|IEEE|2024|2025
+MLHPC|machine learning high performance computing environments artificial intelligence machine learning scientific applications ai4s held conjunction sc high performance computing networking storage analysis|IEEE|2020|2020
+MLHPC|machine learning high performance computing environments held conjunction sc high performance computing networking storage analysis|ACM|2015|2021
+MLHPC|machine learning hpc environments held conjunction sc high performance computing networking storage analysis|IEEE|2016|2019
+MLICOM|eai machine learning intelligent communications|Springer|2022|2024
+MLICOM|eai machine learning intelligent communication|Springer|2023|2023
+MLICOM|machine learning intelligent communications|Springer|2017|2021
+MLICS|mobile location independent computing||1995|1995
+MLICS|usenix mobile location independent computing||1993|1993
+MLIC|machine learning intelligent computing||2024|2025
+MLINI|machine learning interpretation neuroimaging held revised selected invited contributions||2012|2012
+MLINI|machine learning interpretation neuroimaging neural information processing systems|Springer|2016|2016
+MLISE|machine learning intelligent systems engineering|IEEE|2021|2025
+MLIS|machine learning artificial intelligence||2020|2026
+MLIS|machine learning intelligent systems||2024|2024
+MLIS|machine learning interactive systems bridging gap between perception action communication||2013|2013
+MLI|indonesian society limnology congress|IOP|2022|2022
+MLKE|machine learning knowledge engineering|IEEE|2022|2022
+MLMB|ehealth telemedicine social medicine etelemed includes||2010|2010
+MLMC|machine learning media computing|IEEE|2025|2025
+MLMECH|machine learning medical engineering cardiovasvular healthcare joint workshops computing visualization intravascular imaging computer assisted stenting cvii held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+MLMIR|machine learning medical image reconstruction held conjunction medical image computing computer assisted intervention|Springer|2018|2021
+MLMIR|machine learning medical reconstruction held conjunction medical image computing computer assisted intervention|Springer|2022|2022
+MLMI|icmi multimodal interfaces machine learning multimodal interfaces||2009|2009
+MLMI|icmi multimodal sensor based systems mobile phones social computing||2009|2009
+MLMI|machine learning machine intelligence|ACM|2019|2024
+MLMI|machine learning medical imaging first held conjunction||2010|2010
+MLMI|machine learning medical imaging held conjunction medical image computing computer assisted intervention|Springer|2014|2022
+MLMI|machine learning medical imaging held conjunction|Springer|2013|2013
+MLMI|machine learning medical imaging second held conjunction||2011|2011
+MLMI|machine learning medical imaging third held conjunction revised selected papers||2012|2012
+MLMI|machine learning medical imaging was held conjunction medical image computing computer assisted intervention|Springer|2025|2026
+MLMI|machine learning medical imaging|Springer|2024|2024
+MLMI|machine learning multimodal interaction first||2005|2005
+MLMI|machine learning multimodal interaction revised selected papers||2008|2008
+MLMI|machine learning multimodal interaction second revised selected papers||2006|2006
+MLMI|machine learning multimodal interaction third revised selected papers||2006|2006
+MLMI|machine learning multimodal interaction||2008|2008
+MLMI|multimodal interfaces machine learning multimodal interaction icmi||2010|2010
+MLMMI|machine learning meets medical imaging held conjunction machine learning|Springer|2015|2015
+MLMTA|artificial intelligence ic ai machine learning models technologies applications volume ii||2004|2004
+MLMTA|machine learning models technologies applications||2005|2005
+MLMTA|machine learnings models technologies applications||2003|2003
+MLNLP|machine learning natural language processing|ACM|2022|2025
+MLNNCS|machine learning neural networks computer software|SPIE|2025|2025
+MLNN|machine learning neural networks|ACM|2025|2025
+MLN|machine learning networking|Springer|2019|2026
+MLOPS|mlops25 machine learning operations co located european artificial intelligence||2025|2025
+MLPA|modules libraries proof assistants affiliated automated deduction||2009|2009
+MLPEED|m3e2 selected papers special edition monitoring modeling management emergent economy||2020|2020
+MLPEED|m3e2 selected revised papers monitoring modeling management emergent economy||2023|2023
+MLPEED|m3e2 selected revised papers monitoring modeling management machine learning prediction emergent economy dynamics||2021|2021
+MLPRAE|machine learning pattern recognition automation engineering|IEEE|2024|2025
+MLPR|machine learning pattern recognition|ACM|2024|2025
+MLPS|spring combining artificial intelligence machine learning physical sciences||2020|2021
+MLSA|machine learning data mining sports analytics co located joint european machine learning principles practice knowledge discovery databases ecml pkdd|Springer|2023|2023
+MLSA|machine learning data mining sports analytics colocated ecml|Springer|2020|2020
+MLSA|machine learning data mining sports analytics colocated european machine learning principles practice knowledge discovery databases ecml|Springer|2019|2019
+MLSA|machine learning data mining sports analytics|Springer|2022|2026
+MLSC|machine learning social computing|ACM|2025|2025
+MLSDA|machine learning sensory data analysis||2013|2013
+MLSD|management large scale system development|IEEE|2017|2025
+MLSLP|machine learning speech language processing||2011|2012
+MLSMKG|machine learning symbolic methods knowledge graphs co located european machine learning principles practice knowledge discovery databases ecml||2021|2021
+MLSP|machine learning signal processing signal processing age lorge language models||2025|2025
+MLSP|machine learning signal processing xix signal processing society||2009|2009
+MLSP|machine learning signal processing||2008|2024
+MLSP|signal processing society machine learning signal processing||2007|2007
+MLUI|machine learning from user interaction visualization analytics|IEEE|2018|2019
+MLUI|machine learning from user interactions|IEEE|2021|2021
+MLVIS|machine learning methods visualisation big data||2019|2025
+MM&SEC|multimedia security mm sec||2004|2004
+MMACTEE|selected topics mathematical methods computational techniques electrical engineering wseas mathematical methods computational techniques electrical engineering||2010|2010
+MMAC|asmmc joint affective social multimedia computing multi modal affective computing large scale multimedia data co located mm|ACM|2018|2018
+MMAC|myopic maculopathy analysis challenge which was part medical image computing computer assisted intervention|Springer|2024|2024
+MMANDIM|advanced mathematical models integration methods seminar applications mechanics physics||2025|2025
+MMANDSEC|multimedia security||2009|2009
+MMAR|methods models automation robotics|IEEE|2009|2025
+MMAR|mm multimedia co located workshops medical multimedia analysis retrieval||2011|2011
+MMASIA|multimedia asia workshops workshops|ACM|2024|2024
+MMASIA|multimedia asia workshops|ACM|2023|2025
+MMASIA|multimedia asia|ACM|2019|2025
+MMAS|massively multi agent systems i first revised selected invited papers||2005|2005
+MMAS|massively multi agent systems|Springer|2019|2019
+MMAS|massively multi agent technology aamas workshops hakodate japan may honolulu hi usa may selected revised papers||2008|2008
+MMA|europhysics magnetic materials applications||1985|1985
+MMA|microwave materials their applications||2009|2012
+MMA|mobile medical applications|ACM|2014|2014
+MMA|scientific metrology metrology assurance|IEEE|2019|2025
+MMBC|design technologies wheeled tracked vehicles|IOP|2020|2020
+MMBD|modern management based big data ii machine learning intelligent systems iii||2021|2021
+MMBD|modern management based big data iii||2022|2022
+MMBD|modern management based big data iv||2023|2023
+MMBD|modern management based big data i||2020|2020
+MMBD|modern management based big data vi||2025|2025
+MMBD|modern management based big data||2024|2024
+MMBIA|mathematical methods biomedical image analysis||2000|2012
+MMB|gi itg measurement modelling evaluation computing systems|Springer|2018|2020
+MMB|gi itg measuring modelling evaluation computer communication systems||2006|2008
+MMCITRE|mathematical modelling computational intelligence renewable energy|Springer|2021|2021
+MMCITRE|mathematical modelling computational intelligence techniques renewable energy|Springer|2025|2025
+MMCOMMONS|community organized multimodal mining opportunities novel solutions co located mm|IOP|2015|2015
+MMCOMMONS|multimedia commons co located multimedia|ACM|2016|2016
+MMCP|mathematical modeling computational science revised selected papers||2012|2012
+MMCS|mathematical methods curves surfaces revised selected papers|Springer|2010|2014
+MMCS|mathematical methods curves surfaces|Springer|2017|2017
+MMCS|mathematics modeling computer science|SPIE|2023|2023
+MMDBMS|multi media database management systems|IEEE|1998|1998
+MMDB|first multimedia databases||2003|2003
+MMDB|second multimedia databases||2004|2004
+MMEAT|mechanical engineering materials automation technology|IEEE|2021|2025
+MMEAT|ninth mechanical engineering materials automation technology|SPIE|2023|2023
+MMEAT|tenth mechanical engineering materials automation technology|SPIE|2024|2024
+MMEDIA|advances multimedia||2009|2013
+MMESE|man machine environment system engineering|Springer|2016|2026
+MMESE|modern engineering science education|Springer|2021|2021
+MMESE|modern mechanical engineering science education|Springer|2022|2026
+MMES|mathematical models engineering science mathematical models engineering science||2010|2010
+MMET|mathematical methods electromagnetic theory||1996|2012
+MME|european micromechanics||1995|1995
+MME|mechanical material engineering||2014|2014
+MME|mechanics materials energy|Springer|2026|2026
+MME|mechanics mechanical engineering||2014|2014
+MME|micromachining micromechanics microsystems|IOP|1996|1996
+MME|micromechanics microsystem europe|IOP|2019|2019
+MME|micromechanics microsystems europe||2021|2021
+MME|multilingual multicultural evaluation||2026|2026
+MME|third frontiers mechanical material engineering|SPIE|2026|2026
+MMGR|deep multimodal generation retrieval|ACM|2024|2024
+MMHEALTH|multimedia personal health health care co located mm|ACM|2017|2017
+MMHEALTH|multimedia personal health health care co located multimedia|ACM|2016|2016
+MMHS|modelling healthcare systems||2018|2018
+MMIA|application intelligent systems multi modal information analytics|Springer|2021|2021
+MMIA|multi modal information analytics|Springer|2021|2025
+MMIE|mechanical manufacturing industrial engineering|Springer|2026|2026
+MMIE|seventh mechanical manufacturing industrial engineering|SPIE|2024|2024
+MMIJ|society petroleum engineers joint aime meeting||1972|1972
+MMIR|deep multimodal learning information retrieval co located mm|ACM|2023|2023
+MMISR|models methods information systems research frame betancourt engineering forum||2020|2020
+MMIT|multimedia information technology||2008|2010
+MMIU|metadata mining image understanding conjunction||2008|2008
+MMLA|modeling machine learning astronomy|Springer|2020|2020
+MML|machine learning music co located multimedia||2010|2010
+MML|multilingual multimodal learning||2022|2022
+MMMAOSDPHS|mathematical models methods analysis optimal synthesis developing pipeline hydraulic systems|EDP|2019|2020
+MMMI|multiscale multimodal medical imaging held conjunction medical image computing computer assisted intervention|Springer|2020|2022
+MMMS|material machines methods sustainable development|Springer|2021|2025
+MMM|advances multimedia modeling multimedia modeling||2007|2011
+MMM|advances multimedia modeling||2012|2013
+MMM|automation mining mineral metal processing||2010|2010
+MMM|ifac automation mining mineral metal industries||2012|2012
+MMM|ifac automation mining mineral metal processing||2007|2007
+MMM|ifac automation mining minerals metal processing||2013|2013
+MMM|ifac control optimization automation mining mineral metal processing|Elsevier|2022|2022
+MMM|ifac mining mineral metal processing|Elsevier|2024|2024
+MMM|ifac optimization automation mining minerals metal processing|Elsevier|2025|2025
+MMM|materials manufacturing methods|Elsevier|2019|2019
+MMM|multi media modeling||1993|1993
+MMM|multi media modelling||2006|2006
+MMM|multimedia modeling anniversary||2014|2014
+MMM|multimedia modeling modeling multimedia information systems||1997|2020
+MMM|multimedia modeling|Springer|1998|2026
+MMM|multimedia modelling||2004|2005
+MMM|multiscale materials modeling||2008|2008
+MMNLU|massively multilingual natural language understanding||2022|2022
+MMNS|autonomic management mobile multimedia services ifip management multimedia mobile networks services|Springer|2006|2006
+MMNS|ifip management multimedia mobile networks services|Springer|2006|2009
+MMNS|ifip management multimedia networks services|Springer|2001|2004
+MMNS|management converged multimedia networks services ifip management multimedia mobile networks services||2008|2008
+MMNS|management multimedia networks services management multimedia networks services||2005|2005
+MMNS|management multimedia networks services|Springer|2005|2005
+MMNS|real time mobile multimedia services ifip management multimedia mobile networks services||2007|2007
+MMNS|wired wireless multimedia networks services management ifip management multimedia mobile networks services||2009|2009
+MMOSS|methods modelling software systems||2007|2007
+MMOS|man made objects seafloor discovery investigation recovery||1995|1995
+MMOS|man made objects seafloor||2000|2000
+MMPAM|scientific practical mathematical modeling programming applied mathematics||2021|2021
+MMPES|applied mechanics materials physics engineering structures|IOP|2023|2024
+MMPT|multi modal pre training multimedia understanding|ACM|2021|2021
+MMRCE|mechanical manufacturing robotics control engineering|IOP|2025|2025
+MMRIST|models methods researching information systems transport basis departments information computer systems higher mathematics||2020|2020
+MMRM|large scale multimedia retrieval mining ls co located multimedia mm||2009|2009
+MMRP|multilayer music representation processing|IEEE|2019|2019
+MMRWHRI|multimodal multi party real world human robot interaction co located|ACM|2014|2014
+MMSCHOOLS|winter school theoretical physics training school cost action ca18108 quantum gravity phenomenology multi messenger approach qg||2025|2025
+MMSC|mathematical modeling scientific computing focus complex processes systems dedicated memory nikolai botkin||2020|2020
+MMSC|mathematical modeling scientific computing||2024|2024
+MMSD|multimedia software development|IEEE|1996|1996
+MMSEC|ih information hiding multimedia security|ACM|2013|2024
+MMSEC|mm sec multimedia security||2008|2008
+MMSE|advances machinery materials science engineering application ix||2023|2023
+MMSE|advances machinery materials science engineering application xi||2025|2025
+MMSE|advances machinery materials science engineering application x||2024|2024
+MMSE|advances machinery materials science engineering application||2022|2022
+MMSE|machinery material science engineering application||2021|2021
+MMSE|machinery materials science engineering applications||2011|2016
+MMSPORTS|multimedia content analysis sports co located mm|ACM|2018|2024
+MMSPORTS|multimedia content analysis sports|ACM|2020|2025
+MMSP|multimedia signal processing mmsp2010||2010|2010
+MMSP|multimedia signal processing|IEEE|1997|2025
+MMSR|multimodal search recommendations co located information knowledge management||2024|2024
+MMSR|multimodal semantic representations||2021|2021
+MMST|mathematical modeling supercomputer technologies|Springer|2021|2026
+MMSYS|multimedia systems|ACM|2011|2025
+MMSYS|multimedia system|ACM|2026|2026
+MMSYS|packet video pv part|ACM|2020|2020
+MMSYS|sigmm multimedia systems|ACM|2010|2010
+MMS|asian mechanism machine science|Springer|2021|2021
+MMS|eai management manufacturing systems|Springer|2022|2026
+MMS|iftomm asian mechanism machine science asian mechanism machine science china|Springer|2017|2017
+MMS|iftomm asian mechanism machine science asian|Springer|2024|2024
+MMS|iftomm asian mechanisms machine science asian|Springer|2022|2022
+MMS|mediterranean microwave||2010|2023
+MMS|mediterrannean microwave||2009|2009
+MMS|mobile information systems potentials obstacles application mobility mobile information systems mobile informationssysteme potentiale hindernisse einsatz fachtagung mobilitat und mobile informationssysteme||2006|2006
+MMS|mobile ubiquitous information systems development implementation application mobile und ubiquitare informationssysteme entwicklung implementierung und anwendung zur konferenz mobile und ubiquitare informationssysteme||2009|2009
+MMS|mobile ubiquitous information systems mobile und ubiquitare informationssysteme der konferenz||2011|2011
+MMS|mobile ubiquitous information systems mobile und ubiquitare informationssysteme zur konferenz mobile und ubiquitare informationssysteme||2012|2012
+MMS|mobile ubiquitous information systems technologies applications services support mobile collaboration mobile ubiquitous information systems mobile und ubiquitare informationssysteme technologien anwendungen und dienste zur unterstutzung von mobiler kollaboration zur konferenz mobile und ubiquitare informationssysteme||2010|2010
+MMS|mobile ubiquitous information systems technologies processes marketability mobile und ubiquitaere informationssysteme technologien prozesse marktfaehigkeit zur konferenz mobile und ubiquitaere informationssysteme||2008|2008
+MMS|mobility mobile information systems gi section mobilitat und mobile informationssysteme gi fachgruppe||2007|2007
+MMS|slovak polish scientific machine modelling simulations|IOP|2020|2020
+MMT|mobile mapping technology mobile mapping autonomous systems spatial intelligence||2025|2025
+MMT|mobile mapping technology||2023|2023
+MMVE|immersive mixed virtual environment systems part|ACM|2020|2022
+MMVE|immersive mixed virtual environment systems|ACM|2018|2025
+MMVE|immersive mixed virtual environments systems|ACM|2026|2026
+MMVE|massively multiuser virtual environments|ACM|2014|2017
+MMVR|medicine meets virtual reality nextmed||2014|2014
+MMWATT|millimeter wave terahertz technologies|IEEE|2009|2022
+MMWCST|microwave millimeter wave circuits system technology||2012|2013
+MMWEB|multimedia web||2011|2011
+MNCAPPS|advances mobile networks communication its applications||2012|2012
+MNCNA|middleware middleware next generation converged networks applications||2007|2007
+MNC|digest papers microprocesses nanotechnology microprocesses nanotechnology|IEEE|2003|2003
+MNC|digest papers microprocesses nanotechnology|IEEE|2000|2000
+MNC|microprocesses nanotechnology|IEEE|2001|2002
+MNDCS|micro nanoelectronics devices circuits systems|Springer|2022|2025
+MNDSCS|micro nano devices structure computing systems||2013|2014
+MNET|mechanism design social networks held conjunction|Springer|2025|2026
+MNHMT|asme micro nanoscale heat mass transfer mnhmt2009||2010|2010
+MNHT|asme micro nanoscale heat transfer||2008|2008
+MNNSI|modern nanotechnologies nanophotonics science industry||2021|2021
+MNP|mathematics nonlinear phenomena analysis computation honor professor yoshikazu giga his birthday|Springer|2017|2017
+MNRC|microsystems nanoelectronics research enabling synergy accelerating excellence graduate student research||2008|2008
+MNSS|micro nano smart systems ic|Springer|2025|2025
+MNST|russia school seminar fundamental problems micro nanosystems technologies||2010|2010
+MNT|iasted modern nonlinear theory||2008|2008
+MOBA|model driven organizational business agility held conjunction advanced information systems engineering|Springer|2022|2022
+MOBA|model driven organizational business agility|Springer|2023|2023
+MOBCONQOE|mobile content quality experience||2007|2007
+MOBIARCH|first mobility evolving internet architecture conjunction||2006|2006
+MOBIARCH|mobicom mobility evolving internet architecture|ACM|2014|2014
+MOBIARCH|mobility evolving internet architecture be held conjunction|ACM|2024|2024
+MOBIARCH|mobility evolving internet architecture co located|ACM|2015|2015
+MOBIARCH|mobility evolving internet architecture mobility evolving internet architecture|ACM|2008|2008
+MOBIARCH|mobility evolving internet architecture part mobicom|ACM|2020|2020
+MOBIARCH|mobility evolving internet architecture part|ACM|2017|2021
+MOBIARCH|mobility evolving internet architecture|ACM|2012|2025
+MOBIARCH|proc int mobility evolving internet architecture co located int symp mobile ad hoc networking computing|ACM|2010|2010
+MOBICASE|eai mobile computing applications services|Springer|2016|2022
+MOBICASE|mobile computing applications services eai||2019|2019
+MOBICASE|mobile computing applications services first icst revised selected papers||2010|2010
+MOBICASE|mobile computing applications services revised selected papers||2013|2013
+MOBICASE|mobile computing applications services third revised selected papers||2012|2012
+MOBICASE|mobile computing applications services|Springer|2012|2023
+MOBICOM|co located workshops challenged networking||2008|2008
+MOBICOM|co located workshops challenged networks|ACM|2007|2007
+MOBICOM|co located workshops underwater networks|ACM|2008|2008
+MOBICOM|co located workshops wireless network testbeds experimental evaluation characterization||2008|2008
+MOBICOM|co located workshops wireless networks systems developing regions wins dr||2008|2008
+MOBICOM|data privacy federated learning technologies mobile edge network|ACM|2023|2023
+MOBICOM|eleventh mobile computing networking||2005|2005
+MOBICOM|fededge data privacy federated learning technologies mobile edge network|ACM|2024|2024
+MOBICOM|mmnets millimeter wave networks sensing systems co located|ACM|2017|2019
+MOBICOM|mmnets millimeter wave networks sensing systems part|ACM|2022|2022
+MOBICOM|mmnets millimeter wave terahertz networks sensing systems part|ACM|2021|2021
+MOBICOM|mobile computing networing co located workshops first sensor actor networks||2007|2007
+MOBICOM|mobile computing networking challenged networks||2007|2007
+MOBICOM|mobile computing networking co located workshops s3 s3||2011|2011
+MOBICOM|mobile computing networking co located workshops second workshp wireless network testbeds experimental evalua||2007|2007
+MOBICOM|mobile computing networking co located workshops||2011|2011
+MOBICOM|mobile computing networking mobile ad hoc networking computing|ACM|2010|2010
+MOBICOM|mobile computing networking workshops challenged networks||2009|2009
+MOBICOM|mobile computing networking|ACM|1997|2025
+MOBICOM|mobile coputing networking||2008|2008
+MOBICOM|mobility evolving internet architecture|ACM|2023|2023
+MOBICOM|ninth mobile computing networking|ACM|2003|2003
+MOBICOM|proc int mmwave communications from circuits networks mmcom co located int symp mobile ad hoc networking computing|ACM|2010|2010
+MOBICOM|proc wireless students students students s3 co located int symp mobile ad hoc networking computing|ACM|2010|2010
+MOBICOM|s3 wireless students students students co located|ACM|2015|2019
+MOBICOM|s3 wireless students students students part|ACM|2022|2022
+MOBICOM|s3 wireless students students students s3 part|ACM|2021|2021
+MOBICOM|tenth mobile computing networking||2004|2004
+MOBICOM|thirteenth mobile computing networking||2007|2007
+MOBICOM|twelfth mobile computing networking||2006|2006
+MOBIDATA|mobile data co located|ACM|2016|2016
+MOBIDE|data engineering wireless mobile access conjunction sigmod||2009|2012
+MOBIDE|data engineering wireless mobile access|ACM|1999|2011
+MOBIDE|data engineering wireless mobile acess conjunction sigmod||2013|2013
+MOBIDE|fifth data engineering wireless mobile access||2006|2006
+MOBIDE|second data engineering wireless mobile access||2001|2001
+MOBIDE|third data engineering wireless mobile access||2003|2003
+MOBIEVAL|system evaluation mobile platforms|ACM|2007|2007
+MOBIGAMES|mobile gaming co located|ACM|2016|2016
+MOBIGAMES|mobile gaming|ACM|2012|2015
+MOBIGIS|mobile geographic information systems conjunction advances geographic information systems|ACM|2014|2014
+MOBIGIS|sigspatial mobile geographic information systems conjunction sigspatial advances geographic information systems||2012|2012
+MOBIGIS|sigspatial mobile geographic information systems|ACM|2013|2016
+MOBIHEALTH|eai mobile communication healthcare|Springer|2020|2020
+MOBIHEALTH|eai wireless mobile communication healthcare transforming healthcare through innovations mobile wireless technologies||2015|2015
+MOBIHEALTH|eai wireless mobile communication healthcare|Springer|2021|2023
+MOBIHEALTH|mobile communication healthcare|Springer|2024|2024
+MOBIHEALTH|wireless mobile communication healthcare second icst revised selected papers||2011|2012
+MOBIHEALTH|wireless mobile communication healthcare transforming healthcare through innovations mobile wireless technologies|IEEE|2015|2015
+MOBIHEALTH|wireless mobile communication healthcare|Springer|2013|2018
+MOBIHELD|networking systems applications mobile handhelds co located||2010|2010
+MOBIHELD|sosp networking systems applications mobile handhelds||2011|2011
+MOBIHOC|eighth mobile ad hoc networking computing||2007|2007
+MOBIHOC|fifth mobil ad hoc networking computing|ACM|2004|2004
+MOBIHOC|fourth mobile ad hoc networking computing|ACM|2003|2003
+MOBIHOC|mobile ad hoc networking computing heterogeneous sensor actor networks|ACM|2008|2008
+MOBIHOC|mobile ad hoc networking computing|ACM|2000|2015
+MOBIHOC|pervasive wireless healthcare|ACM|2018|2018
+MOBIHOC|s3 s3 co located|ACM|2009|2009
+MOBIHOC|seventh mobile ad hoc networking computing|ACM|2006|2006
+MOBIHOC|theory algorithmic foundations protocol design mobile networks mobile computing|ACM|2021|2025
+MOBIHOC|third mobile ad hoc networking computing|ACM|2002|2002
+MOBILECLOUD|intelligent mobile computing|IEEE|2024|2025
+MOBILECLOUD|mobile cloud computing networking|ACM|2013|2013
+MOBILECLOUD|mobile cloud computing services engineering|IEEE|2014|2023
+MOBILEDELI|mobile development lifecycle part|ACM|2014|2014
+MOBILEDELI|mobile development lifecycle|ACM|2013|2015
+MOBILEHCI|adjunct mobile human computer interaction|ACM|2025|2025
+MOBILEHCI|adjunct publication human computer interaction mobile devices services|ACM|2022|2022
+MOBILEHCI|adjunct publication mobile human computer interaction|ACM|2024|2024
+MOBILEHCI|beyond mobile next years human computer interaction mobile devices services adjunct|ACM|2018|2018
+MOBILEHCI|beyond mobile next years human computer interaction mobile devices services|ACM|2018|2018
+MOBILEHCI|companion human computer interaction mobile devices services|ACM|2012|2012
+MOBILEHCI|extended abstracts human computer interaction mobile devices services expanding horizon mobile interaction|ACM|2021|2021
+MOBILEHCI|extended abstracts mobile human computer interaction mobile apart mobile together|ACM|2021|2021
+MOBILEHCI|human computer interaction mobile devices services adjunct|ACM|2015|2016
+MOBILEHCI|human computer interaction mobile devices services expanding horizon mobile interaction|ACM|2020|2020
+MOBILEHCI|human computer interaction mobile devices services|ACM|2005|2019
+MOBILEHCI|interacting sound exploring context aware local social audio applications||2011|2011
+MOBILEHCI|mobile human computer interaction companion|ACM|2023|2023
+MOBILEHCI|mobile human computer interaction mobile apart mobiletogether|ACM|2021|2021
+MOBILEHCI|mobile human computer interaction|Springer|2004|2004
+MOBILEHCI|mobilehci09 living world as colorful as you human computer interaction mobile devices services||2009|2009
+MOBILEHEALTH|mobihoc pervasive wireless healthcare|ACM|2013|2016
+MOBILEHEALTH|mobile health|ACM|2017|2017
+MOBILEHEALTH|pervasive wireless healthcare co located|ACM|2015|2015
+MOBILEHEALTH|pervasive wireless healthcare conjunction|ACM|2011|2011
+MOBILEHEALTH|pervasive wireless healthcare|ACM|2012|2012
+MOBILESOFT|mobile software engineering systems|IEEE|2014|2025
+MOBILE|design operation evaluation communications held as part hci|Springer|2021|2025
+MOBILE|design operation evaluation communications held as part human computer interaction|Springer|2020|2023
+MOBILIGHT|mobile lightweight wireless systems first icst revised selected papers||2009|2009
+MOBILIGHT|mobile lightweight wireless systems second icst revised selected papers||2010|2010
+MOBILIGHT|mobile lightweight wireless systems third icst revised selected papers||2012|2012
+MOBILWARE|eai mobile wireless middleware operating systems applications|Springer|2023|2023
+MOBILWARE|mobile wireless middleware operating systems applications|Springer|2020|2022
+MOBIMEDIA|eai mobile multimedia communications|Springer|2016|2026
+MOBIMEDIA|icst mobile multimedia communications||2008|2008
+MOBIMEDIA|mobile multimedia communications icst revised selected papers||2012|2012
+MOBIMEDIA|mobile multimedia communications|ACM|2006|2015
+MOBIMWAREHN|mobile ad hoc networking computing||2015|2015
+MOBIMWAREHN|mobility interference middleware management hetnets|ACM|2017|2017
+MOBIOPP|first mobisys mobile opportunistic networking|ACM|2007|2007
+MOBIOPP|mobile opportunistic networking||2010|2010
+MOBIOPP|mobile opportunistic networks||2012|2012
+MOBIQUITOUS|eai mobile ubiquitous systems computing networking services|Springer|2019|2026
+MOBIQUITOUS|first mobile ubiquitous systems networking services||2004|2004
+MOBIQUITOUS|icst mobile ubiquitous systems computing networking services||2008|2008
+MOBIQUITOUS|mobile ubiquitous systems computing networking services icst revised selected papers||2012|2012
+MOBIQUITOUS|mobile ubiquitous systems computing networking services|Springer|2007|2015
+MOBIQUITOUS|mobile ubiquitous systems computing networking service||2014|2014
+MOBIQUITOUS|mobile ubiquitous systems networking services||2009|2009
+MOBIQUITOUS|p2pkm peer peer knowledge management colocated mobile ubiquitous systems networking services||2005|2005
+MOBIQUITOUS|second mobile ubiquitous systems networking services||2005|2005
+MOBISECSERV|mobile secure services|IEEE|2015|2024
+MOBISEC|mobile internet security|Springer|2018|2026
+MOBISEC|security privacy mobile information communication systems first icst revised selected papers||2009|2009
+MOBISEC|security privacy mobile information communication systems revised selected papers||2012|2012
+MOBISEC|security privacy mobile information communication systems second icst revised selected papers||2010|2010
+MOBISEC|security privacy mobile information communication systems third icst revised selected papers||2012|2012
+MOBISHARE|decentralized resource sharing mobile computing networking||2006|2006
+MOBISPC|mobile systems pervasive computing future networks communications sustainable energy information technology|Elsevier|2019|2021
+MOBISPC|mobile systems pervasive computing|Elsevier|2020|2020
+MOBISYS|companion companion publication mobile systems applications services|ACM|2016|2016
+MOBISYS|compilation mobile systems applications services co located workshops mobile cloud computing services|ACM|2011|2011
+MOBISYS|compilation mobile systems applications services co located workshops|ACM|2011|2011
+MOBISYS|digitalbiomarkers digital biomarkers co located|ACM|2017|2017
+MOBISYS|fourth mobile systems applications services|ACM|2006|2006
+MOBISYS|mars mobile augmented reality robotic technology based systems colocated|ACM|2014|2014
+MOBISYS|micro aerial vehicle networks systems applications mobile systems applications services|ACM|2024|2024
+MOBISYS|mobile systems applications services|ACM|2003|2025
+MOBISYS|phd forum ph d forum co located|ACM|2017|2017
+MOBISYS|phd forum ph d forum part|ACM|2018|2018
+MOBISYS|phd forum phd forum co located|ACM|2016|2016
+MOBISYS|phd forum|ACM|2014|2014
+MOBISYS|risingstarsforum rising stars forum co located|ACM|2019|2019
+MOBISYS|second mobile systems applications services|ACM|2004|2004
+MOBISYS|sixth mobile systems applications services|ACM|2008|2008
+MOBIS|ifip tc8 working mobile information systems|Springer|2005|2005
+MOBIS|modeling business information systems model based management modellierung betrieblicher informationssysteme modellgestutztes management||2010|2010
+MOBIS|modeling business information systems modeling between service oriented architectures compliance management modellierung betrieblicher informationssysteme modellierung zwischen soa und compliance management||2008|2008
+MOBIS|modeling business information systems modellierung betrieblicher informationssysteme der tagung||2003|2003
+MOBIS|modeling business information systems modellierung betrieblicher informationssysteme zur tagung||2002|2004
+MOBIS|workshops workshops colocated including||2008|2008
+MOBITAS|hci mobility transport automotive systems held as part hci|Springer|2021|2025
+MOBITAS|hci mobility transport automotive systems held as part human computer interaction hci|Springer|2019|2019
+MOBITAS|hci mobility transport automotive systems held as part human computer interaction|Springer|2020|2023
+MOBITAS|mobility transport automotive systems held as part human computer interaction|Springer|2024|2024
+MOBIVIRT|virtualization mobile computing|ACM|2008|2008
+MOBIWAC|internatinal mobility management wireless access|ACM|2023|2023
+MOBIWAC|mobility management wireless access co located|ACM|2010|2017
+MOBIWAC|mobility management wireless access|ACM|2006|2022
+MOBIWAC|mobility wireless access held conjunction|IEEE|2002|2002
+MOBIWAC|second mobility management wireless access protocols||2004|2004
+MOBIWIS|mobile web information systems|Springer|2013|2014
+MOBIWIS|mobile web intelligent information systems|Springer|2015|2026
+MOBMID|mobile middleware embracing personal communication device co located ifip usenix middleware||2008|2008
+MOBMU|mobile devices multimedia enabling technologies algorithms applications||2023|2023
+MOBS|engineering mobile enabled systems||2013|2013
+MOCAST|modern circuits systems technologies|IEEE|2016|2025
+MOCE|society petroleum engineers mediterranean offshore||2024|2024
+MOCHART|model checking artificial intelligence revised selected invited papers||2011|2011
+MOCHART|model checking artificial intelligence||2009|2009
+MOCOMED|gmds working group mobile computing medicine tagungsband zum der gmds arbeitsgruppe mobiles computing der medizin||2008|2008
+MOCOMED|mobile computing medicine gmds project group mobile computing medicine mobiles computing der medizin zum der gmds projektgruppe mobiles computing der medizin||2005|2005
+MOCOMED|mobile computing medicine gmds working group mobile computing medicine mobiles computing der medizin zum der gmds arbeitsgruppe mobiles computing der medizin||2006|2007
+MOCOMED|mobiles computing der medizin der projektgruppe mobiles computing der medizin gmds fachbereich medizinische informatik gi fachausschuss||2003|2003
+MOCOMED|mobiles computing der medizin zum der gi und gmds arbeitsgruppe mobile informationstechnologie der medizin||2009|2009
+MOCO|movement computing beyond control|ACM|2024|2024
+MOCO|movement computing intersecting art meaning cognition technology|ACM|2014|2014
+MOCO|movement computing|ACM|2019|2026
+MOCR|multilingual ocr|ACM|2009|2013
+MOC|program microoptics||2011|2011
+MOC|technical digest microoptics|IEEE|2013|2025
+MODAST|modern data science technologies doctoral consortium||2025|2025
+MODAST|modern data science technologies||2024|2024
+MODCOMP|mde4iot joint model driven engineering internet things interplay model driven component based software engineering co located model driven engineering languages systems||2019|2019
+MODDM|series proc model driven development middleware held ifip usenix int middleware||2006|2006
+MODEICARE|calibration reliability groundwater modelling credibility modelling modeicare2007||2008|2008
+MODELCARE|calibration reliability groundwater modelling from uncertainty decision making||2006|2006
+MODELCARE|calibration reliability groundwater modelling managing groundwater environment||2011|2011
+MODELING|seventh mini mathematical plastics processing properties||1984|1984
+MODELSWARD|model based software systems engineering|Springer|2023|2026
+MODELSWARD|model driven engineering software development doctoral consortium|SciTePress|2016|2016
+MODELSWARD|model driven engineering software development revised selected papers|Springer|2023|2023
+MODELSWARD|model driven engineering software development|SciTePress|2013|2022
+MODELS|doctoral model driven engineering languages systems||2007|2007
+MODELS|extreme modeling xm post satellite event model driven engineering languages systems||2012|2012
+MODELS|innsbruck model based architecting construction embedded systems aces mb||2012|2012
+MODELS|model based architecting construction embedded systems aces mb held as part model driven engineering languages systems||2008|2011
+MODELS|model driven engineering languages systems companion|ACM|2022|2024
+MODELS|model driven engineering languages systems|IEEE|2005|2025
+MODELS|modeling wizards master class model driven engineering mw satellite event||2012|2012
+MODELS|proc int model based architecting construction embedded systems aces mb held as part int conf model driven engineering languages systems||2010|2010
+MODELS|run time held model driven engineering languages systems||2009|2009
+MODELS|satellite events workshops oclws modeva martes aom mtip wisme modaui nfc mdd wuscam revised selected papers||2006|2006
+MODELS|software engineering workshops symposia reports revised selected papers||2007|2012
+MODENERLANDS|ca20109 modular energy islands sustainability resilience|IOP|2025|2025
+MODEVA|model design validation sivoes||2004|2004
+MODEVVA|model driven engineering verification validation co located model driven engineering languages systems models||2011|2011
+MODEVVA|model driven engineering verification validation||2011|2012
+MODE|differentiable programming experiment design||2026|2026
+MODRE|model driven requirements engineering corresponding part number|IEEE|2015|2015
+MODRE|model driven requirements engineering|IEEE|2011|2020
+MODSEC|modeling security held as part model driven engineering languages systems||2008|2008
+MODSIM|congress modelling simulation advances applications management decision making||2005|2005
+MODSIM|congress modelling simulation land water environmental management integrated systems sustainability||2007|2007
+MODSIM|congress modelling simulation supporting evidence based decision making role modelling simulation||2019|2019
+MODSIM|congress modelling simulation sustaining our future understanding living uncertainty||2011|2011
+MODSIM|congress modelling simulation||2013|2023
+MODSIM|modsim05 congress modelling simulation advances applications management decision making||2005|2005
+MODSIM|modsim07 land water environmental management integrated systems sustainability||2007|2007
+MODSIM|world imacs congress congress modelling simulation interfacing modelling simulation mathematical computational sciences||2009|2009
+MODSYM|record power modulator|IEEE|1992|1994
+MODS|mathematical modeling simulation systems|Springer|2023|2025
+MODS|scientific practical mathematical modeling simulation systems|Springer|2021|2022
+MODTECH|modern technologies industrial engineering vii|IOP|2019|2019
+MODTECH|modern technologies industrial engineering||2014|2014
+MOD|machine learning optimization big data|Springer|2015|2018
+MOD|management organizations development|Springer|2020|2020
+MOEMS|design test integration packaging mems mems||2009|2009
+MOEMS|design test integration packaging mems||2001|2001
+MOEMS|novel patterning technologies semiconductors mems nems|SPIE|2019|2020
+MOHE|movement health exercise|Springer|2017|2025
+MOH|concepts challenges biophysics hearing mechanics hearing||2008|2008
+MOIME|manufacturing optimization industrial material engineering|IOP|2013|2014
+MOLDING|exhibit emerging technologies business success changing global market||2008|2009
+MOLDING|exhibit technologies business success||2010|2011
+MOLDING|exhibit vital technologies business success changing global market||2005|2013
+MOLVA|molecular graphics visual analysis molecular data||2018|2020
+MOL|mathematics language biennial revised selected papers||2010|2010
+MOL|mathematics language biennial||2011|2011
+MOL|meeting mathematics language||2013|2017
+MOMETOOLS|sigcomm models methods tools reproducible network research|ACM|2003|2003
+MOMLET|modern machine learning technologies||2024|2025
+MOMM|advances mobile computing multimedia intelligence held conjunction information integration web intelligence iiwas|Springer|2022|2022
+MOMM|advances mobile computing multimedia intelligence|Springer|2023|2026
+MOMM|advances mobile computing multimedia momm2019|ACM|2019|2019
+MOMM|advances mobile computing multimedia momm2020|ACM|2020|2020
+MOMM|advances mobile computing multimedia|ACM|2011|2015
+MOMM|information integration web intelligence iiwas held conjunction advances mobile computing multimedia intelligence|Springer|2022|2022
+MOMM|momm2008 advances mobile computing multimedia||2008|2008
+MOMM|momm2009 advances mobile computing multimedia||2009|2009
+MOMM|momm2010 advances mobile computing multimedia||2010|2010
+MOMPES|fourth model based methodologies pervasive embedded software||2007|2007
+MOMPES|icse model based methodologies pervasive embedded software||2009|2009
+MOMPES|model based methodologies pervasive embedded software revised papers||2013|2013
+MOMPES|model based methodologies pervasive embedded software||2005|2010
+MOMPES|proc joint meeting model based dev computer based systems int model based methodologies pervasive embedded software mbd||2006|2006
+MONAMI|eai mobile networks management|Springer|2017|2024
+MONAMI|icst mobile networks management|Springer|2012|2013
+MONAMI|mobile networks management first revised selected papers||2010|2010
+MONAMI|mobile networks management second icst revised selected papers||2011|2011
+MONAMI|mobile networks management third icst revised selected papers||2012|2012
+MONAMI|mobile networks management|Springer|2013|2023
+MONETEC|science technology modern network technologies|IEEE|2020|2024
+MONETEC|scientific technical modern computer network technologies|IEEE|2018|2018
+MONETEC|sdn nfv modern networking technologies science technology modern networking technologies|IEEE|2014|2014
+MONICOM|co located workshops mobile entity localization tracking gps less environments||2008|2008
+MONTECH|biomedical technologies||1987|1987
+MONTREAL|aes advances trends engineering materials their applications||2013|2013
+MOOMIN|modular open multilingual nlp||2024|2024
+MOPHY|xviii meeting physics|IOP|2022|2022
+MOPHY|xxi meeting physics|IOP|2025|2025
+MOPTA|modeling optimization theory applications|Springer|2012|2019
+MOREPAS|model reduction parametrized systems|Springer|2017|2017
+MORGEO|moroccan geomatics|IEEE|2020|2020
+MORPHFSM|joint meeting sigmorphon sigfsm||2014|2014
+MORSE|ai empowered mobile wireless sensing part|ACM|2022|2022
+MORSE|mechatronics robotics systems engineering|IEEE|2019|2021
+MORS|multi objective recommender systems co located recommender systems||2021|2022
+MOSATT|modern safety technologies transportation scientific|IEEE|2019|2019
+MOSEMINA|modern software engineering methods industrial automation|ACM|2014|2014
+MOSE|model driven service engineering||2010|2010
+MOSFET|fabrication new si field emitter tip metal oxide semiconductor field effect transistor structure||1996|1996
+MOSICOM|modeling simulation intelligent computing|IEEE|2024|2024
+MOSICOM|modelling simulation intelligent computing|IEEE|2020|2025
+MOSM|modern synthetic methodologies creating drugs functional materials iii|IOP|2020|2020
+MOSM|modern synthetic methodologies creating drugs functional materials iv|IOP|2021|2021
+MOSN|mobile online social networks||2011|2011
+MOSS|mechanics slender structures|IOP|2013|2013
+MOSTART|digital transformation education artificial intelligence applications|Springer|2023|2026
+MOST|advances model based testing||2005|2005
+MOST|mobility operations services technologies|IEEE|2023|2026
+MOST|ontobras joint seminar ontology research brazil metamodels ontologies semantic technologies||2011|2012
+MOSYS|hp high performance mobile opportunistic systems co located|ACM|2013|2013
+MOSYS|hp high performance mobile opportunistic systems||2012|2012
+MOS|mobile object system|Springer|1997|1997
+MOS|physics chemistry molecular oxide superconductors part||1996|1996
+MOTA|mashups things apis|ACM|2016|2016
+MOTION|video computing|IEEE|2002|2007
+MOTOR|mathematical optimization theory operations research|Springer|2019|2025
+MOTPW|modelling physical world||2012|2012
+MOT|multi object tracking|IEEE|2001|2001
+MOU|astrophysics inaf cineca||2020|2020
+MOVE|measuring ontologies value enhancement|Springer|2022|2022
+MOVIC|motion vibration control selected papers from||2009|2009
+MOVIC|motion vibration control||2010|2020
+MOVID|mobile video delivery co located multimedia||2010|2010
+MOVID|mobile video|ACM|2012|2016
+MOVI|medical optical imaging virtual microscopy image analysis held conjunction medical imaging computer assisted intervention|Springer|2022|2025
+MOWNET|selected topics mobile wireless networking|IEEE|2013|2018
+MOZ|multiparadigm programming mozart oz second||2005|2005
+MPAC|middleware pervasive ad hoc computing held ifip usenix middleware middleware||2008|2008
+MPAC|middleware pervasive ad hoc computing held ifip usenix middleware||2005|2007
+MPAC|middleware pervasive ad hoc computing||2004|2004
+MPAC|middleware pervasive mobile embedded computing m co located ifip usenix middleware||2009|2011
+MPAC|series proc int middleware pervasive ad hoc computing held ifip usenix int middleware||2006|2006
+MPAMIT|modern problems applied mathematics information technology|IOP|2023|2023
+MPAMIT|scientific practical modern problems applied mathematics information technology|IOP|2024|2024
+MPASE|scientific modern problems applied science engineering|IOP|2024|2024
+MPA|movement pattern analysis||2010|2010
+MPCIT|multimedia processing communication information technology|IEEE|2020|2025
+MPCON|madhya pradesh section|IEEE|2025|2026
+MPCPE|materials physics building structures technologies construction industrial production engineering|Springer|2020|2025
+MPCS|massively parallel computing systems challenges general purpose special purpose computing|IEEE|1994|1994
+MPCS|mathematical physics computational simulation conf|IOP|2023|2023
+MPC|materials physics computers|IOP|2022|2022
+MPC|mathematics or program construction|Springer|2006|2006
+MPC|mathematics program construction|Springer|1995|2022
+MPC|modern problems construction setting tasks ways solve them|Springer|2023|2023
+MPC|modern problems construction|Springer|2024|2024
+MPDU|society petroleum engineers iadc spe managed pressure drilling underbalanced operations exhibition||2019|2025
+MPDU|society petroleum engineers spe iadc managed pressure drilling underbalanced operations exhibition||2020|2024
+MPEC|models processes evaluation off shelf components collocated software engineering||2005|2005
+MPEOPLE|modelling people|IEEE|1999|1999
+MPES|mine planning equipment selection computer applications minerals industries||2005|2005
+MPES|mine planning equipment selection|Springer|2020|2020
+MPE|society petroleum engineers meeting petroleum engineering||1986|1986
+MPF|computational experimental methods multiphase complex flow mpf11||2011|2011
+MPF|computational experimental methods multiphase complex flow||2013|2013
+MPHYS|mathematical physics meeting school modern mathematical physics|IOP|2019|2019
+MPHYS|mathematical physics meeting summer school modern mathematical physics|IOP|2008|2014
+MPHYS|summer school modern mathematical physics||2006|2006
+MPI|european parallel virtual machine message passing interface users group meeting pvm|Springer|2002|2004
+MPI|european pvm users group meeting recent advances parallel virtual machine message passing interface pvm|Springer|2001|2001
+MPI|european recent advances parallel virtual machine message passing interface users group meeting pvm|Springer|1997|1997
+MPI|european users group meeting parallel virtual machine message passing interface pvm|Springer|1998|1999
+MPLP|ix modern problems laser physics||2021|2021
+MPLR|managed programming languages runtimes|ACM|2020|2022
+MPLR|sigplan managed programming languages runtimes co located icfp|ACM|2025|2025
+MPLR|sigplan managed programming languages runtimes co located|ACM|2019|2024
+MPLR|sigplan managed programming languages runtimes|ACM|2021|2021
+MPMB|modern power engineering||2020|2020
+MPMD|friction stir welding processing iii sponsored shaping forming committee materials processing manufacturing division minerals metals materials society tms||2005|2005
+MPMD|surface engineering materials science iii sponsored surface engineering committee materials processing manufacturing division minerals metals materials society tms||2005|2005
+MPMS|medical processes modeling simulation autumn simulation multiconference||2012|2012
+MPM|measurement privacy mobility|ACM|2012|2012
+MPM|multi paradigm modeling||2012|2012
+MPM|v scientific technical metrology physical chemical measurements||2022|2022
+MPNA|north american multiphase production technology||2024|2024
+MPOR|modern problems robotics|Springer|2021|2021
+MPPAM|modern problems perspectives applied mathematics|IOP|2025|2025
+MPPM|working massively parallel programming models|IEEE|1997|1997
+MPPOI|massively parallel processing using optical interconnections|IEEE|1994|1996
+MPPOI|massively parallel processing using optical interonnections||1997|1997
+MPPOI|massively parallel processing|IEEE|1998|1998
+MPPT|viii youth scientific school modern problems physics technology|IOP|2020|2020
+MPRSRWPD|russian open scientific modern problems remote sensing radar wave propagation diffraction||2020|2021
+MPRSS|iapr tc multimodal pattern recognition social signals human computer interaction|Springer|2017|2017
+MPRSS|iapr tc pattern recognition social signals human computer interaction|Springer|2019|2019
+MPRSS|iapr tc3 multimodal pattern recognition social signals human computer interaction|Springer|2015|2015
+MPRSS|multimodal pattern recognition social signals human computer interaction first iapr tc3 revised selected papers||2013|2013
+MPSL|modification properties surface layers non semiconducting materials using particle beams|Elsevier|2000|2000
+MPSU|scientific technical modern power systems units|EDP|2021|2021
+MPSVA|modern practice stress vibration analysis|IOP|2012|2012
+MPS|modern power systems|IEEE|2017|2023
+MPS|multimedia privacy security co located|ACM|2017|2017
+MPT|multiphase production technology||2017|2023
+MPVA|multimodal pervasive video analysis co located multimedia||2010|2010
+MQW|microquasar microquasars beyond||2006|2008
+MRAC|multimodal responsible affective computing|ACM|2024|2024
+MRAE|modern research aerospace engineering|Springer|2024|2024
+MRAI|mechatronics robotics artificial intelligence|IEEE|2025|2025
+MRA|mixed reality art|IEEE|2016|2016
+MRCAS|joint computer vision virtual reality robotics medicine medical robotics computer assisted surgery cvrmed|Springer|1997|1997
+MRCF|society petroleum engineers mechanics rheologically complex fluids||1966|1966
+MRCN|mobile radio communications 5g networks|Springer|2021|2025
+MRCS|mechatronics robotics control systems|Springer|2026|2026
+MRCS|mechatronics robotics control system|IOP|2024|2024
+MRCS|multimedia content representation classification security|Springer|2006|2006
+MRC|modeling reasoning context||2010|2010
+MRC|modeling retrieval context second revised selected papers||2006|2006
+MRC|modeling retrieval context||2005|2005
+MRC|modelling reasoning context co located european artificial intelligence||2020|2020
+MRC|modelling reasoning context co located joint artificial intelligence||2021|2021
+MRDMS|mechanics resource diagnostics materials structures mechanics resource diagnostics materials structures|IOP|2019|2019
+MRDMS|mechanics resource diagnostics materials structures|Elsevier|2023|2024
+MRDM|multi relational data mining sigkdd knowledge discovery data mining|ACM|2005|2005
+MRD|management replicated data|IEEE|1992|1992
+MREE|materials renewable energy environment||2013|2013
+MRGGE|mineral resources geotechnology geological exploration|Springer|2025|2026
+MRG|challenge head neck tumor segmentation mri guided applications hnts held conjunction medical image computing computer assisted intervention|Springer|2025|2025
+MRIE|multidisciplinary research innovations engineering|IEEE|2025|2025
+MRL|multi lingual representation learning||2022|2023
+MRL|multilingual representation learning||2021|2024
+MRMD|multimodal retrieval medical domain|Springer|2015|2015
+MRM|boundary elements other mesh reduction methods bem mrm2012 be12||2012|2012
+MRM|boundary elements other mesh reduction methods bem||2011|2019
+MRM|boundary elements other mesh reduction methods xxxii bem||2010|2010
+MRM|magnetic recording media|Elsevier|1987|1993
+MRQA|machine reading question answering||2021|2021
+MRRS|microwaves radar remote sensing|IEEE|2005|2017
+MRSU|advanced element base micro nano electronics using date achievements theoretical physics||2021|2021
+MRS|c european materials research society e||2007|2007
+MRS|carbon dioxide raw material sustainable development||2011|2011
+MRS|e d measurement techniques technological plasmas|Elsevier|2000|2000
+MRS|e fall i advances transparent electronics from materials devices iii||2012|2012
+MRS|e fall k solution derived electronic oxide films nanostructures patterning from materials devices||2012|2012
+MRS|e spring meeting m more than moore novel materials approaches functionalized silicon based microelectronics||2012|2012
+MRS|e spring meeting|Elsevier|1995|1996
+MRS|f european materials research society fall meeting e||2004|2004
+MRS|fall meeting||1994|1994
+MRS|g european materials research society fall meeting e||2005|2005
+MRS|inorganic nanostructured photovoltaics e b||2010|2010
+MRS|multi robot multi agent systems|IEEE|2017|2025
+MRS|papers presented e spring meeting f advances transparent electronics from materials devices||2010|2010
+MRS|papers presented e spring meeting f novel gain materials devices based iii n v compounds||2008|2008
+MRS|papers presented laser processing semiconductor devices science technology e spring meeting i advances transparent electronics from materials devices ii||2008|2008
+MRS|semiconductor nanostructures towards electronic optoelectronic device applications ii||2009|2009
+MRS|shape memory materials smart systems e spring meeting||2010|2010
+MRT|run time being part model driven engineering languages systems||2012|2012
+MRT|run time model driven engineering languages systems||2010|2011
+MRW|microwave radar week microwaves radar wireless communications||2010|2010
+MRW|microwave radar week radar||2010|2010
+MS&T|creep deformation fracture design life extension sponsored materials science technology ms t||2005|2005
+MS&T|materials science technology ms t volume aist process metallurgy product quality applications||2004|2004
+MS&T|materials science technology ms t volume aist tms||2004|2004
+MS&T|preview materials hydrogen economy ms t materials science technology exhibition||2005|2005
+MS&T|preview spanning spectrum ms t materials science technology exhibition||2005|2005
+MS&T|processing fabrication advanced materials xiv frontiers materials science innovative materials manufacturing techniques sponsored materials science technology ms t||2005|2005
+MS&T|science technology powder materials synthesis consolidation properties sponsored materials science technology ms t||2005|2005
+MSAC|scientific riga technical university section materials science applied chemistry||2020|2021
+MSAM|material strength applied mechanics||2021|2025
+MSAN|multimedia services access networks msan05||2005|2005
+MSAS|mechatronic systems automation systems||2011|2012
+MSBC|euro mini modeling simulation social behavioral phenomena creative societies|Springer|2019|2019
+MSBC|modeling simulation social behavioral phenomena creative societies|Springer|2023|2023
+MSBC|modeling simulation social behavioral phenomena creative socities|Springer|2024|2024
+MSCC|edition mediterranean smart cities|IEEE|2024|2024
+MSCC|mobihoc mobile sensing computing communication|ACM|2016|2016
+MSCEIS|mathematics science computer science education seminar||2020|2020
+MSCEIS|seminar mathematics science computer science education biology chemistry computer science mathematics physics|IOP|2019|2019
+MSCEIS|seminar mathematics science computer science education biology education chemistry education computer science education integrated science|IOP|2019|2019
+MSCEIS|seminar mathematics science computer science education mathematics education|IOP|2019|2019
+MSCEIS|seminar mathematics science computer science education physics education|IOP|2019|2019
+MSCEIS|seminar mathematics science computer science education preface|IOP|2019|2019
+MSCEIS|seminar mathematics science computer science education|IOP|2023|2023
+MSCE|management science computer engineering|ACM|2025|2025
+MSCE|materials science chemical engineering||2013|2013
+MSCIAAS|modeling simulation complexity intelligent adaptive autonomous systems part spring simulation multi||2018|2018
+MSCIAAS|modeling simulation complexity intelligent adaptive autonomous systems spring simulation multi||2017|2017
+MSCPES|modeling simulation cyber physical energy systems held as part cps week|IEEE|2014|2019
+MSCPES|modeling simulation cyber physical energy systems held as part cyber physical systems internet things week|ACM|2021|2021
+MSCPES|modeling simulation cyber physical energy systems|IEEE|2013|2024
+MSCPES|modelling simulation cyber physical energy systems held as part cyber physical systems internet things week|IEEE|2023|2023
+MSCPES|modelling simulation cyber physical energy systems|IEEE|2022|2022
+MSC|multi systems control||2012|2012
+MSC|multimedia service composition co located multimedia|ACM|2005|2005
+MSDI|marine sustainable development innovation|IOP|2023|2025
+MSECAI|indo us materials sustainable engineering chemical allied industry|IOP|2025|2025
+MSEC|asme manufacturing science engineering msec2007||2007|2007
+MSEC|asme manufacturing science engineering msec2008||2009|2009
+MSEC|asme manufacturing science engineering msec2009||2009|2009
+MSEC|manufacturing science engineering||2006|2006
+MSEE|material science environmental engineering|IOP|2014|2025
+MSENTS|mediterranean enterprise new technology synergy|Springer|2021|2021
+MSEPT|multicore software engineering performance tools||2012|2012
+MSESCS|material science environment science computer science||2014|2014
+MSESCS|material science environmental science computer science||2012|2012
+MSETEE|materials science energy technology environmental engineering|EDP|2021|2021
+MSETEE|sixth materials science energy technology environmental engineering|SPIE|2026|2026
+MSET|materials science engineering technology||2014|2014
+MSE|microelectronic systems education designing microsystems new millennium|IEEE|2001|2001
+MSE|microelectronic systems education educating systems designers global economy secure world||2007|2007
+MSE|microelectronic systems education educating tomorrow s microsystems designers|IEEE|2003|2003
+MSE|microelectronic systems education systems education century|IEEE|1999|1999
+MSE|microelectronic systems education|IEEE|1997|2017
+MSE|microelectronics systems education|IEEE|2015|2015
+MSE|multimedia software engineering|IEEE|1998|2002
+MSE|sixth multimedia software engineering||2004|2004
+MSFM|materials structure micromechanics fracture|Elsevier|2019|2019
+MSFP|mathematically structured functional programming||2020|2022
+MSFP|sigplan mathematically structured functional programming co located|ACM|2010|2010
+MSG|metallic semiconducting glasses||1987|1987
+MSIADU|sigmm media studies implementations that help improving access disabled users co located conf multimedia mm||2009|2009
+MSIA|materials science industrial applications||2019|2021
+MSIEID|management science informatization economic innovation development|IEEE|2020|2020
+MSIE|management science industrial engineering|ACM|2011|2025
+MSIM|materials science intelligent manufacturing|IOP|2023|2025
+MSIT|materials science information technology msit2011||2012|2012
+MSIT|materials science information technology||2012|2014
+MSI|iasted modelling simulation identification||2009|2018
+MSKI|computational methods clinical applications musculoskeletal imaging held conjunction medical image computing computer assisted intervention|Springer|2018|2018
+MSKI|computational methods clinical applications musculoskeletal imaging was held conjunction medical image|Springer|2019|2019
+MSMAT|materials science mathematics advanced technology|IOP|2023|2025
+MSMA|multi sensorial media applications co located mm|ACM|2025|2025
+MSMEE|materials science machinery energy engineering||2014|2014
+MSMEE|scientific practical materials science mechanical engineering energy problems prospects development||2020|2020
+MSME|materials science manufacturing engineering|IOP|2020|2021
+MSMF|materials structure micromechanics fracture|Elsevier|2023|2025
+MSML|mathematical scientific machine learning||2020|2022
+MSMMT|second microelectromechanical systems manufacturing materials technology|SPIE|2025|2025
+MSMP|eighteenth mexican medical physics|IOP|2025|2025
+MSMS|mechanics structures materials science|IOP|2020|2020
+MSMS|mossbauer spectroscopy materials science||2010|2010
+MSMW|fifth kharkov physics engineering microwaves millimeter submillimeter waves msmw04 volume||2004|2004
+MSMW|fifth kharkov physics engineering microwaves millimeter submillimeter waves volume||2004|2004
+MSMW|kharkiv physics engineering microwaves millimeter submillimeter waves|IEEE|2016|2016
+MSMW|kharkov physics engineering microwaves millimeter submillimeter waves terahertz technologies||2007|2007
+MSMW|kharkov physics engineering microwaves millimeter submillimeter waves||2010|2013
+MSMW|kharkov physics engineering millimeter sub millimeter waves|IEEE|2001|2001
+MSMW|kharkov physics engineering millimeter submillimeter waves|IEEE|1998|1998
+MSM|making sense microposts big things come small packages co located extended semantic web||2011|2011
+MSM|making sense microposts||2012|2012
+MSM|mechatronic systems materials|IEEE|2006|2020
+MSM|microscopy semiconducting materials|IOP|2013|2013
+MSM|modeling mining ubiquitous social media revised selected papers|Springer|2012|2012
+MSM|modeling simulation medicine part spring simulation multi||2019|2019
+MSM|modeling simulation medicine spring simulation multi||2017|2017
+MSM|modeling social media mining modeling recommending things social media||2013|2013
+MSM|modeling social media mining ubiquitous social environments first machine learning urban sensor data|Springer|2016|2016
+MSM|modeling social media mining ubiquitous social environments|Springer|2011|2011
+MSM|modeling social media||2010|2012
+MSM|physica status solidi c papers presented fourth magnetic superconducting materials||2006|2006
+MSM|seminar metrology methods techniques signal processing physical measurements|Springer|2019|2019
+MSM|technical fourth modeling simulation microsystems||2001|2001
+MSM|technical third modeling simulation microsystems||2000|2000
+MSNANO|materials science nanotechnology|Elsevier|2020|2020
+MSNBAS|scientific practical methods synthesis new biologically active substances their application various industries world economy|EDP|2024|2024
+MSNMC|methods systems navigation motion control|IEEE|2012|2025
+MSN|mobile ad hoc sensor networks first||2005|2005
+MSN|mobile ad hoc sensor networks third||2007|2007
+MSN|mobile ad hoc sensor networks|IEEE|2006|2019
+MSN|mobility sensing networking|IEEE|2020|2025
+MSOTA|modeling simulation optimization technologies applications|IOP|2021|2022
+MSO|sixth iasted modelling simulation optimizatiom||2006|2006
+MSP&DL|3d imaging technologies multidimensional signal processing deep learning 3d it msp dl|Springer|2023|2023
+MSPANDDL|3d imaging technologies multidimensional signal processing deep learning 3d it|Springer|2021|2021
+MSPANDDL|3d imaging technologies multidimensional signal processing deep learning 3dit|Springer|2021|2021
+MSPC|memory systems performance correctness conjunction sigplan programming language design implementation|ACM|2014|2014
+MSPC|proc sigplan memory systems performance correctness held int conf architectural support programming languages operating systems|ACM|2008|2008
+MSPC|sigplan memory systems performance correctness|ACM|2006|2013
+MSPE|mobile services personalized environments||2006|2006
+MSPN|mobile secure programmable networking|Springer|2015|2024
+MSP|iih intelligent information hiding multimedia signal processing||2009|2009
+MSP|intelligent information hiding multimedia signal processing iih conjunction frontiers information technology applications tools|Springer|2021|2022
+MSP|intelligent information hiding multimedia signal processing iih conjunction orange technology applications tools|Springer|2025|2025
+MSP|intelligent information hiding multimedia signal processing iih held conjunction frontiers information technology applications tools|Springer|2020|2020
+MSP|intelligent information hiding multimedia signal processing iih|Springer|2006|2023
+MSP|memory system performance|ACM|2002|2002
+MSP|sigplan memory system performance||2004|2004
+MSP|sigplan memory systems performance|ACM|2005|2005
+MSQUARE|ic mathematical modelling physical sciences|IOP|2013|2013
+MSQUARE|mathematical modeling physical sciences ic|IOP|2014|2024
+MSR|marchuk scientific readings dedicated anniversary birthday ras academician guri i marchuk||2021|2021
+MSR|marchuk scientific readings||2021|2021
+MSR|mining software repositories co located software engineering||2004|2006
+MSR|mining software repositories|IEEE|2005|2025
+MSR|usctomm mechanical systems robotics usctomm|Springer|2022|2022
+MSR|working mining software repositories co located||2010|2011
+MSR|working mining software repositories|ACM|2009|2016
+MSSC|digests magnetics celebrating years magnetics society|IEEE|2014|2014
+MSSM|material science smart materials||2020|2020
+MSSM|materials science smart materials||2023|2023
+MSSP|mobile social signal processing first invited papers|Springer|2014|2014
+MSST|mass storage systems technologies msst2010||2010|2010
+MSST|mass storage systems technologies||2007|2019
+MSST|massive storage systems technology||2017|2020
+MSST|nasa goddard mass storage systems technologies|IEEE|2003|2006
+MSS|mechatronics smart systems conf|IOP|2024|2025
+MSTEC|model driven simulation training environments cybersecurity held conjunction european research computer security|Springer|2020|2020
+MSTF|manufacturing science technology future||1993|1993
+MSTU|iv scientific technical mechanical science technology update|IOP|2020|2020
+MSTU|v scientific technical mechanical science technology update||2021|2021
+MST|aiaa modeling simulation technologies||2013|2013
+MST|ii scientific practical materials science technology|IOP|2023|2023
+MST|iii scientific practical materials science technology|IOP|2024|2024
+MST|materials science technology exhibition exploring structure processing applications across multiple materials systems||2007|2007
+MST|microscopy society thailand mst36||2020|2020
+MST|microscopy society thailand||2018|2018
+MST|mobile systems technologies architecture technology trends memory solutions|IEEE|2015|2016
+MST|scientific practical materials science physics|Springer|2025|2026
+MST|scientific practical materials science technology|IOP|2022|2022
+MST|third scientific practical materials science technology|SPIE|2024|2024
+MSVL|structured object oriented formal language method sofl|Springer|2016|2023
+MSVL|structured object oriented formal language method third sofl revised selected papers|Springer|2014|2014
+MSVVEIS|modelling simulation verification validation enterprise information systems conjunction||2005|2010
+MSVVEIS|modelling simulation verification validation enterprise information systems modelling simulation verification validation enterprise information systems conjunction||2008|2008
+MSVVEIS|modelling simulation verification validation enterprise information systems web intelligence conjunction||2012|2012
+MSVVEIS|proc int joint information value management future trends model driven development recent trends soa based information systems modelling simulation verification validation enterprise information systems ivm ftmdd rtsoabis conjunction||2011|2011
+MSV|modeling simulation visualization methods algorithmic mathematics computer science||2004|2004
+MSV|modeling simulation visualization methods||2005|2008
+MSWEIS|modelling simulation verification validation enterprise information systems conjunction||2007|2007
+MSWIM|eighth modeling analysis simulation wireless mobile systems||2006|2006
+MSWIM|modeling analysis simulation wireless mobile systems|ACM|1999|2025
+MSWIM|ninth modeling analysis simulation wireless mobile systems||2006|2006
+MSWIM|pm2hw2n performance monitoring measurement evaluation heterogeneous wireless wired networks co located|ACM|2010|2010
+MSWIM|pm2hw2n performance monitoring measurement heterogeneous wireless wired networks co located||2013|2013
+MSWIM|q2swinet qos security wireless mobile networks co located|ACM|2010|2017
+MSWIM|seventh modeling analysis simulation wireless mobile systems||2004|2004
+MSWIM|sixth modeling analysis simulation wireless mobile systems||2003|2003
+MSWIM|tenth modeling analysis simulation wireless mobile systems||2007|2007
+MSW|multilingual semantic web co located knowledge graph semantic web||2024|2024
+MSW|multilingual semantic web co located||2010|2010
+MSW|multilingual semantic web conjunction semantic web||2011|2011
+MSW|seminar cycle stabilization technologies municipal solid waste incineration residue|Elsevier|1996|1996
+MSW|swiot joint semantic reasoning representation iot multilingual semantic web co located knowledge graph semantic web||2023|2023
+MT13|magnet technology part||1994|1994
+MT14|magnet technology part||1996|1996
+MTAGS|many task computing clouds grids supercomputers held conjunction sc high performance computing networking storage analysis|IEEE|2016|2016
+MTAGS|many task computing grids supercomputers co located sc|ACM|2011|2011
+MTAGS|many task computing grids supercomputers mtags10||2010|2010
+MTAGS|many task computing grids supercomputers|ACM|2008|2009
+MTATL|model transformation atl co located federated||2011|2011
+MTATL|model transformation atl co located tools federated||2010|2010
+MTA|cg constraint grammar methods tools applications||2023|2023
+MTCEIDM|modern trends civil engineering infrastructure development management|Springer|2025|2025
+MTCP|modern trends computational physics|Elsevier|2000|2000
+MTDD|model driven architecture modelling theory driven development mda conjunction||2010|2010
+MTDL|mm multimedia co located workshops multimedia technologies distance learning||2011|2011
+MTDL|multimedia technologies distance leaning co located multimedia||2010|2010
+MTDL|multimedia technologies distance learning co located multimedia mm||2009|2009
+MTDT|memory technology design testing august taipei taiwan||2006|2006
+MTDT|memory technology design testing|IEEE|1997|2009
+MTDT|records memory technology design testing||2004|2004
+MTD|managing technical debt co located||2011|2011
+MTD|managing technical debt|IEEE|2012|2016
+MTD|moving target defense co located|ACM|2015|2022
+MTD|moving target defense|ACM|2019|2023
+MTEC|maritime port technology development maritime autonomous surface ships|IOP|2022|2022
+MTEC|maritime port technology||2015|2015
+MTG|mastering gap from information extraction semantic representation held conjunction european semantic web||2006|2006
+MTICTI|modern trends ict industry towards excellence ict industries|IEEE|2021|2021
+MTMS|molecular thermodynamics molecular simulation|Elsevier|1998|1998
+MTM|joint mechanisms mechanical transmissions robotics robotics||2017|2017
+MTNS|mathematical theory networks systems|Elsevier|1984|2024
+MTOL|national forum military telemedicine line today research practice opportunities|IEEE|1995|1995
+MTPP|methods tools parallel programming multicomputers second russia taiwan revised selected papers||2010|2010
+MTPR|modern trends physics research second modern trends physics research||2007|2007
+MTSA|modeling simulation methodology tools software applications m s part summer simulation multiconference||2006|2006
+MTSITVW|scientific practical modern trends science innovative technologies vineyards wine making|EDP|2021|2021
+MTSITVW|scientific practical modern trends science innovative technologies viticulture winemaking|EDP|2022|2023
+MTSM|mechanical technologies structural materials||2019|2025
+MTSR|metadata semantic research research revised selected papers|Springer|2023|2023
+MTSR|metadata semantic research|Springer|2010|2019
+MTSR|metadata semantics research research||2012|2012
+MTSR|metadata semantics research|Springer|2014|2022
+MTSR|research metadata semantic research|Springer|2024|2025
+MTSR|research metadata semantics research|Springer|2013|2015
+MTTS|measurements telecommunication transmission systems||1985|1985
+MTTW|microwave theory techniques wireless communications|IEEE|2019|2022
+MTTW|microwave theory technology wireless communications|IEEE|2023|2024
+MTT|biennial measuring techniques turbomachinery|EDP|2022|2022
+MTT|g microwave digest g|IEEE|1967|1967
+MTT|modern technique technologies||2008|2008
+MTT|s microwave digest||2013|2013
+MTT|s microwave||2010|2010
+MTT|scientific practical students post graduates young scientists modern technique technologies|IEEE|2002|2002
+MTT|scientific practical students post graduates young scientists modern techniques technologies||2003|2003
+MTT|scientific practical students post graduates young scientists modern techniques technology|IEEE|2000|2001
+MTT|scientific practical students postgraduates young scientists modem techniques technologies||2005|2005
+MTT|xxvi biennial measuring techniques turbomachinery|IOP|2023|2023
+MTT|xxvii measuring techniques turbomachinery|IOP|2026|2026
+MTV|eighth microprocessor test verification||2008|2008
+MTV|microprocessor soc test security verification|IEEE|2017|2019
+MTV|microprocessor soc test verification|IEEE|2015|2016
+MTV|microprocessor test verification common challenges solutions||2009|2012
+MTV|microprocessor test verification||2011|2013
+MTV|sixth microprocessor test verification common challenges solutions||2006|2006
+MTYMEX|eai smart technology|Springer|2018|2023
+MTYMEX|smart technologies innovation management|Springer|2025|2025
+MUCAI|multimedia multimodal conversational ai co located mm|ACM|2021|2021
+MUCAI|multimodal conversational ai|ACM|2020|2020
+MUCET|malaysian technical universities engineering technology|Springer|2020|2021
+MUCOCOS|multi many core computing systems||2013|2013
+MUCS|managing ubiquitous communications services||2009|2009
+MUC|human computer mensch und computer tagungsband||2018|2018
+MUC|human computer mensch und computer workshopband||2016|2016
+MUC|mensch und computer facing realities|ACM|2022|2022
+MUC|mensch und computer konstruktion und praktischer einsatz von user experience fragebogen||2019|2019
+MUC|mensch und computer mensch maschine interaktion sicherheitskritischen systemen||2020|2020
+MUC|mensch und computer tagungsband||2016|2017
+MUC|mensch und computer usability professionals||2020|2020
+MUC|mensch und computer workshopband||2017|2018
+MUC|mensch und computer|ACM|2024|2024
+MUC|message understanding||1991|1998
+MUC|tagungsband mensch und computer|ACM|2020|2020
+MUD|management uncertain data conjunction||2009|2009
+MUD|mining unstructured data|IEEE|2014|2015
+MUD|qdb quality databases management uncertain data||2008|2008
+MUD|vldb management uncertain data||2010|2011
+MUE|ftra multimedia ubiquitous engineering|Springer|2011|2014
+MUE|multimedia ubiquitous engineering future information technology future tech|Springer|2020|2026
+MUE|multimedia ubiquitous engineering||2007|2013
+MUI|mm multimedia co located workshops ubi ubi||2011|2011
+MULEA|multimodal understanding learning embodied applications co located mm|ACM|2019|2019
+MULGRAB|multimedia computer graphics broadcasting held as part future generation information technology conjunction||2011|2011
+MULGRAB|multimedia computer graphics broadcasting|IEEE|2015|2015
+MULGRAB|signal processing multimedia sip held as part future generation information technology||2010|2010
+MULL|multimedia understanding less labeling co located mm|ACM|2021|2021
+MULTICLOUD|multi cloud applications federated clouds||2013|2013
+MULTICLUST|multiple clusterings multi view data multi source knowledge driven clustering conj sigkdd int conf knowledge discovery data mining||2013|2013
+MULTICOMM|biometric id management multimodal communication joint cost bioid||2009|2009
+MULTIEDTECH|multimedia based educational knowledge technologies personalized social online training co located mm|ACM|2017|2017
+MULTIF|multifrequency behaviour high energy cosmic sources||2019|2024
+MULTILING|summarization across languages genres sources||2019|2019
+MULTILING|summarization summary evaluation across source types genres||2017|2017
+MULTIMEDIA|comsoc communications|IEEE|1992|1994
+MULTIMEDIA|face gesture recognition their applications|ACM|1998|1998
+MULTIMEDIA|technologies interactive movies|ACM|1998|1998
+MULTITEMP|analysis multi temporal remote sensing images our dynamic environment||2013|2013
+MULTITEMP|analysis multi temporal remote sensing images||2007|2009
+MULTITEMP|analysis multitemporal remote sensing images|IEEE|2017|2019
+MULTITTRUST|multidisciplinary perspectives human ai team trust co located human agent interaction||2024|2024
+MULTIUNI|cosmology multipolar universe|Springer|2025|2025
+MUMO|multiscale modeling heterogeneous structures|Springer|2018|2018
+MUM|mobile ubiquitous multimedia|ACM|2004|2025
+MUM|series mobile ubiquitous multimedia||2006|2006
+MUM|vr4health vr4health virtual reality health wellbeing co located mobile ubiquitous multimedia||2023|2023
+MUM|ws workshops making real connection interruptions attention management co located mobile ubiquitous media||2023|2023
+MUPPLE|mashup personal learning environments conjunction european technology enhanced learning ec||2008|2008
+MUPPLE|mashup personal learning environments conjunction european technology enhanced learning sustaining tel||2010|2010
+MUPPLE|mashup personal learning environments||2009|2009
+MURPHYS|multi rate processes hysteresis|IOP|2011|2011
+MURS|music recommender systems co located recommender systems||2024|2025
+MUSCLE|computational intelligence multimedia understanding revised selected papers||2012|2012
+MUSEPAT|multicore software engineering performance tools||2013|2013
+MUSE|analysis social media ubiquitous data workshops revised selected papers|Springer|2011|2011
+MUSE|mining ubiquitous social environments conjunction european machine learning principles practice knowledge discovery databases ecml|Springer|2015|2015
+MUSE|mining ubiquitous social environments held conjunction european machine learning principles practice knowledge discovery databases ecml modeling social media held conjunction world wide web modeling social media held conjunction world wide web|Springer|2019|2019
+MUSE|multimodal sentiment analysis challenge co located mm|ACM|2021|2021
+MUSE|multimodal sentiment analysis challenge mimicked emotions humour personalisation co located mm|ACM|2023|2023
+MUSE|multimodal sentiment analysis challenge social perception humor co located mm|ACM|2024|2024
+MUSE|multimodal sentiment analysis challenge|ACM|2022|2022
+MUSE|multimodal sentiment analysis real life media challenge|ACM|2020|2020
+MUSE|ubiquitous social media analysis third workshops revised selected papers|Springer|2013|2013
+MUSIC|ftra mobile ubiquitous intelligent computing||2012|2012
+MUSIC|mobile ubiquitous intelligent computing||2014|2014
+MUSME|multibody systems mechatronics|Springer|2015|2026
+MUSP|wseas multimedia systems signal processing||2010|2010
+MUST|sigcomm measurements up stack w|ACM|2011|2011
+MUST|w measurements up down stack|ACM|2012|2012
+MUTATION|analysis issre workshops mutation06||2006|2006
+MUTO|multifaceted universe theory observations||2022|2022
+MUVER|multimedia verification co located mm|ACM|2017|2017
+MUWS|multimodal human understanding web social media co located information knowledge management||2023|2023
+MVAID|fourth machine vision automatic identification detection|SPIE|2025|2025
+MVAID|machine vision automatic identification detection|IOP|2022|2023
+MVAID|third machine vision automatic identification detection|SPIE|2024|2024
+MVAR|multimodal virtual augmented reality conjunction|ACM|2016|2016
+MVA|iapr computer vision special hardware industrial applications||1988|1988
+MVA|iapr machine vision applications|IEEE|1990|2017
+MVA|machine vision applications|IEEE|2019|2025
+MVDL|machine vision deep learning|SPIE|2025|2025
+MVD|formulation solution class magneto viscoelasto dynamics governing equations motion||1995|1995
+MVHI|machine vision human machine interface||2010|2010
+MVIEW|multi view modeling analysis visual scenes|IEEE|1999|1999
+MVIIPR|machine vision intelligent imaging pattern recognition|SPIE|2026|2026
+MVIPIT|machine vision image processing imaging technology|IEEE|2023|2024
+MVIP|iranian machine vision image processing||2010|2024
+MVIP|machine vision image processing||2012|2020
+MVL|multiple valued logic|ACM|1978|1978
+MVR|icmr multimodal video retrieval icmr|ACM|2024|2024
+MVS|ifac multivehicle systems||2006|2012
+MWCN|ifip tc6 european commission networking mobile wireless communications networks|Springer|2000|2000
+MWCN|ifip tc6 wg6 mobile wireless communication networks|Springer|2005|2005
+MWCN|ifip world computer congress tc ifip mobile wireless communications networks||2006|2006
+MWCN|mobile wireless communications networks||2007|2007
+MWCN|mobile wireless communications network|IEEE|2002|2002
+MWENT|moscow electronic networking technologies|IEEE|2018|2022
+MWE|multiword expressions conjunction european chapter association computational linguistics||2014|2014
+MWE|multiword expressions conjunction north american chapter association computational linguistics human language technologies naacl||2013|2015
+MWE|multiword expressions from parsing generation real world meeting association computational linguistics human language technologies acl||2011|2011
+MWE|multiword expressions identification interpretation disambiguation applications||2009|2009
+MWE|multiword expressions meeting association computational linguistics||2016|2016
+MWE|multiword expressions||2017|2026
+MWNS|mobile wireless networks security||2008|2008
+MWPD|semantic web challenge mining web html embedded product data co located semantic web||2020|2020
+MWP|meeting microwave photonics jointly held asia pacific microwave photonics mwp2008||2008|2008
+MWP|microwave photonics topical meeting||2005|2005
+MWP|mwp09 topical meeting microwave photonics||2009|2009
+MWP|topical meeting microwave photonics technical digest|IEEE|2002|2004
+MWP|topical meeting microwave photonics|IEEE|1996|2025
+MWSCAS|midwest circuits systems|IEEE|1991|2025
+MWSF|is t electronic imaging media watermarking security forensics||2026|2026
+MWSN|security privacy mobile wireless sensor networks||2013|2013
+MWSSH|mobile wireless sensing smart healthcare|ACM|2022|2022
+MWS|mobile wimax||2009|2009
+MYOPS|myocardial pathology segmentation combining multi sequence cmr challenge held conjunction medical image computing computer assisted intervention|Springer|2020|2020
+MYRES|multidisciplinary research||2018|2024
+MYSEC|malaysian software engineering|IEEE|2011|2015
+MYSURUCON|mysore sub section|IEEE|2021|2023
+MZV|research trimester multiple zeta values multiple polylogarithms quantum field theory icmat|Springer|2020|2020

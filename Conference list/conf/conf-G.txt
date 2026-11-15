@@ -1,0 +1,767 @@
+GAASRW|gaas reliability|IEEE|1998|1998
+GAAS|european gallium arsenide other compound semiconductors application||2005|2005
+GABAG|groups automorphisms birational affine geometry|Springer|2014|2014
+GACLM|generative ai computational language modelling|IEEE|2025|2025
+GADEST|autumn meeting gettering defect engineering semiconductor technology||1993|2010
+GADEST|biannual meeting gettering defect engineering semiconductor||2011|2011
+GADEST|gettering defect engineering semiconductor technology xii autumn meeting||2008|2008
+GADEST|gettering defect engineering semiconductor technology xiii||2009|2009
+GADEST|gettering defect engineering semiconductor technology xiv gadest2011||2011|2011
+GADEST|gettering defect engineering semiconductor technology||2014|2016
+GADM|generative artificial intelligence digital media|ACM|2025|2026
+GAIA|global access internet all part|ACM|2016|2016
+GAIB|generative artificial intelligence business|ACM|2025|2025
+GAIC|global ai congress|Springer|2020|2020
+GAIDMA|generative ai digital media arts|ACM|2025|2025
+GAIE|generative artificial intelligence education|ACM|2026|2026
+GAIIS|generative artificial intelligence information security|ACM|2024|2026
+GAITDI|implementing generative ai into telecommunication digital innovation|ACM|2026|2026
+GALA|games learning alliance|Springer|2014|2026
+GALESIA|iee genetic algorithms engineering systems innovations applications||1995|1995
+GAMECOMM|icst game theory communication networks|ACM|2007|2007
+GAMEDAYS|e learning games training education health sports edutainment||2012|2012
+GAMEDAYS|games training education health sports serious games|Springer|2014|2014
+GAMENETS|eai game theory networks|Springer|2017|2026
+GAMENETS|game theory networks second icst revised selected papers||2012|2012
+GAMENETS|game theory networks third icst revised selected papers||2012|2012
+GAMENETS|game theory networks|IEEE|2009|2014
+GAMEPEC|game physics mechanics|IEEE|2015|2015
+GAMESEC|decision game theory security first||2010|2010
+GAMESEC|decision game theory security second||2011|2011
+GAMESEC|decision game theory security third||2012|2012
+GAMESEC|decision game theory security|Springer|2010|2025
+GAMESEC|game theory ai security|Springer|2026|2026
+GAMESYS|game systems part|ACM|2021|2022
+GAMES|virtual worlds serious applications vs|IEEE|2009|2014
+GAME|graphics media|IEEE|2019|2019
+GAME|graphics multimedia|IEEE|2020|2020
+GAMIFIR|gamification information retrieval co located european information retrieval||2015|2015
+GAMIFIR|gamification information retrieval held conjunction|ACM|2014|2014
+GAMMA|global integrated model management co located software engineering|ACM|2006|2006
+GAMMA|greek marketing academy global alliance marketing management associations joint gma|Springer|2024|2025
+GANDALF|games automata logics formal verification||2025|2025
+GASCOM|edition random generation combinatorial structures polyominoes tilings||2024|2024
+GASCOM|generation combinatorial structures||2026|2026
+GASES|forum global advances sustainable environment energy earth sciences|EDP|2025|2025
+GASMEMS|european gas micro flows|IOP|2012|2012
+GASS|general assembly scientific union radio science ursi|IEEE|2017|2023
+GASS|ursi general assembly scientific ursi|IEEE|2014|2014
+GASTECH|gastech86 lng lpg||1986|1986
+GASTECH|lng lpg exhibition||1990|1990
+GASTECH|lng lpg||1982|1986
+GAST|global aeronautical engineering satellite technology|IEEE|2024|2026
+GAS|games software engineering co located||2011|2011
+GAS|games software engineering engineering computer games enable positive progressive change||2013|2013
+GAS|games software engineering realizing user engagement game engineering techniques||2012|2012
+GAS|games software engineering|IEEE|2015|2025
+GAS|icse games software engineering engineering fun inspiration motivation|IEEE|2022|2022
+GAZEIN|eye gaze intelligent human machine interaction eye gaze multimodality co located|ACM|2014|2014
+GAZEIN|eye gaze intelligent human machine interaction gaze multimodal interaction co located|ACM|2013|2013
+GBCESC|green building civil engineering smart city|Springer|2023|2024
+GBC|exhibition device packaging held conjunction global business council spring||2010|2010
+GBC|global blockchain|IEEE|2025|2025
+GBC|imaps exhibition device packaging co located global business council spring||2006|2006
+GBC|imaps exhibition device packaging conjunction global business council spring||2008|2011
+GBEM|green buildings environmental management energy engineering energy saving technology|IOP|2019|2019
+GBEM|green buildings environmental management green buildings architectural design engineering technology|IOP|2019|2019
+GBEM|green buildings environmental management material sciences engineering|IOP|2019|2019
+GBEM|green buildings environmental management preface|IOP|2019|2019
+GBEM|green buildings environmental management resources ecology sustainable development|IOP|2019|2019
+GBL|thinkndrinkn evaluation use games based learning alcohol awareness||2008|2008
+GBMCE|green building materials civil engineering||2012|2015
+GBMEC|green building materials energy saving construction||2011|2012
+GBRPR|graph based representations pattern recognition iapr tc||2007|2013
+GBRPR|graph based representations pattern recognition iapr||2005|2005
+GBRPR|iapr graph based representations pattern recognition|Springer|2003|2003
+GBRPR|iapr tc graph based representations pattern recognition|Springer|2015|2025
+GBRPR|iapr tc15 graph based representations pattern recognition|Springer|2019|2019
+GBSC|green buildings sustainable cities||2011|2011
+GBTM|green building technologies materials||2011|2011
+GBTM|green buildings technologies materials||2013|2014
+GCAAMS|global aeronautical aerospace mechanical sciences|IOP|2025|2025
+GCAIOT|global artificial intelligence internet things|IEEE|2020|2025
+GCAI|global artificial intelligence||2019|2019
+GCAI|ruleml rr dc challenge ruleml rr doctoral consortium rule challenge co located joint rules reasoning ruleml rr global artificial intelligence reasoning web summer school rw||2019|2019
+GCAT|global advancement technology|IEEE|2019|2025
+GCA|grid computing applications||2005|2008
+GCBME|global biomedical engineering asian pacific medical biological engineering|Springer|2015|2015
+GCB|german bioinformatics|Springer|1996|2017
+GCCB|distributed high performance grid computing computational biology||2007|2007
+GCCCE|gcc exhibition|IEEE|2015|2017
+GCCE|global consumer electronics|IEEE|2012|2025
+GCCIT|global communications information technologies|IEEE|2024|2024
+GCCSEE|global civil structural environmental engineering multi field coupling theory rock soil media its applications||2012|2012
+GCCSEE|global civil structural environmental engineering||2014|2014
+GCCT|global communication technologies|IEEE|2015|2015
+GCC|fifth grid cooperative computing workshops||2006|2006
+GCC|fifth grid cooperative computing||2006|2006
+GCC|grid cloud cluster computing quantum technologies modeling simulation visualization methods held as part world congress computer science computer engineering applied computing|Springer|2025|2025
+GCC|grid cloud computing||2010|2010
+GCC|grid cooperative computing held workshops igkg sgt giss aac gevo|Springer|2004|2004
+GCC|grid cooperative computing|Springer|2004|2009
+GCDP|society petroleum engineers gulf coast drilling production meeting||1959|1959
+GCDP|society petroleum engineers spe upper gulf coast drilling production||1966|1966
+GCED|global economic diversification|Springer|2026|2026
+GCEECE|global ecological environment civil engineering|EDP|2021|2021
+GCEE|green civil environmental engineering|IOP|2021|2024
+GCET|global congress emerging technologies|IEEE|2024|2025
+GCET|green chemical engineering technology materials science|Elsevier|2020|2020
+GCET|green chemical engineering technology|IOP|2024|2024
+GCE|gateway computing environments co located sc|ACM|2011|2011
+GCE|gateway computing environments held conjunction sc high performance computing networking storage analysis|IEEE|2014|2014
+GCE|gateway computing environments||2010|2010
+GCE|grid computing environments supercomputing gce09|ACM|2009|2009
+GCE|grid computing environments||2008|2008
+GCGC|global green construction materials practices|Springer|2026|2026
+GCGW|global global warming co located sustainable energy green technology|IOP|2026|2026
+GCGW|global global warming|Springer|2017|2020
+GCG|advances trends geodesy cartography geoinformatics ii scientific technical geodesy cartography geoinformatics||2019|2019
+GCH|eurographics graphics cultural heritage short project papers||2014|2014
+GCH|eurographics graphics cultural heritage||2014|2019
+GCIOT|global internet things|IEEE|2018|2019
+GCIS|global congress intelligent systems||2012|2013
+GCIS|wri global congress intelligent systems||2009|2010
+GCITC|global information technologies communications|IEEE|2023|2023
+GCMM|global congress manufacturing management|Springer|2019|2026
+GCMN|green composite materials nanotechnology polymer synthesis application composite materials metallurgical engineering||2020|2020
+GCMN|green composite materials nanotechnology|IOP|2021|2022
+GCMRM|global managing recovering markets|Springer|2015|2015
+GCMS|grand challenges modeling simulation part multiconference||2012|2012
+GCMS|grand challenges modeling simulation part summer simulation multiconference||2008|2009
+GCMS|grand challenges modeling simulation summer simulation multiconference||2010|2013
+GCMS|grand challenges modeling simulation||2011|2011
+GCM|extended papers from green cloud middleware|ACM|2013|2013
+GCM|graph computation models||2020|2025
+GCM|graph computational models||2021|2021
+GCM|green computing middleware co located ifip usenix middleware||2011|2011
+GCM|green computing middleware||2010|2010
+GCM|growth curve models applications|Springer|2017|2017
+GCM|growth curve models|Springer|2013|2015
+GCM|years development grid characteristic method gcm50|Springer|2019|2019
+GCNIOT|green communication network internet things|SPIE|2021|2021
+GCN|green communications networks green communications networks||2012|2012
+GCN|green communications networks||2013|2014
+GCON|guwahati subsection|IEEE|2023|2025
+GCPR|dagm german pattern recognition dagm|Springer|2019|2026
+GCPR|german association pattern recognition dagm|Springer|2024|2025
+GCPR|german pattern recognition dagm held parallel vision modeling visualization eurographics visual computing biology medicine|Springer|2021|2021
+GCPR|german pattern recognition|Springer|2014|2019
+GCPR|pattern recognition german|Springer|2013|2013
+GCPR|time flight depth imaging sensors algorithms applications dagstuhl seminar time flight imaging imaging new modalities|Springer|2013|2013
+GCPS|aiche spring meeting global congress process safety||2022|2023
+GCPS|global congress process safety topical aiche spring meeting global congress process safety||2015|2018
+GCPS|spring meeting global congress process safety||2021|2025
+GCPS|topical gas utilization topical aiche spring meeting global congress process safety||2017|2017
+GCRAIT|global robotics artificial intelligence information technology|IEEE|2022|2022
+GCSDEC|society petroleum engineers spe gulf coast section digital energy exhibition||2008|2008
+GCSE|generative component based software engineering|Springer|2000|2001
+GCSM|global sustainable manufacturing|Springer|2023|2026
+GCSM|sustainable manufacturing global circular economy global sustainable manufacturing|Elsevier|2019|2019
+GCTC|science smart city operations platforms engineering partnership global city teams challenge scope|IEEE|2018|2018
+GCTC|science smart city operations platforms engineering partnership global city teams challenge|IEEE|2016|2016
+GCUE|geographic perspectives climate change mitigation urban rural environments|Springer|2025|2025
+GCWCN|global wireless computing networking|IEEE|2015|2025
+GCWOT|edition global wireless optical technologies|IEEE|2024|2024
+GCWOT|global wireless optical technologies|IEEE|2020|2025
+GDCSE|game development computer science education||2008|2008
+GDC|grid distributed computing held as part future generation information technology||2011|2011
+GDC|grid distributed computing|IEEE|2015|2015
+GDN|global data networking|IEEE|1993|1993
+GDN|group decision negotiation|Springer|2015|2027
+GDN|informs section group decision negotiation|Springer|2014|2014
+GDPM|grapevine downy powdery mildews|EDP|2022|2022
+GDP|gas discharge plasmas their applications||2021|2021
+GDV|games design verification|Elsevier|2005|2005
+GEAR|general emerging arts research management administration|Springer|2019|2019
+GEBNLP|gender bias natural language processing||2021|2024
+GECCO|companion genetic evolutionary computation companion|ACM|2018|2025
+GECCO|companion genetic evolutionary computation|ACM|2016|2022
+GECCO|companion publication genetic evolutionary computation|ACM|2014|2015
+GECCO|genetic evolutionary computation companion material||2007|2007
+GECCO|genetic evolutionary computation companion publication|ACM|2010|2011
+GECCO|genetic evolutionary computation companion|ACM|2012|2017
+GECCO|genetic evolutionary computation volume||2005|2005
+GECCO|genetic evolutionary computation|ACM|2003|2025
+GECOIN|generative code intelligence co located european artificial intelligence||2025|2025
+GECON|economics grids clouds systems services revised selected papers||2012|2012
+GECON|economics grids clouds systems services|Springer|2010|2025
+GECON|german education|IEEE|2022|2025
+GECON|grid economics business models||2004|2009
+GECOST|green energy computing sustainable technology|IEEE|2021|2025
+GECO|jcco joint ict education training computing arabic geocomputing jcco ticet icca|IEEE|2018|2018
+GECS|green energy conversion systems|IEEE|2017|2017
+GEC|global energy|IEEE|2022|2024
+GEC|world summit genetic evolutionary computation summit sigevo summit genetic evolutionary computation||2009|2009
+GEDC|ifees world engineering education forum global engineering deans council convergence better world call action weef|IEEE|2023|2023
+GEDC|ifees world engineering education forum global engineering deans council weef|IEEE|2020|2022
+GEDC|weef world engineering education forum global engineering deans council conjunction ksee engineering education we need|IEEE|2025|2025
+GEDC|world engineering education forum global engineering deans council weef|IEEE|2018|2024
+GEDMAR|geotechnical engineering disaster mitigation rehabilitation gedmar08||2008|2008
+GEDMAR|geotechnics catastrophic flooding events geotechnical engineering disaster mitigation rehabilation||2015|2015
+GEESD|fifth green energy environment sustainable development|SPIE|2024|2024
+GEESD|green energy environment sustainable development||2021|2023
+GEESD|sixth green energy environment sustainable development|SPIE|2025|2025
+GEE|geotechnical engineering education charting path toward future||2025|2025
+GEE|geotechnical engineering education||2020|2020
+GEFS|genetic evolutionary fuzzy systems series computational intelligence||2013|2013
+GEFS|genetic evolutionary fuzzy systems||2010|2010
+GEICSE|gender equality diversity inclusion software engineering|IEEE|2022|2025
+GEICSE|gender equity diversity inclusion software engineering|IEEE|2023|2023
+GELOCOR|meeting lorentzian geometry|Springer|2022|2022
+GELOMA|meeting lorentzian geometry|Springer|2017|2017
+GELOMER|meeting lorentzian geometry|Springer|2025|2025
+GEL|ai ai support guided experiential learning co located artificial intelligence education||2023|2023
+GEMCCON|global electromagnetic compatibility|IEEE|2015|2023
+GEMIC|german microwave digest papers||2010|2010
+GEMIC|german microwave|IEEE|2008|2026
+GEM|addendum material selection guidelines geothermal energy utilization systems part geothermal engineering materials program||1983|1983
+GEM|games entertainment media|IEEE|2015|2022
+GEM|games media entertainment|IEEE|2015|2015
+GEM|gaming entertainment media|IEEE|2023|2025
+GEM|genetic evolutionary methods||2008|2008
+GEM|geoscience energy materials i|IOP|2020|2020
+GEM|natural language generation evaluation metrics||2021|2022
+GENAH|geodesy earthquake natural hazards|Springer|2017|2017
+GENAIDETECT|genai content detection computational linguistics||2025|2025
+GENAIK|generative ai knowledge graphs||2025|2025
+GENAI|is t electronic imaging generative ai||2026|2026
+GENBENCH|generalisation nlp||2023|2024
+GENCON|smart generation computing communication networking smart|IEEE|2021|2023
+GENEA|generation evaluation non verbal behaviour embodied agents co located mm|ACM|2025|2025
+GENEME|communities new media inclusive digital forming community open way self determined participation digital transformation||2023|2023
+GENEME|communities new media virtual enterprises research communities social media networks gemeinschaften neuen medien||2012|2012
+GENEME|gemeinschaften neuen medien||2006|2014
+GENEME|knowledge communities online education visual knowledge management as part||2016|2016
+GENEME|online communities enterprise networks open education global communication gemeinschaften neuen medien unternehmensnetzwerke forschungsgemeinschaften und globale kommunikation||2013|2013
+GENEME|online communities technologies analyses networks industry research education gemeinschaften neuen medien virtual enterprises research communities social media networks||2014|2014
+GENEME|virtual organization new media communities new media virtuelle organisation und neue medien gemeinschaften neuen medien||2005|2005
+GENEME|wissensgemeinschaften wirtschaft wissenschaft und offentlicher verwaltung gemeinschaften neuen medien||2017|2017
+GENERAL|generative explainable reasonable artificial learning co located biannual italian sigchi chapter||2023|2023
+GENERATION|specialists meeting coal fired mhd power preprints papers||1982|1982
+GENES3|global environment nuclear energy systems centennial memorial hall|Elsevier|2000|2000
+GENSIPS|genomic signal processing statistics||2006|2013
+GEN|second exhibition power generation industries power||1989|1989
+GEOADVANCES|geoinformation advances|Springer|2013|2026
+GEOADVANCES|joint geospatial asia europe||2022|2022
+GEOADVANCES|philgeos x geomatics data science towards adaptive management changing world||2019|2019
+GEOAFRICA|african regional geosynthetics geosynthetics sustainable infrastructures mega projects|EDP|2023|2023
+GEOAI|ai deep learning geographic knowledge discovery|ACM|2017|2017
+GEOAI|sigspatial ai geographic knowledge discovery|ACM|2018|2025
+GEOAMERICAS|pan american geosynthetics|EDP|2024|2024
+GEOANOMALIES|sigspatial geospatial anomaly detection|ACM|2024|2025
+GEOBAIKAL|exploration field development east siberia||2014|2014
+GEOBAIKAL|from east siberia pacific geology exploration development||2016|2016
+GEOBENCH|evaluation benchmarking sensors systems geospatial data photogrammetry remote sensing||2023|2025
+GEOCHEMISTRY|advances organic meeting organic||1986|1986
+GEOCHINA|civil transportation infrastructures from engineering smart green life cycle solutions|Springer|2021|2021
+GEOCONGRESS|geotechnical engineering information technology age||2006|2006
+GEOCONGRESS|session geosustainability geohazard mitigation gsp||2008|2008
+GEOCONGRESS|sessions characterization monitoring modeling geosystems gsp||2008|2008
+GEOCONGRESS|sessions geotechnics waste management remediation gsp||2008|2008
+GEOCONGRESS|stability performance slopes embankments iii congress||2013|2013
+GEOCONGRESS|state art practice geotechnical engineering||2012|2012
+GEOCROWD|sigspatial crowdsourced volunteered geographic information|ACM|2012|2013
+GEODENVER|advances grouting ground modification||2000|2000
+GEODENVER|asce meeting pavement subgrade unbound materials nondestructive testing||2000|2000
+GEODENVER|congress advances transportation geoenvironmental systems using geosynthetics||2000|2000
+GEODENVER|educational issues geotechncial engineering||2000|2000
+GEODENVER|environmetal geotechnics||2000|2000
+GEODENVER|new technological design developments deep foundations||2000|2000
+GEODENVER|numerical methods geotechnical engineering||2000|2000
+GEODENVER|specialty geotechnical measurements lab field||2000|2000
+GEODENVER|unsaturated soils sessions advances ultrasound geotechnical||2000|2000
+GEODENVER|use geophysical methods construction||2000|2000
+GEOED|sigspatial geo computational thinking education|ACM|2019|2019
+GEOEXT|fourth geographic information extraction from texts co located european information retrieval||2026|2026
+GEOEXT|geographic information extraction from texts co located european information retrieval||2023|2025
+GEOFLORIDA|advances analysis modeling design||2010|2010
+GEOGE|geology energy oil gas exploration|Springer|2026|2026
+GEOHCC|sigspatial human centered geospatial computing|ACM|2025|2025
+GEOHEALTH|sigspatial geospatial computing public health|ACM|2025|2025
+GEOINDUSTRY|sigspatial spatial big data ai industrial applications|ACM|2023|2025
+GEOINDUSTRY|spatial big data ai industrial applications conjunction advances geographic information systems|ACM|2022|2022
+GEOINFO|3d 3d||2021|2021
+GEOINFO|brazilian geoinformatics final program||2007|2007
+GEOINFO|brazilian geoinformatics||2005|2025
+GEOKG|sigspatial geospatial knowledge graphs|ACM|2022|2022
+GEOLD|geospatial linked data co located extended semantic web||2021|2024
+GEOLOGY|prospecting evaluation non metallic rocks minerals papers presented extractive industry||1983|1983
+GEOMANDU|series nepal geotechnical society|Springer|2025|2025
+GEOMEAST|congress exhibition sustainable civil infrastructures|Springer|2020|2020
+GEOMEDIA|geometric deep learning medical image analysis||2022|2022
+GEOMETRIAS|thinking drawing modelling|Springer|2020|2020
+GEOMET|ausimm geometallurgy||2011|2011
+GEOME|geosciences environmental management|Springer|2026|2026
+GEOME|scientific geosciences environmental management||2026|2026
+GEOMM|geotagging its applications multimedia co located multimedia||2012|2013
+GEOMM|geotagging its applications multimedia mm|ACM|2014|2014
+GEOMODEL|oil gas geological exploration development||2019|2019
+GEOMODEL|science applied research oil gas geological exploration development||2014|2014
+GEOPRAC|national geopractices sustainable infrastructure|Springer|2025|2025
+GEOPRIVACY|sigspatial data utility smart societies|ACM|2023|2023
+GEOPRIVACY|sigspatial geo privacy data utility smart societies|ACM|2024|2024
+GEOPRIVACY|sigspatial privacy geographic information collection analysis|ACM|2015|2015
+GEOPRONH|iv national scientific foreign participants geodynamical processes natural hazards||2021|2021
+GEORICH|managing mining enriched geo spatial data conjunction|ACM|2014|2018
+GEORICH|sigmod managing mining enriched geo spatial data|ACM|2020|2020
+GEORISK|geotechnical risk assessment management||2011|2011
+GEOSAT|edition congress geomatics service land use planning|EDP|2025|2025
+GEOSEARCH|sigspatial searching mining large collections geospatial data|ACM|2021|2025
+GEOSHANGHAI|deep underground excavations sessions||2010|2010
+GEOSHANGHAI|foundation analysis design innovative methods sessions||2006|2006
+GEOSHANGHAI|ground improvement geosynthetics sessions||2010|2010
+GEOSHANGHAI|underground construction ground movement sessions||2006|2006
+GEOSIM|sigspatial geospatial simulation|ACM|2018|2024
+GEOSKILL|century training education||2013|2013
+GEOSKILL|challenges training developing e p professionals century||2010|2010
+GEOSS|xl managing drought through earth observation||2011|2011
+GEOSS|xlii oceans toward global ocean observations||2011|2011
+GEOSUPPORT|drilled shafts micropiling deep mixing remedial methods speciality foundation systems sessions geo support innovation cooperation geo industry||2004|2004
+GEOSYM|geometry symmetry|Springer|2018|2018
+GEOS|geospatial semantics first||2005|2005
+GEOS|geospatial semantics second||2007|2007
+GEOS|geospatial semantics third||2009|2009
+GEOS|geospatial semantics||2011|2011
+GEOTECH|eage eage distributed fibre optic sensing||2024|2024
+GEOTECH|eage eage induced seismicity||2021|2021
+GEOTECH|eage eage practical reservoir monitoring||2024|2024
+GEOTECH|geotechnology mining rational use natural resources|EDP|2024|2025
+GEOTECH|tunnelling soil rock two sessions||1984|1984
+GEOTEC|geotechnics sustainable infrastructure development|Springer|2024|2024
+GEOTERRACE|young professionals||2020|2025
+GEOTROPIKA|geotechnical engineering tropical regions highway transportation engineering|IOP|2019|2019
+GEOTROPIKA|geotechnical engineering tropical regions|Springer|2025|2025
+GEOVISIONS|geospatial technologies visions horizons||2026|2026
+GEOWEEK|joint fig commission fig ladm 3d la un habitat stdm geoinformation week|Springer|2025|2025
+GEOWILDLIFE|sigspatial ai driven spatio temporal data analysis wildlife conservation|ACM|2023|2023
+GEOWS|advanced geographic information systems web services||2009|2009
+GEPESZET|mechanical engineering part||1998|1998
+GEPESZET|proceedongs mechanical engineering part||1998|1998
+GERMEVAL|shared task shared task statement segmentation german easy language co hosted natural language processing||2024|2024
+GESD|green energy sustainable development|EDP|2019|2024
+GESF|global environmental science forum sustainable development industrial region|EDP|2025|2025
+GESS|green energy smart systems|IEEE|2024|2025
+GET|eage global energy transition exhibition||2023|2025
+GET|eage global energy transition||2022|2022
+GET|geoscience engineering energy transition||2020|2021
+GET|ic online green engineering technologies|IEEE|2015|2015
+GET|interfaces human computer interaction ihci game entertainment technologies computer graphics visualization computer vision image processing||2024|2024
+GET|online green engineering technologies ic|IEEE|2016|2016
+GFAC|geotechnics fundamentals applications construction new materials structures technologies calculations||2019|2019
+GFKI|data analysis machine learning applications gesellschaft fur klassifikation e v||2008|2008
+GFKL|advances data analysis data handling business intelligence gesellschaft fur klassifikation e v joint british classification society dutch flemish classification society||2010|2010
+GFKL|advances data analysis gesellschaft fur klassifikation e v||2007|2007
+GFKL|challenges interface data analysis computer science optimization gesellschaft fur klassifikation e v||2012|2012
+GFKL|classification as tool research ifcs biennial gesellschaft fur klassifikation e v||2010|2010
+GFKL|classification ubiquitous challenge gesellschaft fur klassifikation e v||2005|2005
+GFKL|german classification society||2014|2014
+GFPS|global fluid power society phd|IEEE|2018|2018
+GFPS|global fluid power society|Springer|2025|2025
+GFP|group iv photonics|IEEE|2006|2021
+GFSISD|global forum space information sustainable development|Springer|2025|2025
+GFS|acoustics fluid mechanics engineering green s function seminar afme|IOP|2023|2023
+GFTA|geometric function theory applications|IOP|2020|2020
+GGHS|association geodesy gravity geoid height systems|Springer|2014|2019
+GGHS|gravity geoid height systems|Springer|2026|2026
+GGSSH|going global through social sciences humanities|Springer|2019|2019
+GGTM|mediterranean institute mathematical sciences mims geometry topology grouping maghreb|Springer|2014|2014
+GGT|geomatics geospatial technology|IOP|2019|2023
+GHCI|grace hopper celebration india|IEEE|2019|2021
+GHCRRM|scientific problems geomechanics highly compressed rock rock massifs|EDP|2019|2019
+GHGT|greenhouse gas control technologies||2018|2021
+GHS|geotechnics hydraulic structure|Springer|2025|2025
+GHTCE|global high tech congress electronics||2012|2013
+GHTC|global humanitarian technology technology benefit humanity|IEEE|2016|2016
+GHTC|global humanitarian technology|IEEE|2011|2025
+GHT|scientific technical gas hydrate technologies global trends challenges horizons|EDP|2020|2020
+GIBSE|green software engineering green software engineering||2013|2013
+GICAM|gulf applied mathematics|Springer|2014|2014
+GIC|consumer electronic society games innovation ice||2010|2010
+GIC|consumer electronic society s games innovation ice||2009|2009
+GIECS|summit global internet things edge computing|Springer|2025|2026
+GIEST|green industrial electronics sustainable technologies|IEEE|2024|2025
+GIET|next generation green information emerging technologies|IEEE|2025|2025
+GIE|renewable energies power systems green inclusive economy reps|IEEE|2018|2018
+GIFT|group interaction frontiers technology|ACM|2018|2018
+GIIC|eighth global intelligent industry|SPIE|2025|2025
+GIIC|seventh global intelligent industry|SPIE|2024|2024
+GIIS|global information infrastructure closing digital divide||2007|2007
+GIIS|global information infrastructure networking|IEEE|2012|2025
+GIIS|global information infrastructure||2009|2013
+GIKA|global innovation knowledge academy|Springer|2015|2015
+GIMAC|global islamic marketing|Springer|2023|2024
+GINOTECH|global emerging technology|IEEE|2025|2025
+GIOBECOM|global telecdmmunicahons volume||2005|2005
+GIOTS|global internet things summit|IEEE|2017|2020
+GIOTS|global iot summit|IEEE|2019|2022
+GIRST|geographic information remote sensing technology|IEEE|2023|2025
+GIRST|second geographic information remote sensing technology|SPIE|2023|2023
+GIRST|third geographic information remote sensing technology|SPIE|2025|2025
+GIR|geographic information retrieval co located information knowledge management||2005|2008
+GIR|geographic information retrieval|ACM|2010|2019
+GIR|geographical information retrieval co located information knowledge management||2007|2007
+GISCA|scientific gis central asia geoinformatics gi designing geospatial ecosystem|EDP|2023|2023
+GISCIENCE|agent based models complexity science held as part geographic information science|Springer|2018|2018
+GISCIENCE|geographic information science|Springer|2002|2025
+GISTAM|geographical information systems theory applications management|Springer|2015|2025
+GIS|advances geographic information systems sigspatial|ACM|2020|2020
+GIS|advances geographic information systems|ACM|1999|2007
+GIS|eleventh advances geographic information systems||2003|2003
+GIS|em sigspatial security response using|ACM|2023|2023
+GIS|geographic information systems||2005|2015
+GIS|information fusion geographic information systems if||2007|2009
+GIS|information fusion geographic information systems towards digital ocean if||2011|2011
+GIS|information fusion geographical information systems if|Springer|2014|2014
+GIS|national application|IOP|2025|2025
+GIS|ninth advances geographic information systems||2001|2001
+GIS|sigspatial advances geographic information systems sigspatial|ACM|2009|2023
+GIS|sigspatial advances geographic information systems||2008|2008
+GIS|sigspatial emergency management using em|ACM|2020|2021
+GIS|sigspatial safety resilience em|ACM|2018|2018
+GIS|sigspatial security privacy lbs||2008|2008
+GIS|sigspatial use emergency management em|ACM|2015|2019
+GIS|society petroleum engineers gas industry||1970|1970
+GIS|twelfth advances geographic information systems||2004|2004
+GIS|use great lakes air toxics emissions inventory data geographic information systems risk screening||1997|1997
+GITCON|global information technology communication networks|IEEE|2025|2025
+GITSS|green intelligent transportation system safety|Springer|2026|2026
+GITSS|green intelligent transportation systems safety|Springer|2024|2024
+GITT|gender inclusive translation technologies||2023|2024
+GIWRM|geomatics integrated water resources management||2012|2012
+GJS|german japanese seminar|Elsevier|2000|2000
+GKR|graph structures knowledge representation reasoning second revised selected papers||2012|2012
+GKR|graph structures knowledge representation reasoning third revised selected papers|Springer|2014|2014
+GKR|graph structures knowledge representation reasoning|Springer|2015|2021
+GKS|colloquium man machine interface using new graphical kernel systems||1983|1983
+GLBC|great lakes biomedical|IEEE|2015|2017
+GLC|global lifi congress|IEEE|2018|2019
+GLEX|ai impact autonomy space exploration held global space exploration||2025|2025
+GLEX|cooperation challenges new horizons held global space exploration||2025|2025
+GLEX|empowering next generation space explorers held global space exploration||2025|2025
+GLEX|ground based preparatory activities held global space exploration||2025|2025
+GLEX|lunar mars near earth asteroids deep space exploration held global space exploration||2025|2025
+GLEX|microgravity science experiments held global space exploration||2025|2025
+GLEX|navigation guidance control deep space missions held global space exploration||2025|2025
+GLEX|space bioastronautics space medicine life support systems held global space exploration||2025|2025
+GLEX|space finance investment insurance held global space exploration||2025|2025
+GLEX|space policy sustainability legal aspects held global space exploration||2025|2025
+GLEX|space resources utilisation space economy held global space exploration||2025|2025
+GLEX|space stations challenges held global space exploration||2025|2025
+GLEX|space vehicles exploration propulsion deep space held global space exploration||2025|2025
+GLEX|sustainable space logistics key technologies held global space exploration||2025|2025
+GLEX|system engineering long term space trav held global space exploration||2025|2025
+GLMI|graph learning medical imaging held conjunction medical image computing computer assisted intervention|Springer|2019|2019
+GLOBALDSL|globalization domain specific languages||2013|2013
+GLOBALSIP|global signal information processing|IEEE|2013|2019
+GLOBAL|advanced nuclear fuel cycles systems||2007|2007
+GLOBAL|nuclear cycle top light water reactor performance||2020|2020
+GLOBAL|nuclear fuel cycle nuclear energy crossroads||2013|2013
+GLOBCONET|ias global emerging technologies|IEEE|2022|2023
+GLOBCONHT|ias global renewable energy hydrogen technologies|IEEE|2023|2023
+GLOBCONPT|global computing power communication technologies|IEEE|2022|2022
+GLOBECOM|bridge global integration|IEEE|1991|1998
+GLOBECOM|communication global users global telecommunications|IEEE|1992|1992
+GLOBECOM|global communications part||1994|1994
+GLOBECOM|global communications|IEEE|2012|2025
+GLOBECOM|global telecommunications communications broadening technology horizons record||1986|1986
+GLOBECOM|global telecommunications countdown new millennium|IEEE|1991|1991
+GLOBECOM|global telecommunications exhibition global telecommunications exhibition part global telecommunications exhibition part||1989|1989
+GLOBECOM|global telecommunications exhibition||1990|1990
+GLOBECOM|global telecommunications part||1994|1995
+GLOBECOM|global telecommunications record||1985|1985
+GLOBECOM|global telecommunications volume i||2004|2004
+GLOBECOM|global telecommunications volume three||2003|2003
+GLOBECOM|global telecommunications volume|IEEE|2003|2005
+GLOBECOM|global telecommunications workshops||2004|2004
+GLOBECOM|global telecommunications||1991|2011
+GLOBECOM|global telecommunication|IEEE|1998|1998
+GLOBECOM|ieice global telecommunications||1988|1988
+GLOBECOM|record global telecommunications world communications year time planning||1983|1983
+GLOBECOM|record global telecommunications||1982|1982
+GLOCAL|global council anthropological linguistics asia||2019|2020
+GLOC|iaf global space climate change||2023|2023
+GLOSIC|global smart industry|IEEE|2018|2020
+GLOW|generalizing from limited resources open world held conjunction joint artificial intelligence|Springer|2024|2025
+GLOW|ict as key technology against global warming second ict||2012|2012
+GLOW|information communication technology fight against global warming first ict||2011|2011
+GLRC|global leadership research|Springer|2025|2025
+GLSBIA|global summit life sciences bio innovation from agriculture biomedicine|EDP|2024|2024
+GLSVLSI|great lakes vlsi|ACM|2002|2020
+GLSVLSI|great lakes|ACM|2010|2025
+GLSVLSI|vlsi nanometer era great lakes vlsi||2004|2004
+GLSV|great lakes vlsi|IEEE|1991|1991
+GMAC|grids meets autonomic computing co located||2010|2010
+GMAC|industry session grids meets autonomic computing||2009|2009
+GMAG|geometric modeling graphics|IEEE|2003|2003
+GMAI|geometric modelling imaging||2007|2007
+GMAX|games multimedia animation multiple realities|IEEE|2020|2020
+GMC|global mobile congress papers||2005|2006
+GMC|global mobile congress||2007|2011
+GMDS|deutsche gesellschaft fur medizinische informatik biometrie und epidemiologie e v||2023|2023
+GMDS|digitale medizin erkennen verstehen heilen jahrestagung tmf jahreskongress||2021|2021
+GMDS|german medical data sciences health thinking researching acting together meeting german association medical informatics biometry epidemiology||2024|2024
+GMDS|german medical data sciences learning healthcare system meeting german association medical informatics biometry epidemiology||2018|2018
+GMDS|german medical data sciences shaping change creative solutions innovative medicine meeting german association medical informatics biometry epidemiology||2019|2019
+GMDS|german society medical informatics biometry epidemiology deutsche gesellschaft fur medizinische informatik biometrie und epidemiologie e v||2024|2024
+GMEE|green materials environmental engineering|EDP|2014|2022
+GME|global multidisciplinary engineering s||2011|2011
+GMHPHCI|global mental health public health challenges innovation|Springer|2025|2025
+GMLD|graphical modeling language development conjunction european modelling foundations applications||2013|2013
+GMM|vde vdi society microelectronics microsystems precision engineering vde vdi gesellschaft mikroelektronik mikro und feinwerktechnik||2005|2005
+GMP|advances geometric modeling processing||2008|2010
+GMP|geometric modeling processing theory applications|IEEE|2002|2002
+GMP|geometric modeling processing|Springer|2006|2006
+GMR|icmb mobile business global mobility roundtable||2010|2010
+GMSAC|griffiths school management it business entrepreneurship ethics|Springer|2019|2019
+GMSYS|green multimedia systems part|ACM|2023|2024
+GMS|medizinische informatik biometrie und epidemiologie||2019|2019
+GMTT|g mtt microwave|IEEE|1969|1969
+GMW|grid monitoring||2007|2007
+GNB|congress national group bioengineering||2025|2025
+GNB|national congress bioengineering||2020|2023
+GNC|aiaa guidance navigation control||2013|2013
+GNNET|graph neural networking co located|ACM|2024|2024
+GNNET|graph neural networking part|ACM|2022|2022
+GNNET|graph neural networking|ACM|2023|2023
+GNN|graphene novel nanomaterials|IOP|2021|2022
+GNSS|enc european navigation||2008|2008
+GNSS|icl localization seamless indoor outdoor localization|IEEE|2018|2018
+GNSS|icl localization wip co located localization||2022|2022
+GNSS|institute navigation technical meeting satellite division ion||2006|2006
+GNSS|localization icl|IEEE|2011|2025
+GNSS|technical meeting satellite division institute navigation ion||2004|2017
+GOCICT|global online information computer technology|IEEE|2014|2016
+GOCI|geostationary ocean color imager technical development operation applications||2010|2010
+GOESMART|ict smart society smart system platform development city society|IEEE|2014|2014
+GOLC|global online laboratory consortium remote laboratories||2011|2011
+GOLDEN|age cataclysmic variables related objects||2021|2024
+GOL|logistics operations management|IEEE|2014|2024
+GONG|eclipse coral sea cycle ascending|IOP|2013|2013
+GOODIT|information technology social good|ACM|2021|2025
+GOODTECHS|eai smart objects technologies social goods|Springer|2023|2024
+GOODTECHS|eai smart objects technologies social good|Springer|2017|2025
+GOODTECHS|smart objects technologies social good|Springer|2018|2018
+GOOD|phd posters demos web more inclusive sustainable prosperous societies web ai web data analytics form web information systems engineering|Springer|2025|2025
+GOTAL|advance natural language processing||2008|2008
+GOTECH|society petroleum engineers||2025|2025
+GOTS|society petroleum engineers gas oil technology showcase||2023|2023
+GOTS|society petroleum engineers spe gas oil technology showcase||2019|2019
+GPA|gas processors association midstream convention||2023|2023
+GPCE|generative programming component engineering|Springer|2003|2012
+GPCE|generative programming concepts experiences|ACM|2014|2014
+GPCE|int conf generative programming component eng co located int conf object oriented programm syst languages applic||2006|2006
+GPCE|sigplan generative programming component engineering||2008|2009
+GPCE|sigplan generative programming concepts experiences co located|ACM|2016|2024
+GPCE|sigplan generative programming concepts experiences|ACM|2015|2025
+GPCE|sigplan sigsoft generative programming component engineering|Springer|2002|2002
+GPCE|sixth generative programming component engineering||2007|2007
+GPCE|splash indianapolis generative programming concepts experiences||2013|2013
+GPC|advances grid pervasive computing first|Springer|2006|2006
+GPC|advances grid pervasive computing second||2007|2007
+GPC|advances grid pervasive computing third||2008|2008
+GPC|advances grid pervasive computing||2009|2012
+GPC|glass problems collection papers presented glass problems||2014|2014
+GPC|glass problems||2016|2017
+GPC|global powertrain congress chicago||2008|2008
+GPC|global powertrain congress held automotive body congress||2013|2013
+GPC|global powertrain congress munich held munich||2011|2011
+GPC|global powertrain congress munich papers||2010|2010
+GPC|global powertrain congress troy held troy||2011|2011
+GPC|global powertrain congress troy||2009|2010
+GPC|green pervasive cloud computing|Springer|2016|2026
+GPC|grid pervasive computing colocated workshops||2013|2013
+GPC|grid pervasive computing symposia workshops||2008|2008
+GPC|grid pervasive computing workshops workshops s3e hwts doctoral colloquium held conjunction revised selected papers||2012|2012
+GPC|workshops grid pervasive computing||2009|2009
+GPECOM|global power energy communication|IEEE|2019|2025
+GPEC|global plastics environmental creating sustainability environment||2005|2005
+GPEC|global plastics environmental environmental innovation plastics recycling sustainability||2007|2007
+GPEC|global plastics environmental plastics helping grow greener environment||2004|2004
+GPEC|society plastics engineers global plastics environmental creating sustainability environment||2006|2006
+GPEC|society plastics engineers global plastics environmental||2009|2011
+GPGPU|general purpose gpus|ACM|2017|2017
+GPGPU|general purpose processing using gpus|ACM|2016|2019
+GPGPU|general purpose processing using gpu|ACM|2020|2025
+GPGPU|general purpose processing using graphics processing units|ACM|2014|2014
+GPGPU|general purpose processor using graphics processing units|ACM|2013|2013
+GPMC|gridding polytope based modeling control|IEEE|2019|2020
+GPMMTA|green power materials manufacturing technology applications gpmmta2011||2011|2011
+GPMMTA|green power materials manufacturing technology applications|IOP|2012|2019
+GPPEPDES|italian japanese geometric properties parabolic elliptic pde s|Springer|2016|2016
+GPR|ground penetrating radar|IEEE|2000|2018
+GPR|internarional ground penetrating radar||2010|2010
+GPR|tenth ground penetrating radar volume ii||2004|2004
+GPR|tenth ground penetrating radar volume i||2004|2004
+GPS|technical meeting satellite division institute navigation ion part||1996|1997
+GPT|molecular beam epitaxy growth physics technology|Elsevier|1995|1995
+GPT|molecular beam expitaxy growth physics technology mbe|Elsevier|1997|1997
+GRADES|graph data management experiences systems co located sigmod|ACM|2013|2017
+GRADIFAB|eurographics graphics digital fabrication||2016|2016
+GRAIL|graphs biomedical image analysis integrating medical imaging non imaging modalities beyond held conjunction medical imaging computer assisted intervention|Springer|2018|2018
+GRAIL|graphs biomedical image analysis mathematical foundations computational anatomy imaging genetics held conjunction medical image computing computer assisted intervention|Springer|2017|2017
+GRAIL|graphs biomedical image analysis satellite event cell detection from cell tissue interaction challenge held conjunction medical image computing computer assisted intervention|Springer|2024|2024
+GRAIL|graphs biomedical image analysis|Springer|2025|2025
+GRAMSEC|graphical models security|Springer|2016|2020
+GRAM|geometry grounded representation learning generative modeling||2024|2024
+GRANDGAMESBR|forum grand research challenges games entertainment computing brazil forum grand research challenges games entertainment computing brazil|Springer|2023|2023
+GRAPHICON|computer graphics machine vision||2020|2020
+GRAPHICON|computer graphics vision||2005|2021
+GRAPHICS|fifth exposition national computer association computer||1984|1984
+GRAPHICS|sixth exposition national computer association computer||1985|1985
+GRAPHITE|computer graphics interactive techniques australasia south east asia||2003|2004
+GRAPHITE|computer graphics interactive techniques australasia southeast asia||2005|2007
+GRAPH|technologies humanities||2022|2022
+GRAPP|computer graphics theory applications information visualization theory applications||2012|2013
+GRAPP|computer graphics theory applications visigrapp|SciTePress|2015|2015
+GRAPP|computer graphics theory applications|SciTePress|2006|2014
+GRAPP|computer graphics theoryand applications||2008|2008
+GRAVISMA|computer graphics computer vision mathematics||2009|2010
+GRBM|global retail brand management|Springer|2025|2025
+GRCIS|governance risk compliance applications information systems held conjunction||2008|2008
+GRCIS|governance risk compliance held conjunction||2009|2009
+GRC|geothermal green energy long run geothermal resources council meeting||2019|2019
+GRC|geothermal resources council meeting geothermal reliable renewable global||2012|2012
+GRC|geothermal resources council meeting global resource from larderello las vegas||2013|2013
+GRC|geothermal resources council transactions meeting geothermal resources securing our energy future||2006|2006
+GRC|geothermal resources council transactions meeting||2005|2005
+GRC|geothermal resources council virtual meeting expo clean renewable always||2020|2020
+GRC|geothermal rising using earth save earth||2025|2025
+GRC|granular computing|IEEE|2007|2014
+GRC|using earth save earth geothermal rising||2021|2021
+GREC|graphics recognition achievements challenges evolution selected papers||2010|2010
+GREC|graphics recognition new trends challenges revised selected papers||2013|2013
+GREC|graphics recognition recent advances new opportunities selected papers||2008|2008
+GREC|graphics recognition ten years review future perspectives revised selected papers|Springer|2006|2006
+GREC|graphics recognition|Springer|1998|2017
+GREC|iapr graphics recognition|Springer|2018|2018
+GREENCOM|congress cybermatics cybermatics internet things ithings green computing communications cyber physical social computing smart data|IEEE|2025|2025
+GREENCOM|congress cybermatics internet things ithings green computing communications cyber physical social computing smart data|IEEE|2020|2024
+GREENCOM|green computing communications cyber physical social computing||2010|2010
+GREENCOM|green computing communications||2011|2011
+GREENCOM|int conf green computing communications conf internet things ithings conf cyber physical social computing||2012|2012
+GREENCOM|internet things ithings green computing communications cyber physical social computing|IEEE|2014|2014
+GREENCOM|online green communications||2011|2012
+GREENENERGY|green energy intelligent transport systems clean energy transitions|EDP|2024|2024
+GREENENERGY|scientific green energy|EDP|2024|2024
+GREENETS|eai green energy networking|Springer|2019|2019
+GREENETS|green communications networking first revised selected papers||2012|2012
+GREENETS|green communications networking||2013|2013
+GREENETS|green energy networking|Springer|2020|2020
+GREENNETS|sigcomm green networking|ACM|2011|2011
+GREENSYS|systems methods sustainable large scale ai part|ACM|2026|2026
+GREENS|green sustainable software|IEEE|2012|2025
+GREENS|smart cities green ict systems smart vehicle technology intelligent transport systems|Springer|2023|2023
+GREENTECH|green technologies||2013|2026
+GREENVC|green technology value chains|IOP|2022|2022
+GREE|geni research educational experiment||2013|2014
+GRIBOV|memorial volume quantum chromodynamics beyond memorial devoted birthday v n||2011|2011
+GRIDNETS|networks grid applications second revised selected papers||2009|2009
+GRIDNETS|networks grid applications third icst revised selected papers||2010|2010
+GRIDNETS|networks grid applications|ACM|2007|2009
+GRID|computing third|Springer|2002|2002
+GRID|distributed computing technologies science education||2021|2021
+GRID|graphic engineering design||2020|2024
+GRMSD|academic geology resource management sustainable development||2015|2025
+GRMSE|geo informatics resource management sustainable ecosystem part ii|Springer|2013|2013
+GRMSE|geo informatics resource management sustainable ecosystem part i|Springer|2013|2013
+GRMSE|geo informatics resource management sustainable ecosystem|Springer|2015|2017
+GROUP|companion supporting work|ACM|2022|2022
+GROUP|physical mathematical aspects symmetry colloquium theoretical methods physics icgtmp|IOP|2011|2011
+GROUP|sigchi supporting work||2009|2009
+GROUP|siggroup supporting work|ACM|1997|2005
+GROUP|support work||2012|2012
+GROUP|supporting work||2007|2010
+GROWTH|american crystal seventh american crystal||1987|1987
+GROWTH|crystal seventh||1983|1983
+GRSM|fourth geoscience remote sensing mapping|SPIE|2023|2023
+GRSM|geoscience remote sensing mapping|IEEE|2023|2023
+GRSM|seventh geoscience remote sensing mapping|SPIE|2026|2026
+GRSM|sixth geoscience remote sensing mapping|SPIE|2025|2025
+GRS|education technology training geoscience remote sensing ett||2009|2009
+GRS|iita geoscience remote sensing iita||2010|2010
+GRVR|iasted graphics virtual reality||2011|2011
+GSAMCT|intelligent system applied materials control technology||2013|2013
+GSAM|intelligent system applied material||2014|2014
+GSCIT|global summit computer information technology|IEEE|2014|2016
+GSCL|german society computational linguistics language technology|Springer|2018|2018
+GSCL|language processing knowledge web||2013|2013
+GSC|global stone congress||2020|2020
+GSDEO|geospatial science digital earth observation|IOP|2023|2023
+GSEM|grid service engineering management co located net||2005|2006
+GSEM|grid service engineering management||2007|2007
+GSEM|grid services engineering management|Springer|2004|2004
+GSES|geo informatics sustainable ecosystem society|Springer|2019|2019
+GSES|geoinformatics sustainable ecosystem society geospatial artificial intelligence urban computing|Springer|2020|2020
+GSGS|national geo science geo structures|Springer|2022|2022
+GSIC|geoshanghai advances soil dynamics foundation engineering|Springer|2018|2018
+GSIC|geoshanghai fundamentals soil behaviours|Springer|2018|2018
+GSIC|geoshanghai geoenvironment geohazard|Springer|2018|2018
+GSIC|geoshanghai ground improvement geosynthetics|Springer|2018|2018
+GSIC|geoshanghai multi physics processes soil mechanics advances geotechnical testing|Springer|2018|2018
+GSIC|geoshanghai rock mechanics rock engineering|Springer|2018|2018
+GSIC|geoshanghai transportation geotechnics pavement engineering|Springer|2018|2018
+GSIC|geoshanghai tunnelling underground construction|Springer|2018|2018
+GSIS|grey systems intelligent services joint wosc congress cybernetics systems||2011|2011
+GSIS|grey systems intelligent services|IEEE|2007|2017
+GSI|geometric science information first||2013|2013
+GSI|geometric science information|Springer|2015|2026
+GSKI|geo spatial knowledge intelligence|Springer|2018|2018
+GSKI|thirteenth geo spatial knowledge intelligence|SPIE|2026|2026
+GSMAC|griffiths school management it business entrepreneurship ethics|Springer|2019|2024
+GSMM|global millimeter waves esa millimetre wave technology applications|IEEE|2016|2016
+GSMM|global millimeter waves terahertz|IEEE|2021|2024
+GSMM|global millimeter waves|IEEE|2008|2019
+GSN|geosensor networks second revised selected invited papers||2008|2008
+GSN|geosensor networks third||2009|2009
+GSP|asce geo institute specialty performance confirmation constructed geotechnical facilities performance confirmation constructed geotechnical facilities||2000|2000
+GSP|sessions geo denver advances unsaturated geotechnics||2000|2000
+GSP|sessions geo denver innovations applications geotechnical site characterization||2000|2000
+GSP|sessions geo denver numerical methods geotechnical engineering||2000|2000
+GSP|sessions geo denver pavement subgrade unbound materials nondestructive testing||2000|2000
+GSP|sessions geo denver soil cement other construction practices geotechnical engineering||2000|2000
+GST|computer applications security control system engineering sectech ca ces3 held conjunction||2012|2012
+GSW|isprs geospatial week||2023|2023
+GTC|gender technology|IEEE|2025|2025
+GTC|science m telescope||2003|2003
+GTDLA|pes generation transmission distribution latin america industrial exposition|IEEE|2024|2024
+GTD|pes exposition|IEEE|2023|2023
+GTEC|green technology environmental conservation||2011|2011
+GTEE|green technology energy engineering|EDP|2024|2024
+GTER|geo spatial technologies earth resources|Springer|2023|2023
+GTIP|governance technology information policies addressing challenges worldwide interconnectivity conjunction computer security applications||2010|2010
+GTIP|governance technology information policies||2011|2011
+GTPWS|society petroleum engineers gas technology peripheral waterflooding||1968|1968
+GTSCS|green technology smart city society|Springer|2021|2021
+GTSD|green technology sustainable development|IEEE|2016|2024
+GTSE|semat general theories software engineering|ACM|2014|2014
+GTSE|semat general theory software engineering|IEEE|2013|2015
+GTS|society petroleum engineers gas technology||1961|1968
+GTS|society petroleum engineers spe ceri gas technology||2000|2000
+GTS|society petroleum engineers spe gas technology||1978|1978
+GTS|society petroleum engineers spe natural gas technology||1972|1972
+GTS|spe ceri creating value extending our reach||2000|2000
+GTTSE|generative transformational techniques software engineering ii summer school revised papers||2008|2008
+GTTSE|generative transformational techniques software engineering iii summer school revised papers||2011|2011
+GTTSE|generative transformational techniques software engineering iv summer school revised papers||2013|2013
+GTTSE|generative transformational techniques software engineering summer school revised papers|Springer|2006|2006
+GTTSE|summer school generative transformational techniques software engineering|Springer|2011|2011
+GTTSE|summer school grand timely topics software engineering|Springer|2017|2017
+GUCON|computing power communication technologies|IEEE|2018|2021
+GUINEE|design spillways outlet works souapiti dam conception des ouvrages d evacuation des crues et de vidange du barrage de souapiti||1983|1983
+GUMI|gunma university medical innovation advanced micro device engineering||2018|2018
+GUT|green ubiquitous technology||2012|2012
+GVDB|gi foundations databases||2023|2023
+GVDB|gi grundlagen von datenbanken||2021|2024
+GVDB|grundlagen von datenbanken gi grundlagen von datenbanken||2025|2025
+GVD|foundations databases grundlagen von datenbanken||2010|2010
+GVD|gi foundations databases gi grundlagen von datenbanken||2011|2012
+GVE|iasted graphics visualization engineering||2007|2007
+GVSETS|ndia michigan chapter ground vehicle systems engineering technology||2024|2025
+GVS|convention microelectronics electronics electronic technology meet grid visualizations systems||2008|2008
+GVS|german vietnamese seminar physics engineering|Springer|2009|2009
+GWAI|german artificial intelligence|Springer|1981|1993
+GWC|global wordnet||2005|2025
+GWDAW|gravitational waves data analysis|IOP|2010|2010
+GWEM|german experience management sharing experiences about sharing experience||2002|2002
+GWS|global wireless summit|IEEE|2017|2018
+GWW|grid workflow||2011|2011

@@ -1,0 +1,477 @@
+O3A|optics arts architecture archaeology ix|SPIE|2023|2023
+OAA|optical amplifiers their applications||1992|2004
+OAA|optical amplifiers their application||1996|1996
+OAMAS|organized adaption multi agent systems first revised invited papers||2009|2009
+OASIS|foundations intrusion tolerant systems|IEEE|2003|2003
+OASIS|open challenges online social media held conjunction hypertext social media ht|ACM|2024|2024
+OASIS|open challenges online social networks held conjunction hypertext social media ht|ACM|2022|2023
+OASIS|open challenges online social networks|ACM|2021|2021
+OBCOM|global trends computing communication systems||2012|2012
+OBCOM|global trends information systems software applications|Springer|2012|2012
+OBD|open big data|IEEE|2016|2016
+OBIES|ki ontology based information extraction systems||2008|2008
+OBI|ontology supported business intelligence||2008|2008
+OBJECTDAYS|object oriented internet based technologies concepts applications networked world net|Springer|2004|2004
+OBPDC|object based parallel distributed computation|Springer|1996|1996
+OCBT|actual problems organic chemistry biotechnology scientific|IOP|2022|2022
+OCCBIO|ohio collaborative bioinformatics||2009|2009
+OCCE|ifip tc open computers education|Springer|2020|2022
+OCCE|ifip tc3 open computers education|Springer|2019|2019
+OCC|occ85 offshore computers||1985|1985
+OCC|society petroleum engineers spe oilfield chemistry||2021|2025
+OCEANS|applications ferroelectrics isaf||2007|2007
+OCEANS|bremen balancing technology future needs||2009|2009
+OCEANS|effective use sea update||1983|1983
+OCEANS|engineering ocean environment record|IEEE|1971|1971
+OCEANS|engineering ocean environment|IEEE|1970|1970
+OCEANS|exposition record industry government education designs future||1984|1984
+OCEANS|great lakes|IEEE|2025|2025
+OCEANS|hampton roads|IEEE|2022|2022
+OCEANS|limerick limerick|IEEE|2023|2023
+OCEANS|mastering through technology|IEEE|1992|1992
+OCEANS|mts bergen challenges northern dimension||2013|2013
+OCEANS|mts biloxi marine technology our future global local challenges||2009|2009
+OCEANS|mts charleston|IEEE|2018|2018
+OCEANS|mts genova discovering sustainable ocean energy new world|IEEE|2015|2015
+OCEANS|mts harnessing power ocean||2012|2012
+OCEANS|mts kona program book||2011|2011
+OCEANS|mts monterey|IEEE|2016|2016
+OCEANS|mts san diego ocean common||2013|2013
+OCEANS|mts seattle|IEEE|2010|2019
+OCEANS|mts u s gulf coast|IEEE|2023|2023
+OCEANS|mts washington|IEEE|2015|2015
+OCEANS|ocean workplace||1987|1987
+OCEANS|program book mts yeosu living ocean coast diversity resources sustainable activities||2012|2012
+OCEANS|record industry government education partners progress||1982|1982
+OCEANS|recored ocean engineering 80s|IEEE|1980|1980
+OCEANS|san diego porto|IEEE|2021|2021
+OCEANS|st john s|IEEE|2015|2015
+OCEAN|engineering environment|IEEE|1973|1973
+OCERTO|indam optimal control evolutionary pdes related topics|Springer|2017|2017
+OCIT|information technology|IEEE|2023|2023
+OCIT|oits information technology|IEEE|2021|2025
+OCL|textual modeling co located model driven engineering languages systems||2019|2019
+OCL|textual modelling being part model driven engineering languages systems||2012|2012
+OCMC|interconnection network architecture chip multi chip ima||2013|2013
+OCMC|interconnection network architecture chip multi chip ina conjunction hipeac||2011|2011
+OCMC|interconnection network architecture chip multi chip ina||2012|2014
+OCMC|interconnection network architectures chip multi chip ina|IEEE|2015|2015
+OCM|optical characterization materials||2019|2025
+OCOIP|second optical communication optical information processing|SPIE|2025|2025
+OCOIP|third optical communication optical information processing|SPIE|2025|2025
+OCOT|optical communication optoelectronic technology|SPIE|2024|2024
+OCOT|second optical communication optoelectronic technology|SPIE|2025|2025
+OCR|society petroleum engineers spe oklahoma city regional meeting||1975|1997
+OCSA|optoelectronics computer science algorithms|SPIE|2026|2026
+OCSC|online communities social computing held as part hci||2011|2013
+OCSC|online communities social computing held as part human computer interaction hci|Springer|2011|2011
+OCSC|online communities social computing second held as part hci||2007|2007
+OCSC|online communities social computing third held as part hci||2009|2009
+OCSN|iasted optical communication systems networks as part fifth iasted multi wireless optical communications||2005|2005
+OCSPOE|optical communication signal processing optical engineering|SPIE|2025|2026
+OCS|foundations computer science||2004|2004
+OCS|open cirrus summit||2012|2012
+OCS|optical complex systems ocs11||2011|2011
+OCTA|multi organization knowledge advanced technologies|IEEE|2020|2020
+OCT|optical coherence tomography optica biophotonics congress biomedical optics translational microscopy ots brain part optica biophotonics congress biomedical optics||2024|2024
+OCT|optical coherence tomography||2022|2022
+ODBASE|move meaningful internet systems coopis doa confederated coopis doa||2002|2002
+ODBASE|move meaningful internet systems coopis doa gada otm confederated coopis doa gada|Springer|2006|2006
+ODBASE|move meaningful internet systems coopis doa otm confederated coopis doa||2005|2005
+ODBIS|databases information systems first second vldb workshops trondheim norway september seoul korea september revised papers||2007|2007
+ODBIS|semantic web ontologies databases vldbworkshop swdb revised selected papers||2008|2008
+ODD|sigkdd outlier detection description||2013|2013
+ODES|optimizations dsp embedded systems conjunction code generation optimization|ACM|2013|2014
+ODF|optics photonics design fabrication imaging sensing optical memory optics photonics design fabrication||2022|2022
+ODICON|odisha electrical power engineering communication computing technology|IEEE|2021|2026
+ODIN|challenges held conjunction|Springer|2026|2026
+ODISE|ontology driven software engineering||2010|2010
+ODOCH|open data ontologies cultural heritage co located advanced information systems engineering||2019|2019
+ODP|optical design photonics||1993|1993
+ODRA|marine technology||1997|1997
+ODRL|open digital rights language||2005|2005
+ODRL|technical economic legal aspects business models virtual goods incorporating open digital rights language||2008|2010
+ODRL|technical economic legal aspects business models virtual goods virtual goods incorporating w3c community group meeting||2012|2013
+ODRL|technical economic legal aspects business models virtual goods virtual goods incorporating||2011|2011
+ODR|expanding horizons proc int online dispute resolution conjunction int conf legal knowledge information systems||2008|2008
+ODR|online dispute resolution conjunction artificial intelligence law||2007|2007
+ODR|online dispute resolution conjunction legal knowledge information systems||2010|2010
+ODSIE|optimization data science industrial engineering|Springer|2025|2026
+ODS|imaging sensing optical memory imaging sensing optical memory optics photonics design fabrication||2022|2022
+ODS|industrial optical devices systems|SPIE|2019|2025
+ODS|joint optical memory optical data storage isom||1997|1997
+ODS|optical data storage topical meeting||2009|2009
+ODS|optical data storage||1998|2003
+ODS|optical memory optical data storage topical meeting isom joint optical memory optical data storage technical digest|IEEE|2002|2002
+ODS|optimization decision science|Springer|2017|2017
+ODYSSEY|speaker language recognition||2018|2018
+OECC|asia pacific communications optoloelectronics communications vitality new century apcc|IEEE|1999|1999
+OECC|opto electronics communications photonics global|IEEE|2017|2017
+OECC|opto electronics communications|IEEE|2011|2024
+OECC|optoelectronics communication australian optical fibre technology||2014|2014
+OECC|optoelectronics communications held jointly photonics switching ps|IEEE|2016|2016
+OECC|optoelectronics communications photonics switching||2013|2013
+OECC|optoelectronics communications||2009|2021
+OECC|technical digest opto electronics communications||2012|2012
+OECC|technical digest optoelectronics communications oecc2010||2010|2010
+OECE|optics electronics communication engineering|SPIE|2024|2025
+OECS6|optics excitons confined systems||2000|2000
+OECS|papers presented optics excitons confined systems||2008|2008
+OEDI|optoelectronic devices integration||2014|2018
+OEEC|optimizing electrical energy consumption|IEEE|2023|2025
+OEMA|optical electronic materials applications oema2012||2012|2012
+OEMA|optical electronic materials applications||2013|2013
+OEMR|opto electronics engineering materials research||2013|2013
+OESI|optical engineering sensing instruments|SPIE|2025|2025
+OES|high strength low alloy steels hsla steels microalloying microalloying offshore engineering steels||2015|2015
+OETIC|ocean engineering technology innovation management conservation sustainable resilient marine coastal resources|IEEE|2022|2025
+OETIC|ocean engineering technology innovation ocean observation technology innovation support ocean decade science|IEEE|2021|2021
+OET|ontology e technologies ontology e technologies conjunction||2009|2009
+OFCS|society petroleum engineers spe oilfield corrosion exhibition||2021|2021
+OFC|eleventh optical fiber communications fifth optical fiber sensors||1988|1988
+OFC|optical fiber communication optical fiber communication optical fiber communication postdeadline papers||2025|2025
+OFC|optical fiber communication optical fiber communication||2024|2024
+OFC|optical fiber communication post digest||2004|2004
+OFC|optical fiber communication postconference digest||2004|2004
+OFC|optical fiber communications exhibition|IEEE|2014|2026
+OFC|optical fiber communications exposition|IEEE|2018|2018
+OFC|optical fiber communication||1983|2022
+OFC|optical fiber transmission||1975|1977
+OFC|twelfth optical fiber communications topical meetings integrated guided wave optics||1989|1989
+OFFT|off highway technical||2025|2025
+OFJ|optics photonics japan||2017|2017
+OFSIS|fibre optic photonic sensors industrial safety applications|IEEE|2017|2017
+OFS|fifth optics frontier|SPIE|2025|2025
+OFS|fourth optics frontier|SPIE|2024|2024
+OFS|optical fiber sensors technical digest|IEEE|2002|2002
+OFS|optical fiber sensors||1984|2023
+OFS|spie optical fibre sensors part i||2005|2005
+OFS|third optics frontier|SPIE|2023|2023
+OFT|optical fabrication testing||1982|2021
+OGC|optoelectronics global|IEEE|2015|2025
+OGC|society petroleum engineers spe oilfield geothermal chemistry||1977|1982
+OGEGS|oil gas engineering geological sciences|EDP|2023|2023
+OGE|oil gas engineering|IOP|2020|2023
+OGIC|society petroleum engineers spe oil gas india exhibition||2019|2019
+OGRS|open source geospatial research|Springer|2012|2012
+OGR|society petroleum engineers permian basin oil gas recovery||1984|1996
+OGR|society petroleum engineers spe permian basin oil gas recovery||1979|2001
+OGTECH|computational methods offshore technology oil gas technology cotech|IOP|2019|2019
+OGWA|society petroleum engineers spe eor oil gas west asia||2016|2016
+OHAN|optical hybrid access networks|IEEE|1993|1993
+OHARS|online misinformation harm aware recommender systems co located recommender systems||2020|2021
+OHS|open hypermedia systems structural computing sc adaptive hypermedia ah held hypertext hypermedia|Springer|2002|2002
+OHS|open hypermedia systems structural computing sc|Springer|2000|2000
+OICE|optoelectronic information computer engineering|SPIE|2022|2025
+OICE|second optoelectronic information computer engineering|SPIE|2023|2023
+OICMMIE|orca mechanical materials industrial engineering|IOP|2024|2024
+OICT|optoelectronic information communication technology|SPIE|2025|2025
+OIC|ontologies intelligence community||2009|2009
+OIC|ontology intelligence community towards effective exploitation integration intelligence resources||2007|2009
+OIC|optical interconnects||2012|2012
+OIC|optical interference coatings optica optical interference coatings||2025|2025
+OIC|optical interference coatings||2001|2022
+OIDT|open innovation digital transformation|IEEE|2024|2024
+OIDT|optical imaging detection technology|SPIE|2025|2025
+OIFM|optoelectronic information functional materials|SPIE|2022|2025
+OII|topical meeting commission optics||1998|1998
+OIKONET|global dwelling sustainabiliy design participation||2020|2020
+OIOE|optoelectronic information optical engineering|SPIE|2024|2025
+OIOE|second optoelectronic information optical engineering|SPIE|2025|2025
+OIP|optical interconnects packaging|IEEE|2025|2025
+OIST|optical information science technology optical memory neural networks||1998|1998
+OIT|iasted automation control information technology optical information technology acit||2010|2010
+OIT|optical instruments technology mems nems technology applications||2009|2009
+OIT|optical instruments technology optoelectronic imaging process technology||2009|2009
+OIT|optical instruments technology optoelectronic information security||2009|2009
+OIV|world congress vine wine|EDP|2019|2023
+OKCON|open knowledge||2010|2011
+OKOG|society petroleum engineers spe oklahoma city oil gas||2019|2025
+OLA|optimization learning|Springer|2020|2026
+OLC|ix topical meeting optics liquid crystals||2002|2002
+OLC|viii topical meeting optics liquid crystals||2001|2001
+OLIVIERFEST|dedicated olivier danvy occasion his birthday|ACM|2025|2025
+OLUD|online learning from uncertain data streams co located world congress computational intelligence||2022|2022
+OMAE|houston seventh offshore mechanics arctic engineering||1988|1988
+OMAE|ocean offshore arctic engineering omae2009||2009|2009
+OMAE|offshore mechanics arctic engineering omae2001 volume ocean space utilization||2001|2001
+OMAE|offshore mechanics arctic engineering omae2001 volume polar arctic pipeline technology||2001|2001
+OMAE|offshore mechanics arctic engineering omae2002 volume materials technology polar arctic sciences technology||2002|2002
+OMAE|offshore mechanics arctic engineering omae2002 volume offshore technology||2002|2002
+OMAE|offshore mechanics arctic engineering omae2002 volume pipeline technology ocean engineering jvw mini||2002|2002
+OMAE|offshore mechanics arctic engineering omae2002 volume safety reliability ocean space utilization||2002|2002
+OMAE|offshore mechanics arctic engineering omae2003 volume materials technology ocean engineering polar arctic sciences technology workshops||2003|2003
+OMAE|offshore mechanics arctic engineering omae2003 volume offshore technology ocean space utilization||2003|2003
+OMAE|offshore mechanics arctic engineering omae2007||2007|2007
+OMAE|offshore mechanics arctic engineering omae2008||2008|2008
+OMAE|offshore mechanics arctic engineering volume materials||2001|2001
+OMAE|offshore mechanics arctic engineering volume offshore technology||2001|2001
+OMAE|offshore mechanics arctic engineering volume safety reliability pipeline technology||2003|2003
+OMAE|offshore mechanics arctic engineering||2006|2008
+OMAE|offshore mechanics artic engineering volume l safty reliability||2001|2001
+OMA|optical manipulation its applications optica biophotonics congress part optica biophotonics congress optics life sciences||2025|2025
+OMA|optical manipulation its applications||2021|2023
+OMCCP|third optics materials science computing condensed matter physics|SPIE|2026|2026
+OMC|offshore mediterranean exhibition||2001|2019
+OMC|optical manipulation structured materials|SPIE|2022|2022
+OMEE|oxide materials electronic engineering fabrication properties applications book|IEEE|2014|2014
+OMEE|oxide materials electronic engineering fabrication properties applications||2015|2015
+OMEE|oxide materials electronic engineering||2012|2012
+OMEE|scientific oxide materials electronic engineering fabrication properties applications||2013|2013
+OMEIE|optoelectronic materials electronic information engineering|SPIE|2026|2026
+OMEMS|leos optical mems digest|IEEE|2002|2002
+OMER|object oriented modeling embedded real time systems gi workshops||2001|2001
+OMFI|optical methods flow investigation||2021|2021
+OMIA|ophthalmic medical image analysis held conjunction medical image computing computer assisted intervention|Springer|2021|2026
+OMIA|ophthalmic medical image analysis held conjunction medical imaging computer assisted intervention|Springer|2020|2022
+OMIA|ophthalmic medical image analysis held conjunction medical imaging computing computer assisted intervention|Springer|2019|2019
+OMICAS|virtual plant omics sciences|IEEE|2020|2020
+OMNET|community summit||2018|2018
+OMNIVIS|omnidirectional vision|IEEE|2000|2002
+OMN|omn2011 optical mems nanophotonics||2011|2011
+OMN|optical mems nanophotonics||2012|2025
+OMODS|digest joint optical memory optical data storage|IEEE|1993|1993
+OMP|optical molecular probes imaging drug delivery optica biophotonics congress part optica biophotonics congress optics life sciences||2025|2025
+OMP|optical molecular probes imaging drug delivery||2013|2023
+OMP|second overproduction microbial products||1990|1990
+OMS|isope ocean mining gas hydrates isope||2009|2013
+OMS|sixth society offshore polar engineers ocean mining isope||2005|2005
+ONA|optical networks their applications||1998|1998
+ONCON|industrial electronics society line|IEEE|2022|2025
+ONDM|ifip tc6 optical network design modeling|Springer|2007|2007
+ONDM|ifip tc6 wg6 working optical network design modelling|Springer|2003|2003
+ONDM|ifip wg optical network design modeling|Springer|2020|2020
+ONDM|optical network design modeling ifip tc6||2007|2007
+ONDM|optical network design modeling|IEEE|2009|2024
+ONDM|optical network design modelling|IEEE|2005|2025
+ONDM|optical networking design modeling||2013|2013
+ONDM|optical networking design modelling||2012|2012
+ONESPACE|blending physical digital spaces internet||2008|2008
+ONE|education industrial developments s bpm||2012|2012
+ONE|learning doing doing learning third s bpm||2011|2011
+ONE|running processes s bpm|Springer|2013|2013
+ONE|scientific research s bpm|Springer|2012|2012
+ONE|subject oriented business process management s bpm|Springer|2011|2026
+ONE|subject oriented business process management second s bpm selected papers||2011|2011
+ONISW|proc ontologies information systems semantic web co located information knowledge management||2008|2008
+ONLINE|information key our future preprints third australian information||1988|1988
+ONLINE|information worldwide information your fingertips first australian information exhibition||1986|1986
+ONST|online safety trust fraud prevention|ACM|2016|2016
+ONS|euro mini optimization natural sciences emc|Springer|2015|2015
+ONS|open networking summit research track||2014|2014
+ONTOBRAS|seminar ontology research brazil doctoral masters consortium ontologies||2021|2025
+ONTOBRAS|seminar ontology research brazil iv doctoral masters consortium ontologies||2020|2020
+ONTOCONTENT|workshops otm academy otm industry case studies program c tc ei2n inbast isde meta4es msc|Springer|2014|2014
+ONTORACT|ontologies interactive systems||2008|2008
+ONTOSE|ontology conceptualization epistemology information systems software engineering service science held revised selected papers|Springer|2010|2010
+ONTOSE|ontology conceptualizations epistemology software systems engineering||2005|2005
+ONTOSE|proc int ontology conceptualization epistemology information systems software engineering service science held conj conf||2009|2009
+OOER|object oriented entity relationship modeling|Springer|1995|1995
+OOIS|object oriented information systems|Springer|2002|2003
+OOPSLA|addendum object oriented programming systems languages applications|ACM|1987|1991
+OOPSLA|addendum sigplan object oriented programming systems languages applications|ACM|1997|1997
+OOPSLA|celebrating anniversary lisp lisp50||2008|2008
+OOPSLA|companion object oriented programming systems languages applications||2004|2009
+OOPSLA|companion sigplan object oriented programming systems languages applications||2003|2008
+OOPSLA|object oriented programming systems languages applications companion||2007|2007
+OOPSLA|object oriented programming systems languages applications part addendum||1997|1997
+OOPSLA|object oriented programming systems languages applications|ACM|1987|2011
+OOPSLA|sigplan object oriented programming systems languages applications dynamic languages dls||2007|2007
+OOPSLA|sigplan object oriented programming systems languages applications practitioners reports|ACM|2002|2002
+OOPSLA|sigplan object oriented programming systems languages applications wikis wikisym|ACM|2007|2007
+OOPSLA|sigplan object oriented programming systems languages applications|ACM|1996|2010
+OOPSLA|splash indianapolis object oriented programming systems languages applications||2013|2013
+OOPWORK|sigplan object oriented programming|ACM|1986|1986
+OPAALS|digital ecosystems third revised selected papers||2010|2010
+OPAC|open problems algebraic combinatorics||2024|2024
+OPCOMM|first operator assisted community networks||2006|2006
+OPCS|asian school seminar optimization problems complex systems|IEEE|2019|2025
+OPC|optical particle characterization|SPIE|2014|2014
+OPEE|optics photonics energy engineering||2010|2010
+OPEI|optics physics electronic information|SPIE|2026|2026
+OPENARCH|open architectures network programming|IEEE|1998|2003
+OPENFOAM|open field operation manipulation|Springer|2019|2019
+OPENSHMEM|related technologies big compute big data convergence|Springer|2018|2018
+OPENSHMEM|related technologies experiences implementations tools first|Springer|2014|2014
+OPENSHMEM|related technologies|Springer|2016|2022
+OPENSHMEM|second related technologies|Springer|2015|2015
+OPENSYM|companion open collaboration|ACM|2015|2016
+OPENSYM|open collaboration companion|ACM|2017|2017
+OPENSYM|open collaboration wikisym|ACM|2013|2013
+OPENSYM|open collaboration|ACM|2014|2022
+OPENWIRELESS|open software defined wireless networks part|ACM|2020|2020
+OPEN|school saint petersburg optoelectronics photonics engineering nanostructures|IOP|2019|2021
+OPES|society petroleum engineers spe oman petroleum energy show||2022|2025
+OPE|exhibition operating pressure equipment|Elsevier|2000|2000
+OPML|usenix operational machine learning||2019|2020
+OPM|optical plasmonic materials||2014|2014
+OPNETEC|ifip tc6 wg6 optical networks technologies|Springer|2005|2005
+OPODIS|principles distributed systems confrence||2008|2008
+OPODIS|principles distributed systems revised selected papers||2005|2006
+OPODIS|principles distributed systems|Springer|2004|2025
+OPSFA|minisymposium all things hypergeometric q series generalizations orthogonal polynomials special functions applications ams special session hypergeometric functions q series ams fall western sectional meeting ams special session hypergeometric functions q series generalizations ams spring eastern virtual sectional meeting||2025|2025
+OPTARCH|optimization driven architectural design|Springer|2025|2025
+OPTA|optimization problems their applications|Springer|2018|2018
+OPTICOMM|optical networking communications||2000|2000
+OPTICOMP|optical computational technologies measurements industrial applications|SPIE|2025|2025
+OPTICOM|optics photonics applied communication processing|SPIE|1980|1980
+OPTICS|fibre fifth fibre opto electronics|SPIE|1987|1987
+OPTICS|its applications|Springer|2012|2022
+OPTICS|los alamos|SPIE|1983|1983
+OPTICS|max born centenary|SPIE|1983|1983
+OPTICS|optical communication systems part joint e business telecommunications|SciTePress|2014|2015
+OPTICS|optical communication systems|IEEE|2013|2013
+OPTICS|phenomena materials devices characterization light||2011|2011
+OPTIKA|congress modern optics|SPIE|1998|1998
+OPTILAS|spie riao iberoamerican meeting optics latin american meeting optics lasers their applications ico regional meeting part||2004|2004
+OPTILAS|spie riao iberoamerican meeting optics latin american meeting optics lasers their applications ico regional meeting||2004|2004
+OPTIMA|advances optimization applications|Springer|2022|2022
+OPTIMA|optical communication photonics telecommunications intelligent machine applications|IEEE|2025|2025
+OPTIMA|optimization applications|Springer|2019|2026
+OPTIM|aegean electrical machines power electronics optimization electrical electronic equipment acemp||2023|2023
+OPTIM|optimization electrical electronic equipment intl aegean electrical machines power electronics|IEEE|2017|2017
+OPTIM|optimization electrical electronic equipments|IEEE|1998|1998
+OPTIM|optimization electrical electronic equipment||2008|2014
+OPTINM|image optimisation nuclear medicine||2011|2011
+OPTIQUE|horizons optics horizons de l||1984|1984
+OPTIROB|biomechanics neurorehabilitation mechanical engineering manufacturing systems robotics aerospace optimization engineering systems||2013|2013
+OPTIROB|modeling optimization aerospace robotics mechatronics machines tools mechanical engineering human motricity fields||2014|2014
+OPTIROB|optimization mechanical engineering manufacturing systems robotics aerospace||2012|2012
+OPTI|computer aided optimum design engineering||2005|2005
+OPTI|high performance optimum design structures materials hpsm||2014|2020
+OPTMEMS|leos optical mems nanophotonics||2009|2009
+OPTRONIX|opto electronics applied optics advances optical sciences engineering ii iem|IEEE|2015|2015
+OPTRONIX|opto electronics applied optics iem|Springer|2015|2015
+OPTRONIX|opto electronics applied optics|Springer|2017|2021
+OPTSYS|optical systems|ACM|2021|2021
+OPT|optoelectronic physics technology||2007|2007
+ORADEA|session scientific papers imt|IOP|2019|2019
+ORC|seminar power systems||2021|2024
+ORDAL|orders algorithms applications|Springer|1994|1994
+ORES|ontology repositories editors semantic web||2010|2010
+ORE|owl reasoner evaluation conjunction joint automated reasoning||2012|2012
+ORGATROP|organic agriculture tropics||2022|2022
+ORLEANS|society exploration geophysicists exposition meeting seg new||2015|2015
+ORMACLOUD|optimization techniques resources management clouds||2013|2013
+ORM|society petroleum engineers spe oklahoma regional meeting||1968|1968
+ORSS|opportunity research scholars|IEEE|2022|2025
+ORSUM|online recommder systems user modeling||2019|2019
+ORSUM|online recommender systems user modeling co located recommender systems recsys2023||2023|2023
+ORSUM|online recommender systems user modeling co located recommender systems||2020|2022
+ORS|optical remote sensing atmosphere||1993|1993
+ORS|optical remote sensing||1999|2003
+OSACT|open source arabic corpora processing tools shared tasks arabic llms hallucination dialect msa machine translation lrec||2024|2024
+OSACT|open source arabic corpora processing tools shared tasks qur qa fine grained hate speech detection language resources evaluation||2022|2022
+OSA|open seminar acoustics||2019|2019
+OSC|optical supercomputing first||2008|2008
+OSC|optical supercomputing memory h john caulfield revised selected papers||2013|2013
+OSC|optical supercomputing second||2009|2009
+OSC|optical supercomputing third revised selected papers||2011|2011
+OSDI|operating system design implementation|ACM|2000|2000
+OSDI|operating systems design implementation||2004|2004
+OSDI|usenix operating systems design implementation|ACM|1994|2025
+OSDM|open source data mining frequent pattern mining implementations held conjunction sigkdd knowledge discovery data mining||2005|2005
+OSDOC|open source design communication||2010|2013
+OSEA|society petroleum engineers offshore south east asia show||1986|1988
+OSEA|society petroleum engineers offshore south east asia||1976|1978
+OSEHC|open source european health care time is ripe conjunction efmi lifoss wg||2009|2009
+OSEMA|ontology semantic web manufacturing co located extended semantic web||2011|2011
+OSEMA|ontology semantic web manufacturing||2012|2012
+OSES|offshore energy storage summit|IEEE|2019|2019
+OSES|offshore energy storage|IOP|2023|2026
+OSE|optics solar energy||2014|2017
+OSIFB|offshore site investigation foundation behaviour new frontiers||1998|1998
+OSIG|offshore site investigation geotechnics confronting new challenges sharing knowledge||2007|2007
+OSIG|offshore site investigation geotechnics diversity sustainability||2002|2002
+OSIG|offshore site investigation geotechnics integrated technologies present future||2012|2012
+OSIRRC|open source ir replicability challenge co located research development information retrieval||2019|2019
+OSI|optics surfaces interfaces||2003|2003
+OSMSES|open source modelling simulation energy systems|IEEE|2022|2026
+OSSCOM|open source software computing|IEEE|2015|2016
+OSSC|open source software scientific computation||2009|2011
+OSS|doctoral consortium collocated open source systems||2010|2010
+OSS|ifip wg open source software|Springer|2013|2013
+OSS|ifip wg open source systems integrating communities|Springer|2016|2016
+OSS|ifip wg open source systems|Springer|2009|2021
+OSS|ifipwg2 open source systems long term sustainability|Springer|2012|2012
+OSS|natural language processing open source software nlp||2023|2023
+OSS|open source software new horizons ifip wg open source systems||2010|2010
+OSS|open source systems long term sustainability ifip wg||2012|2012
+OSS|open source systems|Springer|2005|2019
+OSS|society petroleum engineers spe oilfield scale exhibition||2020|2022
+OSS|society petroleum engineers spe oilfield scale||2024|2024
+OSTIS|open semantic technologies intelligent systems|Springer|2022|2022
+OSTIS|scientific technical open semantic technologies intelligent system|Springer|2020|2020
+OST|ifip wg open social technologies||2013|2013
+OTAMP|operator theory analysis mathematical physics|Springer|2013|2013
+OTA|optical trapping applications||2013|2017
+OTCA|offshore technology asia||2016|2024
+OTCB|offshore technology brasil||2020|2023
+OTCN|optical terahertz communications future networks|SPIE|2026|2026
+OTCON|opju technology emerging technologies sustainable development|IEEE|2023|2023
+OTCON|opju technology smart computing innovation advancement industry|IEEE|2024|2025
+OTC|offshore technology part||1997|2000
+OTC|offshore technology||2004|2025
+OTC|r offshore technology part||1997|1997
+OTF|organic thin films photonic applications||1993|1993
+OTF|organic thin films||1999|2001
+OTHA|scientific modern methods problems applications operator theory harmonic analysis|Springer|2021|2021
+OTHA|scientific modern methods problems operator theory harmonic analysis their applications|Springer|2019|2019
+OTM|confederated enterprise integration interoperability networking fact based modeling industry case studies program methods evaluation tools applications creation consumption structured data e society|Springer|2019|2019
+OTM|confederated move meaningful internet systems held conjunction avytat adi dataview ei2n isde monet ontocontent orm p2p cdve sedes swws|Springer|2010|2010
+OTM|confederated move meaningful internet systems held conjunction coopis candtc|Springer|2016|2017
+OTM|confederated move meaningful internet systems held conjunction coopis is doa|Springer|2010|2010
+OTM|confederated workshops enterprise integration interoperability networking fact based modeling industry case studies program methods evaluation tools applications towards data driven e society security via information analytics applications held as part|Springer|2020|2020
+OTM|confederated workshops move meaningful internet systems held as part ei2n fbm icsp meta4es|Springer|2017|2017
+OTM|move meaningful internet systems co located hci swwa ipw jtres worm wms|Springer|2003|2003
+OTM|move meaningful internet systems confederated coopis doa gada is||2008|2008
+OTM|move meaningful internet systems confederated coopis doa is||2009|2009
+OTM|move meaningful internet systems confederated coopis doa svi||2011|2012
+OTM|move meaningful internet systems confederated coopis is doa odbase||2010|2010
+OTM|move meaningful internet systems confederated doa trusted cloud||2013|2013
+OTM|move meaningful internet systems held conjuction adi awesome combek ei2n iwssa monet ontocontent qsi orm persys rdds semels|Springer|2008|2008
+OTM|move meaningful internet systems workshops confed int workshops posters avytat adi dataview ei2n isde monet ontocontent orm p2p cdve sedes swws otma proc||2010|2010
+OTM|move meaningful internet systems workshops confederated workshops academy industry case studies program ei2n inbast meta4es ontocontent orm sedes sincom||2012|2012
+OTM|move meaningful internet systems workshops confederated workshops academy industry case studies program ei2n meta4es||2013|2013
+OTM|move meaningful internet systems workshops confederated workshops posters awesome cams academy doctoral consortium monet ontocontent orm persys ppn rdds ssws||2007|2007
+OTM|move meaningful internet systems workshops confederated workshops posters awesome cams cominf is ksinbit mios ciao monet ontocontent orm persys academy doctoral consortium hdds swws|Springer|2006|2006
+OTM|move meaningful internet systems workshops confederated workshops posters awesome cams cominf is ksinbit mios ciao monet ontocontent orm persys academy doctoral consortium rdds swws|Springer|2006|2006
+OTM|move meaningful internet systems workshops confederated workshops posters ei2n nsf ice icsp inbast isde orm otma swws monet sedes||2011|2011
+OTM|move meaningful internet systems workshops posters adi cams ei2n isde iwssa monet ontocontent odis orm academy swws semels beyond sawsdl||2009|2009
+OTM|onthemove federated co located coopis odbase c tc|Springer|2015|2015
+OTM|workshops move meaningful internet systems|Springer|2015|2015
+OTO|oceans mts kobe techno ocean voyage toward future||2008|2008
+OTO|organization technology maintenance|Springer|2022|2025
+OTO|society petroleum engineers offshore technology operations||1966|1966
+OTSMD|optical technology semiconductor materials devices|SPIE|2023|2023
+OTS|optical tomography spectroscopy||2016|2022
+OTS|organization traffic safety management large cities|Elsevier|2020|2020
+OVERLAY|artificial intelligence formal verification logic automata synthesis co located italian association artificial intelligence ai ia||2020|2020
+OVERLAY|artificial intelligence formal verification logic automata synthesis hosted bolzano summer knowledge||2020|2020
+OVERLAY|artificial intelligence formal verification logic automata synthesis hosted games automata logics formal verification||2021|2021
+OVERLAY|artificial intelligence formal verification logic automata synthesis||2025|2025
+OVERLAY|short paper artificial intelligence formal verification logic automata synthesis hosted italian association artificial intelligence||2022|2023
+OVERLAY|short paper artificial intelligence formal verification logic automata synthesis||2025|2025
+OVO|ophthalmic visual optics||1993|1993
+OWEC|offshore weight engineering||1982|1982
+OWLED|experiences directions owl reasoner evaluation|Springer|2017|2017
+OWLED|owl experiences directions co located semantic web web reasoning rule systems rr||2009|2009
+OWLED|owl experiences directions collocated semantic web||2009|2009
+OWLED|owl experiences directions||2005|2012
+OWP|egov ongoing research workshops posters egov cedem epart||2025|2025
+OWTNM|optical wave waveguide theory numerical modelling|Springer|2017|2017
+OWT|optical wireless technologies|Springer|2018|2023
+OWT|sixth optical wireless technologies|SPIE|2026|2026
+OYSS|optics young scientist summit|SPIE|2021|2025
+OZCHI|australasian computer human interaction designing habitus habitat||2008|2008
+OZCHI|australasian computer human interaction|IEEE|1998|2007
+OZCHI|australasian human computer interaction|ACM|2025|2025
+OZCHI|australia computer human interaction design activities artefacts environments||2006|2006
+OZCHI|australian computer human interaction augmentation application innovation collaboration|ACM|2013|2013
+OZCHI|australian computer human interaction connected creativity|ACM|2022|2022
+OZCHI|australian computer human interaction special interest group design open||2009|2009
+OZCHI|australian computer human interaction|ACM|1996|2023
+OZCHI|australian human computer interaction|ACM|2019|2025
+OZCHI|being human|ACM|2015|2015
+OZCHI|design interaction participation||2010|2010
+OZCOTS|australian teaching statistics|Springer|2014|2014

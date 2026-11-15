@@ -1,0 +1,862 @@
+HAAMAHA|human aspects advanced manufacturing|Springer|2016|2016
+HADRON|spectroscopy structure||2026|2026
+HAIBRIDGE|wop joint wop joint ontology design patterns bridging hybrid intelligence semantic web wop co located semantic web||2025|2025
+HAICTA|information communication technologies agriculture food environment|Springer|2019|2022
+HAICTA|short paper volume i information communication technologies agriculture food environment||2024|2024
+HAIC|human ai collaboration held conjunction|Springer|2026|2026
+HAIC|human ai collaborative systems co located european artificial intelligence||2025|2025
+HAID|haptic audio interaction design first|Springer|2006|2006
+HAID|haptic audio interaction design revised selected papers||2013|2013
+HAID|haptic audio interaction design second||2007|2007
+HAID|haptic audio interaction design|Springer|2009|2022
+HAID|haptic audio third||2008|2008
+HAIPS|human centered ai privacy security co located|ACM|2025|2025
+HAISA|human aspects information security assurance|Springer|2007|2020
+HAISA|ifip wg human aspects information security assurance|Springer|2021|2026
+HAIS|hybrid artificial intelligence systems third||2008|2008
+HAIS|hybrid artificial intelligence systems|Springer|2009|2027
+HAIS|hybrid artificial intelligent systems|Springer|2011|2021
+HAI|human agent interaction|ACM|2014|2025
+HAI|user modeling adaptation personalization human agent interaction|ACM|2021|2021
+HAKONE|high pressure low temperature plasma chemistry||2010|2010
+HAMIS|health ambient information systems co located ibero american congress telematics||2011|2011
+HANIMOB|sigspatial animal movement ecology human mobility|ACM|2021|2022
+HAOC|high availability observability cloud systems|ACM|2021|2021
+HAOSE|human aspects software engineering summary|ACM|2010|2010
+HAPOC|history philosophy computing|Springer|2016|2016
+HAPTICS|haptic interfaces virtual environment teleoperator systems|IEEE|2002|2003
+HAPTICS|haptic interfaces virtual environmental teleoperator systems||2004|2004
+HARCT|hydromechatronics advanced robot control technology|IOP|2025|2025
+HARC|humans loop enabling facilitating research cloud computing|ACM|2019|2019
+HARDMEKO|imeko tc5 hardness measurements theory application laboratories industries||2004|2004
+HARDMEKO|measurement force mass torque together meeting vibration measurement imeko tc3 tc5 tc22||2010|2010
+HARDMEKO|recent advancements theory practice hardness measurement||2007|2007
+HARDPROBES|hard elecctromagnetic probes high energy nuclear collisions||2024|2024
+HARDPROBES|hard electromagnetic probes high energy nuclear collisions||2021|2021
+HARMO|harmonisation within atmospheric dispersion modelling regulatory purposes||2007|2024
+HART|hybrid real time systems|Springer|1997|1997
+HAR|deep learning human activity recognition dl anomaly detection foundation models held conjunction joint ai|Springer|2025|2025
+HAR|deep learning human activity recognition dl held conjunction ijcai|Springer|2021|2021
+HAR|human artificial rationalities|Springer|2024|2025
+HASE|high assurance systems engineering|IEEE|1998|2014
+HASE|ninth high assurance systems engineering||2005|2005
+HASMG|hagi scientific meeting geoscience|IOP|2025|2025
+HASP|hardware architectural support security privacy|ACM|2013|2025
+HAS|ambi sys haptic user interfaces ambient media systems|ACM|2008|2008
+HAS|human aspects information security privacy trust first held as part hci||2013|2013
+HAS|human aspects information security privacy trust held as part human computer interaction hci|Springer|2015|2016
+HAS|human aspects information security privacy trust held as part human computer interaction|Springer|2017|2017
+HAS|human aspects information security privacy trust second held as part hci|Springer|2014|2014
+HAVE|haptic audio visual environments games|IEEE|2007|2019
+HAVE|haptic audio visual environments their applications|IEEE|2003|2007
+HAVE|haptic virtual environments their applications|IEEE|2002|2002
+HAVSE|hamburg neutrinos from supernova explosions||2011|2011
+HAZARDS|institution chemical engineers process safety environmental protection||2011|2011
+HAZARDS|institution chemical engineers||2012|2012
+HBAI|human brain artificial intelligence held conjunction ijcai|Springer|2021|2021
+HBAI|human brain artificial intelligence held conjunction joint artificial intelligence european artificial intelligence ijcai|Springer|2023|2023
+HBAI|human brain artificial intelligence held conjunction joint artificial intelligence|Springer|2019|2019
+HBAI|human brain artificial intelligence|Springer|2025|2025
+HBDSS|health big data smart sports|IEEE|2021|2023
+HBD|health big data|ACM|2025|2025
+HBRS|hole burning related spectroscopies science applications|Elsevier|2000|2000
+HBRS|meeting hole burning related spectroscopies science applications||1996|1996
+HBSM|meeting hole burning single molecule related spectroscopies science applications||2010|2010
+HBU|human behavior understanding first|Springer|2010|2010
+HBU|human behavior understanding third||2012|2012
+HBU|human behavior understanding|Springer|2013|2016
+HBU|human behavior unterstanding second||2011|2011
+HCAIEP|human centered artificial intelligence education practice|ACM|2023|2023
+HCBDR|human centered big data research|ACM|2014|2014
+HCCAI|humanized computing communication artificial intelligence|IEEE|2020|2020
+HCCE|hydraulic civil construction engineering hydraulic civil engineering|Springer|2025|2025
+HCCE|joint human centered computer environments||2012|2012
+HCCS|human centered cognitive systems|IEEE|2022|2023
+HCC|anniversary ifip human choice computers|Springer|2024|2024
+HCC|human centered computing co located multimedia mm|ACM|2008|2008
+HCC|human centered computing|Springer|2015|2022
+HCC|human centric computing languages environments||2003|2003
+HCC|human choice computers|Springer|2006|2006
+HCC|humanized computing communication|IEEE|2019|2019
+HCC|ict critical infrastructures society ifip tc human choice computers hcc10||2012|2012
+HCC|ifip human choice computers|Springer|2022|2024
+HCC|ifip tc human choice computers hcc14|Springer|2020|2020
+HCC|ifip tc human choice computers held ifip world computer congress|Springer|2018|2018
+HCC|ifip tc human choice computers ifip tc critical information infrastructure protection held as part ifip world computer congress|Springer|2010|2010
+HCC|ifip tc human choice computers|Springer|2016|2016
+HCC|ifip tc9 human choice computers|Springer|2008|2015
+HCC|ifip tc9 world human choice computers|Springer|2001|2001
+HCC|symposia human centric computing languages environments||2002|2002
+HCC|theory application diagrams diagrams co located visual languages human centric computing vl|Springer|2022|2022
+HCC|visual languages human centric computing vl||2006|2025
+HCC|visual languages human centric computingn vl||2008|2008
+HCDS|heterogeneous composable disaggregated systems conjunction architectural support programming languages operating systems|ACM|2025|2025
+HCD|human centered design first held as part hci||2009|2009
+HCD|human centered design held as part human computer interaction hci|Springer|2011|2011
+HCD|human centered design second held as part hci||2011|2011
+HCEA|hydraulic civil engineering automatics||2021|2021
+HCET|hydraulic civil engineering technology vi technical frontiers||2021|2021
+HCET|hydraulic civil engineering technology vii technical frontiers||2022|2022
+HCET|hydraulic civil engineering technology viii technical frontiers||2023|2023
+HCET|hydraulic civil engineering technology x technical||2025|2025
+HCE|ifip tc3 tc9 history computing education|Springer|2004|2004
+HCIBGO|11h hci business government organizations held as part hci|Springer|2024|2024
+HCIBGO|business government organizations held as part human computer interaction|Springer|2017|2017
+HCIBGO|hci business government organizations ecommerce innovation held as part human computer interaction hci|Springer|2016|2016
+HCIBGO|hci business government organizations held as part hci|Springer|2018|2024
+HCIBGO|hci business government organizations held as part human computer interaction hci|Springer|2016|2019
+HCIBGO|hci business government organizations held as part human computer interaction|Springer|2020|2020
+HCIB|hci business first held as part hci|Springer|2014|2014
+HCIB|hci business held as part human computer interaction hci|Springer|2015|2015
+HCII|augmented cognition ac held as part hci|Springer|2022|2025
+HCII|augmented cognition ac held as part human computer interaction|Springer|2020|2023
+HCII|culture computing c c held as part hci|Springer|2021|2025
+HCII|culture computing c c held as part human computer interaction|Springer|2020|2023
+HCII|hci business government organizations held as part hci|Springer|2025|2025
+HCII|hci games hci games held as part hci|Springer|2022|2024
+HCII|hci games hci games held as part human computer interaction|Springer|2020|2023
+HCII|hci games held as part hci|Springer|2024|2025
+HCII|hci posters human computer interaction|Springer|2024|2024
+HCII|human computer interaction hci|Springer|2022|2022
+HCII|human computer interaction thematic area human computer interaction|Springer|2021|2025
+HCII|human computer interaction|Springer|2019|2025
+HCII|usability internationalization hci culture second usability internationalization ui held as part hci||2007|2007
+HCINLP|bridging human computer interaction natural language processing||2021|2021
+HCIR|human computer interaction information retrieval|ACM|2012|2013
+HCIS8|hot carriers semiconductors|IOP|1994|1994
+HCIST|enterprise information systems project management health social care information systems technologies centeris projman|Elsevier|2019|2019
+HCIS|human centered intelligent systems kes|Springer|2021|2021
+HCIS|ifip tc human computer interaction held as part ifip world computer congress|Springer|2010|2010
+HCIS|kes human centred intelligent systems kes|Springer|2021|2026
+HCITOCH|human computer interaction tourism cultural heritage first revised selected papers||2011|2011
+HCITOCH|human computer interaction tourism cultural heritage revised selected papers||2012|2012
+HCITOCH|human computer interaction tourism cultural heritage|Springer|2011|2011
+HCI|artificial intelligence ai held as part human computer interaction|Springer|2020|2024
+HCI|artificial intelligence ai held as part|Springer|2021|2025
+HCI|augmented cognition ac held as part human computer interaction|Springer|2017|2017
+HCI|bcs group engage||2020|2020
+HCI|bcs human centred approaches their impact ai system design application evaluation|ACM|2025|2025
+HCI|bcs human computer interaction bcs||2020|2024
+HCI|bcs human computer interaction sand sea sky holiday||2014|2014
+HCI|bcs human computer interaction||2011|2018
+HCI|british computer society human computer interaction bcs||2010|2010
+HCI|british computer society human computer interaction internet things||2013|2013
+HCI|british group people computers culture creativity interaction bcs||2008|2008
+HCI|british human computer interaction interaction bcs||2021|2021
+HCI|british towards human centred digital society||2022|2022
+HCI|digital make believe bcs human computer interaction||2017|2017
+HCI|dutch directions dutch||2004|2004
+HCI|haptic human computer interaction|Springer|2001|2001
+HCI|human computer interaction india|ACM|2022|2022
+HCI|human computer interaction mobile devices mobile|Springer|2002|2002
+HCI|human computer interaction mobile devices service mobile|Springer|2003|2003
+HCI|human computer interaction|Springer|2005|2018
+HCI|iasted human computer interaction||2007|2012
+HCI|iberoamerican computer human interaction||2020|2020
+HCI|iberoamerican human computer interaction||2021|2021
+HCI|india computer human interaction||2011|2011
+HCI|india indian human computer interaction|ACM|2021|2021
+HCI|mobile human computer interaction mobile devices services||2011|2011
+HCI|mobile ubiquitous information access mobile|Springer|2004|2004
+HCI|people computers xix bigger picture||2006|2006
+HCI|people computers xxi but not as we know it british group||2007|2007
+HCI|people computers xxiii celebrating people technology||2009|2009
+HCI|physics highly charged ions hci2010||2011|2011
+HCI|series human computer interaction mobile devices services mobile|ACM|2007|2007
+HCI|software engineering human computer interaction se|Springer|1995|1995
+HCI|thematic area human computer interaction held as part human computer interaction|Springer|2019|2023
+HCI|thematic area human computer interaction held as part|Springer|2024|2024
+HCMA|human centric multimedia analysis co located mm|ACM|2023|2024
+HCMA|human centric multimedia analysis|ACM|2022|2022
+HCMC|computational models social interactions human computer media communication co located mm|ACM|2015|2015
+HCMIR|human centric music information retrieval co located society music information retrieval||2023|2023
+HCM|human centered multimedia||2006|2006
+HCM|multimedia mm human centered multimedia||2007|2007
+HCOMP|aaai human computation crowdsourcing||2013|2024
+HCOMP|human computation hcomp2010||2010|2010
+HCOMP|sigkdd human computation||2009|2009
+HCP|human centered processes||2011|2011
+HCSE|engineering interactive systems second human centered software engineering task models diagrams||2008|2008
+HCSE|health care systems engineering|Springer|2016|2020
+HCSE|human centered software engineering task models diagrams|Springer|2008|2008
+HCSE|human centered software engineering|Springer|2012|2012
+HCSE|human centred software engineering third||2010|2010
+HCSE|human centred software engineering|Springer|2015|2015
+HCSE|ifip wg human centered software engineering|Springer|2014|2020
+HCSE|ifip wg joint human centered software engineering human error safety system development|Springer|2016|2016
+HCSE|ifip wg working human centered software engineering|Springer|2022|2024
+HCSE|working human centered software engineering|Springer|2019|2019
+HCS|hot chips|IEEE|2005|2024
+HCVS|horn clauses verification synthesis program equivalence relational reasoning||2019|2019
+HCVS|horn clauses verification synthesis verification program transformation||2022|2022
+HCVS|horn clauses verification synthesis||2021|2025
+HCV|hardware software verification testing third haifa verification||2008|2008
+HCW|heterogeneous computing|IEEE|1994|1998
+HDDA|high dimensional data analysis icw||2021|2021
+HDIS|high performance big data intelligent systems|IEEE|2022|2023
+HDI|hochschuldidaktik der informatik fachtagung des gi fachbereichs informatik und ausbildung didaktik der informatik||2021|2021
+HDI|university didactics computer science organization curricula experiences gi hochschuldidaktik der informatik organisation curricula erfahrungen gi fachtagung||2006|2006
+HDP|electronic packaging technology high density packaging icept||2008|2010
+HDP|first hardcopy document processing||2004|2004
+HDP|high density microsystem design packaging component failure analysis||2006|2006
+HDP|high density packaging microsystem integration||2007|2007
+HDP|icept electronic packaging technology high density packaging||2011|2012
+HDP|sixth cpmt high density microsystem design packaging component failure analysis||2004|2004
+HEAD|higher education advances||2020|2025
+HEALING|linguistic analysis health||2026|2026
+HEALS|advancing science technologies health science iem|EDP|2025|2025
+HEALTHCOM|e health networking application services|IEEE|2015|2024
+HEALTHCOM|e health networking applications services||2011|2011
+HEALTHCOM|enterprise networking computing healthcare industry healthcom2005||2005|2005
+HEALTHCOM|enterprise networking computing healthcare industry|IEEE|2003|2003
+HEALTHCOM|intl conf e health networking applications service||2008|2008
+HEALTHCOM|mobile e health developing countries th e health networking applications services||2006|2006
+HEALTHCOM|ubiquitous health aging societies e health networking application services||2007|2007
+HEALTHDL|deep learning wellbeing applications leveraging mobile devices edge computing|ACM|2020|2020
+HEALTHGIS|proc sigspatial int use gis public health conjunction sigspatial int conf advances geographic information systems||2012|2012
+HEALTHGIS|sigspatial use gis public health conjunction sigspatial advances geographic information systems|ACM|2013|2013
+HEALTHGIS|sigspatial use public health conjuncture sigspatial advances geographic information systems|ACM|2014|2014
+HEALTHGRID|applications core technologies||2010|2010
+HEALTHINF|health informatics part joint biomedical engineering systems technologies|SciTePress|2014|2021
+HEALTHINF|health informatics||2008|2013
+HEALTHMEDIA|multimedia personal health health care co located mm|ACM|2018|2019
+HEALTHNET|health net sigmobile systems networking support healthcare assisted living environments|ACM|2007|2007
+HEALTHNET|systems networking support health care assisted living environments|ACM|2008|2008
+HEALTHRECSYS|health recommender systems co located recommender systems||2019|2024
+HEALTHSEC|cybersecurity healthcare co located|ACM|2024|2024
+HEALTHSEC|cybersecurity healthcare|Springer|2026|2026
+HEALTHSEC|usenix health security privacy||2010|2012
+HEALTHTECH|future information communication technologies ubiquitous healthcare ubi|IEEE|2013|2015
+HEALTHTECH|global summit digital health|Springer|2026|2026
+HEALTHTECH|usenix health information technologies||2013|2013
+HEALTHWEAR|eai wearables healthcare|Springer|2021|2025
+HEALTHYIOT|eai iot technologies health care eai wearables healthcare|Springer|2024|2024
+HEALTHYIOT|eai iot technologies health care|Springer|2022|2022
+HEALTHYIOT|eai iot technologies healthcare|Springer|2020|2023
+HEALTHYIOT|internet things technologies healthcare|Springer|2016|2021
+HEALTHYIOT|iot technologies healthcare|Springer|2018|2018
+HEALTH|agents applied care a2hc agents multi agent systems aal e|Springer|2017|2017
+HEALTH|trace substances environmental university missouri s||1981|1982
+HEAP|high energy astroparticle physics tic||2021|2021
+HEART|highly efficient accelerators reconfigurable technologies|ACM|2019|2025
+HEASA|high energy astrophysics southern africa||2021|2025
+HEATING|district association district fifth national planning chp heat||1983|1983
+HEAT|biennial hybrid electric automotive technologies|Springer|2022|2022
+HECE|innovative solutions hydropower engineering civil engineering|Springer|2023|2023
+HECKTOR|3d head neck tumor segmentation pet ct challenge held conjunction medical image computing computer assisted intervention|Springer|2022|2023
+HECKTOR|3d head neck tumor segmentation pet ct challenge which was held conjunction medical image computing computer assisted intervention|Springer|2021|2021
+HEDA|health data co located petrinets petri nets||2022|2022
+HEDA|health data co located software technologies applications foundations||2023|2023
+HEEPS|hydrodynamics energy electric power system|IOP|2022|2025
+HEES|society petroleum engineers spe hydrocarbon economics evaluation||2014|2014
+HEES|spe hydrocarbon economics evaluation impact technology stakeholder challenges||2012|2012
+HEES|spe hydrocarbon economics evaluation unconventional economics||2007|2007
+HEES|spe hydrocarbon economics evaluation||2010|2010
+HEET|hydrogen energy energy technologies|IOP|2020|2026
+HEFA|social semantic adaptive gamification techniques technologies distance learning|Springer|2018|2018
+HEIR|health effects incorporated radionuclides|EDP|2019|2019
+HELION|rcnp polarized 3he beams gas targets their application helion97|Elsevier|1998|1998
+HELIX|innovation engineering entrepreneurship regional|Springer|2019|2019
+HELMETO|higher education learning methodologies technologies online|Springer|2019|2025
+HEPCM|high energy processes condensed matter xxvi high energy processes condensed matter dedicated anniversary birth s chaplygin|IOP|2019|2019
+HEPCM|high energy processes condensed matter xxvii high energy processes condensed matter dedicated anniversary birth ri soloukhin|IOP|2020|2020
+HEPC|national contemporary issues high energy physics cosmology nc|IOP|2014|2014
+HEPIX|grids clouds conjunction spring isgc||2023|2023
+HEPRO|high energy phenomena relativistic outflows vii||2019|2019
+HEPRO|high energy phenomena relativistic outflows||2024|2024
+HEPS|dae brns high energy physics|Springer|2024|2024
+HEPS|health care systems ergonomics patient safety||2015|2015
+HEPS|healthcare ergonomics patient safety|Springer|2019|2019
+HEPS|healthcare systems ergonomics patient safety human factor bridge between care cure||2005|2005
+HEP|european physical society europhysics high energy physics eps||2009|2009
+HEP|european physical society high energy physics eps||2013|2026
+HEP|history electric power||2007|2007
+HEP|recent developments high energy physics cosmology|IOP|2021|2025
+HEREM|hydrogen energy renewable energy materials|Springer|2023|2026
+HERITAGE|vernacular architecture world sites risks new technologies||2020|2020
+HERITECH|van lang heritage technology vanlang|IOP|2021|2021
+HERL|health environmental resilience livability cities challenge climate change|Springer|2024|2024
+HESSD|human error safety systems development ifip wg working revised selected papers||2010|2010
+HESSD|ifip tc13 wc13 working human error safety systems development|Springer|2004|2004
+HESSD|ifip wg working human error safety systems development|Springer|2010|2010
+HETREC|information heterogeneity fusion recommender systems held recommender systems|ACM|2010|2011
+HEVC|hybrid eco friendly vehicles||2008|2008
+HEVC|iet hybrid electric vehicles||2013|2013
+HFDC|gaas ic gallium arsenide integrated circuit short course high frequency design communications|IEEE|1996|1996
+HFESA|human factors ergonomics society australia sustainable ergonomics||2017|2017
+HFESA|human factors ergonomics society australia technology improving performance||2005|2005
+HFESA|human factors ergonomics society australia||2006|2013
+HFES|human factors ergonomics society meeting||2005|2021
+HFES|meeting human factors ergonomics society||2007|2024
+HFIA|human factors immersive analytics|IEEE|2025|2025
+HFM|highly frustrated magnetism|IOP|2009|2009
+HFPP|record human factors power plants|IEEE|1992|1992
+HFPSC|mtt ed ap leo societies joint chapter united kingdom republic ireland section high frequency postgraduate student colloquium|IEEE|1997|1997
+HFR|automatic face gesture recognition fg adaptive shot learning gesture understanding production asl4gup biometrics wild bwild heterogeneous face recognition joint challenge dominant complementary emotion recognition using micro emotion features head pose estimation dcer facial expression recognition analysis challenge|IEEE|2017|2017
+HFR|human friendly robotics|Springer|2018|2024
+HFSM|second hydraulic fracturing stress measurements||1989|1989
+HFSW|applications high field short wavelength sources||1999|2001
+HFTC|society petroleum engineers spe hydraulic fracturing technology exhibition||2018|2026
+HFTC|society petroleum engineers spe hydraulic fracturing technology||2016|2016
+HFTC|spe hydraulic fracturing technology exhibition||2021|2021
+HFT|human factors telecommunication||2006|2013
+HGAIS|special session harmonising generative ai semantic web technologies co located semantic web||2025|2025
+HHAI|augmenting human intellect hybrid human artificial intelligence||2023|2023
+HHAI|hhai2022 augmenting human intellect hybrid human artificial intelligence||2022|2022
+HHAI|hybrid human ai systems social good hybrid human artificial intelligence||2024|2024
+HHAI|hybrid human artificial intelligence||2025|2025
+HHAI|ws workshops hybrid human artificial intelligence co located||2023|2024
+HHBE|human health biomedical engineering||2011|2011
+HHC|herman hollerith|Springer|2025|2025
+HHME|human health medical engineering||2014|2014
+HIAT|ninth heavy ion accelerator technology part i||2002|2002
+HIAT|ninth heavy ion accelerator technology||2002|2002
+HIBIT|health informatics bioinformatics||2010|2013
+HIBI|hibi09 high performance computational systems biology||2009|2009
+HICL|hamburg logistics adapting future maritime city logistics context digitalization sustainability||2021|2021
+HICL|hamburg logistics advanced manufacturing industry artificial intelligence blockchain business analytics innovation management technology management supply chain risk management security management||2021|2021
+HICL|hamburg logistics artificial intelligence digital transformation supply chain management innovative approaches supply chains||2019|2019
+HICL|hamburg logistics digital transformation maritime city logistics smart solutions logistics||2019|2019
+HICONS|high confidence networked systems part||2013|2013
+HICONS|high confidence networked systems|ACM|2012|2014
+HICSS|emerging technologies applications track||1989|1989
+HICSS|hawaii system sciences part||1994|1995
+HICSS|hawaii system sciences|Springer|1991|2025
+HICSS|software track||1989|1989
+HICS|human interaction complex systems|IEEE|1996|1998
+HIC|health innovation community engage disrupt transform papers from australasian institute digital health s health innovation community||2025|2025
+HIC|health innovation community it starts us papers from australian digital health health informatics||2024|2024
+HIC|healthcare innovation|IEEE|2014|2014
+HIC|human centric independent computing co located ht|ACM|2015|2015
+HIDA|health informatization data analysis|ACM|2025|2025
+HIKM|health informatics knowledge management|ACM|2026|2026
+HIKM|seventh australasian health informatics knowledge management||2014|2014
+HILAS|high intensity lasers high field phenomena high brightness sources light driven interactions congress part optica high brightness sources light driven interactions congress||2024|2024
+HILAS|high intensity lasers high field phenomena||2012|2022
+HILDA|human loop data analytics co located|ACM|2023|2025
+HILDA|human loop data analytics|ACM|2016|2022
+HILT|high integrity language technology|ACM|2012|2014
+HIMA|hybrid intelligent models applications series computational intelligence||2013|2013
+HIMA|hybrid intelligent models applications||2009|2009
+HIMI|human interface management information held as part hci|Springer|2018|2018
+HIMI|human interface management information held as part human computer interaction|Springer|2023|2023
+HIMI|thematic area human interface management information held as part hci|Springer|2021|2025
+HIMI|thematic area human interface management information held as part human computer interaction hci|Springer|2019|2019
+HIMI|thematic area human interface management information held as part human computer interaction|Springer|2020|2020
+HIMI|thematic area human interface management information part hci|Springer|2022|2022
+HIMS|health informatics medical systems biomedical engineering held as part world congress computer science computer engineering applied computing|Springer|2025|2025
+HINC|ifip wg history nordic computing|Springer|2010|2010
+HINC|ifip wg9 working history nordic computing|Springer|2005|2005
+HINPW|hellenic institute nuclear physics nuclear structure astrophysics reaction dynamics|EDP|2024|2024
+HINT|health informatics intelligent systems networking technologies|Springer|2025|2025
+HIPAR|hierarchical parallelism exascale computing held conjunction sc high performance computing networking storage analysis|IEEE|2021|2022
+HIPCW|high performance computing data analytics workshops|IEEE|2022|2025
+HIPCW|high performance computing data analytics|IEEE|2021|2021
+HIPCW|high performance computing workshops|IEEE|2015|2019
+HIPC|high performance computing data analytics|IEEE|2020|2025
+HIPC|high performance computing|IEEE|1999|2019
+HIPEAC|high performance embedded architectures compilers first||2005|2005
+HIPEAC|high performance embedded architectures compilers fourth paphos cyprus january||2009|2009
+HIPEAC|high performance embedded architectures compilers second||2007|2007
+HIPEAC|high performance embedded architectures compilers third||2008|2008
+HIPEAC|high performance embedded architectures compilers||2010|2011
+HIPIMS|high power impulse magnetron sputtering||2012|2012
+HIPINEB|high performance interconnection networks exascale big data era|IEEE|2016|2019
+HIPS|high level parallel programming models supportive environments|Springer|1998|2001
+HIPS|high performance serverless computing co located|ACM|2021|2022
+HIPS|ninth high level parallel programming models supportive environments||2004|2004
+HIP|historical document imaging processing|ACM|2011|2023
+HIP|hot isostatic pressing||2023|2023
+HIP|human interactive proofs second||2005|2005
+HIRM|high tech innovations research manufacturing|IOP|2019|2022
+HISB|healthcare informatics imaging systems biology||2011|2012
+HISET|healthcare innovations software engineering technologies|IEEE|2024|2024
+HISE|fourier transform spectroscopy hyperspectral imaging sounding environment||2015|2015
+HISE|hyperspectral imaging sounding environment||2016|2021
+HISTELCON|history electrotechnolgy|IEEE|2017|2017
+HISTELCON|history electrotechnology|IEEE|2019|2025
+HISTELCON|history telecommunications||2008|2008
+HISTELCON|icohtec history high technologies their socio cultural contexts region history electrotechnologies|IEEE|2015|2015
+HISTELCON|region history electro technology origins electrotechnologies||2012|2012
+HISTELCON|region history telecommunications century broadcasting||2010|2010
+HISTELCON|selected papers history electrotechnology|IEEE|2021|2021
+HISTHIGHTECH|high technologies history development|IEEE|2022|2022
+HIS|eighth hybrid intelligent systems||2008|2008
+HIS|fifth hybrid intelligent systems||2005|2005
+HIS|health information science first||2012|2012
+HIS|health information science second||2013|2013
+HIS|health information science third|Springer|2014|2014
+HIS|health information science|Springer|2015|2026
+HIS|hybrid intelligent systems information assurance security|Springer|2021|2023
+HIS|hybrid intelligent systems intelligent learning environments new trends computational intelligence applications held conjunction mexican artificial intelligence|Springer|2025|2025
+HIS|hybrid intelligent systems world congress nature biologically inspired computing|Springer|2021|2021
+HIS|hybrid intelligent systems|Springer|2005|2025
+HITA|hybrid intelligence theories applications|Springer|2026|2026
+HITECH|high technology sustainable development|IEEE|2018|2022
+HITEC|exhibition high temperature electronics||2008|2014
+HITEC|high temperature electronics|IEEE|1998|1998
+HITEC|imaps exhibition high temperature electronics||2006|2016
+HITEN|european high temperature electronics|IEEE|1999|1999
+HITEN|exhibition high temperature electronics network||2013|2013
+HITEN|imaps high temperature electronics network||2009|2015
+HITES|horizons innovative theories experiments supercomputing nuclear physics|IOP|2012|2012
+HITE|horizons information technology engineering|IEEE|2024|2025
+HITLAML|human loop applied machine learning||2023|2023
+HKEDM|hong kong electron devices meeting|IEEE|1994|1998
+HKSTS|hong kong society transportation studies smart mobility||2025|2025
+HKSTS|hong kong society transportation studies smart transportation||2018|2018
+HKSTS|hong kong society transportation studies sustainable mobility||2021|2021
+HKSTS|hong kong society transportation studies technology service innovation transportation||2024|2024
+HKSTS|hong kong society transportation studies transport equity||2023|2023
+HKSTS|hong kong society transportation studies transport smart cities||2019|2019
+HKSTS|hong kong society transportation studies transportation infrastructure||2014|2014
+HKSTS|hong kong society transportation studies transportation logistics management||2012|2012
+HKSTS|hong kong society transportation studies travel behaviour society||2013|2013
+HKSTS|hong kong society transportation studies urban transport analytics||2015|2015
+HKSTS|hong kong society transportation studies||2022|2022
+HKSTS|transport society hong kong society transportation studies||2017|2017
+HKSTS|transportation economy hong kong society transportation studies||2005|2005
+HKSTS|transportation systems connected era hong kong society transportation studies||2018|2018
+HLC|human like computing co located joint learning reasoning||2022|2022
+HLDVT|high level design validation test|IEEE|2006|2017
+HLDVT|ninth high level design validation test||2004|2004
+HLK|higher level knowledge 3d modeling motion analysis|IEEE|2003|2003
+HLLCA|high level language computer architecture|ACM|1973|1973
+HLM|holm electrical contacts|IEEE|2021|2022
+HLPP|high level parallel programming applications co located|ACM|2010|2010
+HLPP|high level parallel programming applications|ACM|2011|2011
+HLRS|high performance computing science engineering transactions high performance computing center stuttgart||2006|2013
+HLSMS|homeland security modeling simulation autumn simulation multiconference||2012|2012
+HLT|acl graph based methods natural language processing||2011|2011
+HLT|acl linguistic annotation||2011|2011
+HLT|acl meeting association computational linguistics human language technologies student session||2011|2011
+HLT|acl meeting association computational linguistics human language technologies system demonstrations||2011|2011
+HLT|acl meeting association computational linguistics human language technologies tutorial abstracts||2011|2011
+HLT|acl meeting association computational linguistics human language technologies||2011|2011
+HLT|bionlp shared task meeting association computational linguistics human language technologies acl||2011|2011
+HLT|creating speech language data amazon s mechanical turk mturk north american chapter association computational linguistics human language technologies naacl||2010|2010
+HLT|human language technologies baltic perspective baltic||2020|2020
+HLT|joint sighum computational linguistics cultural heritage social sciences humanities literature latech naacl||2019|2019
+HLT|monolingual text text generation meeting association computational linguistics human language technologies acl||2011|2011
+HLT|naacl active learning natural language processing||2009|2009
+HLT|naacl amta syntax structure statistical translation||2007|2007
+HLT|naacl computational approaches linguistic creativity||2009|2009
+HLT|naacl cross lingual information access addressing information need multilingual societies cliaws3||2009|2009
+HLT|naacl graph based methods natural language processing||2018|2018
+HLT|naacl human language technologies north american chapter association computational linguistics demonstration session||2009|2010
+HLT|naacl human language technologies north american chapter association computational linguistics main||2007|2010
+HLT|naacl human language technologies north american chapter association computational linguistics short papers||2009|2009
+HLT|naacl human language technologies north american chapter association computational linguistics student research doctoral consortium||2009|2009
+HLT|naacl human language technologies north american chapter association computational linguistics student research||2010|2010
+HLT|naacl human language technologies north american chapter association computational linguistics tutorial abstracts||2009|2010
+HLT|naacl human language technologies north american chapter association computational linguistics||2009|2009
+HLT|naacl human language technology north american chapter association computational linguistics companion volume short papers||2007|2007
+HLT|naacl human language technology north american chapter association computational linguistics demonstrations||2007|2007
+HLT|naacl human language technology north american chapter association computational linguistics doctoral consortium||2007|2007
+HLT|naacl integer linear programming natural language processing||2009|2009
+HLT|naacl lexical computational semantics||2018|2018
+HLT|naacl north american chapter association computational linguistics human language technologies computational linguistics literature||2015|2015
+HLT|naacl north american chapter association computational linguistics human language technologies definition detection coreference representation||2015|2015
+HLT|naacl north american chapter association computational linguistics human language technologies demonstration session||2012|2012
+HLT|naacl north american chapter association computational linguistics human language technologies demonstrations session||2016|2019
+HLT|naacl north american chapter association computational linguistics human language technologies demonstrations||2015|2021
+HLT|naacl north american chapter association computational linguistics human language technologies industry papers||2021|2021
+HLT|naacl north american chapter association computational linguistics human language technologies main||2013|2013
+HLT|naacl north american chapter association computational linguistics human language technologies student research||2012|2021
+HLT|naacl north american chapter association computational linguistics human language technologies tutorial abstracts||2015|2019
+HLT|naacl north american chapter association computational linguistics human language technologies tutorials||2013|2021
+HLT|naacl north american chapter association computational linguistics human language technologies||2012|2021
+HLT|naacl predicting improving text readability target reader populations||2012|2012
+HLT|naacl semantic evaluation||2018|2019
+HLT|naacl semi supervised learning natural language processing||2009|2009
+HLT|naacl software engineering testing quality assurance natural language processing setqa||2009|2009
+HLT|naacl student research north american chapter association computational linguistics human language technologies||2015|2015
+HLT|naacl unsupervised minimally supervised learning lexical semantics||2009|2009
+HLT|nations americas chapter association computational linguistics human language technologies industry track naacl||2025|2025
+HLT|nations americas chapter association computational linguistics human language technologies long papers naacl||2025|2025
+HLT|nations americas chapter association computational linguistics human language technologies short papers naacl||2025|2025
+HLT|nations americas chapter association computational linguistics human language technologies student research naacl||2023|2023
+HLT|nations americas chapter association computational linguistics human language technologies system demonstrations naacl||2025|2025
+HLT|nations americas chapter association computational linguistics human language technologies tutorial abstracts naacl||2025|2025
+HLT|nlp naacl structured prediction nlp||2021|2021
+HLT|north american chapter association computational linguistics human language technologies naacl demonstration session||2013|2013
+HLT|north american chapter association computational linguistics human language technologies naacl student research||2013|2013
+HLT|north american chapter association computational linguistics human language technologies naacl||2016|2016
+HLT|sem naacl joint lexical computational semantics||2019|2019
+HLT|textgraphs naacl graph based methods natural language processing||2016|2016
+HLT|vector space modeling natural language processing vs north american chapter association computational linguistics human language technologies naacl||2015|2015
+HLT|wassa naacl computational approaches subjectivity sentiment social media analysis||2021|2021
+HMA|aggregate contribution hot mix asphalt performance||2001|2001
+HMA|constructing smooth hot mix asphalt pavements||2002|2002
+HMA|performance tests hot mix asphalt including fundamental empirical procedures||2006|2006
+HMC|heavy minerals||2005|2005
+HMF|application high magnetic fields semiconductor physics|IOP|2013|2013
+HMIT|nuclear plant instrumentation control human machine interface technologies npic||2019|2023
+HMIT|nuclear plant instrumentation control human machine interface technology npic||2025|2025
+HMIT|topical meeting nuclear plant instrumentation control human machine interface technologies npic enabling future nuclear energy||2012|2012
+HMIT|topical meeting nuclear plant instrumentation control human machine interface technologies npic||2010|2017
+HMIT|topical meeting nuclear plant instrumentation controls human machine interface technology||2006|2006
+HMI|advances human machine interaction|IEEE|2016|2016
+HMI|history medical informatics|ACM|1987|1987
+HMMOCS|hybrid methods modeling optimization complex systems|Springer|2025|2026
+HMM|fourth hysteresis micromagnetic modeling||2004|2004
+HMM|history machines mechanisms|Springer|2012|2022
+HMSC|hungarian materials science||2020|2020
+HMSP|yamada application high magnetic fields semiconductor physics|Elsevier|1993|1993
+HMS|harbor maritime multimodal logistic modeling simulation held multidisciplinary modeling simulation multiconference i3m||2024|2024
+HMS|harbor maritime multimodal logistic modeling simulation||2020|2022
+HMS|harbor maritime multimodal logistics modeling simulation held mediterranean latin american modeling multiconference i3m||2008|2011
+HMS|harbor maritime multimodal logistics modeling simulation held multidisciplinary modeling simulation multiconference i3m||2017|2017
+HMS|harbor maritime multimodal logistics modeling simulation||2014|2019
+HMS|harbor maritime multimodal logistics modelling simulation||2014|2023
+HMS|harbour maritime multimodal logistics modeling simulation held mediterranean modeling multiconference i3m||2005|2005
+HMS|ifac ifip ifors iea analysis design evaluation human machine systems||2007|2013
+HMS|int harbor maritime multimodal logistics modeling simulation held mediterranean latin american modeling multiconference i3m||2010|2010
+HMS|int harbor maritime multimodal logistics modeling simulation held multidisciplinary modeling simulation multiconference i3m||2012|2013
+HMTHSF|heat mass transfer hydrodynamics swirling flows|IOP|2020|2020
+HMTHSF|viii heat mass transfer hydrodynamics swirling flows||2021|2021
+HMTTSC|heat mass transfer thermal control system technical technological energy equipment|IOP|2021|2021
+HMTTSC|youth scientific heat mass transfer thermal control system technical technological energy equipment|IOP|2019|2019
+HMT|recent advances fluid mechanics heat mass transfer biology wseas fluid mechanics fm wseas heat mass transfer wseas mathematical biology ecology||2011|2011
+HMWC|high mobility wireless communications|IEEE|2013|2015
+HNICEM|humanoid nanotechnology information technology communication control environment management joint computational intelligence intelligent informatics co located erdt|IEEE|2015|2015
+HNICEM|humanoid nanotechnology information technology communication control environment management|IEEE|2015|2024
+HNPS|hellenic nuclear physics society||1995|2026
+HNP|hadron nuclear physics||2010|2013
+HOA|higher order algebra logic term rewriting|Springer|1994|1995
+HOCE|society petroleum engineers spe heavy oil exhibition||2011|2018
+HOIT|ifip tc wg home community oriented ict next billion|Springer|2007|2007
+HOLM|electrical contacts electrical contacts|IEEE|2010|2025
+HOLM|electrical contacts||2008|2013
+HOLOMAS|holonic multi agent systems manufacturing industrial applications holonic multi agent systems||2009|2011
+HOLOMAS|holonic multi agent systems manufacturing second industrial applications holonic multi agent systems||2005|2005
+HOLOMAS|holonic multi agent systems manufacturing third industrial applications holonic multi agent systems||2007|2007
+HOLOMAS|industrial applications holonic multi agent systems|Springer|2011|2019
+HOMENETS|home networks co located||2010|2010
+HOMENETS|sigcomm home networks|ACM|2011|2011
+HONET|high capacity optical networks emerging technologies||2011|2011
+HONET|high capacity optical networks enabling technologies||2006|2012
+HONET|smart communities improving quality life using ai robotics iot|IEEE|2023|2025
+HONET|smart communities improving quality life using ict iot ai|IEEE|2020|2022
+HONOM|european high order nonlinear numerical methods evolutionary pdes|Springer|2014|2014
+HOPC|highlights parallel computing|ACM|2023|2024
+HOPL|sigplan history programming languages|ACM|1993|1993
+HORA|congress human computer interaction optimization robotic applications|IEEE|2020|2024
+HOST|hardware oriented security trust|IEEE|2009|2025
+HOST|signal processing higher order statistics|IEEE|1993|1993
+HOS|signal processing higher order statistics spw|IEEE|1999|1999
+HOTAC|hot topics autonomic computing held conjunction||2007|2007
+HOTBOTS|hot topics understanding botnets||2007|2007
+HOTCARBON|sustainable computer systems|ACM|2023|2023
+HOTCDP|hot topics cloud data processing|ACM|2012|2012
+HOTCLIMATES|energy indoor environment hot climates ashrae||2017|2017
+HOTCLOUD|hot topics cloud computing||2009|2009
+HOTCLOUD|usenix hot topics cloud computing co located usenix||2017|2020
+HOTCLOUD|usenix hot topics cloud computing||2010|2016
+HOTCONNET|hot topics container networking networked systems part|ACM|2017|2017
+HOTDEP|hot topics dependable systems|ACM|2013|2013
+HOTDEP|hot topics system dependability||2006|2014
+HOTEDGEVIDEO|hot topics video analytics intelligent edges co located|ACM|2019|2019
+HOTEDGEVIDEO|hot topics video analytics intelligent edges|ACM|2021|2021
+HOTEDGE|usenix hot topics edge computing co located usenix||2018|2019
+HOTEDGE|usenix hot topics edge computing||2020|2020
+HOTEMNETS|hot topics embedded networked sensors||2010|2010
+HOTICN|hot information centric networking|IEEE|2018|2022
+HOTI|high performance interconnects|IEEE|2003|2025
+HOTMETRICS|special issue hot topics measurement modeling computer systems||2010|2010
+HOTMIDDLEBOX|hot topics middleboxes network function virtualization part|ACM|2015|2016
+HOTMIDDLEBOX|hot topics middleboxes network function virtualization|ACM|2013|2013
+HOTMOBILE|mobile computing systems applications|ACM|2006|2026
+HOTNETS|hot topics networks|ACM|2006|2025
+HOTOPTICS|hot topics optical co located|ACM|2024|2024
+HOTOSV|hot topics operating systems||1995|1995
+HOTOS|hot topics operating systems|ACM|2003|2025
+HOTPAR|usenix hot topics parallelism||2009|2013
+HOTPLANET|hot topics planet scale measurement co located|ACM|2015|2015
+HOTPLANET|hot topics planet scale measurement|ACM|2010|2012
+HOTPLANET|hot topics planet scale mobility measurements|ACM|2009|2009
+HOTPLANET|sigcomm hot topics planet scale measurement|ACM|2013|2013
+HOTPOST|hot topics planet scale mobile computing online social networking co located|ACM|2015|2015
+HOTPOST|mobihoc hot topics planet scale mobile computing online social networking|ACM|2016|2016
+HOTPOWER|power aware computing systems|ACM|2008|2015
+HOTSDN|hot topics software defined networking|ACM|2014|2014
+HOTSDN|hot topics software defined networks|ACM|2012|2012
+HOTSDN|sigcomm hot topics software defined networking|ACM|2013|2013
+HOTSEC|usenix hot topics security||2006|2012
+HOTSENSE|thermal sensing computing|ACM|2025|2025
+HOTSOCIAL|hot topics interdisciplinary social networks research||2012|2012
+HOTSOS|bootcamp science security|ACM|2014|2016
+HOTSOS|hot topics science security|ACM|2019|2020
+HOTSTORAGE|hot topics storage file systems|ACM|2021|2025
+HOTSTORAGE|usenix hot topics storage file systems co located usenix||2016|2020
+HOTSTORAGE|usenix hot topics storage file systems||2010|2015
+HOTSWUP|hot topics software upgrades||2008|2012
+HOTTOPICS|hot topics cloud services||2013|2013
+HOTWEB|hot topics web systems technologies|IEEE|2016|2017
+HOTWIRELESS|hot topics wireless co located|ACM|2015|2017
+HOTWIRELESS|mobicom hot topics wireless|ACM|2014|2014
+HOTWISEC|hot topics wireless network security privacy|ACM|2013|2013
+HPAGC|high performance architecture grid computing||2011|2011
+HPCASIA|high performance computing asia pacific region workshops|ACM|2022|2022
+HPCASIA|hpc asia workshops|ACM|2019|2019
+HPCASIA|seventh high performance computing grid asia pacific region||2004|2004
+HPCASIA|supercomputing asia high performance computing asia pacific region sca|ACM|2026|2026
+HPCASIA|supercomputing asia high performance computing asia pacific region workshops sca workshops|ACM|2026|2026
+HPCA|high performance computer architecture|IEEE|2005|2026
+HPCA|high performance computing applications second revised selected papers||2010|2010
+HPCA|high performance computing applications|Springer|2016|2016
+HPCA|symposinm high performance computer architecture||2009|2009
+HPCCE|fourth high performance computing communication engineering|SPIE|2025|2025
+HPCCE|high performance computing communication engineering|SPIE|2023|2023
+HPCCE|high performance computing communication|SPIE|2022|2022
+HPCCE|third high performance computing communication engineering|SPIE|2024|2024
+HPCCSE|se software engineering high performance computing computational science engineering held conjunction sc high performance computing networking storage analysis|ACM|2013|2013
+HPCCSE|se software engineering or high performance computing computational science engineering held conjunction sc high performance computing networking storage analysis|IEEE|2016|2016
+HPCCT|high performance computing cluster technologies big data artificial intelligence|ACM|2020|2020
+HPCCT|high performance computing cluster technologies|ACM|2021|2024
+HPCCWS|high performance computing communications workshops multicore multithreaded architectures algorithms m2a2|IEEE|2017|2017
+HPCC|high performance computing communcations first||2005|2005
+HPCC|high performance computing communications embedded software systems cyberspace safety security|IEEE|2014|2014
+HPCC|high performance computing communications embedded software systems||2012|2012
+HPCC|high performance computing communications embedded ubiquitous computing||2014|2014
+HPCC|high performance computing communications future trends distributed computing systems workshops ubiquitous intelligence computing workshops autonomic trusted computing||2011|2011
+HPCC|high performance computing communications second|Springer|2006|2006
+HPCC|high performance computing communications third||2007|2007
+HPCC|high performance computing communications|IEEE|2008|2024
+HPCC|intl high performance computing communications intl smart city intl data science systems|IEEE|2017|2017
+HPCDB|high performance computing meets databases co located sc|ACM|2011|2011
+HPCI|is t electronic imaging high performance computing imaging||2026|2026
+HPCMS|high performance computing advanced modeling simulation nuclear energy environmental science hpc supported data analytics edge computing held supercomputing|Springer|2019|2019
+HPCNCS|high performance computing networking communication systems||2007|2009
+HPCN|exhibition high performance computing networking|Springer|1994|1994
+HPCSE|high performance computing science engineering|Springer|2016|2021
+HPCSE|ifip tc5 high performance computational science engineering|Springer|2005|2005
+HPCST|high performance computing systems technologies scientific research automation control production|Springer|2020|2026
+HPCST|x high performance computing systems technologies scientific research automation control production||2020|2020
+HPCST|xi high performance computing systems technologies scientific research automation control production||2021|2021
+HPCSW|high performance computing semantic web co located extended semantic web||2011|2011
+HPCSW|joint scalable high performance semantic web systems ssws conjunction semantic web||2012|2012
+HPCSYSPROS|hpc systems professionals held conjunction sc high performance computing networking storage analysis|ACM|2017|2017
+HPCS|architecture implementation high performance communication subsystems|IEEE|1995|1995
+HPCS|h high performance computing systems applications||2008|2008
+HPCS|high performance communication systems|IEEE|1997|1997
+HPCS|high performance computing advanced collaborative environment||2006|2006
+HPCS|high performance computing hpcs2010|IOP|2010|2010
+HPCS|high performance computing simulation part scs spring simulation multiconference joint integrative m s high performance computing||2008|2008
+HPCS|high performance computing simulation|IEEE|2009|2019
+HPCS|high performance computing systems applications revised selected papers||2010|2010
+HPCS|high performance computing systems applications||2005|2007
+HPCS|high performance computing systems||2010|2010
+HPCS|high performance computing|IOP|1996|2012
+HPCS|software engineering high performance computing system applications se co located int conf software engineering||2005|2005
+HPCVIRT|system level virtualization high performance computing held conjunction|ACM|2008|2008
+HPCVIRT|system level virtualization high performance computing|ACM|2009|2009
+HPC|astro high performance computing astronomy||2012|2012
+HPC|canopie containers new orchestration paradigms isolated environments held conjunction sc high performance computing networking storage analysis|IEEE|2019|2022
+HPC|ccf high performance computing|Springer|2013|2013
+HPC|china asian technology information program s third high performance computing china solution approaches impediments high performance computing|ACM|2007|2007
+HPC|cirp high performance cutting|Elsevier|2020|2020
+HPC|co hardware software co design high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2014|2015
+HPC|com optimization communication runtime systems held conjunction sc high performance computing networking storage analysis|IEEE|2016|2016
+HPC|eage high performance computing||2022|2023
+HPC|high performance computing part spring simulation multi||2018|2018
+HPC|high performance computing spring simulation multi||2017|2017
+HPC|high performance computing|Springer|2021|2021
+HPC|high performance cutting cirp|Elsevier|2026|2026
+HPC|isc high performance isc|Springer|2025|2025
+HPC|llvm hpc2020 llvm compiler infrastructure hierarchical parallelism exascale computing held conjunction sc high performance computing networking storage analysis|IEEE|2020|2020
+HPC|llvm llvm compiler infrastructure held conjunction sc high performance computing networking storage analysis|IEEE|2014|2022
+HPC|s cyber security high performance computing held conjunction sc high performance computing networking storage analysis|IEEE|2022|2022
+HPDC|ai4sys ai systems part high performance parallel distributed computing|ACM|2024|2024
+HPDC|high perfomance distributed computing||2004|2004
+HPDC|high performance distributed computing data aware distributed computing||2008|2008
+HPDC|high performance distributed computing|IEEE|1998|2011
+HPDC|high performance parallel distributed computing posters doctoral consortium|ACM|2018|2018
+HPDC|high performance parallel distributed computing|ACM|2012|2025
+HPDC|proc edition upgrade cn use p2p grid agents development content netw upgrade cn co located int symp high perform distrib comput conf||2009|2009
+HPDC|proc high performance distributed computing co located high performance distributed computing conf||2009|2009
+HPDC|resiliency high performance resilience co located high performance distributed computing||2009|2009
+HPDC|sem4hpc software engineering methods parallel high performance applications co located|ACM|2016|2017
+HPDGIS|sigspatial high performance distributed geographic information systems sigspatial||2010|2011
+HPD|high power diode lasers systems co located photonex|IEEE|2010|2019
+HPEC|high performance extreme computing|IEEE|2012|2025
+HPGDMP|high performance graph data management processing held conjunction sc high performance computing networking storage analysis|IEEE|2016|2016
+HPGP|high performance graph processing co located|ACM|2016|2016
+HPG|high performance graphics short papers|ACM|2019|2019
+HPG|high performance graphics siggraph eurographics|ACM|2012|2016
+HPG|high performance graphics|ACM|2009|2021
+HPG|siggraph high performance graphics||2011|2011
+HPHT|society petroleum engineers spe high pressure high temperature sour well design applied technology||2005|2005
+HPLC|high performance liquid phase separation part|Elsevier|2000|2000
+HPLSE|fifth high power laser science engineering|SPIE|2023|2023
+HPLSE|fourth high power laser science engineering|SPIE|2021|2021
+HPL|xv gas flow chemical lasers high power lasers gcl part ii||2005|2005
+HPL|xv gas flow chemical lasers high power lasers gcl||2005|2005
+HPMV|china boat show high performance marine vehicles||2008|2008
+HPPC|euro par workshops parallel processing unicore summit revised selected paper||2008|2008
+HPPN|high performance programmable networking||2013|2013
+HPQCI|high performance quantum computing integration part high performance parallel distributed computing|ACM|2024|2024
+HPRCTA|high performance reconfigurable computing technology applications held conjunction sc07|ACM|2007|2007
+HPRCTA|high performance reconfigurable computing technology applications held conjunction sc09|ACM|2009|2009
+HPRCTA|high performance reconfigurable computing technology applications held conjunction sc10||2010|2010
+HPRCTA|proceed ings high performance reconfigurable computing technology applications held conjunction sco8||2008|2008
+HPSC|big data security cloud big data security high performance smart computing intelligent data security|IEEE|2017|2017
+HPSC|big data security cloud bigdatasecurity high performance smart computing intelligent data security|IEEE|2016|2019
+HPSC|high performance smart computing|IEEE|2024|2025
+HPSC|intl big data security cloud bigdatasecurity intl high performance smart computing intl intelligent data security|IEEE|2020|2020
+HPSM|high performance structures materials hpsm12||2012|2012
+HPSM|high performance structures materials iv||2008|2008
+HPSM|high performance structures materials v||2010|2010
+HPSP|high pressure semiconductor physics||1989|1989
+HPSR|high performance switching routing merging optical ip technologies||2002|2002
+HPSR|high performance switching routing|IEEE|2003|2025
+HPTCDL|high performance technical computing dynamic languages held conjunction sc high performance computing networking storage analysis|IEEE|2014|2014
+HPTS|society petroleum engineers spe hobbs petroleum technology||1970|1970
+HPT|high pt physics rhic lhc era||2017|2017
+HPW|history personal workstations|ACM|1986|1986
+HPYD|high performance yacht design||2008|2021
+HQL|heavy quarks leptons||2006|2026
+HRIS|human resource information systems conjunction||2007|2007
+HRIS|human resource information systems human resource information systems conjunction||2008|2009
+HRI|companion companion human robot interaction||2024|2024
+HRI|companion human robot interaction||2020|2023
+HRI|human robot interaction living robots|ACM|2008|2008
+HRI|human robot interaction robot as team member|ACM|2007|2007
+HRI|human robot interaction toward human robot collaboration|ACM|2006|2006
+HRI|human robot interaction|ACM|2009|2026
+HRMS|quarks strings cosmos hector rubinstein memorial||2010|2010
+HRM|society petroleum engineers spe hobbs regional meeting||1972|1972
+HRPR|human robot personal relationships revised selected papers||2011|2011
+HRSUNE|workshops heterogeneous information network analysis applications hena human aspects making recommendations social ubiquitous networking environments held conjunction web age information management|Springer|2015|2015
+HRT|scientific horizons railway transport|Elsevier|2024|2024
+HSB|hybrid systems biology hybrid systems biology|Springer|2015|2015
+HSB|hybrid systems biology|Springer|2012|2019
+HSCC|hybrid systems computation control part cps iot week|ACM|2020|2025
+HSCC|hybrid systems computation control part||2012|2012
+HSCC|hybrid systems computation control|ACM|1998|2021
+HSCC|sigbed hybrid systems computation control||2011|2011
+HSCMA|hands free speech communication microphone arrays||2008|2008
+HSCMA|hands free speech communications microphone arrays|IEEE|2017|2017
+HSCMA|joint hands free speech communication microphone arrays||2011|2014
+HSCR|history speech communication research||2015|2015
+HSC|huntsville simulation modeling simulation providing answers real world questions||2005|2005
+HSC|huntsville simulation multiconference||2010|2010
+HSC|huntsville simulation||2006|2010
+HSDM|health search data mining co located||2020|2020
+HSE|society petroleum engineers spe health safety environment journey continues||2014|2014
+HSE|society petroleum engineers spe health safety environment oil gas exploration production||1994|1998
+HSE|society petroleum engineers spe health safety environment sustainability exhibition||2024|2024
+HSIC|high speed intelligent communication forum||2012|2012
+HSIC|joint computational problem solving high speed intelligent communication forum iccp|IEEE|2013|2013
+HSI|human society internet|Springer|2003|2003
+HSI|human system interactions|IEEE|2009|2017
+HSI|human system interaction|IEEE|2008|2025
+HSI|web communication technologies internet related social issues human society internet||2005|2005
+HSME|health structure material environment||2013|2013
+HSMV|high speed marine vehicles||2005|2023
+HSMV|royal institution naval architects high speed marine vehicles||2008|2008
+HSNC|history scientific numeric computation|ACM|1987|1987
+HSNMC|high speed networks multimedia communications|IEEE|2002|2004
+HSNMC|high speed networks multimedia communication|Springer|2003|2003
+HSPF|hydrological simulation program fortran calibration mica creek idaho||2001|2001
+HSR|high speed rail socioeconomic impacts iw|Springer|2023|2025
+HSSCV|hayama complex analysis several variables|Springer|2024|2024
+HSSE|human social factors software engineering|ACM|2005|2005
+HSTD|high speed transport development|EDP|2023|2023
+HSTED|high speed turbomachines electrical drives|EDP|2020|2020
+HST|technologies homeland security|IEEE|2008|2022
+HST|virtual technologies homeland security|IEEE|2021|2021
+HSWTECH|sustainable technologies humanity smart world|IEEE|2025|2025
+HTCMC|high temperature ceramic matrix composites collection papers presented||2014|2014
+HTC|b bangalore humanitarian technology sustainable development goal sustainable cities communities|IEEE|2025|2025
+HTC|b bangalore humanitarian technology|IEEE|2020|2020
+HTC|bangalore humanitarian technology b|IEEE|2026|2026
+HTC|karachi section humanitarian technology khi|IEEE|2024|2024
+HTC|r10 humanitarian technology r10|IEEE|2020|2020
+HTC|region humanitarian technology r10 co located humanoid nanotechnology information technology communication control environment management|IEEE|2015|2015
+HTC|region humanitarian technology r10|IEEE|2013|2025
+HTE|iasme wseas heat transfer thermal engineering environment||2009|2009
+HTHS|high temperature high shear oil viscosity measurement relationship engine operation||1989|1989
+HTL|figurative language processing fig lang north american chapter association computational linguistics human language technologies naacl||2018|2018
+HTPP|european high technology plasma processes|IOP|2011|2011
+HTPP|high tech plasma processes|IOP|2012|2019
+HTRA|young scientists high technology research applications||2014|2014
+HTRES|holocaust testimonies as language resources lrec||2024|2024
+HTR|high temperature reactor technology||2021|2021
+HTR|topical meeting high temperature reactor technology||2009|2016
+HTSE|heat treatment surface engineering heat treatment surface engineering||2013|2013
+HTSSC|all russian participation hot topics solid state chemistry from new ideas new materials|Elsevier|2019|2019
+HTS|uit seminar heat transfer uit||2021|2021
+HTTF|halfway future|ACM|2019|2024
+HUCLLM|human centered large language modeling||2024|2024
+HUCOM|working human factors computational models negotiation||2008|2008
+HUC|handheld ubiquitous computing|Springer|1999|2000
+HUEVENT|human centered event understanding from multimedia co located mm|ACM|2015|2015
+HUEVENT|human centered event understanding from multimedia|ACM|2014|2014
+HUG|higher order logic theorem proving its applications|Springer|1994|1994
+HUMACS|conceptual modeling er associated conceptual modeling human organizational social aspects manufacturing activities data semantics web information systems conceptual modeling approaches e business global data modeling new millennium|Springer|2002|2002
+HUMANCOM|human centric computing||2010|2010
+HUMANCOM|human centric technology service smart space||2012|2012
+HUMANIZE|theory informed user modeling tailoring personalizing interfaces co located|ACM|2017|2017
+HUMANOIDS|ras humanoid robots humanoids09||2009|2009
+HUMANOIDS|ras humanoid robots||2007|2011
+HUMANSYS|human centered sensing modeling intelligent systems cyber physical systems internet things week cps iot week workshops|ACM|2025|2025
+HUMANSYS|human centered sensing networking multi device systems|ACM|2024|2024
+HUMANSYS|human centered sensing networking systems part|ACM|2017|2017
+HUMAN|doctoral centered computing|Springer|2026|2026
+HUMAN|factors hypertext associated hypertext social media ht|ACM|2023|2024
+HUMAN|factors hypertext co located ht|ACM|2018|2018
+HUMAN|factors hypertext|ACM|2019|2022
+HUMAN|fall partnership medical ai design operationalization ethics||2021|2021
+HUMA|human centric multimedia analysis co located mm|ACM|2021|2021
+HUMA|human centric multimedia analysis|ACM|2020|2020
+HUMENS|human engineering|Springer|2022|2024
+HUMEVAL|human evaluation nlp systems as part european chapter association computational linguistics||2021|2021
+HUMEVAL|human evaluation nlp systems associated recent advances natural language processing||2023|2023
+HUMEVAL|human evaluation nlp systems lrec||2024|2024
+HUMEVAL|human evaluation nlp systems||2022|2022
+HUMIDITY|moisture measurement control science industry||1985|1985
+HUMOB|sigspatial human mobility prediction challenge|ACM|2023|2023
+HUMO|human motion|IEEE|2000|2000
+HUST|bme biomedical engineering|IEEE|2016|2016
+HUST|hpc user support tools held conjunction sc high performance computing networking storage analysis|IEEE|2014|2022
+HUST|hpc user support tools programming performance visualization tools held conjunction sc high performance computing networking storage analysis|IEEE|2020|2020
+HUST|hpc user support tools software engineering hpc enabled research se interactive high performance computing held conjunction high performance computing networking storage analysis sc|Springer|2020|2020
+HUST|hpc user support tools|ACM|2018|2018
+HVC|haifa verification|Springer|2011|2017
+HVC|hardware software verification testing haifa verification revised selected papers||2011|2013
+HVC|hardware software verification testing haifa verification||2009|2013
+HVC|hardware software verification testing second haifa verification revised selected papers||2007|2007
+HVDC|aeit aeit|IEEE|2019|2025
+HVDC|meeting csee study committee power electronics||2021|2023
+HVDP|chinese high voltage discharge plasmas|Springer|2025|2025
+HVEI|human vision electronic imaging||2016|2016
+HVEI|is t electronic imaging human vision electronic imaging||2026|2026
+HVIS|hypervelocity impact||2019|2025
+HWC|air waste management association thermal treatment technologies hazardous waste combustors it3||2014|2014
+HWC|heritage weathering conservation||2006|2006
+HWC|it3 thermal treatment technologies hazardous waste combustors||2018|2019
+HWID|ifip wg wg joint working human work interaction design|Springer|2026|2026
+HWID|ifip wg working human work interaction design|Springer|2013|2022
+HWID|ifip working human work interaction design|Springer|2015|2015
+HWRS|art science water hydrology water resources||2015|2015
+HWRS|hydrology water resources charting resilient futures||2025|2025
+HWRS|hydrology water resources water communities||2018|2018
+HWRS|hydrology water resources water infrastructure environment||2016|2016
+HWRS|hydrology water resources||2012|2024
+HWT|society petroleum engineers spe cim one day horizontal well technology||1999|2001
+HWWE|humanizing work work environment|Springer|2022|2022
+HYBRIDAIMS|ws joint hybrid artificial intelligence enterprise modelling intelligent information systems compliance era artificial intelligence co located advanced information systems engineering||2025|2025
+HYBRIDQC|introduction hybrid quantum classical programming using c quantum extension|ACM|2023|2023
+HYB|hybrid power plants systems||2023|2025
+HYDCON|engineering industrial revolution|IEEE|2020|2020
+HYDRA|hybrid models coupling deductive inductive reasoning|Springer|2025|2025
+HYDRA|joint artificial intelligence healthcare hybrid models coupling deductive inductive reasoning hc aixia|Springer|2026|2026
+HYDROCHANGE|from headwaters ocean hydrological changes watershed management hydrological changes management from headwaters ocean||2009|2009
+HYDROMET|practical uranium precious metals||1984|1984
+HYDROSOFT|hydraulic engineering software|Elsevier|1984|1984
+HYDRO|hydraulics water resources coastal engineering|Springer|2023|2024
+HYDRO|hydraulics water resources river coastal engineering|Springer|2025|2025
+HYPERAGENTS|hypermedia multi agent systems co located european artificial intelligence||2025|2025
+HYP|hypernuclear strange particle physics|IOP|2019|2019
+HYTRA|hybrid approaches translation european chapter association computational linguistics||2014|2014
